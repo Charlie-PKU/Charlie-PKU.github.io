@@ -7,7 +7,7 @@ layout: page
 
 <br>
 
-Here is **Chen Fang (Charlie, 房晨)**.
+Hello! Here is **Chen Fang (Charlie, 房晨)**.
 
 I am a PhD student majoring in **Economics** at Tsinghua University advised by [Prof. Jing Cao](https://cn.chinaproject.harvard.edu/people/jing-cao).
 
@@ -18,6 +18,14 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 <br>
 
 ## Academic Background
+
+**Sep 2019 - June 2028 (Expected):** [Tsinghua University (THU)](https://www.tsinghua.edu.cn/)
+
+* [School of Economics and Management](https://www.sem.tsinghua.edu.cn/)
+
+<div style="text-align:right;">
+    PhD student in Applied Economics
+</div>
 
 **Sep 2019 - June 2023:** [Peking University (PKU)](https://www.pku.edu.cn/)
 
@@ -34,14 +42,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 </div>
 
 - **Minor**		International Organization Talent Training Certificate Program
-
-**Sep 2019 - June 2028 (Expected):** [Tsinghua University (THU)](https://www.tsinghua.edu.cn/)
-
-* [School of Economics and Management](https://www.sem.tsinghua.edu.cn/)
-
-<div style="text-align:right;">
-    PhD student in Applied Economics
-</div>
 
 <br>
 
@@ -71,7 +71,7 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 ## News and Updates
 
-- **<font color='red'>[Highlight]</font> Jan 2024:** Very excited to be selected as the volunteer of CAERE Annual Meeting 2024, see you in Hangzhou!
+- **`<font color='red'>`[Highlight] `</font>` Jan 2024:** Very excited to be selected as the volunteer of CAERE Annual Meeting 2024, see you in Hangzhou! 😁
 
 <br>
 
