@@ -40,7 +40,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 * [School of Economics and Management](https://www.sem.tsinghua.edu.cn/)
 
 <div style="text-align:right;">
-    PhD in Applied Economics
+    PhD student in Applied Economics
 </div>
 
 <br>
