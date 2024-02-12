@@ -3,7 +3,7 @@ layout: page
 ---
 # About Me
 
-<img src=https://charlie-pku.github.io/chen_2023.jpg class="floatpic" width="360" height="480">
+<img src="https://charlie-pku.github.io/chen_2023.jpg" class="floatpic" width="360" height="480">
 <br>
 
 Here is **Chen Fang (Charlie, 房晨)**.
