@@ -59,6 +59,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
   - Construction of new urban system
   - The Real Estate Markets
 
+<br>
+
 My current research focuses on practical problems that artificial intelligence faces in real life.
 
 I wish to devote my talent to this meaningful cause and bring well-being to society.
