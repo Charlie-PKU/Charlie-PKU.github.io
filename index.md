@@ -3,47 +3,49 @@ layout: page
 ---
 # About Me
 
-
-<img src=/chen_2023.JPG class="floatpic" width="360" height="480">
-
+<img src=/images/chen_2023.jpg class="floatpic" width="360" height="480">
+<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 <br>
-
 
 Here is **Chen Fang (Charlie, 房晨)**.
 
+I am a PhD student majoring in **Economics** at Tsinghua University advised by [Prof. Jing Cao](https://cn.chinaproject.harvard.edu/people/jing-cao).
 
-I am a PhD student majoring in **Economics** at Tsinghua University. Currently, advised by [Prof. Jing Cao](https://cn.chinaproject.harvard.edu/people/jing-cao).
-
-
-I am curious and passionate about public policy and global economic governance, especially climate change, sustainable development, and economic resilience.
-
-
-I am in environmental science and economics training, hoping to work in an international organization such as World Bank or the UN to conduct valuable research.
-
+I am curious and passionate about public policy and global economic governance, especially climate change, sustainable development, and economic resilience, hoping to work in an international organization such as World Bank or the UN to conduct valuable research.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at: *fangc23[at]mails[dot]tsinghua[dot]edu[dot]cn.*
 
-
 <br>
-
 
 ## Academic Background
 
-
 **Sep 2019 - June 2023:** [Peking University (PKU)](https://www.pku.edu.cn/)
 
-- **Major**		[College of Environmental Sciences and Engineering (CESE)](https://cese.pku.edu.cn/) 		Bachelor of Science
-- **Dual Degree** 	[National School](http://nsd.pku.edu.cn/) [of Development (NSD)     					](http://nsd.pku.edu.cn/)Bachelor of Economics
-- **Minor**		International Organization Talent Training Certificate Program
+- **Major**		[College of Environmental Sciences and Engineering (CESE)](https://cese.pku.edu.cn/) 
 
+<div style="text-align:right;">
+    Bachelor of Science
+</div>		
+
+
+- **Dual Degree** 	[National School](http://nsd.pku.edu.cn/) [of Development (NSD)     					](http://nsd.pku.edu.cn/)
+
+<div style="text-align:right;">
+    Bachelor of Economics
+</div>	
+
+- **Minor**		International Organization Talent Training Certificate Program
 
 **Sep 2019 - June 2028 (Expected):** [Tsinghua University (THU)](https://www.tsinghua.edu.cn/)
 
-* [School of Economics and Management](https://www.sem.tsinghua.edu.cn/) 								PhD student in **Applied Economics**
+* [School of Economics and Management](https://www.sem.tsinghua.edu.cn/) 								
+
+<div style="text-align:right;">
+    PhD student in Applied Economics
+</div>	
 
 
 <br>
-
 
 ---
 
@@ -58,7 +60,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **Urban and Regional Economics**
   - the construction of new urban system and the Real Estate Market
 
-My current research focuses on practical problems that artificial intelligence faces in real life. 
+
+
+My current research focuses on practical problems that artificial intelligence faces in real life.
 
 I wish to devote my talent to this meaningful cause and bring well-being to society.
 
