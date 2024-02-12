@@ -39,7 +39,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 * [School of Economics and Management](https://www.sem.tsinghua.edu.cn/)
 
 <div style="text-align:right;">
-    PhD student in 
+    PhD in Applied Economics
+</div>
 
 <br>
 
@@ -67,7 +68,7 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 ## News and Updates
 
-- **`<font color='red'>`[Highlight]`</font>` Jan 2024:** Very excited to be selected as the volunteer of CAERE Annual Meeting 2024, see you in Hangzhou!
+- **<font color='red'>[Highlight]</font> Jan 2024:** Very excited to be selected as the volunteer of CAERE Annual Meeting 2024, see you in Hangzhou!
 
 <br>
 
