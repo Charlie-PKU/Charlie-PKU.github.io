@@ -71,7 +71,7 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 ## News and Updates
 
-- **`<font color='red'>`[Highlight] `</font>` Jan 2024:** Very excited to be selected as the volunteer of CAERE Annual Meeting 2024, see you in Hangzhou! 😁
+- **<font color='red'>[Highlight] </font> Jan 2024:** Very excited to be selected as the volunteer of CAERE Annual Meeting 2024, see you in Hangzhou! 😁
 
 <br>
 
