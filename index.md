@@ -7,21 +7,19 @@ layout: page
 
 Here is **Chen Fang (Charlie, 房晨)**.
 
-I am a PhD student majoring in **Economics** at Tsinghua University. Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**. I will be attending AAAI-24 in Vancouver, please feel free to chat with me.
+I am a PhD student majoring in **Economics** at Tsinghua University. Currently, advised by [Prof. Jing Cao](https://cn.chinaproject.harvard.edu/people/jing-cao).
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+I am curious and passionate about public policy and global economic governance, especially climate change, sustainable development, and economic resilience.
+
+I am in environmental science and economics training, hoping to work in an international organization such as World Bank or the UN to conduct valuable research.
+
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *fangc23[at]mails[dot]tsinghua[dot]edu[dot]cn.*
 
 ## Academic Background
 
-**`<font color='red'>`[Highlight]`</font>` I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
-
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Exchange)
-
-Expect to apply for a one-year MPhil program and will graduate in Sep 2025. Looking for PhD position after that.
-
-<br>
+- **Sep 2019 - June 2023:** Peking University (BEng)
+  - **Major** Environmental Sciences (Management)
+- **Sep 2019 - June 2028 (Expected):** Tsinghua University (BSc)
 
 ---
 
