@@ -3,23 +3,54 @@ layout: page
 ---
 # About Me
 
+
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
 Here is **Chen Fang (Charlie, 房晨)**.
 
+
 I am a PhD student majoring in **Economics** at Tsinghua University. Currently, advised by [Prof. Jing Cao](https://cn.chinaproject.harvard.edu/people/jing-cao).
+
 
 I am curious and passionate about public policy and global economic governance, especially climate change, sustainable development, and economic resilience.
 
+
 I am in environmental science and economics training, hoping to work in an international organization such as World Bank or the UN to conduct valuable research.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *fangc23[at]mails[dot]tsinghua[dot]edu[dot]cn.*
+
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at: *fangc23[at]mails[dot]tsinghua[dot]edu[dot]cn.*
+
 
 ## Academic Background
 
-- **Sep 2019 - June 2023:** Peking University (BEng)
+- **Sep 2019 - June 2023:** [Peking University (PKU)](https://www.pku.edu.cn/)
+
   - **Major** Environmental Sciences (Management)
+  - Sep 2019 - **Jul 2023**
+
+  **Major**                 [College of Environmental
+  Sciences and Engineering (CESE)](https://cese.pku.edu.cn/)     **Bachelor of Science    **
+
+  **Dual Degree       **[National School
+  of Development (NSD)     ](http://nsd.pku.edu.cn/)
+  **Bachelor
+  of Economics**
+
+  **Minor**                International Organization Talent
+  Training Certificate Program**        Sep.
+  2021 – Jan. 2022**
 - **Sep 2019 - June 2028 (Expected):** Tsinghua University (BSc)
+
+
+[**Tsinghua University (THU)**](https://www.tsinghua.edu.cn/)**                                                                                                  Sep. 2023 - Jul. 2028**
+
+[School of
+Economics and Management](https://www.sem.tsinghua.edu.cn/)                                                          PhD student in **Applied Economics**
+
+
+
+
+
 
 ---
 
