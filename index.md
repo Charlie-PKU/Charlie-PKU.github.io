@@ -3,8 +3,7 @@ layout: page
 ---
 # About Me
 
-<img src=/images/chen_2023.jpg class="floatpic" width="360" height="480">
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src=https://charlie-pku.github.io/chen_2023.jpg class="floatpic" width="360" height="480">
 <br>
 
 Here is **Chen Fang (Charlie, 房晨)**.
@@ -21,29 +20,26 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 **Sep 2019 - June 2023:** [Peking University (PKU)](https://www.pku.edu.cn/)
 
-- **Major**		[College of Environmental Sciences and Engineering (CESE)](https://cese.pku.edu.cn/) 
+- **Major**		[College of Environmental Sciences and Engineering (CESE)](https://cese.pku.edu.cn/)
 
 <div style="text-align:right;">
     Bachelor of Science
-</div>		
-
+</div>
 
 - **Dual Degree** 	[National School](http://nsd.pku.edu.cn/) [of Development (NSD)     					](http://nsd.pku.edu.cn/)
 
 <div style="text-align:right;">
     Bachelor of Economics
-</div>	
+</div>
 
 - **Minor**		International Organization Talent Training Certificate Program
 
 **Sep 2019 - June 2028 (Expected):** [Tsinghua University (THU)](https://www.tsinghua.edu.cn/)
 
-* [School of Economics and Management](https://www.sem.tsinghua.edu.cn/) 								
+* [School of Economics and Management](https://www.sem.tsinghua.edu.cn/)
 
 <div style="text-align:right;">
-    PhD student in Applied Economics
-</div>	
-
+    PhD student in 
 
 <br>
 
@@ -58,9 +54,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **Economics of International Development**
   - Sustainability and Resilience of Extreme Economic Systems
 - **Urban and Regional Economics**
-  - the construction of new urban system and the Real Estate Market
-
-
+  - Construction of new urban system
+  - The Real Estate Markets
 
 My current research focuses on practical problems that artificial intelligence faces in real life.
 
@@ -72,7 +67,7 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 ## News and Updates
 
-- **<font color='red'>[Highlight]</font> Jan 2024:** Very excited to be selected as the volunteer of CAERE Annual Meeting 2024, see you in Hangzhou!
+- **`<font color='red'>`[Highlight]`</font>` Jan 2024:** Very excited to be selected as the volunteer of CAERE Annual Meeting 2024, see you in Hangzhou!
 
 <br>
 
