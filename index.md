@@ -4,8 +4,9 @@ layout: page
 # About Me
 
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src=/chen_2023.JPG class="floatpic" width="360" height="480">
 
+<br>
 
 
 Here is **Chen Fang (Charlie, 房晨)**.
