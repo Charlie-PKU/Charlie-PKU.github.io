@@ -37,7 +37,8 @@ Click [here](https://charlie-pku.github.io/file/CV_2024.pdf) for my full CV.
 
 <br>
 
-**Sep 2019 - June 2023:** [Peking University (PKU)](https://www.pku.edu.cn/)
+
+**Sep 2019 - June 2023:** [Peking University (PKU)](https://www.pku.edu.cn/) 🎓
 
 - **Major**		[College of Environmental Sciences and Engineering (CESE)](https://cese.pku.edu.cn/)
 
