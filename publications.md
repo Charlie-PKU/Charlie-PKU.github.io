@@ -4,15 +4,19 @@ permalink: /Research/index.html
 title: Research
 ---
 > Lastest Update: 13rd Feb 2024
+
 <!-- [中文版本 (Chinese Version)](https://charlie-pku.github.io/file/publications-zh/) -->
 
 ## Work in Progress 🚀
 
 - **"The Effect of Key Pollutant Discharge Firms on Local Second-hand Housing Prices in Guangdong Province"**
 
+
 (*Undergranduate Thesis of PKU, 2022/10 - 2023/06*)
 
+
 [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/perception_slides_2023.pdf) 
+
 
 with [Yana Jin](http://scholar.pku.edu.cn/yjin)  
 
@@ -22,9 +26,12 @@ with [Yana Jin](http://scholar.pku.edu.cn/yjin)
 
 - **"An integrated assessment of provincial economic damages from climate change in China"**
 
+
 (*RA program in [3E Institute](http://www.3e.tsinghua.edu.cn/cn), THU, 2023/10 - now*)
 
+
 [Extended Abstract](https://charlie-pku.github.io/mypaper/Working_Papers/IAM_2024.pdf) (for EAERE 2024 Annual Meeting)
+
 
 with Hantang Peng, [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/article/311), [Da Zhang](www.energyda.cn) and [Xiliang Zhang](http://www.3e.tsinghua.edu.cn/cn/article/slug/news-member-teacher-zsl)
 
@@ -33,9 +40,12 @@ with Hantang Peng, [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/article/311)
 
 - **"Forest autonomy and forest carbon sink potential: Evidence from Northeast China"**
 
+
 (*Challenge Cup Program of PKU, 2021/10 - 2022/06*)
 
+
 [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/forest_2022.pdf)
+
 
 with Tingyu Cui and Yushuai Zhang
 
@@ -44,7 +54,9 @@ with Tingyu Cui and Yushuai Zhang
 
 - **"Research on transnational mobility of researchers based on multi-agent modeling: A case study of artificial intelligence"**
 
+
  [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/Mobility_2023.pdf)
+
 
 with Wenjie Chen and [Chao Min](https://min-chao.github.io/)
 
@@ -53,9 +65,12 @@ with Wenjie Chen and [Chao Min](https://min-chao.github.io/)
 
 - **"Trade Ban and Environmental Pollution: A Policy Evaluation on Trade Ban of Foreign Garbage"** 
 
+
 (*Course Thesis of **Public Policy Evaluation** in PKU, 2022/03 - 2022/07*)
 
+
 [Manuscript (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/garbage_2023.pdf)
+
 
 with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
