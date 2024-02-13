@@ -89,6 +89,7 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 - **Hobbies**: Swimming, Badminton, Quiz Shows, Movies, TV Series, Reality Shows, Literary (mainly Classical Poetry, Contemporary Novel and Prose), Music (mainly piano and other soft music)
 - **Hometown**: Jiangyou County, Mianyang City, Sichuan province (四川省绵阳市江油市)
 
+<br>
 
 
 ---
