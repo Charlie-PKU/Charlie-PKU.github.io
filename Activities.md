@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /activities/index.html
-title: Activities
+title: Activity
 ---
 
 > Lastest Update: 13rd Feb 2024
