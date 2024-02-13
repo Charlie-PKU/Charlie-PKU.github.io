@@ -16,7 +16,7 @@ title: Activity
 
 - ⭐⭐⭐2024/02 - 2024/06（预计）：**清华大学“经济学原理”小班讨论课助教**
 
-**授课院系**：经济管理学院
+&#8194;&#8194; **授课院系**：经济管理学院
 
 **课程教师**：[董丰](https://fengdongecon.weebly.com/)
 
@@ -27,7 +27,7 @@ title: Activity
 
 - ⭐⭐⭐2023/09 - 2024/01：**清华大学“经济学原理”小班讨论课助教**
 
-**授课院系**：经济管理学院
+&#8194;&#8194; **授课院系**：经济管理学院
 
 **课程教师**：[钟笑寒](https://www.sem.tsinghua.edu.cn/info/1206/31922.htm)、[钱颖一](https://www.sem.tsinghua.edu.cn/info/1206/31907.htm)
 
@@ -42,7 +42,7 @@ title: Activity
 
 - ⭐2023/02 - 2023/06：**北京大学“中级微观经济学”课程助教**
 
-**授课院系**：国家发展研究院
+&#8194;&#8194; **授课院系**：国家发展研究院
 
 **课程教师**：[徐化愚](https://nsd.pku.edu.cn/szdw/qzjs/x/505862.htm#)
 
@@ -63,7 +63,9 @@ title: Activity
 
 - ⭐⭐⭐ 2024/01：**清华大学经济管理学院“巴陵研行”湖南岳阳实践活动**
 
-*前往湖南省岳阳市进行为期一周的实践活动*
+*前往湖南省岳阳市进行为期一周的实践活动*  
+
+<br>
 
 **微信推文&Vlog**：[行前动员会](https://mp.weixin.qq.com/s/tT27Vci8gsGOF7dqpCmCrQ)，[中学宣讲](https://mp.weixin.qq.com/s/vqJSLKUi_rdmJ-KA5nIU9Q)，[华容县](https://mp.weixin.qq.com/s/0p3gMHnMKS1YhG5YX94KMw)，[何长工纪念馆](https://mp.weixin.qq.com/s/QDDgiH_tm2YvmhMOBPbb4w)，[城陵矶新港区](https://mp.weixin.qq.com/s/ALT3fANhOLzos1NpLPq-CQ)，[经开区](https://mp.weixin.qq.com/s/jJdF8buY36z-_sb0mWzoaQ)，[华龙码头](https://mp.weixin.qq.com/s/XWEZb1zjCMoNem8tHRW5_Q)
 
@@ -80,6 +82,8 @@ title: Activity
 Cultures）河南登封暑期支教项目**
 
 *同北京大学、中国人民大学的同学们作为志愿者前往河南省郑州市登封市的[嵩阳高中](https://mp.weixin.qq.com/s?__biz=MzI0Mjc0NzgzMw==&mid=2247527099&idx=1&sn=a6f513b05bf7e61fdfd3fc8742c1a340&chksm=e975ba6dde02337bd1ffc294911f07279b64a6d4d8c4ef7c1f8d077e0bd863196abd753cc9c4&scene=126&sessionid=1690979056#rd)开展为期一周的支教项目，主要指导高中生们进行项目制学习与社会调研* 
+
+<br>
 
 **微信推文**：嵩阳诗剧 [Day1](https://mp.weixin.qq.com/s/x6r4_ylvgpd9Rkv9M2hjNw)，[Day2](https://mp.weixin.qq.com/s/gp0BTo-RYdf--YtzkzYVYg)，[Day3-4](https://mp.weixin.qq.com/s/hTfqbXjUUTDBjMRHvfbyRA)，[Day5-6](https://mp.weixin.qq.com/s/b48WpkYIaJYUYn2QFvk3hA)，[Day7](https://mp.weixin.qq.com/s/laeye-krRb-JJ5yi92d7cg)
 
@@ -114,6 +118,8 @@ Cultures）河南登封暑期支教项目**
 
 协助学长学姐制作[饮用水标准科普推送](https://mp.weixin.qq.com/s/66te9_0c926UWK142_A_AA)，并撰写新闻稿
 
+<br>
+
 [立项总结](https://mp.weixin.qq.com/s/rsTdJFl1ItCVXvCLzEpwIA)
 
 
@@ -122,6 +128,8 @@ Cultures）河南登封暑期支教项目**
 *前往广西壮族自治区南宁市横县（如今为横州市）[开展思政实践活动](https://mp.weixin.qq.com/s/C8rVni1sRsLsL7HE-ZQHAg)*
 
 *了解横县当地茉莉花产业发展情况，并与当地政府官员进行座谈交流*
+
+<br>
 
 **微信推文**： [Day1](https://mp.weixin.qq.com/s/IK4yv2sdwPg9rtamNElLCA)，[Day2](https://mp.weixin.qq.com/s/rianpMavMV7jslf0VovN3A)，[课程纪实](https://mp.weixin.qq.com/s/A5av2dykQeToJjXa_95rvA)，[总结会](https://mp.weixin.qq.com/s/SKXaT0p9vP2xe7lufJqzHQ)
 
@@ -146,7 +154,7 @@ Cultures）河南登封暑期支教项目**
 
 - ⭐2023/10：**清华大学顾问委员会进课堂课程助教**
 
-***活动前期**：负责同学的报名与对接*
+&#8194;&#8194; ***活动前期**：负责同学的报名与对接*
 
 ***活动当天**：负责接待顾问委员会委员——溢达集团董事长杨敏德女士*
 
