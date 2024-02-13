@@ -102,9 +102,6 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 </details>
 
 
-
-
-
 <br>
 
 [2] "[Global land-use and sustainability implications of enhanced bioenergy import of China](https://doi.org/10.1016/j.apenergy.2023.120769)"  with Yazhen Wu, Andre Deppermann, Petr Havlík, Stefan Frank, Ming Ren, Hao Zhao, Lin Ma, Qi Chen, [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai/home) (2023) *Applied Energy*, 336, 120769.
@@ -136,7 +133,6 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
   <font color='grey'>Bioenergy with carbon capture and storage, among other negative-emission technologies, is required for China to achieve carbon neutrality—yet it may hinder land-based Sustainable Development Goals. Using modelling and scenario analysis, we investigate how to mitigate the potential adverse impacts on the food system of ambitious bioenergy deployment in China and its trading partners. We find that producing bioenergy domestically while sticking to the food self-sufficiency ratio redlines would lower China's daily per capita calorie intake by 8% and increase domestic food prices by 23% by 2060. Removing China's food self-sufficiency ratio restrictions could halve the domestic food dilemma but risks transferring environmental burdens to other countries, whereas halving food loss and waste, shifting to healthier diets and narrowing crop yield gaps could effectively mitigate these external effects. Our results show that simultaneously achieving carbon neutrality, food security and global sustainability requires a careful combination of these measures.</font>
 </details>
 
-
 <br>
 
 ---
@@ -148,8 +144,6 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 <div style="text-align:right;">
     Aug. 2021 - now
 </div>
-
-<br>
 
 - **Instructor:** 
   - [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/article/311)
@@ -177,8 +171,6 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
   <font color='grey'>(2) Literature survey. Collecting the changes and characteristics of low-carbon transition policies in developed countries.</font>
 </details>
 
- <br>
-
  - **Main Progress 2 (Mar. 2022 - Jun. 2022):** complete the separation of China's 2017 and 2019 annual power data.
 
 <details>
@@ -190,8 +182,6 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
   <br>
   <font color='grey'>(2) Use the national "degree of thermal coal consumption" data to convert coal power and gas power generation.</font>
 </details>
-
- <br>
 
 - **Main Progress 3 (Jul. 2022 - Dec. 2022):** Calculate the original input data and update health evaluation part of CGE model.
 
@@ -205,7 +195,6 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
   <font color='grey'>(2) The part of health benefit evaluation in GAMS file of CGE model was updated to new concentration-response function of PM2.5, the GEMM (Global Exposure Mortality Model) evaluation method of epidemiology.</font>
 </details>
 
- <br>
 
  - **Main Progress 4 (Feb. 2023 - now):** Modelling and Analysis of the Slow Onset under the background of Climate Change.
 
@@ -221,15 +210,12 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
 <br>
 
-<br>
-
 🌟 **[National School of Development](http://nsd.pku.edu.cn/) (NSD), Peking University**
 
 <div style="text-align:right;">
     Jan. 2023 - Aug. 2023
 </div>
 
-<br>
 
 - **Instructors:** 
   - [Cong Peng](https://www.congpeng.org/)
@@ -246,7 +232,6 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
 <br>
 
-<br>
 
 
 🌟 **[Institute of Finance and Sustainability](https://en.ifs.net.cn/) (IFS)** (Remotely Internship 💻)
@@ -255,7 +240,6 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
     Jun. 2022 - Oct. 2022
 </div>
 
-<br>
 
 - **Instructor:** Jiayin Zhao
 
@@ -270,8 +254,6 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
 <br>
 
-<br>
-
 
 🌟 **[Institute of New Structural Economics](https://www.nse.pku.edu.cn/) (INSE), Peking University**
 
@@ -279,7 +261,6 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
     Jul. 2022 – Sep. 2022
 </div>
 
-<br>
 
 - **Instructor:** [Jiajun Xu](https://www.nse.pku.edu.cn/en/people/professor/245727.htm)
 
@@ -295,7 +276,7 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
   <font color='grey'>This update needs to update the latest situation of Nepal's economic and social development in combination with factors such as Nepal's graduation from Least Development Country (LDC) and the impact of the epidemic.</font>
 </details>
 
-<br>
+
 
 - **Main Contribution:** 
   - Read Lin, Justin Yifu’s World Bank [working paper](http://hdl.handle.net/10986/3798) to learn the basic framework of New Structural Economics and GIFF's two-track six-step method.
