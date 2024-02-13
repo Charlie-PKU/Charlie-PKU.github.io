@@ -17,6 +17,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 <br>
 
+---
+
 ## Academic Background
 
 **Sep 2019 - June 2028 (Expected):** [Tsinghua University (THU)](https://www.tsinghua.edu.cn/)
