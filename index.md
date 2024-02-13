@@ -38,7 +38,7 @@ Click [here](https://charlie-pku.github.io/file/CV_2024.pdf) for my full CV.
 <br>
 
 
-**Sep 2019 - June 2023:** [Peking University (PKU)](https://www.pku.edu.cn/) 
+**Sep 2023 - June 2023:** [Peking University (PKU)](https://www.pku.edu.cn/) 
 
 - **Major**		[College of Environmental Sciences and Engineering (CESE)](https://cese.pku.edu.cn/)
 
@@ -85,9 +85,12 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 ## Skills and Hobbies 🚩
 
 - **Language**: English (CET-4: 650; CET-6: 621); Chinese (mother tongue)
-- **Skills**: LaTeX, Python, R, STATA, ArcGIS (QGIS), MATLAB (for simple data analysis and figure drawing), SPSS, Adobe illustrator(for simple picture editing), MS Office、Xiumi (WeChat article editing), Chinese and English Documents Retrieval
+
+- **Skills**: LaTeX, Python, R, STATA, ArcGIS (QGIS), MATLAB (for simple data analysis and figure drawing), SPSS, Adobe illustrator(for simple picture editing), MS Office, Xiumi
+
 - **Hobbies**: Swimming, Badminton, Quiz Shows, Movies, TV Series, Reality Shows, Literary (mainly Classical Poetry, Contemporary Novel and Prose), Music (mainly piano and other soft music)
-- **Hometown**: Jiangyou County, Mianyang City, Sichuan province (四川省绵阳市江油市)
+
+<!-- - **Hometown**: Jiangyou County, Mianyang City, Sichuan province (四川省绵阳市江油市) -->
 
 <br>
 
