@@ -2,6 +2,7 @@
 layout: page
 permalink: /research/index.html
 title: Research
+lang: french
 ---
 
 > Lastest Update: 13rd Feb 2024
