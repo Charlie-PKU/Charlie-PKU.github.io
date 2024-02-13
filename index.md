@@ -80,14 +80,26 @@ Click [here](https://charlie-pku.github.io/file/CV_2024.pdf) for my full CV.
 
 I wish to devote my talent to this meaningful cause and bring well-being to society. -->
 
+---
+
+## Skills and Hobbies 🚩
+
+- **Language**: English (CET-4: 650; CET-6: 621); Chinese (mother tongue)
+- **Skills**: LaTeX, Python, R, STATA, ArcGIS (QGIS), MATLAB (for simple data analysis and figure drawing), SPSS, Adobe illustrator(for simple picture editing), MS Office、Xiumi (WeChat article editing), Chinese and English Documents Retrieval
+- **Hobbies**: Swimming, Badminton, Quiz Shows, Movies, TV Series, Reality Shows, Literary (mainly Classical Poetry, Contemporary Novel and Prose), Music (mainly piano and other soft music)
+- **Hometown**: Jiangyou County, Mianyang City, Sichuan province (四川省绵阳市江油市)
+
+
 
 ---
 
 ## News and Updates 📨
 
-- **<font color='red'>[Highlight] </font> Jan 2024:** Very excited to be selected as the volunteer of CAERE Annual Meeting 2024, see you in Hangzhou! 😁
+- **<font color='red'>[Highlight] </font> Jan. 2024:** Very excited to be selected as the volunteer of CAERE Annual Meeting 2024, see you in Hangzhou! 😁
 
-- **Sep 2023:** Goodbye PKU! 🏫
+- **Sep. 2023:** Hi! THU! 🏫
+
+- **Jul. 2023:** Goodbye! PKU! 🏫
 
 <br>
 
