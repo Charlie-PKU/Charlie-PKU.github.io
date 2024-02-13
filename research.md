@@ -22,7 +22,10 @@ title: Research
 with [Yana Jin](http://scholar.pku.edu.cn/yjin)  
 
 
-<img src="https://charlie-pku.github.io/graduation_PKU.jpg" class="floatpic" width="360" height="480">
+
+<img src="https://charlie-pku.github.io/images/research/perception_2023.jpg">
+
+
 
 <br>
 
@@ -91,7 +94,7 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
 
 <details>
-  <summary>Abstract</summary>
+  <summary>Abstract ⚓ </summary>
 
   <br>
   
@@ -113,7 +116,7 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
 
 <details>
-  <summary>Abstract</summary>
+  <summary>Abstract ⚓ </summary>
 
   <br>
   
@@ -129,7 +132,7 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 [Publication Version](https://charlie-pku.github.io/mypaper/Published_Thesis/food_2023.pdf)
 
 <details>
-  <summary>Abstract</summary>
+  <summary>Abstract ⚓ </summary>
 
   <br>
 
@@ -141,6 +144,143 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
 ---
 
-## Research Assistant 📜
+## Research Assistant 📌
+
+🌟 **[Institute of Energy, Environment and Economy](http://www.3e.tsinghua.edu.cn/cn) (3E), Tsinghua University**
+
+<div style="text-align:right;">
+    Aug. 2021 - now
+</div>
+
+<br>
+
+- **Instructor:** 
+  - [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/article/311)
+  - [Da Zhang](www.energyda.cn)
+  - [Xiliang Zhang](http://www.3e.tsinghua.edu.cn/cn/article/slug/news-member-teacher-zsl)
+
+- **Topic:** 
+  - The Economic Impact of Carbon Peak and Neutrality in China
+  - China's Green and Low-carbon Transition
+
+- **Responsibility:** 
+  - Collecting and processing energy economic data
+  - Collecting policy information and literature
+  - Participating in writing research reports, etc.
+
+- **Main Progress 1 (Aug. 2021 - Dec. 2021):** Assist in completing the project "The Characteristics and Enlightenment of major economies to achieve carbon peaking".
+
+<details>
+  <summary>Contribution ⚓ </summary>
+
+  <br>
+
+  > <font color='grey'>(1) Data collection and processing. According to the US input-output table to integrate the added value of the sector and import and export data; collect the production volume of high-energy-consuming products such as steel and non-ferrous metals in China and the world, calculate the proportion, and the proportion of the industrial structure when the carbon peak of each developed country reaches the peak.</font>
+  
+  > <font color='grey'>(2) Literature survey. Collecting the changes and characteristics of low-carbon transition policies in developed countries.</font>
+</details>
+
+ <br>
+
+ - **Main Progress 2 (Mar. 2022 - Jun. 2022):** complete the separation of China's 2017 and 2019 annual power data.
+
+<details>
+  <summary>Contribution ⚓ </summary>
+
+  <br>
+
+  > <font color='grey'>(1) Collect the power generation data of different provinces and technologies in China, and calculate the data of "kWh of coal consumption" for coal, electricity, and electricity.</font>
+  
+  > <font color='grey'>(2) Use the national "degree of thermal coal consumption" data to convert coal power and gas power generation.</font>
+</details>
+
+ <br>
+
+- **Main Progress 3 (Jul. 2022 - Dec. 2022):** Calculate the original input data and update health evaluation part of CGE model.
+
+<details>
+  <summary>Contribution ⚓ </summary>
+
+  <br>
+
+  > <font color='grey'>(1) Using ARIMA (Integrated Moving Average Autoregressive Model) time series method to predict the future GDP growth rate of different provinces in China.</font>
+  
+  > <font color='grey'>(2) The part of health benefit evaluation in GAMS file of CGE model was updated to new concentration-response function of PM2.5, the GEMM (Global Exposure Mortality Model) evaluation method of epidemiology.</font>
+</details>
+
+ <br>
+
+ - **Main Progress 4 (Feb. 2023 - now):** Modelling and Analysis of the Slow Onset under the background of Climate Change.
+
+<details>
+  <summary>Contribution ⚓ </summary>
+
+  <br>
+
+  > <font color='grey'>(1) Organize and batch download the global high-resolution CMIP6 dataset (NEX-GDDP-CMIP6) provided by NASA.</font>
+  
+  > <font color='grey'>(2) Projections of future labor productivity loss and energy demand in various Chinese provinces and sectors under different global climate scenarios and climate models.</font>
+</details>
+
+<br>
+
+<br>
+
+🌟 **[National School of Development](http://nsd.pku.edu.cn/) (NSD), Peking University**
+
+<div style="text-align:right;">
+    Jan. 2023 - Aug. 2023
+</div>
+
+<br>
+
+- **Instructors:** 
+  - [Cong Peng](https://www.congpeng.org/)
+  - [Xianling Long](https://nsd.pku.edu.cn/szdw/qzjs/l/524411.htm)
+  - [Shilei Liu](https://envi.ruc.edu.cn/jszy/lsl/e6702d56c8774887b2f83b60f2387636.htm)
+
+- **Topic:** The Economics Analysis of Verified Carbon Standard (VCS)
+
+- **Main Contribution:** 
+  - Complement the missing digital to get the accurate coordinates according to the provided encrypted raw forest coordinate point information.
+  - Use GIS to correct and re-project the coordinate points of forest land census data.
+
+
+
+<br>
+
+<br>
+
+
+🌟 **[Institute of New Structural Economics](https://www.nse.pku.edu.cn/) (INSE), Peking University**
+
+<div style="text-align:right;">
+    Jul. 2022 – Sep. 2022
+</div>
+
+<br>
+
+- **Instructor:** [Jiajun Xu](https://www.nse.pku.edu.cn/en/people/professor/245727.htm)
+
+- **Topic:** Update the policy report entitled *Applying the Growth Identification and Facilitation Framework to Nepal* (or [UN CDP Background Paper No. 35](https://www.un.org/development/desa/dpad/publication/background-paper-35-applying-the-growth-identification-and-facilitation-framework-to-nepal/))
+
+<details>
+  <summary>Details about this report ⚓ </summary>
+
+  <br>
+
+  > <font color='grey'>This report is a working paper published by the Committee for Development Policy (CDP) of the United Nations in 2017. Its main contribution is to apply the Growth Identification and Facilitation Framework (GIFF) of New Structural Economics to Nepal.</font> 
+
+  > <font color='grey'>This update needs to update the latest situation of Nepal's economic and social development in combination with factors such as Nepal's graduation from Least Development Country (LDC) and the impact of the epidemic.</font>
+</details>
+
+<br>
+
+- **Main Contribution:** 
+  - Read Lin, Justin Yifu’s World Bank [working paper](http://hdl.handle.net/10986/3798) to learn the basic framework of New Structural Economics and GIFF's two-track six-step method.
+  - Combining the original report with the existing data to get the task list corresponding to the updated report.
+  - Redraw the charts in the research report and update the data and text.
+
+
 
 
