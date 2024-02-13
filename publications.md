@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publications_research/index.html
-title: Research
+permalink: /publications/index.html
+title: Publications
 ---
 
 > Lastest Update: 13rd Feb 2024
