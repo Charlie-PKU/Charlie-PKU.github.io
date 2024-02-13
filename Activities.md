@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /awards/index.html
-title: Awards
+permalink: /activities/index.html
+title: Activities
 ---
 
 > Lastest Update: 13rd Feb 2024
@@ -26,78 +26,83 @@ title: Awards
 
 ## 志愿实践
 
-### **2024年**
+### **2024**
 
 
 
-### **2023年**
+### **2023**
 
-### **2022年**
+### **2022**
 
-### **2021年**
+### **2021**
 
-### **2020年**
+- 2021/10 - 2022/01: **北京大学与英国思克莱德大学（University of Strathclyde）等高校的线上交流项目（主题：全球气候变化与行动）** ⭐
+<font color='grey'>制作[交流PPT](https://pan.baidu.com/s/13WOL3XQKEr7WOKn_-fMT-g)，拍摄视频并参与线上交流会</font>
 
-- 2020/07
-  北京大学2020“横县新生态，城乡新环保”思政实践
 
-`<font color='grey'>`*与同学一起前往广西壮族自治区南宁市横县（如今已撤县设市，为横州市）[开展思政实践活动](https://mp.weixin.qq.com/s/C8rVni1sRsLsL7HE-ZQHAg)，了解横县当地茉莉花产业发展情况，并与当地政府官员进行座谈交流*`</font>`
+- 2021/10:**北京大学新工科国际论坛“生态文明与环境健康”分论坛志愿者**
+<font color='grey'>负责现场指引与递话筒工作</font>
 
-- 2020/07
-  2020年北京大学招生志愿者
 
-`<font color='grey'>`*四川招生组，参与四川绵阳等地的招生报考、咨询与理工科学习体验介绍等工作*`</font>`
+- 2021/07: **北京大学2021年毕业典礼志愿者**
+<font color='grey'>在三教指引路线并协助家长进入教室就坐收看毕业典礼转播</font>
 
-- 2020/07 - 2020/08
-  北京大学“江河未名志，滴水珞珈情”水环境与防洪知识普及实践活动（联合武大）
+- 2021/07: **北京大学暑期学校课程主持人（课程名：Environmental Challenge and Sustainable Development in China）** ⭐
+<font color='grey'>制作[PPT](https://charlie-pku.github.io/file/Marine_Plastic_Pollution_2021.pptx)并在线上和选课的学生们交流分享海洋塑料污染的有关知识</font>
 
-`<font color='grey'>`*协助学长学姐完成[推送制作](https://mp.weixin.qq.com/s/66te9_0c926UWK142_A_AA)与新闻稿撰写*`</font>`
-
-2020/09                                   北京大学2020年开学典礼志愿者
-
-（负责带领医学部新生入场）
-
-2020/11                                   北京大学食堂防疫志愿者
-
-（监督同学进入食堂时佩戴好口罩）
-
-2020/12                                   “衣份捐赠，衣份温暖”旧衣回收志愿活动
-
-（搜集不同宿舍楼下放置的旧衣回收箱）
-
-- 2020/04 - 2020/06
-  “壹桌计划”（[Desk for Us](https://mp.weixin.qq.com/s?__biz=MzIwMDMyNzg0MQ==&mid=2247483656&idx=1&sn=09bcac4e8357558136f0ae782bf52875&chksm=96ff96c6a1881fd0a062084e52df2b93e7d570e51574669a1134ed278b8987ca5a52d8f69248&scene=126&sessionid=0&clicktime=1637426470&ascene=3&devicetype=iOS15.0.2&version=1800102c&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=en&fontScale=106&exportkey=A88vzCWQNTlA2OilXYLnFUU%3D&pass_ticket=ytdV%2F1D5pH866XF6o0GUHkGfnIK8v2tTDoBan%2B2ow%2FKKcJKoVloNnCdlXx%2FeJJ4K&wx_header=1)）公益项目志愿者
-
-`<font color='grey'>`*借助网络平台和武汉地区的一名高三同学进行一对一的线上家教，主要是物理学科，同时也兼顾心理与学习方法上的指导*`</font>`
-
-- 2020/02 - 2020/04
-  在家乡的社区参与防控新冠肺炎疫情的志愿服务
-
-`<font color='grey'>`*[负责对返乡人员进行体温监测，指导居民申请电子通行证等工作](https://mp.weixin.qq.com/s/Zu_keP_rvzx7Qgpm6Or4cw)*`</font>`
-
-2021/07                                   北京大学2021年毕业典礼志愿者
-
-（在三教指引路线并协助家长进入教室就坐收看毕业典礼转播）
-
-**2021/07                                   ****北京大学暑期学校课程主持人**
-
- **（课程名：**  **Environmental Challenge and Sustainable Development in China** **）**
-
-**（制作**[**PPT**](https://pan.baidu.com/s/1bENcwK3YfsmH3fZTBTFjxg)**并在线上和选课的学生们交流分享海洋塑料污染的有关知识）**
-
-2021/10                                   北京大学新工科国际论坛“生态文明与环境健康”分论坛志愿者
-
-（负责现场指引与递话筒工作）
-
-**2021/10 - 2022/01                   ** **北京大学与英国思克莱德大学（**  **University of Strathclyde** **）等高校的线上交流项目**
-
-**（主题：全球气候变化与行动）**
-
-**（制作**[**交流****PPT**](https://pan.baidu.com/s/13WOL3XQKEr7WOKn_-fMT-g)**，拍摄视频并参与线上交流会）**
 
 **2021/10 – ****至今**                       [ **美丽中国（**  **Teaching for China, TFC** **）书信交流项目**](https://mp.weixin.qq.com/s/ulsGdiV1xbxV3UryFmSzow)
 
 **（和云南太平中学的一名初一学生进行了两次书信交流）**
+
+### **2020**
+
+- 2020/12: **“衣份捐赠，衣份温暖”旧衣回收志愿活动**
+<font color='grey'>搜集不同宿舍楼下放置的旧衣回收箱</font>
+
+
+- 2020/11: **北京大学食堂防疫志愿者**
+<font color='grey'>监督同学进入食堂时佩戴好口罩</font>
+
+
+- 2020/09:**北京大学2020年开学典礼志愿者**
+<font color='grey'>负责带领医学部新生入场</font>
+
+
+- 2020/07 - 2020/08: **北京大学“江河未名志，滴水珞珈情”水环境与防洪知识普及实践活动（联合武大）** ⭐
+<font color='grey'>协助学长学姐完成[推送制作](https://mp.weixin.qq.com/s/66te9_0c926UWK142_A_AA)与新闻稿撰写</font>
+
+
+- 2020/07: **北京大学2020“横县新生态，城乡新环保”思政实践** ⭐
+<font color='grey'>前往广西壮族自治区南宁市横县（如今已撤县设市，为横州市）[开展思政实践活动](https://mp.weixin.qq.com/s/C8rVni1sRsLsL7HE-ZQHAg)，了解横县当地茉莉花产业发展情况，并与当地政府官员进行座谈交流</font>
+
+
+- 2020/07: **2020年北京大学招生志愿者** ⭐
+<font color='grey'>四川招生组，参与四川绵阳等地的招生报考、咨询与理工科学习体验介绍等工作</font>
+
+
+- 2020/04 - 2020/06: **“壹桌计划”（[Desk for Us](https://mp.weixin.qq.com/s?__biz=MzIwMDMyNzg0MQ==&mid=2247483656&idx=1&sn=09bcac4e8357558136f0ae782bf52875&chksm=96ff96c6a1881fd0a062084e52df2b93e7d570e51574669a1134ed278b8987ca5a52d8f69248&scene=126&sessionid=0&clicktime=1637426470&ascene=3&devicetype=iOS15.0.2&version=1800102c&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=en&fontScale=106&exportkey=A88vzCWQNTlA2OilXYLnFUU%3D&pass_ticket=ytdV%2F1D5pH866XF6o0GUHkGfnIK8v2tTDoBan%2B2ow%2FKKcJKoVloNnCdlXx%2FeJJ4K&wx_header=1)）公益项目志愿者**
+<font color='grey'>借助网络平台和武汉地区的一名高三同学进行一对一的线上家教，主要是物理学科，同时也兼顾心理与学习方法上的指导</font>
+
+
+- 2020/02 - 2020/04: **在家乡的社区参与防控新冠肺炎疫情的志愿服务**
+<font color='grey'>负责对返乡人员进行体温监测，指导居民申请电子通行证等工作 （[推送报道](https://mp.weixin.qq.com/s/Zu_keP_rvzx7Qgpm6Or4cw)）</font>
+
+
+- 2020/01： **北京大学“领航新燕”2020年返乡社会实践活动志愿者**
+<font color='grey'>前往高中母校面向高中生进行[招生宣讲](https://charlie-pku.github.io/file/PKU_2022.pdf)与学习经验分享</font>
+
+
+### **2019年**
+
+- 2019/10 - 2020/08: **北京大学心理协会“尺素心语”公益交流活动志愿者**
+<font color='grey'>和河北一所中学的留守初中生借助手写书信的方式进行彼此交流</font>
+
+
+
+
+
+
 
 2022/2 – 2022/4                       首届Circular-360°青年循环经济挑战赛（线上远程）
 
@@ -151,10 +156,3 @@ Cultures**]()**）暑期支教项目**
 
 **（前往湖南岳阳进行为期一周的实践活动）**
 
-- 2020/01
-  北京大学“领航新燕”2020年返乡社会实践活动志愿者（前往高中母校面向高中生进行[招生宣讲](https://pan.baidu.com/s/1RrpWw5qBnEwTWXGK8BKxTw)与学习经验分享）
-
-### **2019年**
-
-- 2019/10 - 2020/08
-  北京大学心理协会“尺素心语”公益交流活动志愿者（和河北一所中学的留守初中生借助手写书信的方式进行彼此交流）
