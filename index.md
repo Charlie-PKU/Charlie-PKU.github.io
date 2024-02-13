@@ -13,9 +13,9 @@ I am a PhD student majoring in **Economics** at Tsinghua University advised by [
 
 I am curious and passionate about public policy and global economic governance, especially climate change, sustainable development, and economic resilience, hoping to work in an international organization such as World Bank or the UN to conduct valuable research.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at: *fangc23[at]mails[dot]tsinghua[dot]edu[dot]cn.*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at: *fangc23[at]mails[dot]tsinghua[dot]edu[dot]cn*.
 
-Click [here](https://charlie-pku.github.io/mypaper/Published_Thesis/cement_2023.pdf) for my full CV.
+Click [here](https://charlie-pku.github.io/file/CV_2024.pdf) for my full CV.
 
 <br>
 
