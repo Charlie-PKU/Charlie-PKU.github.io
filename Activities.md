@@ -284,6 +284,74 @@ Cultures）河南登封暑期支教项目**
 
 ---
 
+## 学生工作 💼
+
+
+- ⭐2023/09 - 至今：**清华大学经济管理学院研究生会国际交流部**（部员）
+
+**主要工作**：
+
+① 定期参与例会
+
+② 策划并参与交换生[新生导向活动（Orientation）与语伴活动（Buddy Program）](https://mp.weixin.qq.com/s/hbj6LqNVDTnPkGLfUFqRCQ)（活动组织与参与）
+
+③ [万圣节Party活动](https://mp.weixin.qq.com/s/7s37tehSXaF8kVIppsk7xA)（前期布置）；
+
+④ [SEMer交流会](https://mp.weixin.qq.com/s/vXXSG-gUoHmvdOM-chE86A)（活动协调与主持，新闻稿撰写）
+
+⑤ [金融领域MBA分享交流会](https://mp.weixin.qq.com/s/LPdPBWu6oG2jQm0YoXuP-g)（会议记录）
+
+<br>
+
+- ⭐⭐⭐2021/09 - 2023/06：**北京大学国际组织人才办公室（PKUIO）资源拓展部**（部员）
+
+**主要工作**：
+
+①	每周例行办公室值班：前往国际组织官网搜集相应实习信息制作[相关推送](https://mp.weixin.qq.com/s/dfE2D9lsii8y1Z58ljrSuA)
+
+②	[PKUIO五周年“大国青年”蓝色主题月系列活动](https://mp.weixin.qq.com/s/qZYAkcnCbUkMxVZtyjJfCw)筹备与参与（[联合国粮食及农业组织专场](https://mp.weixin.qq.com/s/LOrHRpv6RU6uXchMvBgfsw)：场务；[对话亚洲开发银行专场活动](https://mp.weixin.qq.com/s/eNdBF9P17jhCP7ujeTnRZA)：摄像）
+
+③	[北京大学2022年国际组织人才培训暑期项目](https://mp.weixin.qq.com/s/A1u8D4-6Dsk-LO2MbMQo9g)课程助教（组织学员参与讲座、破冰交流与游园活动，课程作业的收取、整理与评定）
+
+④ 完成[北京大学国际组织人才培养证书计划项目](https://mp.weixin.qq.com/s/x1nhZyGYiymee67OiHP5Ig)学习与考核
+
+<br>
+
+- ⭐2022/09 - 2023/06：**北京大学电影协会**（骨干会员）
+
+**主要工作**：
+
+① 策划日常放映与学术放映活动
+
+② 制作通知发布与影片分享等微信推送文章
+
+
+<br>
+
+- ⭐2019/09 - 2021/06：**北京大学环境科学与工程学院学生会秘书处** （部员，秘书长）
+
+**主要工作**：
+
+① 制作推送
+
+② 策划学院“随机晚餐”“信息直通车”等活动
+
+③ 定期召开与参与例会
+
+<br>
+
+**其他**：
+
+- 2020/03 - 2021/09：“北大青年”编辑部调查组**组员**
+- 2020/09 - 2023/07：北京大学学生国际交流协会（SICA）公共事务（PA）部**部员**
+- 2021/03 - 2022/03：北京大学环境科学与工程学院融媒体文案部**副部长**
+- 2021/09 - 2022/09：北京大学学生环境公共政策研究社（IoEPP）**社长**
+- 2021/09 - 2022/06：北京大学环境科学与工程学院团委**书记助理**
+- 2020/02 - 至今：胜寒高智商俱乐部[**终身会员**](http://www.shenghan.org/FANGCHEN)
+
+<br>
+
+---
 
 ## 奖励 💯
 
