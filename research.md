@@ -319,7 +319,9 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 **Contribution**:
 
 ①	Learned the SDA decomposition method
+
 ②	Obtained main driving forces of China's carbon emissions in past by analyzing the input-output tables of 2002, 2007, 2012, and 2017
+
 ③	Drew Figures, wrote [research report](https://charlie-pku.github.io/file/Decomposition_2020.pdf), made [final PPT](https://charlie-pku.github.io/file/Decomposition_slides_2020.pdf)
 
 <br>
@@ -331,6 +333,8 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
 ①	Used DID method to quantify the contribution of clean energy heating policy, used IMED-HEL, IER, and GEMM models to assess the health impact of the policy; 
 ②	Monetized the health impacts using human capital method (YLPP) and willing-to-pay method (WTP)
+
+<br>
 
 **Contribution**: 
 
