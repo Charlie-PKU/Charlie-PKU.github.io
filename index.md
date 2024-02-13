@@ -15,7 +15,7 @@ I am curious and passionate about public policy and global economic governance, 
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at: *fangc23[at]mails[dot]tsinghua[dot]edu[dot]cn.*
 
-Click [here](https://charlie-pku.github.io/mypaper/Working_Papers/perception_slides_2023.pdf) for my full CV.
+Click [here](https://charlie-pku.github.io/mypaper/Published_Thesis/cement_2023.pdf) for my full CV.
 
 <br>
 
