@@ -14,7 +14,7 @@ lang: french
 - **"The Effect of Key Pollutant Discharge Firms on Local Second-hand Housing Prices in Guangdong Province"**
 
 
-(*Undergraduate Thesis of PKU, Oct. 2022 - Jun. 2023*)
+&#8194;&#8194; (*Undergraduate Thesis of PKU, Oct. 2022 - Jun. 2023*)
 
 
 [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/perception_slides_2023.pdf) 
@@ -32,7 +32,7 @@ with [Yana Jin](http://scholar.pku.edu.cn/yjin)
 - **"An integrated assessment of provincial economic damages from climate change in China"**
 
 
-(*RA program in [3E Institute](http://www.3e.tsinghua.edu.cn/cn), THU, Feb. 2023 - now*)
+&#8194;&#8194; (*RA program in [3E Institute](http://www.3e.tsinghua.edu.cn/cn), THU, Feb. 2023 - now*)
 
 
 [Extended Abstract](https://charlie-pku.github.io/mypaper/Working_Papers/IAM_2024.pdf) (for EAERE 2024 Annual Meeting)
@@ -46,7 +46,7 @@ with Hantang Peng, [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/article/311)
 - **"Forest autonomy and forest carbon sink potential: Evidence from Northeast China"**
 
 
-(*30th Challenge Cup Program of PKU, Oct. 2021 - Jun. 2022*)
+&#8194;&#8194; (*30th Challenge Cup Program of PKU, Oct. 2021 - Jun. 2022*)
 
 
 [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/forest_2022.pdf)
@@ -60,7 +60,7 @@ with Tingyu Cui and Yushuai Zhang
 - **"Research on transnational mobility of researchers based on multi-agent modeling: A case study of artificial intelligence"**
 
 
- [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/Mobility_2023.pdf)
+&#8194;&#8194; [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/Mobility_2023.pdf)
 
 
 with Wenjie Chen and [Chao Min](https://min-chao.github.io/)
@@ -71,7 +71,7 @@ with Wenjie Chen and [Chao Min](https://min-chao.github.io/)
 - **"Trade Ban and Environmental Pollution: A Policy Evaluation on Trade Ban of Foreign Garbage"** 
 
 
-(*Course Thesis of **Public Policy Evaluation** in PKU, Mar. 2022 - Jul. 2022*)
+&#8194;&#8194; (*Course Thesis of **Public Policy Evaluation** in PKU, Mar. 2022 - Jul. 2022*)
 
 
 [Manuscript (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/garbage_2023.pdf)
@@ -87,7 +87,7 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
 ## Publications 📑
 
-[1] "[Negative emission technology is key to decarbonizing China&#39;s cement industry](https://doi.org/10.1016/j.apenergy.2022.120254)" with Ming Ren, Teng Ma, Xiaorui Liu, Chaoyi Guo, Silu Zhang, Ziqiao Zhou, Yanlei Zhu, [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai/home) and Chen Huang. (2023).  *Applied Energy*, 329, 120254.
+&#8194;&#8194; [1] "[Negative emission technology is key to decarbonizing China&#39;s cement industry](https://doi.org/10.1016/j.apenergy.2022.120254)" with Ming Ren, Teng Ma, Xiaorui Liu, Chaoyi Guo, Silu Zhang, Ziqiao Zhou, Yanlei Zhu, [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai/home) and Chen Huang. (2023).  *Applied Energy*, 329, 120254.
 
 [Published Version](https://charlie-pku.github.io/mypaper/Published_Thesis/cement_2023.pdf)
 
@@ -143,7 +143,7 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
 ## Research Assistant 📌
 
-🌟 **[Institute of Energy, Environment and Economy](http://www.3e.tsinghua.edu.cn/cn) (3E), Tsinghua University**
+&#8194;&#8194; 🌟 **[Institute of Energy, Environment and Economy](http://www.3e.tsinghua.edu.cn/cn) (3E), Tsinghua University**
 
 <div style="text-align:right;">
     Aug. 2021 - now
@@ -286,7 +286,7 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 - **Topic:** Update the policy report entitled *Applying the Growth Identification and Facilitation Framework to Nepal* (or [UN CDP Background Paper No. 35](https://www.un.org/development/desa/dpad/publication/background-paper-35-applying-the-growth-identification-and-facilitation-framework-to-nepal/))
 
 <details>
-  <summary>Details about this report ⚓ </summary>
+  <summary>About this Report ⚓ </summary>
 
   <br>
 
