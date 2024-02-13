@@ -203,9 +203,9 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
   <br>
 
-  > <font color='grey'>(1) Using ARIMA (Integrated Moving Average Autoregressive Model) time series method to predict the future GDP growth rate of different provinces in China.</font>
-  
-  > <font color='grey'>(2) The part of health benefit evaluation in GAMS file of CGE model was updated to new concentration-response function of PM2.5, the GEMM (Global Exposure Mortality Model) evaluation method of epidemiology.</font>
+  <font color='grey'>(1) Using ARIMA (Integrated Moving Average Autoregressive Model) time series method to predict the future GDP growth rate of different provinces in China.</font>
+  <br>
+  <font color='grey'>(2) The part of health benefit evaluation in GAMS file of CGE model was updated to new concentration-response function of PM2.5, the GEMM (Global Exposure Mortality Model) evaluation method of epidemiology.</font>
 </details>
 
  <br>
@@ -217,9 +217,9 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
   <br>
 
-  > <font color='grey'>(1) Organize and batch download the global high-resolution CMIP6 dataset (NEX-GDDP-CMIP6) provided by NASA.</font>
-  
-  > <font color='grey'>(2) Projections of future labor productivity loss and energy demand in various Chinese provinces and sectors under different global climate scenarios and climate models.</font>
+  <font color='grey'>(1) Organize and batch download the global high-resolution CMIP6 dataset (NEX-GDDP-CMIP6) provided by NASA.</font>
+  <br>
+  <font color='grey'>(2) Projections of future labor productivity loss and energy demand in various Chinese provinces and sectors under different global climate scenarios and climate models.</font>
 </details>
 
 <br>
@@ -270,7 +270,7 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
   <br>
 
   > <font color='grey'>This report is a working paper published by the Committee for Development Policy (CDP) of the United Nations in 2017. Its main contribution is to apply the Growth Identification and Facilitation Framework (GIFF) of New Structural Economics to Nepal.</font> 
-
+ <br>
   > <font color='grey'>This update needs to update the latest situation of Nepal's economic and social development in combination with factors such as Nepal's graduation from Least Development Country (LDC) and the impact of the epidemic.</font>
 </details>
 
