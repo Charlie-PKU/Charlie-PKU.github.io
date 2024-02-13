@@ -25,7 +25,7 @@ Click [here](https://charlie-pku.github.io/file/CV_2024.pdf) for my full CV.
 
 ---
 
-## Academic Background
+## Academic Background 🎓
 
 **Sep 2019 - June 2028 (Expected):** [Tsinghua University (THU)](https://www.tsinghua.edu.cn/)
 
@@ -38,7 +38,7 @@ Click [here](https://charlie-pku.github.io/file/CV_2024.pdf) for my full CV.
 <br>
 
 
-**Sep 2019 - June 2023:** [Peking University (PKU)](https://www.pku.edu.cn/) 🎓
+**Sep 2019 - June 2023:** [Peking University (PKU)](https://www.pku.edu.cn/) 
 
 - **Major**		[College of Environmental Sciences and Engineering (CESE)](https://cese.pku.edu.cn/)
 
@@ -58,7 +58,7 @@ Click [here](https://charlie-pku.github.io/file/CV_2024.pdf) for my full CV.
 
 ---
 
-## Research Interests
+## Research Interests🔖
 
 - **Climate Change Economics**
   - Integrated Assessment Models (IAMs)
@@ -83,7 +83,7 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 ---
 
-## News and Updates
+## News and Updates 📨
 
 - **<font color='red'>[Highlight] </font> Jan 2024:** Very excited to be selected as the volunteer of CAERE Annual Meeting 2024, see you in Hangzhou! 😁
 
