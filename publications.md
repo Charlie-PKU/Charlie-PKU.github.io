@@ -1,8 +1,9 @@
 ---
 layout: page
-permalink: /Research/index.html
+permalink: /publications/index.html
 title: Research
 ---
+
 > Lastest Update: 13rd Feb 2024
 
 <!-- [中文版本 (Chinese Version)](https://charlie-pku.github.io/file/publications-zh/) -->
