@@ -7,7 +7,7 @@ layout: page
 
 <br>
 
-Hello! Here is **Chen Fang (Charlie, 房晨)**.
+Hello! Here is **Chen Fang (Charlie, 房晨)**. 😄
 
 I am a PhD student majoring in **Economics** at Tsinghua University advised by [Prof. Jing Cao](https://cn.chinaproject.harvard.edu/people/jing-cao).
 
@@ -65,11 +65,10 @@ Click [here](https://charlie-pku.github.io/mypaper/Published_Thesis/cement_2023.
 
 <br>
 
-My current research focuses on practical problems that artificial intelligence faces in real life.
+<!-- My current research focuses on practical problems that artificial intelligence faces in real life.
 
-I wish to devote my talent to this meaningful cause and bring well-being to society.
+I wish to devote my talent to this meaningful cause and bring well-being to society. -->
 
-<br>
 
 ---
 
