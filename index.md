@@ -7,13 +7,17 @@ layout: page
 
 <br>
 
-Hello! Here is **Chen Fang (Charlie, 房晨)**. 😄
+Hello! Here is **Chen Fang (Charlie, 房晨)**.
 
-I am a PhD student majoring in **Economics** at Tsinghua University advised by [Prof. Jing Cao](https://cn.chinaproject.harvard.edu/people/jing-cao).
+I am a PhD student majoring in **Applied Economics** at Tsinghua University advised by [Prof. Jing Cao](https://cn.chinaproject.harvard.edu/people/jing-cao).
 
 I am curious and passionate about public policy and global economic governance, especially climate change, sustainable development, and economic resilience, hoping to work in an international organization such as World Bank or the UN to conduct valuable research.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at: *fangc23[at]mails[dot]tsinghua[dot]edu[dot]cn*.
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at: 
+
+*fangc23[at]mails[dot]tsinghua[dot]edu[dot]cn*.📍
+
+<br>
 
 Click [here](https://charlie-pku.github.io/file/CV_2024.pdf) for my full CV.
 
@@ -31,6 +35,8 @@ Click [here](https://charlie-pku.github.io/file/CV_2024.pdf) for my full CV.
     PhD student in Applied Economics
 </div>
 
+<br>
+
 **Sep 2019 - June 2023:** [Peking University (PKU)](https://www.pku.edu.cn/)
 
 - **Major**		[College of Environmental Sciences and Engineering (CESE)](https://cese.pku.edu.cn/)
@@ -39,13 +45,13 @@ Click [here](https://charlie-pku.github.io/file/CV_2024.pdf) for my full CV.
     Bachelor of Science
 </div>
 
-- **Dual Degree** 	[National School](http://nsd.pku.edu.cn/) [of Development (NSD)     					](http://nsd.pku.edu.cn/)
+- **Dual Degree** 	[National School of Development (NSD)](http://nsd.pku.edu.cn/)
 
 <div style="text-align:right;">
     Bachelor of Economics
 </div>
 
-- **Minor**		International Organization Talent Training Certificate Program
+<!-- - **Minor**		International Organization Talent Training Certificate Program -->
 
 <br>
 
@@ -53,13 +59,17 @@ Click [here](https://charlie-pku.github.io/file/CV_2024.pdf) for my full CV.
 
 ## Research Interests
 
-- **Economics of Environment and Climate Change**
-  - Integrated Assessment Models (IAMs) of Climate Change
-  - Adaptation and Mitigation strategies towards Climate Change
-  - Assessment and cost-benefit analysis of environmental regulation and related public policy
+- **Climate Change Economics**
+  - Integrated Assessment Models (IAMs)
+  - Computable General Equilibrium (CGE)
+  - Adaptation & Mitigation policies
+- **Environmental and Resource Economics**
+  - Cost-Benefit Analysis (CBA) of environmental regulation and public policy
+  - Evaluation of Natural disasters and risks
 - **Economics of International Development**
   - Sustainability and Resilience of Extreme Economic Systems
-- **Urban and Regional Economics**
+  - Randomized Controlled Trial (RCT)
+- **Urban and Spatial Economics**
   - Construction of new urban system
   - The Real Estate Markets
 
@@ -75,6 +85,8 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 ## News and Updates
 
 - **<font color='red'>[Highlight] </font> Jan 2024:** Very excited to be selected as the volunteer of CAERE Annual Meeting 2024, see you in Hangzhou! 😁
+
+- **Sep 2023:** Goodbye PKU! 🏫
 
 <br>
 
