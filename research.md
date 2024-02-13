@@ -13,7 +13,7 @@ title: Research
 - **"The Effect of Key Pollutant Discharge Firms on Local Second-hand Housing Prices in Guangdong Province"**
 
 
-(*Undergraduate Thesis of PKU, 2022/10 - 2023/06*)
+(*Undergraduate Thesis of PKU, Oct. 2022 - Jun. 2023*)
 
 
 [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/perception_slides_2023.pdf) 
@@ -22,18 +22,16 @@ title: Research
 with [Yana Jin](http://scholar.pku.edu.cn/yjin)  
 
 
-
-<img src="https://charlie-pku.github.io/images/research/perception_2023.jpg">
+<!-- <img src="https://charlie-pku.github.io/images/research/perception_2023.jpg"> -->
 
 
 
 <br>
 
-
 - **"An integrated assessment of provincial economic damages from climate change in China"**
 
 
-(*RA program in [3E Institute](http://www.3e.tsinghua.edu.cn/cn), THU, 2023/10 - now*)
+(*RA program in [3E Institute](http://www.3e.tsinghua.edu.cn/cn), THU, Feb. 2023 - now*)
 
 
 [Extended Abstract](https://charlie-pku.github.io/mypaper/Working_Papers/IAM_2024.pdf) (for EAERE 2024 Annual Meeting)
@@ -47,7 +45,7 @@ with Hantang Peng, [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/article/311)
 - **"Forest autonomy and forest carbon sink potential: Evidence from Northeast China"**
 
 
-(*Challenge Cup Program of PKU, 2021/10 - 2022/06*)
+(*30th Challenge Cup Program of PKU, Oct. 2021 - Jun. 2022*)
 
 
 [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/forest_2022.pdf)
@@ -72,13 +70,14 @@ with Wenjie Chen and [Chao Min](https://min-chao.github.io/)
 - **"Trade Ban and Environmental Pollution: A Policy Evaluation on Trade Ban of Foreign Garbage"** 
 
 
-(*Course Thesis of **Public Policy Evaluation** in PKU, 2022/03 - 2022/07*)
+(*Course Thesis of **Public Policy Evaluation** in PKU, Mar. 2022 - Jul. 2022*)
 
 
 [Manuscript (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/garbage_2023.pdf)
 
 
 with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
+
 
 <br>
 
@@ -87,31 +86,9 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
 ## Publications 📑
 
-- "[Negative emission technology is key to decarbonizing China&#39;s cement industry](https://doi.org/10.1016/j.apenergy.2022.120254)" with Ming Ren, Teng Ma, Xiaorui Liu, Chaoyi Guo, Silu Zhang, Ziqiao Zhou, Yanlei Zhu, [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai/home) and Chen Huang. (2023).  *Applied Energy*, 329, 120254.
+[1] "[Negative emission technology is key to decarbonizing China&#39;s cement industry](https://doi.org/10.1016/j.apenergy.2022.120254)" with Ming Ren, Teng Ma, Xiaorui Liu, Chaoyi Guo, Silu Zhang, Ziqiao Zhou, Yanlei Zhu, [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai/home) and Chen Huang. (2023).  *Applied Energy*, 329, 120254.
 
-[Publication Version](https://charlie-pku.github.io/mypaper/Published_Thesis/cement_2023.pdf)
-
-
-
-<details>
-  <summary>Abstract ⚓ </summary>
-
-  <br>
-  
-  > <font color='grey'>The cement industry, which contributes to 8% of global CO2 emissions and a large quantity of air pollutants, plays a pivotal role in achieving the carbon neutrality target. However, the question of how to decarbonize the cement industry toward net-zero emissions and the corresponding environmental impact remains unclear. An integrated assessment framework combining a top-down computable general equilibrium model, a bottom-up technology selection model, and a life-cycle assessment was developed to explore the cement industry's carbon–neutral pathways and associated environmental impact. Results show that promoting energy-efficient technologies is crucial for reducing CO2 emissions in the short term, which can also significantly reduce air pollutant emissions. Improving energy efficiency contributes to reducing the emissions of SO2, NOx, and PM2.5, by 33%, 35%, and 8%, respectively, by 2030. In the long run, achieving net-zero carbon emissions requires implementation of bioenergy with carbon capture and storage (BECCS) and demand-side mitigation measures. The share of kilns equipped with BECCS would increase to 68–75% by 2060. Corresponding unit abatement costs of CO2 are 484–676 CNY/tonne CO2. However, BECCS triggers adverse side effects by increasing water consumption and land cover by 7–11 km3 and 3–4 Mha, respectively, in 2060. Thus, China should take full advantage of energy-efficient technologies to co-control CO2 and air pollutant emissions while avoiding negative effects of BECCS.</font>
-</details>
-
-
-
-<br>
-
-
-
-<br>
-
-- "[Global land-use and sustainability implications of enhanced bioenergy import of China](https://doi.org/10.1016/j.apenergy.2023.120769)"  with Yazhen Wu, Andre Deppermann, Petr Havlík, Stefan Frank, Ming Ren, Hao Zhao, Lin Ma, Qi Chen, [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai/home) (2023) *Applied Energy*, 336, 120769.
-
-[Publication Version](https://charlie-pku.github.io/mypaper/Published_Thesis/bioenergy_2023.pdf)
+[Published Version](https://charlie-pku.github.io/mypaper/Published_Thesis/cement_2023.pdf)
 
 
 
@@ -120,23 +97,42 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
   <br>
   
-  > <font color='grey'>Most ambitious climate change mitigation pathways indicate multifold bioenergy expansion to support the energy transition, which may trigger increased biomass imports from major bioenergy-consuming regions. However, the potential global land-use change and sustainability trade-offs alongside the bioenergy trade remain poorly understood. Here, we apply the Global Biosphere Management Model (GLOBIOM) to investigate and compare the effects of different increasing bioenergy import strategies in line with the 1.5&#8451;-compatible bioenergy demand in China, which is projected to represent 30% of global bioenergy consumption by the middle of the century. The results show that sourcing additional bioenergy from different world regions could pose heterogeneous impacts on the local and global land systems, with implications on food security, greenhouse gas emissions, and water and fertilizer demand. In the worst cases under strict trade settings, relying on biomass import may induce up to 25% of unmanaged forests converted to managed ones in the supplying regions, while in an open trade environment, increasing bioenergy imports would drastically change the trade flows of staple agricultural or forestry products, which would further bring secondary land-use changes in other world regions. Nevertheless, an economically optimized biomass import portfolio for China has the potential to reduce global overall sustainability trade-offs with food security and emission abatement. However, these benefits vary with indicator and time and are conditional on stricter land-use regulations. Our findings thus shed new light on the design of bioenergy trade strategies and the associated land-use regulations in individual countries in the era of deep decarbonization.</font>
+  <font color='grey'>The cement industry, which contributes to 8% of global CO2 emissions and a large quantity of air pollutants, plays a pivotal role in achieving the carbon neutrality target. However, the question of how to decarbonize the cement industry toward net-zero emissions and the corresponding environmental impact remains unclear. An integrated assessment framework combining a top-down computable general equilibrium model, a bottom-up technology selection model, and a life-cycle assessment was developed to explore the cement industry's carbon–neutral pathways and associated environmental impact. Results show that promoting energy-efficient technologies is crucial for reducing CO2 emissions in the short term, which can also significantly reduce air pollutant emissions. Improving energy efficiency contributes to reducing the emissions of SO2, NOx, and PM2.5, by 33%, 35%, and 8%, respectively, by 2030. In the long run, achieving net-zero carbon emissions requires implementation of bioenergy with carbon capture and storage (BECCS) and demand-side mitigation measures. The share of kilns equipped with BECCS would increase to 68–75% by 2060. Corresponding unit abatement costs of CO2 are 484–676 CNY/tonne CO2. However, BECCS triggers adverse side effects by increasing water consumption and land cover by 7–11 km3 and 3–4 Mha, respectively, in 2060. Thus, China should take full advantage of energy-efficient technologies to co-control CO2 and air pollutant emissions while avoiding negative effects of BECCS.</font>
 </details>
 
-<br>
+
+
+
 
 <br>
 
-- "[Enhanced food system efficiency is the key to China’s 2060 carbon neutrality target](https://doi.org/10.1038/s43016-023-00790-1)" with Ming Ren, Chen Huang, Yazhen Wu, Andre Deppermann, Stefan Frank, Petr Havlík, Yuyao Zhu, Xiaotian Ma, Yong Liu, Hao Zhao, Jinfeng Chang, Lin Ma, Zhaohai Bai, Shasha Xu and [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai/home) *Nature Food*, 1-13.
+[2] "[Global land-use and sustainability implications of enhanced bioenergy import of China](https://doi.org/10.1016/j.apenergy.2023.120769)"  with Yazhen Wu, Andre Deppermann, Petr Havlík, Stefan Frank, Ming Ren, Hao Zhao, Lin Ma, Qi Chen, [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai/home) (2023) *Applied Energy*, 336, 120769.
 
-[Publication Version](https://charlie-pku.github.io/mypaper/Published_Thesis/food_2023.pdf)
+[Published Version](https://charlie-pku.github.io/mypaper/Published_Thesis/bioenergy_2023.pdf)
+
+
+
+<details>
+  <summary>Abstract ⚓ </summary>
+
+  <br>
+  
+  <font color='grey'>Most ambitious climate change mitigation pathways indicate multifold bioenergy expansion to support the energy transition, which may trigger increased biomass imports from major bioenergy-consuming regions. However, the potential global land-use change and sustainability trade-offs alongside the bioenergy trade remain poorly understood. Here, we apply the Global Biosphere Management Model (GLOBIOM) to investigate and compare the effects of different increasing bioenergy import strategies in line with the 1.5&#8451;-compatible bioenergy demand in China, which is projected to represent 30% of global bioenergy consumption by the middle of the century. The results show that sourcing additional bioenergy from different world regions could pose heterogeneous impacts on the local and global land systems, with implications on food security, greenhouse gas emissions, and water and fertilizer demand. In the worst cases under strict trade settings, relying on biomass import may induce up to 25% of unmanaged forests converted to managed ones in the supplying regions, while in an open trade environment, increasing bioenergy imports would drastically change the trade flows of staple agricultural or forestry products, which would further bring secondary land-use changes in other world regions. Nevertheless, an economically optimized biomass import portfolio for China has the potential to reduce global overall sustainability trade-offs with food security and emission abatement. However, these benefits vary with indicator and time and are conditional on stricter land-use regulations. Our findings thus shed new light on the design of bioenergy trade strategies and the associated land-use regulations in individual countries in the era of deep decarbonization.</font>
+</details>
+
+
+<br>
+
+[3] "[Enhanced food system efficiency is the key to China’s 2060 carbon neutrality target](https://doi.org/10.1038/s43016-023-00790-1)" with Ming Ren, Chen Huang, Yazhen Wu, Andre Deppermann, Stefan Frank, Petr Havlík, Yuyao Zhu, Xiaotian Ma, Yong Liu, Hao Zhao, Jinfeng Chang, Lin Ma, Zhaohai Bai, Shasha Xu and [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai/home) *Nature Food*, 1-13.
+
+[Published Version](https://charlie-pku.github.io/mypaper/Published_Thesis/food_2023.pdf)
 
 <details>
   <summary>Abstract ⚓ </summary>
 
   <br>
 
-  > <font color='grey'>Bioenergy with carbon capture and storage, among other negative-emission technologies, is required for China to achieve carbon neutrality—yet it may hinder land-based Sustainable Development Goals. Using modelling and scenario analysis, we investigate how to mitigate the potential adverse impacts on the food system of ambitious bioenergy deployment in China and its trading partners. We find that producing bioenergy domestically while sticking to the food self-sufficiency ratio redlines would lower China's daily per capita calorie intake by 8% and increase domestic food prices by 23% by 2060. Removing China's food self-sufficiency ratio restrictions could halve the domestic food dilemma but risks transferring environmental burdens to other countries, whereas halving food loss and waste, shifting to healthier diets and narrowing crop yield gaps could effectively mitigate these external effects. Our results show that simultaneously achieving carbon neutrality, food security and global sustainability requires a careful combination of these measures.</font>
+  <font color='grey'>Bioenergy with carbon capture and storage, among other negative-emission technologies, is required for China to achieve carbon neutrality—yet it may hinder land-based Sustainable Development Goals. Using modelling and scenario analysis, we investigate how to mitigate the potential adverse impacts on the food system of ambitious bioenergy deployment in China and its trading partners. We find that producing bioenergy domestically while sticking to the food self-sufficiency ratio redlines would lower China's daily per capita calorie intake by 8% and increase domestic food prices by 23% by 2060. Removing China's food self-sufficiency ratio restrictions could halve the domestic food dilemma but risks transferring environmental burdens to other countries, whereas halving food loss and waste, shifting to healthier diets and narrowing crop yield gaps could effectively mitigate these external effects. Our results show that simultaneously achieving carbon neutrality, food security and global sustainability requires a careful combination of these measures.</font>
 </details>
 
 
@@ -175,9 +171,9 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
   <br>
 
-  > <font color='grey'>(1) Data collection and processing. According to the US input-output table to integrate the added value of the sector and import and export data; collect the production volume of high-energy-consuming products such as steel and non-ferrous metals in China and the world, calculate the proportion, and the proportion of the industrial structure when the carbon peak of each developed country reaches the peak.</font>
-  
-  > <font color='grey'>(2) Literature survey. Collecting the changes and characteristics of low-carbon transition policies in developed countries.</font>
+  <font color='grey'>(1) Data collection and processing. According to the US input-output table to integrate the added value of the sector and import and export data; collect the production volume of high-energy-consuming products such as steel and non-ferrous metals in China and the world, calculate the proportion, and the proportion of the industrial structure when the carbon peak of each developed country reaches the peak.</font>
+  <br>
+  <font color='grey'>(2) Literature survey. Collecting the changes and characteristics of low-carbon transition policies in developed countries.</font>
 </details>
 
  <br>
@@ -189,9 +185,9 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
   <br>
 
-  > <font color='grey'>(1) Collect the power generation data of different provinces and technologies in China, and calculate the data of "kWh of coal consumption" for coal, electricity, and electricity.</font>
-  
-  > <font color='grey'>(2) Use the national "degree of thermal coal consumption" data to convert coal power and gas power generation.</font>
+  <font color='grey'>(1) Collect the power generation data of different provinces and technologies in China, and calculate the data of "kWh of coal consumption" for coal, electricity, and electricity.</font>
+  <br>
+  <font color='grey'>(2) Use the national "degree of thermal coal consumption" data to convert coal power and gas power generation.</font>
 </details>
 
  <br>
@@ -269,9 +265,9 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
   <br>
 
-  > <font color='grey'>This report is a working paper published by the Committee for Development Policy (CDP) of the United Nations in 2017. Its main contribution is to apply the Growth Identification and Facilitation Framework (GIFF) of New Structural Economics to Nepal.</font> 
+  <font color='grey'>This report is a working paper published by the Committee for Development Policy (CDP) of the United Nations in 2017. Its main contribution is to apply the Growth Identification and Facilitation Framework (GIFF) of New Structural Economics to Nepal.</font> 
  <br>
-  > <font color='grey'>This update needs to update the latest situation of Nepal's economic and social development in combination with factors such as Nepal's graduation from Least Development Country (LDC) and the impact of the epidemic.</font>
+  <font color='grey'>This update needs to update the latest situation of Nepal's economic and social development in combination with factors such as Nepal's graduation from Least Development Country (LDC) and the impact of the epidemic.</font>
 </details>
 
 <br>
@@ -283,4 +279,23 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
 
 
+🌟 **[Institute of Finance and Sustainability](https://en.ifs.net.cn/) (IFS)** (Remotely Internship 💻)
+
+<div style="text-align:right;">
+    Jun. 2022 - Oct. 2022
+</div>
+
+<br>
+
+- **Instructor:** Jiayin Zhao
+
+- **Main Contribution:** 
+  - Daily work such as manuscript translation
+  - Collate and summarize the relevant information on the low-carbon development of institutional investors "Collaborative Engagement" enterprises in ESG field and participate in the report writing of relevant parts
+  - Drawing up an outline of an interview with the head of the United Nations Principles for Responsible Investment (UN PRI) in China
+  - Take part in the related work of meeting (writing outlines and press release)
+
+- **Research Publication:**
+A Report for the UK-China Green Finance Centre (in Chinese) 
+[《加速气候行动：机构投资者参与支持企业低碳转型》](http://webadmin.ifs.net.cn/storage/uploads/file/2023/03/28/%E3%80%8A%E5%8A%A0%E9%80%9F%E6%B0%94%E5%80%99%E8%A1%8C%E5%8A%A8%EF%BC%9A%E6%9C%BA%E6%9E%84%E6%8A%95%E8%B5%84%E8%80%85%E5%8F%82%E4%B8%8E%E6%94%AF%E6%8C%81%E4%BC%81%E4%B8%9A%E4%BD%8E%E7%A2%B3%E8%BD%AC%E5%9E%8B%E3%80%8B%E6%8A%A5%E5%91%8A.pdf)
 
