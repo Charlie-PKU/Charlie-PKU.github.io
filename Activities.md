@@ -108,6 +108,17 @@ Cultures）河南登封暑期支教项目**
 
 *制作[交流PPT](https://charlie-pku.github.io/file/communication_2021)，拍摄视频并参与线上Zoom会议*
 
+- ⭐⭐⭐2021/09：**清华-人大第六届模拟联合国气候变化大会（MCCCOP 6）**
+
+<br>
+
+**合作者**：李美欣（RUC），姜敬泽（RUC），赵艺隆（THU）
+
+**主要工作**：代表小岛屿国家联盟（Alliance of Small Island States, AOSIS）中的伯利兹（Belize）参与气候谈判
+
+**主要产出**：合作撰写position paper, 撰写closing statement, 协助修改opening statement
+
+[总结推送](https://mp.weixin.qq.com/s/7tgNMuOYoeEx6DpqSBuj5Q)
 
 
 <br>
@@ -167,7 +178,7 @@ Cultures）河南登封暑期支教项目**
 
 ### **2022**
 
-- ⭐2022/11：**北京大学国家发展研究院挑战杯宣讲**
+- 2022/11：**北京大学国家发展研究院挑战杯宣讲**
 
 *作为往届参赛选手进行经验分享与答疑*
 
@@ -193,9 +204,13 @@ Cultures）河南登封暑期支教项目**
 
 *对接面试官和面试者，安排面试顺序，记录并汇总面试官意见并反馈给参与面试的同学*
 
-- 2022/02 – 2022/04：**首届Circular-360°青年循环经济挑战赛（Remotely）** 合作者：王婧（ECUST）、李润芬（PKU）、胡正（CSU）
+- 2022/02 – 2022/04：**首届Circular-360°青年循环经济挑战赛（Remotely）** 
+
 
 *为燕麦奶品牌Oatly设计环保可回收包装与可持续发展的经营模式（由于疫情，后续路演环节未进行）*
+
+**合作者**：王婧（ECUST）、李润芬（PKU）、胡正（CSU）
+
 
 <br>
 
@@ -239,14 +254,16 @@ Cultures）河南登封暑期支教项目**
 *参与四川绵阳的招生报考、咨询工作，并负责理工科学习体验介绍*
 
 
-- 2020/04 - 2020/06：**“壹桌计划”（[Desk for Us](https://mp.weixin.qq.com/s?__biz=MzIwMDMyNzg0MQ==&mid=2247483656&idx=1&sn=09bcac4e8357558136f0ae782bf52875&chksm=96ff96c6a1881fd0a062084e52df2b93e7d570e51574669a1134ed278b8987ca5a52d8f69248&scene=126&sessionid=0&clicktime=1637426470&ascene=3&devicetype=iOS15.0.2&version=1800102c&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=en&fontScale=106&exportkey=A88vzCWQNTlA2OilXYLnFUU%3D&pass_ticket=ytdV%2F1D5pH866XF6o0GUHkGfnIK8v2tTDoBan%2B2ow%2FKKcJKoVloNnCdlXx%2FeJJ4K&wx_header=1)）公益项目志愿者**
+- 2020/04 - 2020/06：**“壹桌计划”（[Desk for Us](https://mp.weixin.qq.com/s/IXBYg-TxlVAVjiuuxhOfaA)）公益项目志愿者**
 
 *借助网络平台和武汉地区的高三同学进行物理学科一对一的线上家教，同时提供精神陪伴与学习方法指导*
 
 
 - 2020/02 - 2020/04：**社区新冠肺炎疫情防控志愿者**
 
-*为返乡人员进行体温监测，指导居民申请电子通行证等 （[推送报道](https://mp.weixin.qq.com/s/Zu_keP_rvzx7Qgpm6Or4cw)）*
+*为返乡人员进行体温监测，指导居民申请电子通行证等*
+
+[推送报道](https://mp.weixin.qq.com/s/Zu_keP_rvzx7Qgpm6Or4cw)
 
 
 - 2020/01： **北京大学“领航新燕”2020年返乡社会实践活动志愿者**
