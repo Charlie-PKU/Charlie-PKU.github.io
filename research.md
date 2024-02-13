@@ -303,3 +303,71 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
   - Redraw the charts in the research report and update the data and text.
 
 
+
+---
+
+## Miscellaneous 🌈
+
+- 🔆🔆🔆Oct. 2020 - May. 2021: **29th “Challenge Cup” of PKU, May 4th Youth Science Award Competition** with Xiaotia Ma, Zhuochao Li and Shanyu Zhou
+
+**Title**: Analysis of China's carbon emission reduction factors under Carbon Neutrality
+
+**Subtitle**: Based on LMDI and SDA decomposition 
+
+**Academic Advisor**: [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai)
+
+**Contribution**:
+
+①	Learned the SDA decomposition method
+②	Obtained main driving forces of China's carbon emissions in past by analyzing the input-output tables of 2002, 2007, 2012, and 2017
+③	Drew Figures, wrote [research report](https://charlie-pku.github.io/file/Decomposition_2020.pdf), made [final PPT](https://charlie-pku.github.io/file/Decomposition_slides_2020.pdf)
+
+<br>
+
+
+- 🔆Apr. 2020 - Jun. 2020: **Cost-Benefit Analysis on the Clean Energy Heating Policy in North China Region** with Tingyu Cui and Wei You
+
+**Methods**: 
+
+①	Used DID method to quantify the contribution of clean energy heating policy, used IMED-HEL, IER, and GEMM models to assess the health impact of the policy; 
+②	Monetized the health impacts using human capital method (YLPP) and willing-to-pay method (WTP)
+
+**Contribution**: 
+
+Completed quantitative assessment of health risks and calculation of energy cost from coal to electricity and wrote [research report](https://charlie-pku.github.io/file/coal_2020.pdf).
+
+<br>
+
+- 🔆🔆Sep.2021 – Nov.2022: **Undergraduate Research of Peking University**
+
+**Academic Advisor**: [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai) and Yazhen Wu
+
+**Research Topic**: Global biomass energy supply curve and its possible impact on Sustainable Development Goals (SDGs).
+
+<details>
+  <summary>Summary: ⚓ </summary>
+
+  <br>
+
+  <font color='grey'>This study quantitatively simulated the global biomass production cost under different demand and sustainable development constraint scenarios, plotted the biomass supply curve, and quantitatively analyzed the trade-off relationship between biomass production and sustainable development goals (SDGs) such as land management, food security and greenhouse gas emissions.</font> 
+</details>
+
+<br>
+
+**Conclusions**:
+
+(a) Biomass energy has certain development space in the future, but it is faced with economic feasibility constraints.
+
+(b) The production of biomass energy needs to pay attention to the competition and trade-off between raw material planting and food crops.
+
+
+[PPT](https://charlie-pku.github.io/file/biomass_slides_2022.pdf) and the [Final Report](https://charlie-pku.github.io/file/biomass_2022.pdf)
+
+
+- 🔆Sep.2021 - Jun.2023: A member of	[**Laboratory of Energy & Environmental Economics and Policy (LEEEP)**](http://scholar.pku.edu.cn/hanchengdai), PKU
+
+Make publication passages on official accounts (WeChat Account: LEEEP_Forum) 
+
+[An Example](https://mp.weixin.qq.com/s/rdL921PQv97V2_yxo2kgTA)
+
+<br>
