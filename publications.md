@@ -22,6 +22,8 @@ title: Publications
 with [Yana Jin](http://scholar.pku.edu.cn/yjin)  
 
 
+<img src="https://charlie-pku.github.io/graduation_PKU.jpg" class="floatpic" width="360" height="480">
+
 <br>
 
 
@@ -136,16 +138,4 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
 
 <br>
-
----
-
-## Research Assistant 📜
-
-
-
-
-
-
-
-
 
