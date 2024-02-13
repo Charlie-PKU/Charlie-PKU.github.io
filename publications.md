@@ -13,7 +13,7 @@ title: Research
 - **"The Effect of Key Pollutant Discharge Firms on Local Second-hand Housing Prices in Guangdong Province"**
 
 
-(*Undergranduate Thesis of PKU, 2022/10 - 2023/06*)
+(*Undergraduate Thesis of PKU, 2022/10 - 2023/06*)
 
 
 [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/perception_slides_2023.pdf) 
