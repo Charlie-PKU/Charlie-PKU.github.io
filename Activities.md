@@ -8,7 +8,7 @@ title: Activity
 
 <!-- &nbsp; [中文版本 (Chinese Version)](https://charlie-pku.github.io/file/awards-zh/) -->
 
-## 课程助教 ✒️
+## Teaching Assistant ✒️
 
 
 ### **2024**
@@ -57,7 +57,7 @@ title: Activity
 
 ---
 
-## 实践&调研 🚋
+## Fieldwork 🚋
 
 
 ### **2024**
@@ -88,7 +88,7 @@ Cultures）河南登封暑期支教项目**
 
 **微信推文**：嵩阳诗剧 [Day1](https://mp.weixin.qq.com/s/x6r4_ylvgpd9Rkv9M2hjNw)，[Day2](https://mp.weixin.qq.com/s/gp0BTo-RYdf--YtzkzYVYg)，[Day3-4](https://mp.weixin.qq.com/s/hTfqbXjUUTDBjMRHvfbyRA)，[Day5-6](https://mp.weixin.qq.com/s/b48WpkYIaJYUYn2QFvk3hA)，[Day7](https://mp.weixin.qq.com/s/laeye-krRb-JJ5yi92d7cg)
 
-**[总结视频](https://www.bilibili.com/video/BV1hQ4y1n76R/?spm_id_from=333.999.0.0)**
+**[总结视频](https://www.bilibili.com/video/BV1hQ4y1n76R/?spm_id_from=333.999.0.0)**、**[碎片记录](https://mp.weixin.qq.com/s/wnVhtnuy-Mo2_eqJX53tsQ)**
 
 <br>
 
@@ -108,9 +108,10 @@ Cultures）河南登封暑期支教项目**
 
 *制作[交流PPT](https://charlie-pku.github.io/file/communication_2021)，拍摄视频并参与线上Zoom会议*
 
+<br>
+
 - ⭐⭐⭐2021/09：**清华-人大第六届模拟联合国气候变化大会（MCCCOP 6）**
 
-<br>
 
 **合作者**：李美欣（RUC），姜敬泽（RUC），赵艺隆（THU）
 
@@ -123,10 +124,35 @@ Cultures）河南登封暑期支教项目**
 
 <br>
 
+- ⭐⭐2021/07：**北京大学环境科学与工程学院-环境综合实习（一）** 
+
+*前往上海市开展为期五天的综合实习*
+
+<br>
+
+**微信推文**： 上海之行 [起航&第一天](https://mp.weixin.qq.com/s/4etRaM7z9YXztdDjUaarNw)，[第二天](https://mp.weixin.qq.com/s/K13EMd903p2PcZoO9LphsA)，[第三天](https://mp.weixin.qq.com/s/n5Gz2qAsMpT20FCKygyicA)，[第四天](https://mp.weixin.qq.com/s/wGW5SNwqxSFxuF2WgKAjNQ)，[第五天](https://mp.weixin.qq.com/s/qkKk9mVZMycOYyMRbg887Q)
+
+[个人实习日志](https://charlie-pku.github.io/file/journal_shanghai_2021.pdf)、[个人实习报告](https://charlie-pku.github.io/file/report_shanghai_2021.pdf)、[小组汇报展示](https://charlie-pku.github.io/file/pre_shanghai_2021.pdf)
+
+<br>
+
+- ⭐⭐2021/07：**北京大学环境科学与工程学院-环境综合实习（二）** 
+
+*前往河北承德塞罕坝开展大气、水与土壤样品的采集、监测与后分析工作*
+
+<br>
+
+**微信推文**：坝上实习 [起航&第一天](https://mp.weixin.qq.com/s/VuEZ3o7QhPoFxRM6UflbkQ)，[第二天](https://mp.weixin.qq.com/s/dvn-yPrm-cUck0DY_9QPog)，[第三天](https://mp.weixin.qq.com/s/c9JzlbXvP-cL5xl1gi6ZEQ)，[第四天](https://mp.weixin.qq.com/s/dCsov_dpVoFRQutVhT-q-g)，[第五天](https://mp.weixin.qq.com/s/gJmLbUpBZMKDczjWyr00dg)
+
+[个人实习日志](https://charlie-pku.github.io/file/journal_saihanba_2021.pdf)、[小组汇报展示](https://charlie-pku.github.io/file/pre_saihanba_2021.pdf)、[小组海报展示](https://charlie-pku.github.io/file/poster_saihanba_2021.pdf)
+
+
+<br>
+
 ### **2020**
 
 
-- ⭐2020/07 - 2020/08：**北京大学“江河未名志，滴水珞珈情”水环境与防洪知识普及实践活动（联合武大）** 
+- ⭐2020/07 - 2020/08：**北京大学联合武汉大学“江河未名志，滴水珞珈情”水环境与防洪知识普及实践活动** 
 
 协助学长学姐制作[饮用水标准科普推送](https://mp.weixin.qq.com/s/66te9_0c926UWK142_A_AA)，并撰写新闻稿
 
@@ -134,6 +160,7 @@ Cultures）河南登封暑期支教项目**
 
 [立项总结](https://mp.weixin.qq.com/s/rsTdJFl1ItCVXvCLzEpwIA)
 
+<br>
 
 - ⭐⭐2020/07：**北京大学2020“横县新生态，城乡新环保”思政实践** 
 
@@ -148,7 +175,78 @@ Cultures）河南登封暑期支教项目**
 
 ---
 
-## 志愿服务 💝
+## Students' Organizations  💼
+
+
+- ⭐Sep. 2023 - now: **清华大学经济管理学院研究生会国际交流部**（部员）
+
+**主要工作**：
+
+① 定期参与例会
+
+② 策划并参与交换生[新生导向活动（Orientation）与语伴活动（Buddy Program）](https://mp.weixin.qq.com/s/hbj6LqNVDTnPkGLfUFqRCQ)（活动组织与参与）
+
+③ [万圣节Party活动](https://mp.weixin.qq.com/s/7s37tehSXaF8kVIppsk7xA)（前期布置）；
+
+④ [SEMer交流会](https://mp.weixin.qq.com/s/vXXSG-gUoHmvdOM-chE86A)（活动协调与主持，新闻稿撰写）
+
+⑤ [金融领域MBA分享交流会](https://mp.weixin.qq.com/s/LPdPBWu6oG2jQm0YoXuP-g)（会议记录）
+
+<br>
+
+- ⭐⭐⭐Sep. 2021 - Jun. 2023: **北京大学国际组织人才办公室（PKUIO）资源拓展部**（部员）
+
+**主要工作**：
+
+①	每周例行办公室值班：前往国际组织官网搜集相应实习信息制作[相关推送](https://mp.weixin.qq.com/s/dfE2D9lsii8y1Z58ljrSuA)
+
+②	[PKUIO五周年“大国青年”蓝色主题月系列活动](https://mp.weixin.qq.com/s/qZYAkcnCbUkMxVZtyjJfCw)筹备与参与（[联合国粮食及农业组织专场](https://mp.weixin.qq.com/s/LOrHRpv6RU6uXchMvBgfsw)：场务；[对话亚洲开发银行专场活动](https://mp.weixin.qq.com/s/eNdBF9P17jhCP7ujeTnRZA)：摄像）
+
+③	[北京大学2022年国际组织人才培训暑期项目](https://mp.weixin.qq.com/s/A1u8D4-6Dsk-LO2MbMQo9g)课程助教（组织学员参与讲座、破冰交流与游园活动，课程作业的收取、整理与评定）
+
+④ 完成[北京大学国际组织人才培养证书计划项目](https://mp.weixin.qq.com/s/x1nhZyGYiymee67OiHP5Ig)学习与考核
+
+<br>
+
+- ⭐ Sep. 2022 - Jun. 2023: **北京大学电影协会**（骨干会员）
+
+**主要工作**：
+
+① 策划日常放映与学术放映活动
+
+② 制作通知发布与影片分享等微信推送文章
+
+
+<br>
+
+- ⭐Sep. 2019 - Jun. 2021: **北京大学环境科学与工程学院学生会秘书处** （部员，秘书长）
+
+**主要工作**：
+
+① 制作推送
+
+② 策划学院“随机晚餐”“信息直通车”等活动
+
+③ 定期召开与参与例会
+
+<br>
+
+<br>
+
+**Other Affiliation**:
+
+- Mar. 2020 - Sep. 2021: “北大青年”编辑部调查组**组员**
+- Sep. 2020 - Jul. 2023: 北京大学学生国际交流协会（SICA）公共事务（PA）部**部员**
+- Mar. 2021 - Mar. 2022: 北京大学环境科学与工程学院融媒体文案部**副部长**
+- 2021/09 - 2022/09：北京大学学生环境公共政策研究社（IoEPP）**社长**
+- 2021/09 - 2022/06：北京大学环境科学与工程学院团委**书记助理**
+- 2020/02 - 至今：胜寒高智商俱乐部[**终身会员**](http://www.shenghan.org/FANGCHEN)
+
+<br>
+
+---
+
+## Voluntary Service 💝
 
 
 ### **2024**
@@ -284,78 +382,7 @@ Cultures）河南登封暑期支教项目**
 
 ---
 
-## 学生工作 💼
-
-
-- ⭐2023/09 - 至今：**清华大学经济管理学院研究生会国际交流部**（部员）
-
-**主要工作**：
-
-① 定期参与例会
-
-② 策划并参与交换生[新生导向活动（Orientation）与语伴活动（Buddy Program）](https://mp.weixin.qq.com/s/hbj6LqNVDTnPkGLfUFqRCQ)（活动组织与参与）
-
-③ [万圣节Party活动](https://mp.weixin.qq.com/s/7s37tehSXaF8kVIppsk7xA)（前期布置）；
-
-④ [SEMer交流会](https://mp.weixin.qq.com/s/vXXSG-gUoHmvdOM-chE86A)（活动协调与主持，新闻稿撰写）
-
-⑤ [金融领域MBA分享交流会](https://mp.weixin.qq.com/s/LPdPBWu6oG2jQm0YoXuP-g)（会议记录）
-
-<br>
-
-- ⭐⭐⭐2021/09 - 2023/06：**北京大学国际组织人才办公室（PKUIO）资源拓展部**（部员）
-
-**主要工作**：
-
-①	每周例行办公室值班：前往国际组织官网搜集相应实习信息制作[相关推送](https://mp.weixin.qq.com/s/dfE2D9lsii8y1Z58ljrSuA)
-
-②	[PKUIO五周年“大国青年”蓝色主题月系列活动](https://mp.weixin.qq.com/s/qZYAkcnCbUkMxVZtyjJfCw)筹备与参与（[联合国粮食及农业组织专场](https://mp.weixin.qq.com/s/LOrHRpv6RU6uXchMvBgfsw)：场务；[对话亚洲开发银行专场活动](https://mp.weixin.qq.com/s/eNdBF9P17jhCP7ujeTnRZA)：摄像）
-
-③	[北京大学2022年国际组织人才培训暑期项目](https://mp.weixin.qq.com/s/A1u8D4-6Dsk-LO2MbMQo9g)课程助教（组织学员参与讲座、破冰交流与游园活动，课程作业的收取、整理与评定）
-
-④ 完成[北京大学国际组织人才培养证书计划项目](https://mp.weixin.qq.com/s/x1nhZyGYiymee67OiHP5Ig)学习与考核
-
-<br>
-
-- ⭐2022/09 - 2023/06：**北京大学电影协会**（骨干会员）
-
-**主要工作**：
-
-① 策划日常放映与学术放映活动
-
-② 制作通知发布与影片分享等微信推送文章
-
-
-<br>
-
-- ⭐2019/09 - 2021/06：**北京大学环境科学与工程学院学生会秘书处** （部员，秘书长）
-
-**主要工作**：
-
-① 制作推送
-
-② 策划学院“随机晚餐”“信息直通车”等活动
-
-③ 定期召开与参与例会
-
-<br>
-
-<br>
-
-**其他**：
-
-- 2020/03 - 2021/09：“北大青年”编辑部调查组**组员**
-- 2020/09 - 2023/07：北京大学学生国际交流协会（SICA）公共事务（PA）部**部员**
-- 2021/03 - 2022/03：北京大学环境科学与工程学院融媒体文案部**副部长**
-- 2021/09 - 2022/09：北京大学学生环境公共政策研究社（IoEPP）**社长**
-- 2021/09 - 2022/06：北京大学环境科学与工程学院团委**书记助理**
-- 2020/02 - 至今：胜寒高智商俱乐部[**终身会员**](http://www.shenghan.org/FANGCHEN)
-
-<br>
-
----
-
-## 奖励 💯
+## Awards 💯
 
 
 - **2021 - 2022学年度** &nbsp; &nbsp; 北京大学环境校友奖学金，学习优秀奖
