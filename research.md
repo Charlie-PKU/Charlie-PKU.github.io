@@ -332,71 +332,127 @@ Make publication passages on official accounts (WeChat Account: LEEEP_Forum)
 - [行政决策模式的参与式转型——以公众参与制度为综述对象](https://charlie-pku.github.io/file/Engagement_2023.pdf) (2023)
 
   - This is the Midterm Thesis with *Administrative Law and Administrative Litigation Law* taught by [Qi Yu](https://baike.baidu.com/item/%E4%BF%9E%E7%A5%BA/23327778?fr=ge_ala)
+
+<br>
+
 - ✨✨[LARF IN CASUAL INFERENCETHEORETICAL ANALYSIS AND EMPIRICAL APPLICATION](https://charlie-pku.github.io/file/LARF_poster_2023.pdf) (2023)
 
   - This is the Group Poster Presentation with Yi Chai on *Advanced Research Seminar* taught by [Shiyao Liu](https://cnisscad.pku.edu.cn/szll/skjs/l/525746.htm)
+
+<br>
+
 - ✨✨[The Health Effect of Commuting: Evidence from Metro Opening in China](https://charlie-pku.github.io/file/subway_2023.pdf) (2023)
 
   - This is the Course Thesis of *Applied Econometrics* taught by [Xuezheng Qin](https://econ.pku.edu.cn/szdw/zzjs/ybjs/sjjxx/327504.htm)
+
+<br>
+
 - ✨[The Iraqi Devaluation: Mechanism and Effects](https://charlie-pku.github.io/file/Iraq_2023.pdf) (2023)
 
   - This is the Final Project with Xiaotian Ma on *International Finance* taught by [Noam Gruber](https://www.linkedin.com/in/noam-gruber-%E8%91%9B%E8%AF%BA%E5%B2%B8/?originalSubdomain=sg)
 
 <br>
 
+<br>
+
 - ✨[Evaluating Behaviorally Motivated Policy Experimental Evidence from the Lightbulb Market](https://charlie-pku.github.io/file/Bulb_2022.pdf) (2022)
 
   - This is the Group Presentation with Qiansong Xia and Zhizhi Zhu on *Environmental Resources Economics* taught by [Yuanning Liang](https://www.yuanning-liang.com/)
+
+<br>
+
 - ✨[集中式光伏分析报告](https://charlie-pku.github.io/file/solar_panel_2022.pdf) (2022)
 
   - This is the Group Presentation with Tingyu Cui, Xiaotian Ma, Qiyue Nie and Shuxin Yan on *Low-Carbon Economy and Carbon Finance* taught by [Fangfang Tang](http://scholar.pku.edu.cn/fftang/bio)
+
+<br>
+
 - [我国各省二氧化碳排放影响因素分析研究报告——基于相关与回归方法的简要分析](https://charlie-pku.github.io/file/environment_research_hw6_2022.pdf) (2022)
 
   - This is the Homework 6 of *Economic Development Research Methods* taught by [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai) and [Qi Chen](http://scholar.pku.edu.cn/qichen/people/qi-chen-%E9%99%88%E7%90%A6)
+
+<br>
+
 - [代际公平的反思与重构——以我国林业资源的分配为研究视角](https://charlie-pku.github.io/file/fair_forest_2022.pdf) (2022)
 
   - This is the Final Thesis of *An outline of Environment and Economic Development* taught by [Qi Wang](http://scholar.pku.edu.cn/qiwang/home)
+
+<br>
+
 - [黄河下游水沙关系的协调治理——以简单线性规划模型为研究工具](https://charlie-pku.github.io/file/yellow_river_2022.pdf) (2022)
 
   - This is the Final Thesis of *Environmental System Analysis* taught by [Zhenshan Li](http://scholar.pku.edu.cn/lzs)
 
 <br>
 
+<br>
+
 - ✨[中国实行碳税的成效与影响分析](https://charlie-pku.github.io/file/carbon_tax_2021.pdf) (2021)
 
   - This is the Group Presentation on *China's Public Finance* taught by [Shuanglin Lin](http://scholar.pku.edu.cn/sllin/home)
+
+<br>
+
 - ✨[电竞选手的社会与自我认同构建](https://charlie-pku.github.io/file/Esports_2021.pdf) (2021)
 
   - This is the Group Report with Xiaotian Ma, Meiqi Mao, Yuqing Shui and Jing Yuan on *Methods of Social Survey and Social Research* taught by [Huilin Lu](http://www.shehui.pku.edu.cn/sz/content.aspx?nodeid=67) and [Di Wang](http://www.shehui.pku.edu.cn/second/index.aspx?nodeid=341).
+
+<br>
+
 - ✨[法律不确定性的法理学思考——浅析阿利托大法官的向前看视角](https://charlie-pku.github.io/file/Alito_2021.pdf) (2021)
 
   - This is the Third Homework of *Jurisprudence* taught by [Bin Ling](https://law.yale.edu/studying-law-yale/degree-programs/graduate-programs/jsd-program/jsd-candidate-profiles/bin-ling), [Ling Hu](http://www.ai.pku.edu.cn/info/1141/2182.htm) and [Xin Dai](http://www.ai.pku.edu.cn/info/1141/2176.htm).
+
+<br>
+
 - ✨[环境领域公平与效率的平衡——基于卡-梅框架的思考](https://charlie-pku.github.io/file/C&M_2021.pdf) (2021)
 
   - This is the Seventh Homework of *Environmental Management* taught by [Shiqiu Zhang](http://scholar.pku.edu.cn/zhangshiqiu/dao-shi-jie-shao-0), Fengqiao Mei and [Wenjun Li](http://scholar.pku.edu.cn/wjlee).
+
+<br>
+
 - [大气气溶胶测量仪器CPMA综述](https://charlie-pku.github.io/file/CPMA_2021.pdf) (2021)
 
   - This is a Small Review of *Measurement and Techniques of Atmospheric Aerosols* taught by [Song Guo](http://scholar.pku.edu.cn/songguo/ge-ren-jian-jie-0)
+
+<br>
+
 - ✨[Marine Plastic Pollution: A Review of its Sources, Distribution, Impacts and our Actions](https://charlie-pku.github.io/file/Marine_Plastic_2021.pdf) (2021)
 
   - This is the Terminal Report of *Our Changing Planet* taught by [Mei Zheng](http://scholar.pku.edu.cn/meizheng)
+
+<br>
+
 - ✨[《煤炭的真实成本》评论](https://charlie-pku.github.io/file/real_cost_of_coal_2021.pdf) (2021)
 
   - This is the Personal Presentation on *Environmental Economics* taught by [Xuejun Wang](https://www.ues.pku.edu.cn/jszy/wxj/wxjgrjl/index.htm)
+
+<br>
+
 - ✨[从修辞视角分析B站年度弹幕对“信息茧房”构建的影响](https://charlie-pku.github.io/file/bilibili_2021.pdf) (2021)
 
   - This is the Course Thesis on *Rhetoric in Chinese* taught by [Rudong Chen](http://sjc.pku.edu.cn/info/1130/11663.htm)
 
 <br>
+<br>
+
 
 - [燕园十二月令风物童话诗](https://charlie-pku.github.io/file/poem_2020.pdf) (2020)
 
   - This is a modern poem written on *University-level Chinese* taught by [Yin Lu](http://scholar.pku.edu.cn/luyin)
+
+<br>
+
 - ✨✨[从经济学视角看“拍照搜题”市场的发展与未来——以题拍拍App为研究对象](https://charlie-pku.github.io/file/tipaipai_2020.pdf) (2020)
 
   - This is the Personal Thesis of *Principles of Economics* taught by [Feng Lu](http://scholar.pku.edu.cn/flu/home)
+
+<br>
+
 - ✨[多环芳烃污染的健康效应及其社会代价——基于EEDH模型的研究方案设计](https://charlie-pku.github.io/file/polycyclic_2020.pdf) (2020)
 
   - This is the Group Project with Xiaotian Ma, Shuxin Yan and Wei You on *Environmental Sciences* taught by [Tong Zhu](http://scholar.pku.edu.cn/tongzhu/PI) and [Yi Huang](http://scholar.pku.edu.cn/yhuang/huang-yi-1)
+
+<br>
 
 <br>
