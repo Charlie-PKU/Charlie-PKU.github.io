@@ -19,7 +19,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 <br>
 
-Click [here](https://charlie-pku.github.io/file/CV_Chen.pdf) for my full CV.
+Click [here](https://charlie-pku.github.io/file/CV/CV_Chen.pdf) for my full CV.
 
 <br>
 
