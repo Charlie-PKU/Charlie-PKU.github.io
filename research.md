@@ -377,7 +377,7 @@ Make publication passages on official accounts (WeChat Account: LEEEP_Forum)
   -  This is the Course Thesis of *Applied Econometrics* taught by [Xuezheng Qin](https://econ.pku.edu.cn/szdw/zzjs/ybjs/sjjxx/327504.htm)
 
 
-- ✨[The Iraqi Devaluation: Mechanism and Effects](https://charlie-pku.github.io/file/subway_2023.pdf) (2023)
+- ✨[The Iraqi Devaluation: Mechanism and Effects](https://charlie-pku.github.io/file/Iraq_2023.pdf) (2023)
   -  This is the Final Project with Xiaotian Ma on *International Finance* taught by [Noam Gruber](https://www.linkedin.com/in/noam-gruber-%E8%91%9B%E8%AF%BA%E5%B2%B8/?originalSubdomain=sg)
 
 
@@ -444,7 +444,7 @@ Make publication passages on official accounts (WeChat Account: LEEEP_Forum)
   - This is a modern poem written on *University-level Chinese* taught by [Yin Lu](http://scholar.pku.edu.cn/luyin)
 
 
-- ✨✨[从经济学视角看“拍照搜题”市场的发展与未来——以题拍拍App为研究对象](https://charlie-pku.github.io/file/poem_2020.pdf) (2020)
+- ✨✨[从经济学视角看“拍照搜题”市场的发展与未来——以题拍拍App为研究对象](https://charlie-pku.github.io/file/tipaipai_2020.pdf) (2020)
   - This is the Personal Thesis of *Principles of Economics* taught by [Feng Lu](http://scholar.pku.edu.cn/flu/home)
 
 - ✨[多环芳烃污染的健康效应及其社会代价——基于EEDH模型的研究方案设计](https://charlie-pku.github.io/file/polycyclic_2020.pdf) (2020)
