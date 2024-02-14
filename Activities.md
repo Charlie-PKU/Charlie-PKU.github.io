@@ -13,7 +13,7 @@ title: Activity
 
 ### **2024**
 
-- ⭐⭐⭐2024/02 - 2024/06（预计）：**清华大学“经济学原理”小班讨论课助教**
+- ⭐⭐⭐Feb. 2024 - Jun. 2024 (Expected): **清华大学“经济学原理（宏观）”小班讨论课助教**
 
 &#8194; &#8194; **授课院系**：经济管理学院
 
@@ -26,7 +26,7 @@ title: Activity
 <br>
 
 
-- ⭐⭐⭐2023/09 - 2024/01：**清华大学“经济学原理”小班讨论课助教**
+- ⭐⭐⭐Sep. 2023 - Jan. 2024: **清华大学“经济学原理（微观）”小班讨论课助教**
 
 &#8194; &#8194; **授课院系**：经济管理学院
 
@@ -34,7 +34,10 @@ title: Activity
 
 **合作者**：宗晶莹、何禹桥、黄嘉伦
 
-**主要工作**：组织小班讨论课（每个班30余人，每周2小时），批改Memo，与全体助教进行集体备课，选择案例进行分析讲解，同时负责期中与期末的监考工作。
+**主要工作**：
+- 组织小班讨论课（每个班30余人，每周2小时），批改Memo，与全体助教进行集体备课，选择案例引导学生讨论
+   - 例如：[房地产市场的出清与重生](https://charlie-pku.github.io/file/discussion_house_2023.pdf) [在线音乐变局](https://charlie-pku.github.io/file/discussion_music_2023.pdf)……
+- 参与期中与期末监考
 
 [采访推送](https://mp.weixin.qq.com/s/mHbSoyQ9NqxKwGm_-If5rw)
 
@@ -42,7 +45,7 @@ title: Activity
 
 ### **2023**
 
-- ⭐2023/02 - 2023/06：**北京大学“中级微观经济学”课程助教**
+- ⭐Feb. 2023 - Jun. 2023：**北京大学“中级微观经济学”课程助教**
 
 &#8194; &#8194; **授课院系**：国家发展研究院
 
@@ -50,7 +53,7 @@ title: Activity
 
 **合作者**：范炘宜
 
-**主要工作**：组织课程、跟堂听课、批改作业、讲授习题课、期中与期末考试考题制作与监考工作等等。
+**主要工作**：组织课程、跟堂听课、批改作业、讲授习题课 (Tutorial [2](https://charlie-pku.github.io/file/tutorial_2_2023.pdf), [4](https://charlie-pku.github.io/file/tutorial_4_2023.pdf), [6](https://charlie-pku.github.io/file/tutorial_6_2023.pdf))、期中与期末考题制作与监考等。
 
 <br>
 
@@ -62,40 +65,40 @@ title: Activity
 
 ### **2024**
 
-- ⭐⭐⭐ 2024/01：**清华大学经济管理学院“巴陵研行”湖南岳阳实践活动**
+- ⭐⭐⭐ Jan. 2024: **清华大学经济管理学院“巴陵研行”湖南岳阳实践活动**
 
 *前往湖南省岳阳市进行为期一周的实践活动*  
 
 <br>
 
-**微信推文&Vlog**：[行前动员会](https://mp.weixin.qq.com/s/tT27Vci8gsGOF7dqpCmCrQ)，[中学宣讲](https://mp.weixin.qq.com/s/vqJSLKUi_rdmJ-KA5nIU9Q)，[华容县](https://mp.weixin.qq.com/s/0p3gMHnMKS1YhG5YX94KMw)，[何长工纪念馆](https://mp.weixin.qq.com/s/QDDgiH_tm2YvmhMOBPbb4w)，[城陵矶新港区](https://mp.weixin.qq.com/s/ALT3fANhOLzos1NpLPq-CQ)，[经开区](https://mp.weixin.qq.com/s/jJdF8buY36z-_sb0mWzoaQ)，[华龙码头](https://mp.weixin.qq.com/s/XWEZb1zjCMoNem8tHRW5_Q)
+**推文&Vlog** [行前动员会](https://mp.weixin.qq.com/s/tT27Vci8gsGOF7dqpCmCrQ) [中学宣讲](https://mp.weixin.qq.com/s/vqJSLKUi_rdmJ-KA5nIU9Q) [华容县](https://mp.weixin.qq.com/s/0p3gMHnMKS1YhG5YX94KMw) [何长工纪念馆](https://mp.weixin.qq.com/s/QDDgiH_tm2YvmhMOBPbb4w) [城陵矶新港区](https://mp.weixin.qq.com/s/ALT3fANhOLzos1NpLPq-CQ) [经开区](https://mp.weixin.qq.com/s/jJdF8buY36z-_sb0mWzoaQ) [华龙码头](https://mp.weixin.qq.com/s/XWEZb1zjCMoNem8tHRW5_Q)
 
-**相关报道**：[华隆酸菜](https://mp.weixin.qq.com/s/II6ONH89bMcXSlv-xVyeqg)，[岳阳人才集团](https://mp.weixin.qq.com/s/Vgn0tF_1COH0TJYGeSCAIQ)
+**相关报道** [华隆酸菜](https://mp.weixin.qq.com/s/II6ONH89bMcXSlv-xVyeqg) [岳阳人才集团](https://mp.weixin.qq.com/s/Vgn0tF_1COH0TJYGeSCAIQ)
 
-**[调研报告](https://charlie-pku.github.io/file/yueyang_report_2024.pdf)，[Slides](https://charlie-pku.github.io/file/yueyang_report_slides_2024.pdf)**
+**[调研报告](https://charlie-pku.github.io/file/yueyang_report_2024.pdf) [Slides](https://charlie-pku.github.io/file/yueyang_report_slides_2024.pdf)**
 
 <br>
 
 ### **2023**
 
 
-- ⭐⭐⭐2023/07：**TECC（Technology & Education: Connecting
+- ⭐⭐⭐Jul. 2023: **TECC（Technology & Education: Connecting
 Cultures）河南登封暑期支教项目**
 
 *同北京大学、中国人民大学的同学们作为志愿者前往河南省郑州市登封市的[嵩阳高中](https://mp.weixin.qq.com/s?__biz=MzI0Mjc0NzgzMw==&mid=2247527099&idx=1&sn=a6f513b05bf7e61fdfd3fc8742c1a340&chksm=e975ba6dde02337bd1ffc294911f07279b64a6d4d8c4ef7c1f8d077e0bd863196abd753cc9c4&scene=126&sessionid=1690979056#rd)开展为期一周的支教项目，主要指导高中生们进行项目制学习与社会调研* 
 
 <br>
 
-**微信推文**：嵩阳诗剧 [Day1](https://mp.weixin.qq.com/s/x6r4_ylvgpd9Rkv9M2hjNw)，[Day2](https://mp.weixin.qq.com/s/gp0BTo-RYdf--YtzkzYVYg)，[Day3-4](https://mp.weixin.qq.com/s/hTfqbXjUUTDBjMRHvfbyRA)，[Day5-6](https://mp.weixin.qq.com/s/b48WpkYIaJYUYn2QFvk3hA)，[Day7](https://mp.weixin.qq.com/s/laeye-krRb-JJ5yi92d7cg)
+**微信推文** 嵩阳诗剧 [Day1](https://mp.weixin.qq.com/s/x6r4_ylvgpd9Rkv9M2hjNw) [Day2](https://mp.weixin.qq.com/s/gp0BTo-RYdf--YtzkzYVYg) [Day3-4](https://mp.weixin.qq.com/s/hTfqbXjUUTDBjMRHvfbyRA) [Day5-6](https://mp.weixin.qq.com/s/b48WpkYIaJYUYn2QFvk3hA) [Day7](https://mp.weixin.qq.com/s/laeye-krRb-JJ5yi92d7cg)
 
-**[总结视频](https://www.bilibili.com/video/BV1hQ4y1n76R/?spm_id_from=333.999.0.0)**、**[碎片](https://mp.weixin.qq.com/s/wnVhtnuy-Mo2_eqJX53tsQ)**
+**[总结视频](https://www.bilibili.com/video/BV1hQ4y1n76R/?spm_id_from=333.999.0.0)** **[碎片](https://mp.weixin.qq.com/s/wnVhtnuy-Mo2_eqJX53tsQ)**
 
 <br>
 
 ### **2022**
 
 
-- ⭐⭐⭐2022/08 - 2022/09：**北京大学新生训练营辅导员（爱国28班）**
+- ⭐⭐⭐Aug. 2022 - Sep. 2022: **北京大学新生训练营辅导员（爱国28班）**
 
 *带领18名物理学院2022级本科新生开展为期六天的入学教育与新生适应活动*
 
@@ -104,13 +107,13 @@ Cultures）河南登封暑期支教项目**
 
 ### **2021**
 
-- ⭐⭐2021/10 - 2022/01：**北京大学与思克莱德大学（University of Strathclyde）等高校线上交流项目（主题：全球气候变化与行动）** 
+- ⭐⭐Oct. 2021 - Jan. 2022: **北京大学与思克莱德大学（University of Strathclyde）等高校线上交流项目（主题：全球气候变化与行动）** 
 
 *制作[交流PPT](https://charlie-pku.github.io/file/communication_2021.pptx)，拍摄视频并参与线上Zoom会议*
 
 <br>
 
-- ⭐⭐⭐2021/09：**清华-人大第六届模拟联合国气候变化大会（MCCCOP 6）**
+- ⭐⭐⭐Sep. 2021: **清华-人大第六届模拟联合国气候变化大会（MCCCOP 6）**
 
 
 **合作者**：李美欣（RUC），姜敬泽（RUC），赵艺隆（THU）
@@ -124,27 +127,27 @@ Cultures）河南登封暑期支教项目**
 
 <br>
 
-- ⭐⭐2021/07：**北京大学环境科学与工程学院-环境综合实习（一）** 
+- ⭐⭐Jul. 2021: **北京大学环境科学与工程学院-环境综合实习（一）** 
 
 *前往上海市开展为期五天的综合实习*
 
 <br>
 
-**微信推文**： 上海之行 [起航&第一天](https://mp.weixin.qq.com/s/4etRaM7z9YXztdDjUaarNw)，[第二天](https://mp.weixin.qq.com/s/K13EMd903p2PcZoO9LphsA)，[第三天](https://mp.weixin.qq.com/s/n5Gz2qAsMpT20FCKygyicA)，[第四天](https://mp.weixin.qq.com/s/wGW5SNwqxSFxuF2WgKAjNQ)，[第五天](https://mp.weixin.qq.com/s/qkKk9mVZMycOYyMRbg887Q)
+**微信推文** 上海之行 [起航&第一天](https://mp.weixin.qq.com/s/4etRaM7z9YXztdDjUaarNw) [第二天](https://mp.weixin.qq.com/s/K13EMd903p2PcZoO9LphsA) [第三天](https://mp.weixin.qq.com/s/n5Gz2qAsMpT20FCKygyicA) [第四天](https://mp.weixin.qq.com/s/wGW5SNwqxSFxuF2WgKAjNQ) [第五天](https://mp.weixin.qq.com/s/qkKk9mVZMycOYyMRbg887Q)
 
-[个人实习日志](https://charlie-pku.github.io/file/journal_shanghai_2021.pdf)、[个人实习报告](https://charlie-pku.github.io/file/report_shanghai_2021.pdf)、[小组汇报展示](https://charlie-pku.github.io/file/pre_shanghai_2021.pdf)
+[个人实习日志](https://charlie-pku.github.io/file/journal_shanghai_2021.pdf) [个人实习报告](https://charlie-pku.github.io/file/report_shanghai_2021.pdf) [小组汇报展示](https://charlie-pku.github.io/file/pre_shanghai_2021.pdf)
 
 <br>
 
-- ⭐⭐2021/07：**北京大学环境科学与工程学院-环境综合实习（二）** 
+- ⭐⭐Jul. 2021:**北京大学环境科学与工程学院-环境综合实习（二）** 
 
 *前往河北承德塞罕坝开展大气、水与土壤样品的采集、监测与后分析工作*
 
 <br>
 
-**微信推文**：坝上实习 [起航&第一天](https://mp.weixin.qq.com/s/VuEZ3o7QhPoFxRM6UflbkQ)，[第二天](https://mp.weixin.qq.com/s/dvn-yPrm-cUck0DY_9QPog)，[第三天](https://mp.weixin.qq.com/s/c9JzlbXvP-cL5xl1gi6ZEQ)，[第四天](https://mp.weixin.qq.com/s/dCsov_dpVoFRQutVhT-q-g)，[第五天](https://mp.weixin.qq.com/s/gJmLbUpBZMKDczjWyr00dg)
+**微信推文** 坝上实习 [起航&第一天](https://mp.weixin.qq.com/s/VuEZ3o7QhPoFxRM6UflbkQ) [第二天](https://mp.weixin.qq.com/s/dvn-yPrm-cUck0DY_9QPog) [第三天](https://mp.weixin.qq.com/s/c9JzlbXvP-cL5xl1gi6ZEQ) [第四天](https://mp.weixin.qq.com/s/dCsov_dpVoFRQutVhT-q-g) [第五天](https://mp.weixin.qq.com/s/gJmLbUpBZMKDczjWyr00dg)
 
-[个人实习日志](https://charlie-pku.github.io/file/journal_saihanba_2021.pdf)、[小组汇报展示](https://charlie-pku.github.io/file/pre_saihanba_2021.pdf)、[小组海报展示](https://charlie-pku.github.io/file/poster_saihanba_2021.pdf)
+[个人实习日志](https://charlie-pku.github.io/file/journal_saihanba_2021.pdf) [小组汇报展示](https://charlie-pku.github.io/file/pre_saihanba_2021.pdf) [小组海报展示](https://charlie-pku.github.io/file/poster_saihanba_2021.pdf)
 
 
 <br>
@@ -152,7 +155,7 @@ Cultures）河南登封暑期支教项目**
 ### **2020**
 
 
-- ⭐2020/07 - 2020/08：**北京大学联合武汉大学“江河未名志，滴水珞珈情”水环境与防洪知识普及实践活动** 
+- ⭐Jul. 2020 - Aug. 2020: **北京大学联合武汉大学“江河未名志，滴水珞珈情”水环境与防洪知识普及实践活动** 
 
 协助学长学姐制作[饮用水标准科普推送](https://mp.weixin.qq.com/s/66te9_0c926UWK142_A_AA)，并撰写新闻稿
 
@@ -162,14 +165,15 @@ Cultures）河南登封暑期支教项目**
 
 <br>
 
-- ⭐⭐2020/07：**北京大学2020“横县新生态，城乡新环保”思政实践** 
+- ⭐⭐Jul. 2020: **北京大学2020“横县新生态，城乡新环保”思政实践** 
 
 *前往广西壮族自治区南宁市横县（如今为横州市）[开展思政实践活动](https://mp.weixin.qq.com/s/C8rVni1sRsLsL7HE-ZQHAg)，主要了解横县当地茉莉花产业发展情况，并与当地政府官员进行座谈交流*
 
 <br>
 
-**微信推文**： [Day1](https://mp.weixin.qq.com/s/IK4yv2sdwPg9rtamNElLCA)，[Day2](https://mp.weixin.qq.com/s/rianpMavMV7jslf0VovN3A)，[课程纪实](https://mp.weixin.qq.com/s/A5av2dykQeToJjXa_95rvA)，[总结会](https://mp.weixin.qq.com/s/SKXaT0p9vP2xe7lufJqzHQ)
+**微信推文** [Day1](https://mp.weixin.qq.com/s/IK4yv2sdwPg9rtamNElLCA) [Day2](https://mp.weixin.qq.com/s/rianpMavMV7jslf0VovN3A) [课程纪实](https://mp.weixin.qq.com/s/A5av2dykQeToJjXa_95rvA) [总结会](https://mp.weixin.qq.com/s/SKXaT0p9vP2xe7lufJqzHQ)
 
+**横县碎片** [第一篇](https://mp.weixin.qq.com/s/JAc9VcXI-hWzulFSlWfARg) [第二篇](https://mp.weixin.qq.com/s/z8Yqvt8GilJwnxgoiou4sw) [第三篇](https://mp.weixin.qq.com/s/erIMd7NoztojNu_tyopBTQ) [第四篇](https://mp.weixin.qq.com/s/V8fSQj_1r_ncIcZjmLiiQA)
 
 <br>
 
@@ -238,9 +242,9 @@ Cultures）河南登封暑期支教项目**
 - Mar. 2020 - Sep. 2021: “北大青年”编辑部调查组**组员**
 - Sep. 2020 - Jul. 2023: 北京大学学生国际交流协会（SICA）公共事务（PA）部**部员**
 - Mar. 2021 - Mar. 2022: 北京大学环境科学与工程学院融媒体文案部**副部长**
-- 2021/09 - 2022/09：北京大学学生环境公共政策研究社（IoEPP）**社长**
-- 2021/09 - 2022/06：北京大学环境科学与工程学院团委**书记助理**
-- 2020/02 - 至今：胜寒高智商俱乐部[**终身会员**](http://www.shenghan.org/FANGCHEN)
+- Sep. 2021 - Sep. 2022: 北京大学学生环境公共政策研究社（IoEPP）**社长**
+- Sep. 2021 - Jun. 2022: 北京大学环境科学与工程学院团委**书记助理**
+- Feb. 2020 - Now: 胜寒高智商俱乐部[**终身会员**](http://www.shenghan.org/FANGCHEN)
 
 <br>
 
@@ -251,7 +255,7 @@ Cultures）河南登封暑期支教项目**
 
 ### **2024**
 
-- ⭐⭐2021/10 – 2024/01：**[美丽中国（Teaching for China, TFC）书信交流项目](https://mp.weixin.qq.com/s/ulsGdiV1xbxV3UryFmSzow)**
+- ⭐⭐Oct. 2021 - Jan. 2024: **[美丽中国（Teaching for China, TFC）书信交流项目](https://mp.weixin.qq.com/s/ulsGdiV1xbxV3UryFmSzow)**
 
 *和云南太平中学的初中学生进行多次书信交流*
 
@@ -259,7 +263,7 @@ Cultures）河南登封暑期支教项目**
 
 ### **2023**
 
-- ⭐2023/10：**清华大学顾问委员会进课堂课程助教**
+- ⭐Oct. 2023：**清华大学顾问委员会进课堂课程助教**
 
 &#8194; &#8194; ***活动前期**：负责同学的报名与对接*
 
@@ -268,7 +272,7 @@ Cultures）河南登封暑期支教项目**
 ***活动后**：撰写新闻稿[《轻舟再过万重山》](https://mp.weixin.qq.com/s/Q43RjWYnXynE8RJEykgUrg)发布在“清华大学经济管理学院”官微，并撰写Summary文件*
 
 
-- 2023/09：**清华大学国际交换生迎新志愿者**
+- Sep. 2023: **清华大学国际交换生迎新志愿者**
 
 *在清华大学紫荆23号楼的国际学生学者中心处参与迎新工作，主要负责护照、签证与临时入住登记表的复印与引导工作*
 
@@ -276,33 +280,33 @@ Cultures）河南登封暑期支教项目**
 
 ### **2022**
 
-- 2022/11：**北京大学国家发展研究院挑战杯宣讲**
+- Nov. 2022: **北京大学国家发展研究院挑战杯宣讲**
 
-*作为往届参赛选手进行经验分享与答疑*
+*作为往届参赛选手代表进行经验分享与答疑*
 
 
-- 2022/11：**北京大学新结构经济学研究院经济结构转型全球研究联盟年会（GReCEST Annual Conference）志愿者**
+- Nov. 2022: **北京大学新结构经济学研究院经济结构转型全球研究联盟年会（GReCEST Annual Conference）志愿者**
 
 *参与会议纪要整理与新闻稿撰写*
 
-- 2022/08：**北京大学2022年研究生迎新志愿者**
+- Aug. 2022: **北京大学2022年研究生迎新志愿者**
 
 *在近邻宝地下室中的“行李堆放处”为新生同学搬运并发放托运的行李*
 
-- 2022/06：**北京大学环境科学与工程学院2022年毕业典礼志愿者**
+- Jun. 2022: **北京大学环境科学与工程学院2022年毕业典礼志愿者**
 
 *组织毕业合影的拍摄，维持拨穗环节的秩序*
 
-- 2022/06：**北京大学2022年研究生毕业典礼志愿者**
+- Jun. 2022: **北京大学2022年研究生毕业典礼志愿者**
 
 *引导医学部同学进入五四操场观看毕业典礼，典礼结束后引导同学退场进入邱德拔体育馆参与拨穗仪式*
 
 
-- 2022/04：**北京大学“面试大课堂”面试助理**
+- Apr. 2022: **北京大学“面试大课堂”面试助理**
 
 *对接面试官和面试者，安排面试顺序，记录并汇总面试官意见并反馈给参与面试的同学*
 
-- 2022/02 – 2022/04：**首届Circular-360°青年循环经济挑战赛（Remotely）** 
+- Feb. 2022 - Apr. 2022: **首届Circular-360°青年循环经济挑战赛（Remotely）** 
 
 
 *为燕麦奶品牌Oatly设计环保可回收包装与可持续发展的经营模式（由于疫情，后续路演环节未进行）*
@@ -314,16 +318,16 @@ Cultures）河南登封暑期支教项目**
 
 ### **2021**
 
-- 2021/10：**北京大学新工科国际论坛“生态文明与环境健康”分论坛志愿者**
+- Oct. 2021: **北京大学新工科国际论坛“生态文明与环境健康”分论坛志愿者**
 
 *负责现场指引与递话筒工作*
 
 
-- 2021/07：**北京大学2021年毕业典礼志愿者**
+- Jul. 2021: **北京大学2021年毕业典礼志愿者**
 
 *指引路线并协助家长进入教室就坐，收看毕业典礼转播*
 
-- ⭐⭐2021/07：**北京大学暑期学校课程主持人（课程名：Environmental Challenge and Sustainable Development in China）**
+- ⭐⭐Jul. 2021: **北京大学暑期学校课程主持人（课程名：Environmental Challenge and Sustainable Development in China）**
 
 *制作[PPT](https://charlie-pku.github.io/file/Marine_Plastic_Pollution_2021.pptx)，在线上与同学们分享海洋塑料污染的有关知识*
 
@@ -332,39 +336,39 @@ Cultures）河南登封暑期支教项目**
 
 ### **2020**
 
-- 2020/12：**“衣份捐赠，衣份温暖”旧衣回收志愿活动**
+- Dec. 2020: **“衣份捐赠，衣份温暖”旧衣回收志愿活动**
 
 *搜集不同宿舍楼下放置的旧衣回收箱*
 
 
-- 2020/11：**北京大学食堂防疫志愿者**
+- Nov. 2020: **北京大学食堂防疫志愿者**
 
 *监督同学进入食堂时佩戴好口罩*
 
 
-- 2020/09：**北京大学2020年开学典礼志愿者**
+- Sep. 2020: **北京大学2020年开学典礼志愿者**
 
 *负责带领医学部新生入场*
 
 
-- ⭐2020/07：**2020年北京大学招生志愿者** 
+- ⭐Jul. 2020: **2020年北京大学招生志愿者** 
 
 *参与四川绵阳的招生报考、咨询工作，并负责理工科学习体验介绍*
 
 
-- 2020/04 - 2020/06：**“壹桌计划”（[Desk for Us](https://mp.weixin.qq.com/s/IXBYg-TxlVAVjiuuxhOfaA)）公益项目志愿者**
+- Apr. 2020 - Jun. 2020: **“壹桌计划”（[Desk for Us](https://mp.weixin.qq.com/s/IXBYg-TxlVAVjiuuxhOfaA)）公益项目志愿者**
 
 *借助网络平台和武汉地区的高三同学进行物理学科一对一的线上家教，同时提供精神陪伴与学习方法指导*
 
 
-- 2020/02 - 2020/04：**社区新冠肺炎疫情防控志愿者**
+- Feb. 2020 - Apr. 2020: **社区新冠肺炎疫情防控志愿者**
 
 *为返乡人员进行体温监测，指导居民申请电子通行证等*
 
 [推送报道](https://mp.weixin.qq.com/s/Zu_keP_rvzx7Qgpm6Or4cw)
 
 
-- 2020/01： **北京大学“领航新燕”2020年返乡社会实践活动志愿者**
+- Jan. 2020: **北京大学“领航新燕”2020年返乡社会实践活动志愿者**
 
 *前往高中母校面向高中生进行[招生宣讲](https://charlie-pku.github.io/file/PKU_2022.pdf)与学习经验分享*
 
@@ -372,7 +376,7 @@ Cultures）河南登封暑期支教项目**
 
 ### **2019**
 
-- 2019/10 - 2020/08：**北京大学心理协会“尺素心语”交流活动志愿者**
+- Oct. 2019 - Aug. 2020: **北京大学心理协会“尺素心语”交流活动志愿者**
 
 *和河北一所中学的初中生进行书信交流*
 
