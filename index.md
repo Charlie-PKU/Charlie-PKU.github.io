@@ -84,14 +84,17 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 ## Skills and Hobbies 🚩
 
-- **Language**: English (CET-4: 650; CET-6: 621); Chinese (mother tongue)
+- **Language**
+  - English (CET-4: 650; CET-6: 621)
+  - Chinese (mother tongue)
 
-- **Techniques**: 
+- **Techniques**
   - LaTeX, Python, STATA, R, QGIS, MATLAB😥, SPSS😥 
   - Adobe illustrator, Jianying
   - MS Officie, Xiumi
 
-- **Hobbies**: 
+
+- **Hobbies**
   - 🏊 Swimming, Badminton
   - 📺 Quiz Shows, Movies, TV Series, Reality Shows 
   - 📖 Literary (Classical Poetry, Contemporary Novel and Prose)
