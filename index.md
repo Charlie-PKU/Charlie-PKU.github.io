@@ -29,7 +29,7 @@ Click [here](https://charlie-pku.github.io/file/CV/CV_Chen.pdf) for my full CV.
 
 **Sep 2023 - June 2028 (Expected):** [Tsinghua University (THU)](https://www.tsinghua.edu.cn/)
 
-* [School of Economics and Management](https://www.sem.tsinghua.edu.cn/)
+[School of Economics and Management](https://www.sem.tsinghua.edu.cn/)
 
 <div style="text-align:right;">
     PhD student in Applied Economics
