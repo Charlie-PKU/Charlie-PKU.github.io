@@ -27,7 +27,7 @@ Click [here](https://charlie-pku.github.io/file/CV/CV_Chen.pdf) for my full CV.
 
 ## Academic Background 🎓
 
-&#8194;&#8194; **Sep 2023 - June 2028 (Expected):** [Tsinghua University (THU)](https://www.tsinghua.edu.cn/)
+&#8194;&#8194; **Sep. 2023 - Jun. 2028 (Expected):** [Tsinghua University (THU)](https://www.tsinghua.edu.cn/)
 
 - [School of Economics and Management](https://www.sem.tsinghua.edu.cn/)
 
@@ -38,7 +38,7 @@ Click [here](https://charlie-pku.github.io/file/CV/CV_Chen.pdf) for my full CV.
 <br>
 
 
-**Sep 2019 - June 2023:** [Peking University (PKU)](https://www.pku.edu.cn/) 
+**Sep. 2019 - Jun. 2023:** [Peking University (PKU)](https://www.pku.edu.cn/) 
 
 - **Major**		[College of Environmental Sciences and Engineering (CESE)](https://cese.pku.edu.cn/)
 
