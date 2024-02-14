@@ -60,7 +60,7 @@ with Tingyu Cui and Yushuai Zhang
 - **"Research on Transnational Mobility of Researchers based on Multi-Agent Modeling: A case study of Artificial Intelligence"**
 
 
-&#8194;&#8194; [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/Mobility_2023.pdf)
+&#8194;&#8194;  [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/Mobility_2023.pdf)
 
 
 with Wenjie Chen and [Chao Min](https://min-chao.github.io/)
