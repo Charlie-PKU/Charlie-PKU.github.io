@@ -4,8 +4,7 @@ permalink: /research/index.html
 title: Research
 lang: french
 ---
-
-> Lastest Update: 13rd Feb 2024
+> Lastest Update: February 14, 2024
 
 <!-- [中文版本 (Chinese Version)](https://charlie-pku.github.io/file/publications-zh/) -->
 
@@ -13,94 +12,70 @@ lang: french
 
 - **"The Effect of Key Pollutant Discharge Firms on Local Second-hand Housing Prices in Guangdong Province"**
 
-
 &#8194;&#8194; (*Undergraduate Thesis of PKU, Oct. 2022 - Jun. 2023*)
 
+[Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/perception_slides_2023.pdf)
 
-[Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/perception_slides_2023.pdf) 
-
-
-with [Yana Jin](http://scholar.pku.edu.cn/yjin)  
-
+with [Yana Jin](http://scholar.pku.edu.cn/yjin)
 
 <!-- <img src="https://charlie-pku.github.io/images/research/perception_2023.jpg"> -->
-
-
 
 <br>
 
 - **"An Integrated Assessment of Provincial Economic Damages from Climate Change in China"**
 
-
 &#8194;&#8194; (*RA program in [3E Institute](http://www.3e.tsinghua.edu.cn/cn), THU, Feb. 2023 - now*)
-
 
 [Extended Abstract](https://charlie-pku.github.io/mypaper/Working_Papers/IAM_2024.pdf) (for EAERE 2024 Annual Meeting)
 
-
 with Hantang Peng, [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/article/311), [Da Zhang](www.energyda.cn) and [Xiliang Zhang](http://www.3e.tsinghua.edu.cn/cn/article/slug/news-member-teacher-zsl)
-
 
 <br>
 
 - **"Forest Autonomy and Forest Carbon Sink Potential: Evidence from Northeast China"**
 
-
 &#8194;&#8194; (*30th Challenge Cup Program of PKU, Oct. 2021 - Jun. 2022*)
-
 
 [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/forest_2022.pdf)
 
-
 with Tingyu Cui and Yushuai Zhang
-
 
 <br>
 
 - **"Research on Transnational Mobility of Researchers based on Multi-Agent Modeling: A case study of Artificial Intelligence"**
 
-
 &#8194;&#8194;  [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/Mobility_2023.pdf)
-
 
 with Wenjie Chen and [Chao Min](https://min-chao.github.io/)
 
-
 <br>
 
-- **"Trade Ban and Environmental Pollution: A Policy Evaluation on Trade Ban of Foreign Garbage"** 
-
+- **"Trade Ban and Environmental Pollution: A Policy Evaluation on Trade Ban of Foreign Garbage"**
 
 &#8194;&#8194; (*Course Thesis of **Public Policy Evaluation** in PKU, Mar. 2022 - Jul. 2022*)
 
-
 [Manuscript (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/garbage_2023.pdf)
-
 
 with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
-
 <br>
-
 
 ---
 
 ## Publications 📑
 
-&#8194;&#8194; [1] "[Negative emission technology is key to decarbonizing China's cement industry](https://doi.org/10.1016/j.apenergy.2022.120254)" with Ming Ren, Teng Ma, Xiaorui Liu, Chaoyi Guo, Silu Zhang, Ziqiao Zhou, Yanlei Zhu, [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai/home) and Chen Huang. *Applied Energy* (2023), 329, 120254.
+&#8194;&#8194; [1] "[Negative emission technology is key to decarbonizing China&#39;s cement industry](https://doi.org/10.1016/j.apenergy.2022.120254)" with Ming Ren, Teng Ma, Xiaorui Liu, Chaoyi Guo, Silu Zhang, Ziqiao Zhou, Yanlei Zhu, [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai/home) and Chen Huang. *Applied Energy* (2023), 329, 120254.
 
 [Published Version](https://charlie-pku.github.io/mypaper/Published_Thesis/cement_2023.pdf)
-
-
 
 <details>
   <summary>Abstract ⚓ </summary>
 
-  <br>
-  
-  <font color='grey'>The cement industry, which contributes to 8% of global CO2 emissions and a large quantity of air pollutants, plays a pivotal role in achieving the carbon neutrality target. However, the question of how to decarbonize the cement industry toward net-zero emissions and the corresponding environmental impact remains unclear. An integrated assessment framework combining a top-down computable general equilibrium model, a bottom-up technology selection model, and a life-cycle assessment was developed to explore the cement industry's carbon–neutral pathways and associated environmental impact. Results show that promoting energy-efficient technologies is crucial for reducing CO2 emissions in the short term, which can also significantly reduce air pollutant emissions. Improving energy efficiency contributes to reducing the emissions of SO2, NOx, and PM2.5, by 33%, 35%, and 8%, respectively, by 2030. In the long run, achieving net-zero carbon emissions requires implementation of bioenergy with carbon capture and storage (BECCS) and demand-side mitigation measures. The share of kilns equipped with BECCS would increase to 68–75% by 2060. Corresponding unit abatement costs of CO2 are 484–676 CNY/tonne CO2. However, BECCS triggers adverse side effects by increasing water consumption and land cover by 7–11 km3 and 3–4 Mha, respectively, in 2060. Thus, China should take full advantage of energy-efficient technologies to co-control CO2 and air pollutant emissions while avoiding negative effects of BECCS.</font>
-</details>
+<br>
 
+  `<font color='grey'>`The cement industry, which contributes to 8% of global CO2 emissions and a large quantity of air pollutants, plays a pivotal role in achieving the carbon neutrality target. However, the question of how to decarbonize the cement industry toward net-zero emissions and the corresponding environmental impact remains unclear. An integrated assessment framework combining a top-down computable general equilibrium model, a bottom-up technology selection model, and a life-cycle assessment was developed to explore the cement industry's carbon–neutral pathways and associated environmental impact. Results show that promoting energy-efficient technologies is crucial for reducing CO2 emissions in the short term, which can also significantly reduce air pollutant emissions. Improving energy efficiency contributes to reducing the emissions of SO2, NOx, and PM2.5, by 33%, 35%, and 8%, respectively, by 2030. In the long run, achieving net-zero carbon emissions requires implementation of bioenergy with carbon capture and storage (BECCS) and demand-side mitigation measures. The share of kilns equipped with BECCS would increase to 68–75% by 2060. Corresponding unit abatement costs of CO2 are 484–676 CNY/tonne CO2. However, BECCS triggers adverse side effects by increasing water consumption and land cover by 7–11 km3 and 3–4 Mha, respectively, in 2060. Thus, China should take full advantage of energy-efficient technologies to co-control CO2 and air pollutant emissions while avoiding negative effects of BECCS.`</font>`
+
+</details>
 
 <br>
 
@@ -108,29 +83,28 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
 [Published Version](https://charlie-pku.github.io/mypaper/Published_Thesis/bioenergy_2023.pdf)
 
-
-
 <details>
   <summary>Abstract ⚓ </summary>
 
-  <br>
-  
-  <font color='grey'>Most ambitious climate change mitigation pathways indicate multifold bioenergy expansion to support the energy transition, which may trigger increased biomass imports from major bioenergy-consuming regions. However, the potential global land-use change and sustainability trade-offs alongside the bioenergy trade remain poorly understood. Here, we apply the Global Biosphere Management Model (GLOBIOM) to investigate and compare the effects of different increasing bioenergy import strategies in line with the 1.5&#8451;-compatible bioenergy demand in China, which is projected to represent 30% of global bioenergy consumption by the middle of the century. The results show that sourcing additional bioenergy from different world regions could pose heterogeneous impacts on the local and global land systems, with implications on food security, greenhouse gas emissions, and water and fertilizer demand. In the worst cases under strict trade settings, relying on biomass import may induce up to 25% of unmanaged forests converted to managed ones in the supplying regions, while in an open trade environment, increasing bioenergy imports would drastically change the trade flows of staple agricultural or forestry products, which would further bring secondary land-use changes in other world regions. Nevertheless, an economically optimized biomass import portfolio for China has the potential to reduce global overall sustainability trade-offs with food security and emission abatement. However, these benefits vary with indicator and time and are conditional on stricter land-use regulations. Our findings thus shed new light on the design of bioenergy trade strategies and the associated land-use regulations in individual countries in the era of deep decarbonization.</font>
-</details>
+<br>
 
+  `<font color='grey'>`Most ambitious climate change mitigation pathways indicate multifold bioenergy expansion to support the energy transition, which may trigger increased biomass imports from major bioenergy-consuming regions. However, the potential global land-use change and sustainability trade-offs alongside the bioenergy trade remain poorly understood. Here, we apply the Global Biosphere Management Model (GLOBIOM) to investigate and compare the effects of different increasing bioenergy import strategies in line with the 1.5&#8451;-compatible bioenergy demand in China, which is projected to represent 30% of global bioenergy consumption by the middle of the century. The results show that sourcing additional bioenergy from different world regions could pose heterogeneous impacts on the local and global land systems, with implications on food security, greenhouse gas emissions, and water and fertilizer demand. In the worst cases under strict trade settings, relying on biomass import may induce up to 25% of unmanaged forests converted to managed ones in the supplying regions, while in an open trade environment, increasing bioenergy imports would drastically change the trade flows of staple agricultural or forestry products, which would further bring secondary land-use changes in other world regions. Nevertheless, an economically optimized biomass import portfolio for China has the potential to reduce global overall sustainability trade-offs with food security and emission abatement. However, these benefits vary with indicator and time and are conditional on stricter land-use regulations. Our findings thus shed new light on the design of bioenergy trade strategies and the associated land-use regulations in individual countries in the era of deep decarbonization.`</font>`
+
+</details>
 
 <br>
 
-[3] "[Enhanced food system efficiency is the key to China's 2060 carbon neutrality target](https://doi.org/10.1038/s43016-023-00790-1)" with Ming Ren, Chen Huang, Yazhen Wu, Andre Deppermann, Stefan Frank, Petr Havlík, Yuyao Zhu, Xiaotian Ma, Yong Liu, Hao Zhao, Jinfeng Chang, Lin Ma, Zhaohai Bai, Shasha Xu and [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai/home). *Nature Food* (2023), 1-13.
+[3] "[Enhanced food system efficiency is the key to China&#39;s 2060 carbon neutrality target](https://doi.org/10.1038/s43016-023-00790-1)" with Ming Ren, Chen Huang, Yazhen Wu, Andre Deppermann, Stefan Frank, Petr Havlík, Yuyao Zhu, Xiaotian Ma, Yong Liu, Hao Zhao, Jinfeng Chang, Lin Ma, Zhaohai Bai, Shasha Xu and [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai/home). *Nature Food* (2023), 1-13.
 
 [Published Version](https://charlie-pku.github.io/mypaper/Published_Thesis/food_2023.pdf)
 
 <details>
   <summary>Abstract ⚓ </summary>
 
-  <br>
+<br>
 
-  <font color='grey'>Bioenergy with carbon capture and storage, among other negative-emission technologies, is required for China to achieve carbon neutrality—yet it may hinder land-based Sustainable Development Goals. Using modelling and scenario analysis, we investigate how to mitigate the potential adverse impacts on the food system of ambitious bioenergy deployment in China and its trading partners. We find that producing bioenergy domestically while sticking to the food self-sufficiency ratio redlines would lower China's daily per capita calorie intake by 8% and increase domestic food prices by 23% by 2060. Removing China's food self-sufficiency ratio restrictions could halve the domestic food dilemma but risks transferring environmental burdens to other countries, whereas halving food loss and waste, shifting to healthier diets and narrowing crop yield gaps could effectively mitigate these external effects. Our results show that simultaneously achieving carbon neutrality, food security and global sustainability requires a careful combination of these measures.</font>
+  `<font color='grey'>`Bioenergy with carbon capture and storage, among other negative-emission technologies, is required for China to achieve carbon neutrality—yet it may hinder land-based Sustainable Development Goals. Using modelling and scenario analysis, we investigate how to mitigate the potential adverse impacts on the food system of ambitious bioenergy deployment in China and its trading partners. We find that producing bioenergy domestically while sticking to the food self-sufficiency ratio redlines would lower China's daily per capita calorie intake by 8% and increase domestic food prices by 23% by 2060. Removing China's food self-sufficiency ratio restrictions could halve the domestic food dilemma but risks transferring environmental burdens to other countries, whereas halving food loss and waste, shifting to healthier diets and narrowing crop yield gaps could effectively mitigate these external effects. Our results show that simultaneously achieving carbon neutrality, food security and global sustainability requires a careful combination of these measures.`</font>`
+
 </details>
 
 <br>
@@ -145,42 +119,44 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
     Aug. 2021 - now
 </div>
 
-- **Instructor:** 
+- **Instructor:**
+
   - [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/article/311)
   - [Da Zhang](www.energyda.cn)
   - [Xiliang Zhang](http://www.3e.tsinghua.edu.cn/cn/article/slug/news-member-teacher-zsl)
+- **Topic:**
 
-- **Topic:** 
   - The Economic Impact of Carbon Peak and Neutrality in China
   - China's Green and Low-carbon Transition
+- **Responsibility:**
 
-- **Responsibility:** 
   - Collecting and processing energy economic data
   - Collecting policy information and literature
   - Participating in writing research reports, etc.
-
 - **Main Progress 1 (Aug. 2021 - Dec. 2021):** Assist in completing the project "The Characteristics and Enlightenment of major economies to achieve carbon peaking".
 
 <details>
   <summary>Contribution ⚓ </summary>
 
-  <br>
+<br>
 
-  <font color='grey'>(1) Data collection and processing. According to the US input-output table to integrate the added value of the sector and import and export data; collect the production volume of high-energy-consuming products such as steel and non-ferrous metals in China and the world, calculate the proportion, and the proportion of the industrial structure when the carbon peak of each developed country reaches the peak.</font>
-  <br>
-  <font color='grey'>(2) Literature survey. Collecting the changes and characteristics of low-carbon transition policies in developed countries.</font>
+  `<font color='grey'>`(1) Data collection and processing. According to the US input-output table to integrate the added value of the sector and import and export data; collect the production volume of high-energy-consuming products such as steel and non-ferrous metals in China and the world, calculate the proportion, and the proportion of the industrial structure when the carbon peak of each developed country reaches the peak.`</font>`
+  `<br>`
+  `<font color='grey'>`(2) Literature survey. Collecting the changes and characteristics of low-carbon transition policies in developed countries.`</font>`
+
 </details>
 
- - **Main Progress 2 (Mar. 2022 - Jun. 2022):** complete the separation of China's 2017 and 2019 annual power data.
+- **Main Progress 2 (Mar. 2022 - Jun. 2022):** complete the separation of China's 2017 and 2019 annual power data.
 
 <details>
   <summary>Contribution ⚓ </summary>
 
-  <br>
+<br>
 
-  <font color='grey'>(1) Collect the power generation data of different provinces and technologies in China, and calculate the data of "kWh of coal consumption" for coal, electricity, and electricity.</font>
-  <br>
-  <font color='grey'>(2) Use the national "degree of thermal coal consumption" data to convert coal power and gas power generation.</font>
+  `<font color='grey'>`(1) Collect the power generation data of different provinces and technologies in China, and calculate the data of "kWh of coal consumption" for coal, electricity, and electricity.`</font>`
+  `<br>`
+  `<font color='grey'>`(2) Use the national "degree of thermal coal consumption" data to convert coal power and gas power generation.`</font>`
+
 </details>
 
 - **Main Progress 3 (Jul. 2022 - Dec. 2022):** Calculate the original input data and update health evaluation part of CGE model.
@@ -188,24 +164,25 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 <details>
   <summary>Contribution ⚓ </summary>
 
-  <br>
+<br>
 
-  <font color='grey'>(1) Using ARIMA (Integrated Moving Average Autoregressive Model) time series method to predict the future GDP growth rate of different provinces in China.</font>
-  <br>
-  <font color='grey'>(2) The part of health benefit evaluation in GAMS file of CGE model was updated to new concentration-response function of PM2.5, the GEMM (Global Exposure Mortality Model) evaluation method of epidemiology.</font>
+  `<font color='grey'>`(1) Using ARIMA (Integrated Moving Average Autoregressive Model) time series method to predict the future GDP growth rate of different provinces in China.`</font>`
+  `<br>`
+  `<font color='grey'>`(2) The part of health benefit evaluation in GAMS file of CGE model was updated to new concentration-response function of PM2.5, the GEMM (Global Exposure Mortality Model) evaluation method of epidemiology.`</font>`
+
 </details>
 
-
- - **Main Progress 4 (Feb. 2023 - now):** Modelling and Analysis of the Slow Onset under the background of Climate Change.
+- **Main Progress 4 (Feb. 2023 - now):** Modelling and Analysis of the Slow Onset under the background of Climate Change.
 
 <details>
   <summary>Contribution ⚓ </summary>
 
-  <br>
+<br>
 
-  <font color='grey'>(1) Organize and batch download the global high-resolution CMIP6 dataset (NEX-GDDP-CMIP6) provided by NASA.</font>
-  <br>
-  <font color='grey'>(2) Projections of future labor productivity loss and energy demand in various Chinese provinces and sectors under different global climate scenarios and climate models.</font>
+  `<font color='grey'>`(1) Organize and batch download the global high-resolution CMIP6 dataset (NEX-GDDP-CMIP6) provided by NASA.`</font>`
+  `<br>`
+  `<font color='grey'>`(2) Projections of future labor productivity loss and energy demand in various Chinese provinces and sectors under different global climate scenarios and climate models.`</font>`
+
 </details>
 
 <br>
@@ -216,23 +193,18 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
     Jan. 2023 - Aug. 2023
 </div>
 
+- **Instructors:**
 
-- **Instructors:** 
   - [Cong Peng](https://www.congpeng.org/)
   - [Xianling Long](https://nsd.pku.edu.cn/szdw/qzjs/l/524411.htm)
   - [Shilei Liu](https://envi.ruc.edu.cn/jszy/lsl/e6702d56c8774887b2f83b60f2387636.htm)
-
 - **Topic:** The Economics Analysis of Verified Carbon Standard (VCS)
+- **Main Contribution:**
 
-- **Main Contribution:** 
   - Complement the missing digital to get the accurate coordinates according to the provided encrypted raw forest coordinate point information.
   - Use GIS to correct and re-project the coordinate points of forest land census data.
 
-
-
 <br>
-
-
 
 🌟 **[Institute of Finance and Sustainability](https://en.ifs.net.cn/) (IFS)** (Remotely Internship 💻)
 
@@ -240,20 +212,18 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
     Jun. 2022 - Oct. 2022
 </div>
 
-
 - **Instructor:** Jiayin Zhao
+- **Main Contribution:**
 
-- **Main Contribution:** 
   - Daily work such as manuscript translation
   - Collate and summarize the relevant information on the low-carbon development of institutional investors "Collaborative Engagement" enterprises in ESG field and participate in the report writing of relevant parts
   - Drawing up an outline of an interview with the head of the United Nations Principles for Responsible Investment (UN PRI) in China
   - Take part in the related work of meeting (writing outlines and press release)
-
 - **Research Publication:**
+
   - A Report for the UK-China Green Finance Centre (in Chinese) [《加速气候行动：机构投资者参与支持企业低碳转型》](http://webadmin.ifs.net.cn/storage/uploads/file/2023/03/28/%E3%80%8A%E5%8A%A0%E9%80%9F%E6%B0%94%E5%80%99%E8%A1%8C%E5%8A%A8%EF%BC%9A%E6%9C%BA%E6%9E%84%E6%8A%95%E8%B5%84%E8%80%85%E5%8F%82%E4%B8%8E%E6%94%AF%E6%8C%81%E4%BC%81%E4%B8%9A%E4%BD%8E%E7%A2%B3%E8%BD%AC%E5%9E%8B%E3%80%8B%E6%8A%A5%E5%91%8A.pdf)
 
 <br>
-
 
 🌟 **[Institute of New Structural Economics](https://www.nse.pku.edu.cn/) (INSE), Peking University**
 
@@ -261,28 +231,24 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
     Jul. 2022 - Sep. 2022
 </div>
 
-
 - **Instructor:** [Jiajun Xu](https://www.nse.pku.edu.cn/en/people/professor/245727.htm)
-
 - **Topic:** Update the policy report entitled *Applying the Growth Identification and Facilitation Framework to Nepal* (or [UN CDP Background Paper No. 35](https://www.un.org/development/desa/dpad/publication/background-paper-35-applying-the-growth-identification-and-facilitation-framework-to-nepal/))
 
 <details>
   <summary>About this Report ⚓ </summary>
 
-  <br>
+<br>
 
-  <font color='grey'>This report is a working paper published by the Committee for Development Policy (CDP) of the United Nations in 2017. Its main contribution is to apply the Growth Identification and Facilitation Framework (GIFF) of New Structural Economics to Nepal.</font> 
- <br>
-  <font color='grey'>This update needs to update the latest situation of Nepal's economic and social development in combination with factors such as Nepal's graduation from Least Development Country (LDC) and the impact of the epidemic.</font>
+  `<font color='grey'>`This report is a working paper published by the Committee for Development Policy (CDP) of the United Nations in 2017. Its main contribution is to apply the Growth Identification and Facilitation Framework (GIFF) of New Structural Economics to Nepal.`</font>`
+ `<br>`
+  `<font color='grey'>`This update needs to update the latest situation of Nepal's economic and social development in combination with factors such as Nepal's graduation from Least Development Country (LDC) and the impact of the epidemic.`</font>`
+
 </details>
 
-
-
-- **Main Contribution:** 
+- **Main Contribution:**
   - Read Lin, Justin Yifu’s World Bank [working paper](http://hdl.handle.net/10986/3798) to learn the basic framework of New Structural Economics and GIFF's two-track six-step method.
   - Combining the original report with the existing data to get the task list corresponding to the updated report.
   - Redraw the charts in the research report and update the data and text.
-
 
 <br>
 
@@ -294,7 +260,7 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
 **Title**: Analysis of China's carbon emission reduction factors under Carbon Neutrality
 
-**Subtitle**: Based on LMDI and SDA decomposition 
+**Subtitle**: Based on LMDI and SDA decomposition
 
 **Academic Advisor**: [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai)
 
@@ -308,18 +274,17 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
 <br>
 
-
 - 🔆Apr. 2020 - Jun. 2020: **Cost-Benefit Analysis on the Clean Energy Heating Policy in North China Region** with Tingyu Cui and Wei You
 
-**Methods**: 
+**Methods**:
 
-①	Used DID method to quantify the contribution of clean energy heating policy, used IMED-HEL, IER, and GEMM models to assess the health impact of the policy; 
+①	Used DID method to quantify the contribution of clean energy heating policy, used IMED-HEL, IER, and GEMM models to assess the health impact of the policy;
 
 ②	Monetized the health impacts using human capital method (YLPP) and willing-to-pay method (WTP)
 
 <br>
 
-**Contribution**: 
+**Contribution**:
 
 Completed quantitative assessment of health risks and calculation of energy cost from coal to electricity and wrote [research report](https://charlie-pku.github.io/file/coal_2020.pdf).
 
@@ -334,9 +299,10 @@ Completed quantitative assessment of health risks and calculation of energy cost
 <details>
   <summary>Summary: ⚓ </summary>
 
-  <br>
+<br>
 
-  <font color='grey'>This study quantitatively simulated the global biomass production cost under different demand and sustainable development constraint scenarios, plotted the biomass supply curve, and quantitatively analyzed the trade-off relationship between biomass production and sustainable development goals (SDGs) such as land management, food security and greenhouse gas emissions.</font> 
+  `<font color='grey'>`This study quantitatively simulated the global biomass production cost under different demand and sustainable development constraint scenarios, plotted the biomass supply curve, and quantitatively analyzed the trade-off relationship between biomass production and sustainable development goals (SDGs) such as land management, food security and greenhouse gas emissions.`</font>`
+
 </details>
 
 <br>
@@ -347,108 +313,88 @@ Completed quantitative assessment of health risks and calculation of energy cost
 
 (b) The production of biomass energy needs to pay attention to the competition and trade-off between raw material planting and food crops.
 
-
 [PPT](https://charlie-pku.github.io/file/biomass_slides_2022.pdf) and the [Final Report](https://charlie-pku.github.io/file/biomass_2022.pdf)
-
 
 - 🔆Sep.2021 - Jun.2023: A member of	[**Laboratory of Energy & Environmental Economics and Policy (LEEEP)**](http://scholar.pku.edu.cn/hanchengdai), PKU
 
-Make publication passages on official accounts (WeChat Account: LEEEP_Forum) 
+Make publication passages on official accounts (WeChat Account: LEEEP_Forum)
 
 [An Example](https://mp.weixin.qq.com/s/rdL921PQv97V2_yxo2kgTA)
 
 <br>
-
-
 
 ### **Other Selected Small Research** 💡
 
 <br>
 
 - [行政决策模式的参与式转型——以公众参与制度为综述对象](https://charlie-pku.github.io/file/Engagement_2023.pdf) (2023)
-  -  This is the Midterm Thesis with *Administrative Law and Administrative Litigation Law* taught by [Qi Yu](https://baike.baidu.com/item/%E4%BF%9E%E7%A5%BA/23327778?fr=ge_ala)
 
-
+  - This is the Midterm Thesis with *Administrative Law and Administrative Litigation Law* taught by [Qi Yu](https://baike.baidu.com/item/%E4%BF%9E%E7%A5%BA/23327778?fr=ge_ala)
 - ✨✨[LARF IN CASUAL INFERENCETHEORETICAL ANALYSIS AND EMPIRICAL APPLICATION](https://charlie-pku.github.io/file/LARF_poster_2023.pdf) (2023)
-  -  This is the Group Poster Presentation with Yi Chai on *Advanced Research Seminar* taught by [Shiyao Liu](https://cnisscad.pku.edu.cn/szll/skjs/l/525746.htm)
 
-
+  - This is the Group Poster Presentation with Yi Chai on *Advanced Research Seminar* taught by [Shiyao Liu](https://cnisscad.pku.edu.cn/szll/skjs/l/525746.htm)
 - ✨✨[The Health Effect of Commuting: Evidence from Metro Opening in China](https://charlie-pku.github.io/file/subway_2023.pdf) (2023)
-  -  This is the Course Thesis of *Applied Econometrics* taught by [Xuezheng Qin](https://econ.pku.edu.cn/szdw/zzjs/ybjs/sjjxx/327504.htm)
 
-
+  - This is the Course Thesis of *Applied Econometrics* taught by [Xuezheng Qin](https://econ.pku.edu.cn/szdw/zzjs/ybjs/sjjxx/327504.htm)
 - ✨[The Iraqi Devaluation: Mechanism and Effects](https://charlie-pku.github.io/file/Iraq_2023.pdf) (2023)
-  -  This is the Final Project with Xiaotian Ma on *International Finance* taught by [Noam Gruber](https://www.linkedin.com/in/noam-gruber-%E8%91%9B%E8%AF%BA%E5%B2%B8/?originalSubdomain=sg)
 
-
+  - This is the Final Project with Xiaotian Ma on *International Finance* taught by [Noam Gruber](https://www.linkedin.com/in/noam-gruber-%E8%91%9B%E8%AF%BA%E5%B2%B8/?originalSubdomain=sg)
 
 <br>
-
 
 - ✨[Evaluating Behaviorally Motivated Policy Experimental Evidence from the Lightbulb Market](https://charlie-pku.github.io/file/Bulb_2022.pdf) (2022)
-  -  This is the Group Presentation with Qiansong Xia and Zhizhi Zhu on *Environmental Resources Economics* taught by [Yuanning Liang](https://www.yuanning-liang.com/)
 
+  - This is the Group Presentation with Qiansong Xia and Zhizhi Zhu on *Environmental Resources Economics* taught by [Yuanning Liang](https://www.yuanning-liang.com/)
 - ✨[集中式光伏分析报告](https://charlie-pku.github.io/file/solar_panel_2022.pdf) (2022)
+
   - This is the Group Presentation with Tingyu Cui, Xiaotian Ma, Qiyue Nie and Shuxin Yan on *Low-Carbon Economy and Carbon Finance* taught by [Fangfang Tang](http://scholar.pku.edu.cn/fftang/bio)
-
 - [我国各省二氧化碳排放影响因素分析研究报告——基于相关与回归方法的简要分析](https://charlie-pku.github.io/file/environment_research_hw6_2022.pdf) (2022)
-  -  This is the Homework 6 of *Economic Development Research Methods* taught by [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai) and [Qi Chen](http://scholar.pku.edu.cn/qichen/people/qi-chen-%E9%99%88%E7%90%A6)
 
+  - This is the Homework 6 of *Economic Development Research Methods* taught by [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai) and [Qi Chen](http://scholar.pku.edu.cn/qichen/people/qi-chen-%E9%99%88%E7%90%A6)
 - [代际公平的反思与重构——以我国林业资源的分配为研究视角](https://charlie-pku.github.io/file/fair_forest_2022.pdf) (2022)
-  -  This is the Final Thesis of *An outline of Environment and Economic Development* taught by [Qi Wang](http://scholar.pku.edu.cn/qiwang/home)
 
-
+  - This is the Final Thesis of *An outline of Environment and Economic Development* taught by [Qi Wang](http://scholar.pku.edu.cn/qiwang/home)
 - [黄河下游水沙关系的协调治理——以简单线性规划模型为研究工具](https://charlie-pku.github.io/file/yellow_river_2022.pdf) (2022)
-  -  This is the Final Thesis of *Environmental System Analysis* taught by [Zhenshan Li](http://scholar.pku.edu.cn/lzs)
 
+  - This is the Final Thesis of *Environmental System Analysis* taught by [Zhenshan Li](http://scholar.pku.edu.cn/lzs)
 
 <br>
 
-
 - ✨[中国实行碳税的成效与影响分析](https://charlie-pku.github.io/file/carbon_tax_2021.pdf) (2021)
+
   - This is the Group Presentation on *China's Public Finance* taught by [Shuanglin Lin](http://scholar.pku.edu.cn/sllin/home)
-
 - ✨[电竞选手的社会与自我认同构建](https://charlie-pku.github.io/file/Esports_2021.pdf) (2021)
+
   - This is the Group Report with Xiaotian Ma, Meiqi Mao, Yuqing Shui and Jing Yuan on *Methods of Social Survey and Social Research* taught by [Huilin Lu](http://www.shehui.pku.edu.cn/sz/content.aspx?nodeid=67) and [Di Wang](http://www.shehui.pku.edu.cn/second/index.aspx?nodeid=341).
-
-
-
 - ✨[法律不确定性的法理学思考——浅析阿利托大法官的向前看视角](https://charlie-pku.github.io/file/Alito_2021.pdf) (2021)
+
   - This is the Third Homework of *Jurisprudence* taught by [Bin Ling](https://law.yale.edu/studying-law-yale/degree-programs/graduate-programs/jsd-program/jsd-candidate-profiles/bin-ling), [Ling Hu](http://www.ai.pku.edu.cn/info/1141/2182.htm) and [Xin Dai](http://www.ai.pku.edu.cn/info/1141/2176.htm).
-
 - ✨[环境领域公平与效率的平衡——基于卡-梅框架的思考](https://charlie-pku.github.io/file/C&M_2021.pdf) (2021)
+
   - This is the Seventh Homework of *Environmental Management* taught by [Shiqiu Zhang](http://scholar.pku.edu.cn/zhangshiqiu/dao-shi-jie-shao-0), Fengqiao Mei and [Wenjun Li](http://scholar.pku.edu.cn/wjlee).
-
-
 - [大气气溶胶测量仪器CPMA综述](https://charlie-pku.github.io/file/CPMA_2021.pdf) (2021)
+
   - This is a Small Review of *Measurement and Techniques of Atmospheric Aerosols* taught by [Song Guo](http://scholar.pku.edu.cn/songguo/ge-ren-jian-jie-0)
-
-
 - ✨[Marine Plastic Pollution: A Review of its Sources, Distribution, Impacts and our Actions](https://charlie-pku.github.io/file/Marine_Plastic_2021.pdf) (2021)
+
   - This is the Terminal Report of *Our Changing Planet* taught by [Mei Zheng](http://scholar.pku.edu.cn/meizheng)
-
-
-
 - ✨[《煤炭的真实成本》评论](https://charlie-pku.github.io/file/real_cost_of_coal_2021.pdf) (2021)
+
   - This is the Personal Presentation on *Environmental Economics* taught by [Xuejun Wang](https://www.ues.pku.edu.cn/jszy/wxj/wxjgrjl/index.htm)
-
-
 - ✨[从修辞视角分析B站年度弹幕对“信息茧房”构建的影响](https://charlie-pku.github.io/file/bilibili_2021.pdf) (2021)
+
   - This is the Course Thesis on *Rhetoric in Chinese* taught by [Rudong Chen](http://sjc.pku.edu.cn/info/1130/11663.htm)
-
-
 
 <br>
 
 - [燕园十二月令风物童话诗](https://charlie-pku.github.io/file/poem_2020.pdf) (2020)
+
   - This is a modern poem written on *University-level Chinese* taught by [Yin Lu](http://scholar.pku.edu.cn/luyin)
-
-
 - ✨✨[从经济学视角看“拍照搜题”市场的发展与未来——以题拍拍App为研究对象](https://charlie-pku.github.io/file/tipaipai_2020.pdf) (2020)
+
   - This is the Personal Thesis of *Principles of Economics* taught by [Feng Lu](http://scholar.pku.edu.cn/flu/home)
-
 - ✨[多环芳烃污染的健康效应及其社会代价——基于EEDH模型的研究方案设计](https://charlie-pku.github.io/file/polycyclic_2020.pdf) (2020)
-  - This is the Group Project with Xiaotian Ma, Shuxin Yan and Wei You on *Environmental Sciences* taught by [Tong Zhu](http://scholar.pku.edu.cn/tongzhu/PI) and [Yi Huang](http://scholar.pku.edu.cn/yhuang/huang-yi-1)
 
+  - This is the Group Project with Xiaotian Ma, Shuxin Yan and Wei You on *Environmental Sciences* taught by [Tong Zhu](http://scholar.pku.edu.cn/tongzhu/PI) and [Yi Huang](http://scholar.pku.edu.cn/yhuang/huang-yi-1)
 
 <br>
