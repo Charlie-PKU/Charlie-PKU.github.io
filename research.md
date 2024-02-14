@@ -258,7 +258,7 @@ with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 🌟 **[Institute of New Structural Economics](https://www.nse.pku.edu.cn/) (INSE), Peking University**
 
 <div style="text-align:right;">
-    Jul. 2022 – Sep. 2022
+    Jul. 2022 - Sep. 2022
 </div>
 
 
