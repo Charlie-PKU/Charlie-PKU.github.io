@@ -88,7 +88,7 @@ Cultures）河南登封暑期支教项目**
 
 **微信推文**：嵩阳诗剧 [Day1](https://mp.weixin.qq.com/s/x6r4_ylvgpd9Rkv9M2hjNw)，[Day2](https://mp.weixin.qq.com/s/gp0BTo-RYdf--YtzkzYVYg)，[Day3-4](https://mp.weixin.qq.com/s/hTfqbXjUUTDBjMRHvfbyRA)，[Day5-6](https://mp.weixin.qq.com/s/b48WpkYIaJYUYn2QFvk3hA)，[Day7](https://mp.weixin.qq.com/s/laeye-krRb-JJ5yi92d7cg)
 
-**[总结视频](https://www.bilibili.com/video/BV1hQ4y1n76R/?spm_id_from=333.999.0.0)**、**[碎片记录](https://mp.weixin.qq.com/s/wnVhtnuy-Mo2_eqJX53tsQ)**
+**[总结视频](https://www.bilibili.com/video/BV1hQ4y1n76R/?spm_id_from=333.999.0.0)**、**[碎片](https://mp.weixin.qq.com/s/wnVhtnuy-Mo2_eqJX53tsQ)**
 
 <br>
 
@@ -106,7 +106,7 @@ Cultures）河南登封暑期支教项目**
 
 - ⭐⭐2021/10 - 2022/01：**北京大学与思克莱德大学（University of Strathclyde）等高校线上交流项目（主题：全球气候变化与行动）** 
 
-*制作[交流PPT](https://charlie-pku.github.io/file/communication_2021)，拍摄视频并参与线上Zoom会议*
+*制作[交流PPT](https://charlie-pku.github.io/file/communication_2021.pptx)，拍摄视频并参与线上Zoom会议*
 
 <br>
 
