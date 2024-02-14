@@ -101,7 +101,13 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 - **<font color='red'>[Highlight] </font> Jan. 2024:** Very excited to be selected as the volunteer of CAERE Annual Meeting 2024, see you in Hangzhou! 😁
 
+- **Oct. 2023:** Fantastic Holiday in [Vladivostok and Harbin](https://mp.weixin.qq.com/s/J1xEEw_rVxnN3jOz3XRklA)! 🌞
+
 - **Sep. 2023:** Hi! THU! 🏫
+
+- **Jul. 2023:** Enriched Journey in [Qinghai and Gansu](https://mp.weixin.qq.com/s/jHh41LKx_3fV7STTZdbfFw)! 🐪
+
+- **Jul. 2023:** Nice Days in [Hangzhou](https://mp.weixin.qq.com/s/nCI595vR34eP4ZCwd1JF_w)! 🐾
 
 - **Jul. 2023:** Goodbye! PKU! 🏫
 
