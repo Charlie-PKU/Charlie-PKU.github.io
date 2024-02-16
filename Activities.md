@@ -255,7 +255,7 @@ title: Activity
 
 ***活动当天**：负责接待顾问委员会委员——溢达集团董事长杨敏德女士*
 
-***活动后**：撰写新闻稿[《轻舟再过万重山》](https://mp.weixin.qq.com/s/Q43RjWYnXynE8RJEykgUrg)发布在“清华大学经济管理学院”官微，并撰写Summary文件*
+***活动后期**：撰写新闻稿[《轻舟再过万重山》](https://mp.weixin.qq.com/s/Q43RjWYnXynE8RJEykgUrg)发布在“清华大学经济管理学院”官微，并撰写Summary文件*
 
 - Sep. 2023: **清华大学国际交换生迎新志愿者**
 
