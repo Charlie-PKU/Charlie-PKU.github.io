@@ -456,3 +456,30 @@ Make publication passages on official accounts (WeChat Account: LEEEP_Forum)
 <br>
 
 <br>
+
+- ✨[华北地区清洁取暖政策费用-效益分析](https://charlie-pku.github.io/file/coal_2020.pdf) (2020)
+
+  - This is the Group Project with Tingyu Cui and Wei You on *Frontiers in Environmental Science and Engineering* taught by [Keding Lu](http://scholar.pku.edu.cn/lukeding/bio) et al. 
+
+
+<br>
+
+- ✨[试议休谟哲学中的两组概念及其关系 ——以《人类理解研究》中的思想实验为研究对象](https://charlie-pku.github.io/file/Hume_2020.pdf) (2020)
+
+  - This is the Final Thesis on *Introduction to Philosophy* taught by [Chaojie Li](https://www.phil.pku.edu.cn/szdw/ltxry/531834.htm). 
+
+
+<br>
+
+<br>
+
+
+- ✨[关于污染场地环境评估的思考与建议——以常州外国语学校事件为切入点](https://charlie-pku.github.io/file/toxic_2020.pdf) (2020)
+
+  - This is the Final Thesis on *Environmental Problem* taught by [Xiaoyan Tang](https://www.pku.edu.cn/details/1047.html) and [Yuanhang Zhang](https://www.pku.edu.cn/details/1033.html) et al.
+
+<br>
+
+- ✨[国共双方舆论宣传之对比研究——以马歇尔使华事件为例](https://charlie-pku.github.io/file/Marshall_2020.pdf) (2020)
+
+  - This is the Final Thesis on *Outline of Chinese Modern History* taught by [Yong Zhang](https://marxism.pku.edu.cn/szll/jxkyry/zgjxdsyjs/23376.htm). 
