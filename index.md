@@ -101,7 +101,8 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
   - 🎧 Music (mainly piano and soft music) 
   - 🔗 Welcome to my [Douban](https://www.douban.com/people/llvintagell/?_i=7918178VKIvn7g) and [NetEase Music](https://music.163.com/#/user/home?id=315155365) homepage!!
 
-<!-- - **Hometown**: Jiangyou County, Mianyang City, Sichuan province (四川省绵阳市江油市) -->
+- **Hometown**: Jiangyou County, Mianyang City, Sichuan province (四川省绵阳市江油市)
+- **MBTI**: INFJ (2020) ➡️ ISFJ (2022)
 
 <br>
 
