@@ -38,13 +38,15 @@ with Hantang Peng, [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/article/311)
 
 [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/forest_2022.pdf)
 
+[Extended Abstract](https://charlie-pku.github.io/mypaper/Working_Papers/CAERE_forest.pdf)(for EAERE 2024 Annual Meeting)
+
 with Tingyu Cui and Yushuai Zhang
 
 <br>
 
 - **"Research on Transnational Mobility of Researchers based on Multi-Agent Modeling: A case study of Artificial Intelligence"**
 
-&#8194;&#8194;  [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/Mobility_2023.pdf)
+<!-- &#8194;&#8194;  [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/Mobility_2023.pdf) -->
 
 with Wenjie Chen and [Chao Min](https://min-chao.github.io/)
 
