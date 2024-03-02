@@ -38,7 +38,7 @@ with Hantang Peng, [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/article/311)
 
 [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/forest_2022.pdf)
 
-[Extended Abstract](https://charlie-pku.github.io/mypaper/Working_Papers/CAERE_forest.pdf)(for CAERE 2024 Annual Meeting)
+[Extended Abstract](https://charlie-pku.github.io/mypaper/Working_Papers/CAERE_forest.pdf) (for CAERE 2024 Annual Meeting)
 
 with Tingyu Cui and Yushuai Zhang
 
