@@ -48,7 +48,7 @@ with Tingyu Cui and Yushuai Zhang
 
 <!-- &#8194;&#8194;  [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/Mobility_2023.pdf) -->
 
-with Wenjie Chen and [Chao Min](https://min-chao.github.io/)
+&#8194;&#8194; with Wenjie Chen and [Chao Min](https://min-chao.github.io/)
 
 <br>
 
