@@ -4,7 +4,7 @@ permalink: /research/index.html
 title: Research
 lang: french
 ---
-> Lastest Update: February 14, 2024
+> Lastest Update: March 9, 2024
 
 <!-- [中文版本 (Chinese Version)](https://charlie-pku.github.io/file/publications-zh/) -->
 
@@ -36,7 +36,7 @@ with Hantang Peng, [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/article/311)
 
 &#8194;&#8194; (*30th Challenge Cup Program of PKU, Oct. 2021 - Jun. 2022*)
 
-[Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/forest_2022.pdf)
+<!-- [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/forest_2022.pdf) -->
 
 [Extended Abstract](https://charlie-pku.github.io/file/CAERE_forest.pdf) (for CAERE 2024 Annual Meeting)
 
