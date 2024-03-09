@@ -3,7 +3,7 @@ layout: page
 permalink: /activities/index.html
 title: Activity
 ---
-> Lastest Update:  February 14, 2024 (English Version is working in progress)
+> Lastest Update:  March 9, 2024 (English Version is working in progress)
 
 <!--   [中文版本 (Chinese Version)](https://charlie-pku.github.io/file/awards-zh/) -->
 
@@ -19,7 +19,11 @@ title: Activity
 
 **合作者**：孙昕知、耿域新、程莘毓、杜翔宇、何禹桥
 
-**主要工作**：组织小班讨论课（每个班30余人，每周2小时），批改Memo，与全体助教进行集体备课，选择案例进行分析讲解，同时负责期中与期末的监考工作。
+**主要工作**：
+
+- 组织小班讨论课（每个班20余人，每周2小时），批改Memo，与全体助教进行集体备课，选择案例引导学生讨论
+  - 例如：[物流地产还是一桩好生意吗？](https://charlie-pku.github.io/file/discussion_logistics_2024.pdf)……
+- 参与期中与期末监考
 
 <br>
 
@@ -33,7 +37,7 @@ title: Activity
 
 **主要工作**：
 
-- 组织小班讨论课（每个班30余人，每周2小时），批改Memo，与全体助教进行集体备课，选择案例引导学生讨论
+- 组织小班讨论课（每个班20余人，每周2小时），批改Memo，与全体助教进行集体备课，选择案例引导学生讨论
   - 例如：[房地产市场的出清与重生](https://charlie-pku.github.io/file/discussion_house_2023.pdf) [在线音乐变局](https://charlie-pku.github.io/file/discussion_music_2023.pdf)……
 - 参与期中与期末监考
 
