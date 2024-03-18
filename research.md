@@ -28,7 +28,7 @@ with [Yana Jin](http://scholar.pku.edu.cn/yjin)
 
 [Extended Abstract](https://charlie-pku.github.io/mypaper/Working_Papers/IAM_2024.pdf) (for EAERE 2024 Annual Meeting)
 
-with Hantang Peng, [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/article/311), [Da Zhang](www.energyda.cn) and [Xiliang Zhang](http://www.3e.tsinghua.edu.cn/cn/article/slug/news-member-teacher-zsl)
+with Hantang Peng, [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/article/311), [Da Zhang](http://www.energyda.cn/) and [Xiliang Zhang](http://www.3e.tsinghua.edu.cn/cn/article/slug/news-member-teacher-zsl)
 
 <br>
 
@@ -57,6 +57,9 @@ with Tingyu Cui and Yushuai Zhang
 &#8194;&#8194; (*Course Thesis of **Public Policy Evaluation** in PKU, Mar. 2022 - Jul. 2022*)
 
 [Manuscript (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/garbage_2023.pdf)
+
+[Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/garbage_slides_2022.pdf)
+
 
 with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
@@ -329,6 +332,32 @@ Make publication passages on official accounts (WeChat Account: LEEEP_Forum)
 
 ### **Other Selected Small Research** 💡
 
+- Member in [LEEEP](http://scholar.pku.edu.cn/hanchengdai/zu-nei-cheng-yuan) group
+
+(2022)[文献阅读 | 生物质能源作物的推迟使用可能导致全球的气候与食品危机](https://mp.weixin.qq.com/s/qTCJVKMdrYmcW96AXzTzjA)
+
+
+
+<br>
+
+- Small articles on Econometrics Circle
+
+(2024)[世界计量会士: 中国官员背景对他们政治偏好和行为的影响, PSM-DID, 内生性处理](https://mp.weixin.qq.com/s?__biz=MjM5OTMwODM1Mw==&mid=2448116534&idx=1&sn=a237fbcdf82849b2cd92e80042ed1a0d&chksm=b21142e9b8d71a63485f1a99845838f6484ddebb8e3de19080f416a88cbb28fe4ccca48ae491&scene=0&xtrack=1&subscene=7&clicktime=1710778149&ascene=1&devicetype=iOS17.2.1&version=18002f2c&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&session_us=gh_865387a4190a&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQPcn2LZxCgJVv27xf9KpfExLqAQIE97dBBAEAAAAAANUqF5OsZ4gAAAAOpnltbLcz9gKNyK89dVj0S92k6QZSqg7Ev5IBgHH4RZtRMg%2BAbDExNbtITSLcucco1qg3wad%2BQpDgKUNcuZohsxJZgXf784Ng5KgNytuBDeY49Mx69fp27cfynYB4y72tvcH7WScaO5wfHFYIaZus1hnDC0BhYzZs7SAdLzFFU%2FwUsFlz83v6rFBn7xFs6iVcQf4AGprl9jYY5O4WBrmIiMgQUF65SOSyFo%2FerZ1ry0MZOoU8yFjva52ZmXXbnUYZoWlYnY9Mqlk7vklAV9LJ8%2BYVVA%3D%3D&pass_ticket=WWaEnMlRt07tJ3M7FCYSpkh3xeBlcFisnhwk8MLfWPTm4jGcsuKhhnysVaMf%2F0HSTNaSSarDbe5h1BrcSQJ%2Fgw%3D%3D&wx_header=3)
+
+
+(2024)[若2024年川普, 不得不让人想起围绕他推文的这篇文章, DID和事件研究](https://mp.weixin.qq.com/s/9oYiR3t4T3AHDwcKmrW_0g)
+
+(2023) [看太多DID审美疲劳了, 就看这最新QJE文, 太像毛咕噜和哈佛系主任范式！](https://mp.weixin.qq.com/s?__biz=MjM5OTMwODM1Mw==&mid=2448112823&idx=1&sn=fb017025ce94e70874f278118e6d540e&chksm=b322e1998455688fab29ea3aa1f7fe16fdec451b2b36cec870a1b3597dd426cf08d5b831e086&scene=21#wechat_redirect)
+
+(2023) [扯掉了最后一块遮羞布, 最新大作“学术研究的政治学”研究](https://mp.weixin.qq.com/s?__biz=MjM5OTMwODM1Mw==&mid=2448109706&idx=1&sn=8c6e8d37b3177ade2ee0e67308b3f009&chksm=b322eda4845564b26f7a495e335945473e4ca3b8bfc37b1950e5b38c1d431d762f94322df392&scene=21#wechat_redirect)
+
+(2022) [控制变量! 控制变量! 控制变量!](https://mp.weixin.qq.com/s?__biz=MjM5OTMwODM1Mw==&mid=2448102689&idx=1&sn=45b0a87c1560d8b314c63b171f99f109&chksm=b322c80f845541191e92af800afd9f8e80beb8f9c9f5988c3a6821b3d0526be99ef8f7cd3afc&scene=21#wechat_redirect)
+
+
+
+
+
+
 <br>
 
 - [行政决策模式的参与式转型——以公众参与制度为综述对象](https://charlie-pku.github.io/file/Engagement_2023.pdf) (2023)
@@ -337,7 +366,7 @@ Make publication passages on official accounts (WeChat Account: LEEEP_Forum)
 
 <br>
 
-- ✨✨[LARF IN CASUAL INFERENCETHEORETICAL ANALYSIS AND EMPIRICAL APPLICATION](https://charlie-pku.github.io/file/LARF_poster_2023.pdf) (2023)
+- ✨✨LARF IN CASUAL INFERENCETHEORETICAL ANALYSIS AND EMPIRICAL APPLICATION [poster](https://charlie-pku.github.io/file/LARF_poster_2023.pdf) [slides](https://charlie-pku.github.io/file/LARF_2023.pdf) (2023)
 
   - This is the Group Poster Presentation with Yi Chai on *Advanced Research Seminar* taught by [Shiyao Liu](https://cnisscad.pku.edu.cn/szll/skjs/l/525746.htm)
 
