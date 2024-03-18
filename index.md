@@ -121,7 +121,7 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 - **Jul. 2023:** Nice Days in [Hangzhou](https://mp.weixin.qq.com/s/nCI595vR34eP4ZCwd1JF_w)! 🐾
 
-- **Jul. 2023:** Very honored to be featured in this interview!! [环院·环访 | 房晨：且让少年游](https://mp.weixin.qq.com/s/nwJ-w7q_wHt3VQYaUwvdfw) Goodbye! PKU! 🏫
+- **Jul. 2023:** Very honored to be featured in this interview!! [环院·环访——房晨：且让少年游](https://mp.weixin.qq.com/s/nwJ-w7q_wHt3VQYaUwvdfw) Goodbye! PKU! 🏫
 
 <br>
 
