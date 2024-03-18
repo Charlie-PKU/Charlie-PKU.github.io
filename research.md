@@ -336,9 +336,6 @@ Make publication passages on official accounts (WeChat Account: LEEEP_Forum)
 
 &#8194;&#8194; (2022) [可持续土地利用和生物喷气燃料发展的可行性](https://mp.weixin.qq.com/s/hpG6cC33Cllgybf7OCUxYQ)
 
-(2022) [生物质能源作物的推迟使用可能导致全球的气候与食品危机]
-(https://mp.weixin.qq.com/s/qTCJVKMdrYmcW96AXzTzjA)
-
 (2022) [生物质能源作物的推迟使用可能导致全球的气候与食品危机](https://mp.weixin.qq.com/s/qTCJVKMdrYmcW96AXzTzjA)
 
 (2022) [1978–2017年中国畜牧业生产的氧化亚氮排放](https://mp.weixin.qq.com/s/0Qiri9garhVIMvJViwk1jw)
