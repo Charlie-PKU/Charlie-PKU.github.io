@@ -332,20 +332,35 @@ Make publication passages on official accounts (WeChat Account: LEEEP_Forum)
 
 ### **Other Selected Small Research** 💡
 
-- Member in [LEEEP](http://scholar.pku.edu.cn/hanchengdai/zu-nei-cheng-yuan) group
+- Literature Reading Articles in [LEEEP](http://scholar.pku.edu.cn/hanchengdai/zu-nei-cheng-yuan) group 
 
-(2022)[文献阅读 | 生物质能源作物的推迟使用可能导致全球的气候与食品危机](https://mp.weixin.qq.com/s/qTCJVKMdrYmcW96AXzTzjA)
+&#8194;&#8194; (2022) [可持续土地利用和生物喷气燃料发展的可行性](https://mp.weixin.qq.com/s/hpG6cC33Cllgybf7OCUxYQ)
 
+(2022) [生物质能源作物的推迟使用可能导致全球的气候与食品危机]
+(https://mp.weixin.qq.com/s/qTCJVKMdrYmcW96AXzTzjA)
 
+(2022) [生物质能源作物的推迟使用可能导致全球的气候与食品危机](https://mp.weixin.qq.com/s/qTCJVKMdrYmcW96AXzTzjA)
+
+(2022) [1978–2017年中国畜牧业生产的氧化亚氮排放](https://mp.weixin.qq.com/s/0Qiri9garhVIMvJViwk1jw)
+
+(2022) [严格保护生物多样性会对全球和地区尺度下的粮食安全与健康造成什么影响](https://mp.weixin.qq.com/s/eroxIdkkPIHfOy6lz2Hz3A)
+
+(2022) [生物质能生产等气候减缓措施对农业与粮食安全的影响](https://mp.weixin.qq.com/s/3feXgaSVmFBKi5PcXp25pA)
+
+(2022) [生物多样性、农业、气候变化与国际贸易的相互关系：研究与政策维度](https://mp.weixin.qq.com/s/rdL921PQv97V2_yxo2kgTA)
+
+(2022) [气候稳定与基于陆地的减缓措施对生物多样性的影响](https://mp.weixin.qq.com/s/xkILJK7mlJfFhvn9ca3zZA)
+
+(2021) [区域氮边界与国际食品安全的调和](https://mp.weixin.qq.com/s/H_JU9463wtuQVQ11EX6vww)
 
 <br>
 
 - Small articles on Econometrics Circle
 
-(2024)[世界计量会士: 中国官员背景对他们政治偏好和行为的影响, PSM-DID, 内生性处理](https://mp.weixin.qq.com/s?__biz=MjM5OTMwODM1Mw==&mid=2448116534&idx=1&sn=a237fbcdf82849b2cd92e80042ed1a0d&chksm=b21142e9b8d71a63485f1a99845838f6484ddebb8e3de19080f416a88cbb28fe4ccca48ae491&scene=0&xtrack=1&subscene=7&clicktime=1710778149&ascene=1&devicetype=iOS17.2.1&version=18002f2c&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&session_us=gh_865387a4190a&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQPcn2LZxCgJVv27xf9KpfExLqAQIE97dBBAEAAAAAANUqF5OsZ4gAAAAOpnltbLcz9gKNyK89dVj0S92k6QZSqg7Ev5IBgHH4RZtRMg%2BAbDExNbtITSLcucco1qg3wad%2BQpDgKUNcuZohsxJZgXf784Ng5KgNytuBDeY49Mx69fp27cfynYB4y72tvcH7WScaO5wfHFYIaZus1hnDC0BhYzZs7SAdLzFFU%2FwUsFlz83v6rFBn7xFs6iVcQf4AGprl9jYY5O4WBrmIiMgQUF65SOSyFo%2FerZ1ry0MZOoU8yFjva52ZmXXbnUYZoWlYnY9Mqlk7vklAV9LJ8%2BYVVA%3D%3D&pass_ticket=WWaEnMlRt07tJ3M7FCYSpkh3xeBlcFisnhwk8MLfWPTm4jGcsuKhhnysVaMf%2F0HSTNaSSarDbe5h1BrcSQJ%2Fgw%3D%3D&wx_header=3)
+&#8194;&#8194; (2024) [世界计量会士: 中国官员背景对他们政治偏好和行为的影响, PSM-DID, 内生性处理](https://mp.weixin.qq.com/s?__biz=MjM5OTMwODM1Mw==&mid=2448116534&idx=1&sn=a237fbcdf82849b2cd92e80042ed1a0d&chksm=b21142e9b8d71a63485f1a99845838f6484ddebb8e3de19080f416a88cbb28fe4ccca48ae491&scene=0&xtrack=1&subscene=7&clicktime=1710778149&ascene=1&devicetype=iOS17.2.1&version=18002f2c&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&session_us=gh_865387a4190a&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQPcn2LZxCgJVv27xf9KpfExLqAQIE97dBBAEAAAAAANUqF5OsZ4gAAAAOpnltbLcz9gKNyK89dVj0S92k6QZSqg7Ev5IBgHH4RZtRMg%2BAbDExNbtITSLcucco1qg3wad%2BQpDgKUNcuZohsxJZgXf784Ng5KgNytuBDeY49Mx69fp27cfynYB4y72tvcH7WScaO5wfHFYIaZus1hnDC0BhYzZs7SAdLzFFU%2FwUsFlz83v6rFBn7xFs6iVcQf4AGprl9jYY5O4WBrmIiMgQUF65SOSyFo%2FerZ1ry0MZOoU8yFjva52ZmXXbnUYZoWlYnY9Mqlk7vklAV9LJ8%2BYVVA%3D%3D&pass_ticket=WWaEnMlRt07tJ3M7FCYSpkh3xeBlcFisnhwk8MLfWPTm4jGcsuKhhnysVaMf%2F0HSTNaSSarDbe5h1BrcSQJ%2Fgw%3D%3D&wx_header=3)
 
 
-(2024)[若2024年川普, 不得不让人想起围绕他推文的这篇文章, DID和事件研究](https://mp.weixin.qq.com/s/9oYiR3t4T3AHDwcKmrW_0g)
+(2024) [若2024年川普, 不得不让人想起围绕他推文的这篇文章, DID和事件研究](https://mp.weixin.qq.com/s/9oYiR3t4T3AHDwcKmrW_0g)
 
 (2023) [看太多DID审美疲劳了, 就看这最新QJE文, 太像毛咕噜和哈佛系主任范式！](https://mp.weixin.qq.com/s?__biz=MjM5OTMwODM1Mw==&mid=2448112823&idx=1&sn=fb017025ce94e70874f278118e6d540e&chksm=b322e1998455688fab29ea3aa1f7fe16fdec451b2b36cec870a1b3597dd426cf08d5b831e086&scene=21#wechat_redirect)
 
