@@ -299,7 +299,7 @@ Completed quantitative assessment of health risks and calculation of energy cost
 
 - 🔆🔆Sep.2021 – Nov.2022: **Undergraduate Research of Peking University**
 
-**Academic Advisor**: [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai) and Yazhen Wu
+**Academic Advisor**: [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai) and [Yazhen Wu](https://iiasa.ac.at/staff/yazhen-wu)
 
 **Research Topic**: Global biomass energy supply curve and its possible impact on Sustainable Development Goals (SDGs).
 
@@ -325,6 +325,8 @@ Completed quantitative assessment of health risks and calculation of energy cost
 - 🔆Sep.2021 - Jun.2023: A member of	[**Laboratory of Energy & Environmental Economics and Policy (LEEEP)**](http://scholar.pku.edu.cn/hanchengdai), PKU
 
 Make publication passages on official accounts (WeChat Account: LEEEP_Forum)
+
+<br>
 
 (2022) [可持续土地利用和生物喷气燃料发展的可行性](https://mp.weixin.qq.com/s/hpG6cC33Cllgybf7OCUxYQ)
 
