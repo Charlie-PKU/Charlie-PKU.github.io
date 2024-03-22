@@ -95,10 +95,10 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 
 - **Hobbies**
-  - 🏊 Swimming, Badminton
-  - 📺 Quiz Shows, Movies, TV Series, Reality Shows 
-  - 📖 Literary (Classical Poetry, Contemporary Novel and Prose)
-  - 🎧 Music (mainly piano and soft music) 
+  - 🏊 Sports (Swimming, Badminton, Jogging...)
+  - 📺 Watching (Quiz Shows, Movies, TV Series, Reality Shows)
+  - 📖 Reading (Classical Poetry, Contemporary Novel and Prose)
+  - 🎧 Listening (mainly piano and soft music) 
   - 🔗 Welcome to my [Douban](https://www.douban.com/people/llvintagell/?_i=7918178VKIvn7g) and [NetEase Music](https://music.163.com/#/user/home?id=315155365) homepage!!
 
 - **Hometown**: Jiangyou County, Mianyang City, Sichuan province (四川省绵阳市江油市)
