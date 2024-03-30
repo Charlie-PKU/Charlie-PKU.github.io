@@ -4,7 +4,7 @@ permalink: /research/index.html
 title: Research
 lang: french
 ---
-> Lastest Update: March 9, 2024
+> Lastest Update: April 1st, 2024
 
 <!-- [中文版本 (Chinese Version)](https://charlie-pku.github.io/file/publications-zh/) -->
 
