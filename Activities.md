@@ -3,7 +3,7 @@ layout: page
 permalink: /activities/index.html
 title: Activity
 ---
-> Lastest Update:  March 9, 2024 (English Version is working in progress)
+> Lastest Update:  April 1st, 2024 (English Version is working in progress)
 
 <!--   [中文版本 (Chinese Version)](https://charlie-pku.github.io/file/awards-zh/) -->
 
@@ -375,9 +375,9 @@ title: Activity
 
   - 北京大学第二十九届“挑战杯”五四青年科学奖竞赛**特等奖**
   - 第七届全国大学生能源经济学术创意大赛**二等奖**
-  
+
 <br>
-   
+
 - **2019 - 2020** &nbsp; &nbsp; 北京大学小米奖学金，学习优秀奖
 
 <br>
