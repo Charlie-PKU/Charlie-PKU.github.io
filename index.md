@@ -111,6 +111,8 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 ## News and Updates 📨
 
+- **<font color='red'>[Highlight] </font> Mar. 2024:** Very excited that our research have been accepted for presentation during the [the 3rd Annual Conference of CAERE](https://mp.weixin.qq.com/s/-wghlDamMC1gCPQR0c7tpg), see you in Hang Zhou! 😁
+
 - **<font color='red'>[Highlight] </font> Feb. 2024:** Very excited that our research have been accepted for presentation during the [27th Annual Conference on Global Economic Analysis](https://www.gtap.agecon.purdue.edu/events/Conferences/2024/index.aspx), see you in Fort Collins! 😁
 
 - **Oct. 2023:** Fantastic Holiday in [Vladivostok and Harbin](https://mp.weixin.qq.com/s/J1xEEw_rVxnN3jOz3XRklA)! 🌞
