@@ -404,6 +404,19 @@ Make publication passages on official accounts (WeChat Account: LEEEP_Forum)
 
 <br>
 
+- (2022) [试论世界电影的发展脉络——以电影叙事视角为线索](https://charlie-pku.github.io/file/final_cinema.pdf) 
+
+  - This is the Final Thesis of *History of World Cinema* taught by [Shaoyang Lu](http://sjc.pku.edu.cn/info/1130/11662.htm)
+
+<br>
+
+- (2022) [光影长廊中的美学散步——试论电影的美学意义](https://charlie-pku.github.io/file/midterm_cinema.pdf) 
+
+  - This is the Midterm Thesis of *History of World Cinema* taught by [Shaoyang Lu](http://sjc.pku.edu.cn/info/1130/11662.htm)
+
+<br>
+
+
 - ✨(2022) [Evaluating Behaviorally Motivated Policy Experimental Evidence from the Lightbulb Market](https://charlie-pku.github.io/file/Bulb_2022.pdf) 
 
   - This is the Group Presentation with Qiansong Xia and Zhizhi Zhu on *Environmental Resources Economics* taught by [Yuanning Liang](https://www.yuanning-liang.com/)
