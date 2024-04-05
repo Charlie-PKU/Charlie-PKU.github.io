@@ -3,7 +3,7 @@ layout: page
 ---
 # About Me
 
-<img src="https://charlie-pku.github.io/graduation_PKU.jpg" class="floatpic" width="360" height="480">
+<img src="https://charlie-pku.github.io/trip_2023.jpg" class="floatpic" width="480" height="300">
 
 <br>
 
@@ -100,6 +100,8 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
   - 📖 Reading (Classical Poetry, Contemporary Novel and Prose)
   - 🎧 Listening (mainly piano and soft music) 
   - 🔗 Welcome to my [Douban](https://www.douban.com/people/llvintagell/?_i=7918178VKIvn7g) and [NetEase Music](https://music.163.com/#/user/home?id=315155365) homepage!!
+
+<br>
 
 - **Hometown**: Jiangyou County, Mianyang City, Sichuan province (四川省绵阳市江油市)
 - **MBTI**: INFJ (2020) ➡️ ISFJ (2022)
