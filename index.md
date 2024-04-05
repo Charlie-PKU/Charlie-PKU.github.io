@@ -3,7 +3,7 @@ layout: page
 ---
 # About Me
 
-<img src="https://charlie-pku.github.io/trip_2023.jpg" class="floatpic" width="480" height="300">
+<img src="https://charlie-pku.github.io/trip_2023.jpg" class="floatpic" width="750" height="500">
 
 <br>
 
