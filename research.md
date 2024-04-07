@@ -371,7 +371,7 @@ Make publication passages on official accounts (WeChat Account: LEEEP_Forum)
 
 <br>
 
-- (2024) [Causal effects of Renewable Portfolio Standards on renewable investments and generation](https://charlie-pku.github.io/file/RPS_2024.pdf)
+- ✨✨✨(2024) [Causal effects of Renewable Portfolio Standards on renewable investments and generation](https://charlie-pku.github.io/file/RPS_2024.pdf)
   - This is the Personal Presentation on *Energy and Environmental Economics* taught by [Jing Cao](https://chinaproject.harvard.edu/people/jing-cao)
 
 
