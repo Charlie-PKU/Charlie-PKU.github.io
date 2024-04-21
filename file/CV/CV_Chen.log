@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.27)  5 APR 2024 00:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.27)  21 APR 2024 09:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -666,7 +666,7 @@ e.sfd}) [1{d:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 {d:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 
 LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <10.53937> not available
-(Font)              size <10.95> substituted on input line 134.
+(Font)              size <10.95> substituted on input line 133.
 
 [2] (./CV_Chen.aux)
  ***********
@@ -684,7 +684,7 @@ Package rerunfilecheck Info: File `CV_Chen.out' has not changed.
 Here is how much of TeX's memory you used:
  15299 strings out of 474222
  267149 string characters out of 5750209
- 1936978 words of memory out of 5000000
+ 1935978 words of memory out of 5000000
  37322 multiletter control sequences out of 15000+600000
  568087 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -695,7 +695,7 @@ exmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><d:/texlive/2023/texmf-dist/
 fonts/type1/public/cm-super/sfrm0700.pfb><d:/texlive/2023/texmf-dist/fonts/type
 1/public/cm-super/sfrm1000.pfb><d:/texlive/2023/texmf-dist/fonts/type1/public/c
 m-super/sfti1000.pfb>
-Output written on CV_Chen.pdf (2 pages, 104644 bytes).
+Output written on CV_Chen.pdf (2 pages, 104548 bytes).
 PDF statistics:
  54 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream
