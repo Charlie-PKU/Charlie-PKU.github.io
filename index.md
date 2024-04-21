@@ -104,7 +104,7 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 <br>
 
 - **Birthday**🎂: 20th September, 2001
-- **Hometown**🎂: Jiangyou County, Mianyang City, Sichuan province (四川省绵阳市江油市)
+- **Hometown**🏡: Jiangyou County, Mianyang City, Sichuan province (四川省绵阳市江油市)
 - **MBTI**ℹ️: INFJ (2020) ➡️ ISFJ (2022)
 
 <br>
@@ -132,5 +132,5 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 <br>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Contact me if you have any leads! 😁 <a href="https://t.co/GxdTPnCzE6">pic.twitter.com/GxdTPnCzE6</a></p>— Chen FANG <a href="https://twitter.com/Charlie_Fang_/status/1777312207501439088">December 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Contact me if you have any leads! 😁 <a href="https://t.co/GxdTPnCzE6">pic.twitter.com/GxdTPnCzE6</a></p>— Chen FANG <a href="https://twitter.com/Charlie_Fang_/status/1777312207501439088">December 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
