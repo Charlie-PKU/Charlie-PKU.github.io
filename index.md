@@ -103,8 +103,9 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 <br>
 
-- **Hometown**: Jiangyou County, Mianyang City, Sichuan province (四川省绵阳市江油市)
-- **MBTI**: INFJ (2020) ➡️ ISFJ (2022)
+- **Birthday**🎂: 20th September, 2001
+- **Hometown**🎂: Jiangyou County, Mianyang City, Sichuan province (四川省绵阳市江油市)
+- **MBTI**ℹ️: INFJ (2020) ➡️ ISFJ (2022)
 
 <br>
 
@@ -113,7 +114,7 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 ## News and Updates 📨
 
-- **<font color='red'>[Highlight] </font> Mar. 2024:** Very excited that our research have been accepted for presentation during the [the 3rd Annual Conference of CAERE](https://mp.weixin.qq.com/s/-wghlDamMC1gCPQR0c7tpg), see you in Hang Zhou! 😁
+- **<font color='red'>[Highlight] </font> Mar. 2024:** Very thrilled that our research have been accepted for presentation during the [the 3rd Annual Conference of CAERE](https://mp.weixin.qq.com/s/-wghlDamMC1gCPQR0c7tpg), see you in Hang Zhou! ℹ️
 
 - **<font color='red'>[Highlight] </font> Feb. 2024:** Very excited that our research have been accepted for presentation during the [27th Annual Conference on Global Economic Analysis](https://www.gtap.agecon.purdue.edu/events/Conferences/2024/index.aspx), see you in Fort Collins! 😁
 
@@ -131,4 +132,5 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 <br>
 
-<!-- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I'm thrilled to share that I have been awarded the AAAI 2024 Undergraduate Scholarship and will be attending the AAAI Conference in Vancouver this coming February.<br><br>I am also looking for PhD to start in 2025 Fall. Contact me if you have any leads! 😁 <a href="https://t.co/GxdTPnCzE6">pic.twitter.com/GxdTPnCzE6</a></p>— Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1738533328490463639?ref_src=twsrc%5Etfw">December 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Contact me if you have any leads! 😁 <a href="https://t.co/GxdTPnCzE6">pic.twitter.com/GxdTPnCzE6</a></p>— Chen FANG <a href="https://twitter.com/Charlie_Fang_/status/1777312207501439088">December 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
