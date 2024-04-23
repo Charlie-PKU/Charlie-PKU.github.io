@@ -410,6 +410,13 @@ Make publication passages on official accounts (WeChat Account: LEEEP_Forum)
 
 <br>
 
+- ✨(2022) 中国经济专题作业：[国有企业改革](https://charlie-pku.github.io/file/SOE_reform_2022.pdf), [价格双轨制的影响](https://charlie-pku.github.io/file/dual_track_2022.pdf) 
+
+  - This is the Personal Essay on *Special Topics in China Economic Research* taught by [Yifu Lin](https://www.nse.pku.edu.cn/szdw/js/465203.htm). 
+
+
+<br>
+
 - (2022) [试论世界电影的发展脉络——以电影叙事视角为线索](https://charlie-pku.github.io/file/final_cinema.pdf) 
 
   - This is the Final Thesis of *History of World Cinema* taught by [Shaoyang Lu](http://sjc.pku.edu.cn/info/1130/11662.htm)
