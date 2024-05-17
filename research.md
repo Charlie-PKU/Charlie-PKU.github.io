@@ -513,10 +513,15 @@ Make publication passages on official accounts (WeChat Account: LEEEP_Forum)
 <br>
 <br>
 
+- ✨(2020) [关于污染场地环境评估的思考与建议——以常州外国语学校事件为切入点](https://charlie-pku.github.io/file/toxic_2020.pdf) 
 
-- (2020) [燕园十二月令风物童话诗](https://charlie-pku.github.io/file/poem_2020.pdf) 
+  - This is the Final Thesis on *Environmental Problem* taught by [Xiaoyan Tang](https://www.pku.edu.cn/details/1047.html) and [Yuanhang Zhang](https://www.pku.edu.cn/details/1033.html) et al.
 
-  - This is a modern poem written on *University-level Chinese* taught by [Yin Lu](http://scholar.pku.edu.cn/luyin)
+<br>
+
+- (2020) [烹饪中的有机化学原理](https://charlie-pku.github.io/file/organic_chemistry_2020.pdf) 
+
+  - This is a Group Presentation with Qiyue Nie, Tingyu Cui and Hanzhe Wang *Organic Chemistry (B)* taught by [Jie Zhang](https://www.chem.pku.edu.cn/szll/zzjs/gfzhxyjs/55863.htm)
 
 <br>
 
