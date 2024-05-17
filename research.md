@@ -515,7 +515,7 @@ Make publication passages on official accounts (WeChat Account: LEEEP_Forum)
 
 - (2020) [烹饪中的有机化学原理](https://charlie-pku.github.io/file/organic_chemistry_2020.pdf) 
 
-  - This is a Group Presentation with Qiyue Nie, Tingyu Cui and Hanzhe Wang *Organic Chemistry (B)* taught by [Jie Zhang](https://www.chem.pku.edu.cn/szll/zzjs/gfzhxyjs/55863.htm)
+  - This is a Group Presentation with Tingyu Cui, Qiyue Nie and Hanzhe Wang on *Organic Chemistry (B)* taught by [Jie Zhang](https://www.chem.pku.edu.cn/szll/zzjs/gfzhxyjs/55863.htm)
 
 
 <br>
