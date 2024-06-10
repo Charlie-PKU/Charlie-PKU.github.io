@@ -22,7 +22,7 @@ title: Activity
 **主要工作**：
 
 - 组织小班讨论课（每个班20余人，每周2小时），批改Memo，与全体助教进行集体备课，选择案例引导学生讨论
-  - 例如：[物流地产还是一桩好生意吗？](https://charlie-pku.github.io/file/discussion_logistics_2024.pdf) [非洲亚吉铁路：中外合作新样本](https://charlie-pku.github.io/file/discussion_rail_2024.pdf) [美元疯涨冲击波](https://charlie-pku.github.io/file/discussion_dollar_2024.pdf) [“四万亿”启示录：宏观调控究竟要怎么“调”？](https://charlie-pku.github.io/file/discussion_four_trillion_2024.pdf)……
+  - 例如：[物流地产还是一桩好生意吗？](https://charlie-pku.github.io/file/discussion_logistics_2024.pdf)、[非洲亚吉铁路：中外合作新样本](https://charlie-pku.github.io/file/discussion_rail_2024.pdf)、[美元疯涨冲击波](https://charlie-pku.github.io/file/discussion_dollar_2024.pdf)、[“四万亿”启示录：宏观调控究竟要怎么“调”？](https://charlie-pku.github.io/file/discussion_four_trillion_2024.pdf)……
 
 <br>
 
