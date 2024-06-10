@@ -27,6 +27,7 @@ title: Activity
     - [非洲亚吉铁路：中外合作新样本](https://charlie-pku.github.io/file/discussion_rail_2024.pdf)
     - [美元疯涨冲击波](https://charlie-pku.github.io/file/discussion_dollar_2024.pdf)
     - [“四万亿”启示录：宏观调控究竟要怎么“调”？](https://charlie-pku.github.io/file/discussion_four_trillion_2024.pdf)……
+- 参与期末监考
 
 <br>
 
