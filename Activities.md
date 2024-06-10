@@ -11,7 +11,7 @@ title: Activity
 
 ### **2024**
 
-- ⭐⭐⭐Feb. 2024 - Jun. 2024 (Expected): **清华大学“经济学原理（宏观）”小班讨论课助教**
+- ⭐⭐⭐Feb. 2024 - Jun. 2024: **清华大学“经济学原理（宏观）”小班讨论课助教**
 
 &#8194; &#8194; **授课院系**：经济管理学院
 
@@ -22,7 +22,11 @@ title: Activity
 **主要工作**：
 
 - 组织小班讨论课（每个班20余人，每周2小时），批改Memo，与全体助教进行集体备课，选择案例引导学生讨论
-  - 例如：[物流地产还是一桩好生意吗？](https://charlie-pku.github.io/file/discussion_logistics_2024.pdf)、[非洲亚吉铁路：中外合作新样本](https://charlie-pku.github.io/file/discussion_rail_2024.pdf)、[美元疯涨冲击波](https://charlie-pku.github.io/file/discussion_dollar_2024.pdf)、[“四万亿”启示录：宏观调控究竟要怎么“调”？](https://charlie-pku.github.io/file/discussion_four_trillion_2024.pdf)……
+  - 例如：
+  [物流地产还是一桩好生意吗？](https://charlie-pku.github.io/file/discussion_logistics_2024.pdf)
+  [非洲亚吉铁路：中外合作新样本](https://charlie-pku.github.io/file/discussion_rail_2024.pdf)
+  [美元疯涨冲击波](https://charlie-pku.github.io/file/discussion_dollar_2024.pdf)
+  [“四万亿”启示录：宏观调控究竟要怎么“调”？](https://charlie-pku.github.io/file/discussion_four_trillion_2024.pdf)……
 
 <br>
 
@@ -37,7 +41,9 @@ title: Activity
 **主要工作**：
 
 - 组织小班讨论课（每个班20余人，每周2小时），批改Memo，与全体助教进行集体备课，选择案例引导学生讨论
-  - 例如：[房地产市场的出清与重生](https://charlie-pku.github.io/file/discussion_house_2023.pdf) [在线音乐变局](https://charlie-pku.github.io/file/discussion_music_2023.pdf)……
+  - 例如：
+  [房地产市场的出清与重生](https://charlie-pku.github.io/file/discussion_house_2023.pdf) 
+  [在线音乐变局](https://charlie-pku.github.io/file/discussion_music_2023.pdf)……
 - 参与期中与期末监考
 
 [采访推送](https://mp.weixin.qq.com/s/mHbSoyQ9NqxKwGm_-If5rw)
