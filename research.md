@@ -464,6 +464,12 @@ Make publication passages on official accounts (WeChat Account: LEEEP_Forum)
 
 <br>
 
+- ✨(2021) [MBBR——Moving Bed Biofilm Reactor 移动床生物膜反应器](https://charlie-pku.github.io/file/MBBR_2022.pdf) 
+
+  - This is the personal poster of *Environmental Engineering II* taught by [Donghui Wen](http://scholar.pku.edu.cn/dhwen/node/18856)
+
+<br>
+
 - ✨(2021) [中国实行碳税的成效与影响分析](https://charlie-pku.github.io/file/carbon_tax_2021.pdf) 
 
   - This is the Group Presentation on *China's Public Finance* taught by [Shuanglin Lin](http://scholar.pku.edu.cn/sllin/home)
