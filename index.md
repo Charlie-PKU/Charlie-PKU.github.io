@@ -108,7 +108,7 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 - **Birthday**🎂: 20th September, 2001
 - **Hometown**🏡: Jiangyou County, Mianyang City, Sichuan province (四川省绵阳市江油市)
-- **MBTI**ℹ️: INFJ (2020) ➡️ ISFJ (2022)
+- **MBTI**ℹ️: INFJ (2020) ➡️ ISFJ (2022) ➡️ ❔(2024)
 
 <br>
 
