@@ -374,6 +374,8 @@ title: Activity
 
 - **2023 - 2024** &nbsp; &nbsp; “清华大学研究生教学能力提升项目”**初级水平证书** (Certificate of Elemetary Level)
 
+<br>
+
 - **2021 - 2022** &nbsp; &nbsp; 北京大学环境校友奖学金，学习优秀奖
 
   - 第十三届全国大学生数学竞赛**二等奖**
