@@ -14,7 +14,7 @@ lang: french
 
 &#8194;&#8194; (*Undergraduate Thesis of PKU, Oct. 2022 - Jun. 2023*)
 
-[Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/perception_slides_2023.pdf)
+<!-- [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/perception_slides_2023.pdf) -->
 
 with [Yana Jin](http://scholar.pku.edu.cn/yjin)
 
