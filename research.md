@@ -369,8 +369,9 @@ Make publication passages on official accounts (WeChat Account: LEEEP_Forum)
 
 <br>
 
-<!-- - (2024) Causal effects of Renewable Portfolio Standards on renewable investments and generation
-  - This is the Personal Presentation on *Energy and Environmental Economics* taught by [Jing Cao](https://chinaproject.harvard.edu/people/jing-cao) -->
+- ✨(2024) [学术成果定量化的背景与影响——以高校经济学科教师为分析对象](https://charlie-pku.github.io/file/young_scholars_2024.pdf)
+
+  - This is the Final Thesis on *Introduction of Dialectics of Nature* taught by [Guangling Xiao](https://www.smarx.tsinghua.edu.cn/info/1139/3243.htm)
 
 <br>
 
@@ -393,13 +394,13 @@ Make publication passages on official accounts (WeChat Account: LEEEP_Forum)
 
 <br>
 
-- ✨✨(2023) LARF IN CASUAL INFERENCETHEORETICAL ANALYSIS AND EMPIRICAL APPLICATION [poster](https://charlie-pku.github.io/file/LARF_poster_2023.pdf) [slides](https://charlie-pku.github.io/file/LARF_2023.pdf) 
+- ✨✨✨(2023) LARF IN CASUAL INFERENCETHEORETICAL ANALYSIS AND EMPIRICAL APPLICATION [poster](https://charlie-pku.github.io/file/LARF_poster_2023.pdf) [slides](https://charlie-pku.github.io/file/LARF_2023.pdf) 
 
   - This is the Group Presentation with Yi Chai on *Advanced Research Seminar* taught by [Shiyao Liu](https://cnisscad.pku.edu.cn/szll/skjs/l/525746.htm)
 
 <br>
 
-- ✨✨(2023) [The Health Effect of Commuting: Evidence from Metro Opening in China](https://charlie-pku.github.io/file/subway_2023.pdf) 
+- ✨✨✨(2023) [The Health Effect of Commuting: Evidence from Metro Opening in China](https://charlie-pku.github.io/file/subway_2023.pdf) 
 
   - This is the Course Thesis of *Applied Econometrics* taught by [Xuezheng Qin](https://econ.pku.edu.cn/szdw/zzjs/ybjs/sjjxx/327504.htm)
 
