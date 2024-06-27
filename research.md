@@ -26,7 +26,7 @@ with [Yana Jin](http://scholar.pku.edu.cn/yjin)
 
 &#8194;&#8194; (*RA program in [3E Institute](http://www.3e.tsinghua.edu.cn/cn), THU, Feb. 2023 - now*)
 
-[Extended Abstract](https://charlie-pku.github.io/mypaper/Working_Papers/IAM_2024.pdf) (for EAERE 2024 Annual Meeting)
+<!-- [Extended Abstract](https://charlie-pku.github.io/mypaper/Working_Papers/IAM_2024.pdf) (for EAERE 2024 Annual Meeting) -->
 
 with Hantang Peng, [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/article/311), [Da Zhang](http://www.energyda.cn/) and [Xiliang Zhang](http://www.3e.tsinghua.edu.cn/cn/article/slug/news-member-teacher-zsl)
 
@@ -38,9 +38,9 @@ with Hantang Peng, [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/article/311)
 
 <!-- [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/forest_2022.pdf) -->
 
-[Extended Abstract](https://charlie-pku.github.io/file/CAERE_forest.pdf) (for CAERE 2024 Annual Meeting)
+<!-- [Extended Abstract](https://charlie-pku.github.io/file/CAERE_forest.pdf) (for CAERE 2024 Annual Meeting)
 
-[Updated Slides](https://charlie-pku.github.io/file/forest_Charlie_slides_16_9.pdf) (for CAERE 2024 Annual Meeting)
+[Updated Slides](https://charlie-pku.github.io/file/forest_Charlie_slides_16_9.pdf) (for CAERE 2024 Annual Meeting) -->
 
 with Tingyu Cui and Yushuai Zhang
 
@@ -54,6 +54,8 @@ with Tingyu Cui and Yushuai Zhang
 
 <br>
 
+## Permanent Working Paper 😂
+
 - **"Trade Ban and Environmental Pollution: A Policy Evaluation on Trade Ban of Foreign Garbage"**
 
 &#8194;&#8194; (*Course Thesis of **Public Policy Evaluation** in PKU, Mar. 2022 - Jul. 2022*)
@@ -61,7 +63,6 @@ with Tingyu Cui and Yushuai Zhang
 [Manuscript (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/garbage_2023.pdf)
 
 [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/garbage_slides_2022.pdf)
-
 
 with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
