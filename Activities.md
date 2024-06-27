@@ -60,7 +60,7 @@ title: Activity
 
 &#8194; &#8194; **授课院系**：国家发展研究院
 
-**课程教师**：[徐化愚](https://nsd.pku.edu.cn/szdw/qzjs/x/505862.htm#)
+**课程教师**：[徐化愚](https://sites.google.com/umich.edu/huayu)
 
 **合作者**：范炘宜
 
