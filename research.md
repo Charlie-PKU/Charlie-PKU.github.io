@@ -27,8 +27,9 @@ with [Yana Jin](http://scholar.pku.edu.cn/yjin)
 &#8194;&#8194; (*RA program in [3E Institute](http://www.3e.tsinghua.edu.cn/cn), THU, Feb. 2023 - now*)
 
 <!-- [Extended Abstract](https://charlie-pku.github.io/mypaper/Working_Papers/IAM_2024.pdf) (for EAERE 2024 Annual Meeting) -->
-
 with Hantang Peng, [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/article/311), [Da Zhang](http://www.energyda.cn/) and [Xiliang Zhang](http://www.3e.tsinghua.edu.cn/cn/article/slug/news-member-teacher-zsl)
+
+**Oral Presentation**: [27th GTAP](https://www.gtap.agecon.purdue.edu/events/Conferences/2024/index.aspx), [3rd CAERE](http://www.caere.org/)
 
 <br>
 
@@ -44,6 +45,8 @@ with Hantang Peng, [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/article/311)
 
 with Tingyu Cui and Yushuai Zhang
 
+**Oral Presentation**: [3rd CAERE](http://www.caere.org/)
+
 <br>
 
 - **"Research on Transnational Mobility of Researchers based on Multi-Agent Modeling: A case study of Artificial Intelligence"**
@@ -51,6 +54,8 @@ with Tingyu Cui and Yushuai Zhang
 <!-- &#8194;&#8194;  [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/Mobility_2023.pdf) -->
 
 &#8194;&#8194; with Wenjie Chen and [Chao Min](https://min-chao.github.io/)
+
+
 
 <br>
 
