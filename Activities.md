@@ -3,7 +3,7 @@ layout: page
 permalink: /activities/index.html
 title: Activity
 ---
-> Lastest Update:  Jun 2nd, 2024 (English Version is working in progress)
+> Lastest Update:  Jun 28th, 2024 (English Version is working in progress)
 
 <!--   [中文版本 (Chinese Version)](https://charlie-pku.github.io/file/awards-zh/) -->
 
