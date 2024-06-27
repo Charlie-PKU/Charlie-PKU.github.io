@@ -95,10 +95,13 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 
 - **Hobbies**
-  - 🏊 Sports (Swimming, Badminton, Jogging...)
-  - 📺 Watching (Quiz Shows, Movies, TV Series, Reality Shows)
-  - 📖 Reading (Classical Poetry, Contemporary Novel and Prose)
-  - 🎧 Listening (mainly piano and soft music) 
+  - 🏊 **Sports** (Swimming, Badminton, Jogging...)
+  - 📺 **Watching** ([*Doraemon*](https://dora-world.com/), Quiz Shows, Movies, TV Series, Reality Shows)
+  - 📖 **Reading** (Classical Poetry, Contemporary Novel and Prose)
+  - 🎧 **Listening** (mainly piano and soft music) 
+  
+  <br>
+  
   - 🔗 Welcome to my [Douban](https://www.douban.com/people/llvintagell/?_i=7918178VKIvn7g) and [NetEase Music](https://music.163.com/#/user/home?id=315155365) homepage!!
 
 <br>
@@ -114,9 +117,11 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 ## News and Updates 📨
 
-- **<font color='red'>[Highlight] </font> Feb. 2024:** Very excited that our research have been accepted for presentation during the [27th Annual Conference on Global Economic Analysis](https://www.gtap.agecon.purdue.edu/events/Conferences/2024/index.aspx), see you in Fort Collins! 😁
+- **<font color='red'>[Highlight] </font> Jul. 2024:** Expect to open a nice journey in [Tongren County, Guizhou Province](https://mp.weixin.qq.com/s/oTnPJp2SgLY9szQybwspmA) with classmates from [Tsinghua PBC School of Finance](https://www.pbcsf.tsinghua.edu.cn/)! 🍉
 
 - **Mar. 2024:** Very thrilled that our research have been accepted for presentation during the [the 3rd Annual Conference of CAERE](http://www.caere.org/), happy days in [Hang Zhou](https://mp.weixin.qq.com/s/R1SMwQkPnT1vl2RaqjoN0w)! 🌏
+
+- **Feb. 2024:** Very excited that our research have been accepted for presentation during the [27th Annual Conference on Global Economic Analysis](https://www.gtap.agecon.purdue.edu/events/Conferences/2024/index.aspx), see you in Fort Collins! 😁
 
 - **Oct. 2023:** Fantastic Holiday in [Vladivostok and Harbin](https://mp.weixin.qq.com/s/J1xEEw_rVxnN3jOz3XRklA)! 🌞
 
