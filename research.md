@@ -16,9 +16,9 @@ lang: french
 
 <!-- [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/perception_slides_2023.pdf) -->
 
+(Draft is available upon request)
 
-
-with [Yana Jin](http://scholar.pku.edu.cn/yjin)
+joint with [Yana Jin](http://scholar.pku.edu.cn/yjin)
 
 <!-- <img src="https://charlie-pku.github.io/images/research/perception_2023.jpg"> -->
 
@@ -29,7 +29,10 @@ with [Yana Jin](http://scholar.pku.edu.cn/yjin)
 &#8194;&#8194; (*RA program in [3E Institute](http://www.3e.tsinghua.edu.cn/cn), THU, Feb. 2023 - now*)
 
 <!-- [Extended Abstract](https://charlie-pku.github.io/mypaper/Working_Papers/IAM_2024.pdf) (for EAERE 2024 Annual Meeting) -->
-with Hantang Peng, [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/article/311), [Da Zhang](http://www.energyda.cn/) and [Xiliang Zhang](http://www.3e.tsinghua.edu.cn/cn/article/slug/news-member-teacher-zsl)
+
+(Draft available upon request)
+
+joint with Hantang Peng, [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/article/311), [Da Zhang](http://www.energyda.cn/) and [Xiliang Zhang](http://www.3e.tsinghua.edu.cn/cn/article/slug/news-member-teacher-zsl)
 
 **Oral Presentation**: [27th GTAP](https://www.gtap.agecon.purdue.edu/events/Conferences/2024/index.aspx), [3rd CAERE](http://www.caere.org/)
 
@@ -39,13 +42,15 @@ with Hantang Peng, [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/article/311)
 
 &#8194;&#8194; (*30th Challenge Cup Program of PKU, Oct. 2021 - Jun. 2022*)
 
+(Draft available upon request)
+
 <!-- [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/forest_2022.pdf) -->
 
 <!-- [Extended Abstract](https://charlie-pku.github.io/file/CAERE_forest.pdf) (for CAERE 2024 Annual Meeting)
 
 [Updated Slides](https://charlie-pku.github.io/file/forest_Charlie_slides_16_9.pdf) (for CAERE 2024 Annual Meeting) -->
 
-with Tingyu Cui and Yushuai Zhang
+joint with Tingyu Cui and Yushuai Zhang
 
 **Oral Presentation**: [3rd CAERE](http://www.caere.org/)
 
@@ -55,11 +60,12 @@ with Tingyu Cui and Yushuai Zhang
 
 <!-- &#8194;&#8194;  [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/Mobility_2023.pdf) -->
 
-&#8194;&#8194; with Wenjie Chen and [Chao Min](https://min-chao.github.io/)
-
+&#8194;&#8194; joint with Wenjie Chen and [Chao Min](https://min-chao.github.io/)
 
 
 <br>
+
+---
 
 ## Permanent Working Paper 😂
 
@@ -71,7 +77,7 @@ with Tingyu Cui and Yushuai Zhang
 
 [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/garbage_slides_2022.pdf)
 
-with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
+joint with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
 <br>
 
