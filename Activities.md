@@ -11,11 +11,11 @@ title: Activity
 
 ### **2024**
 
-- ⭐⭐⭐Sep. 2024 - Nov. 2025 (Expected): **清华大学“管理经济学”MBA课程助教**
+- ⭐⭐⭐Sep. 2024 - Nov. 2024 (Expected): **清华大学“管理经济学”MBA课程助教**
 
 &#8194; &#8194; **授课院系**：经济管理学院
 
-**课程教师**：[李明志](https://www.sem.tsinghua.edu.cn/en/info/1215/7137.htm)
+**课程教师**：[Mingzhi Li](https://www.sem.tsinghua.edu.cn/en/info/1215/7137.htm)
 
 **合作者**：林鹏昇、张娟
 
@@ -27,7 +27,7 @@ title: Activity
 
 &#8194; &#8194; **授课院系**：经济管理学院
 
-**课程教师**：[慕天实](https://tianshimu.netlify.app/)
+**课程教师**：[Tianshi Mu](https://tianshimu.netlify.app/)
 
 **合作者**：袁帅、李嘉晟、魏文石
 
@@ -39,7 +39,7 @@ title: Activity
 
 &#8194; &#8194; **授课院系**：经济管理学院
 
-**课程教师**：[董丰](https://fengdongecon.weebly.com/)
+**课程教师**：[Feng Dong](https://fengdongecon.weebly.com/)
 
 **合作者**：孙昕知、耿域新、程莘毓、杜翔宇、何禹桥
 
@@ -63,7 +63,7 @@ title: Activity
 
 &#8194; &#8194; **授课院系**：经济管理学院
 
-**课程教师**：[钟笑寒](https://www.sem.tsinghua.edu.cn/info/1206/31922.htm)、[钱颖一](https://www.sem.tsinghua.edu.cn/info/1206/31907.htm)
+**课程教师**：[Xiaohan Zhong](https://www.sem.tsinghua.edu.cn/info/1206/31922.htm)、[Yingyi Qian](https://www.sem.tsinghua.edu.cn/info/1206/31907.htm)
 
 **合作者**：宗晶莹、何禹桥、黄嘉伦
 
@@ -84,9 +84,9 @@ title: Activity
 
 &#8194; &#8194; **授课院系**：国家发展研究院
 
-**课程教师**：[徐化愚](https://sites.google.com/umich.edu/huayu)
+**课程教师**：[Huayu Xu](https://sites.google.com/umich.edu/huayu)
 
-**合作者**：范炘宜
+**合作者**：Xinyi Fan
 
 **主要工作**：组织课程、跟堂听课、批改作业、讲授习题课 (Tutorial [2](https://charlie-pku.github.io/file/tutorial_2_2023.pdf), [4](https://charlie-pku.github.io/file/tutorial_4_2023.pdf), [6](https://charlie-pku.github.io/file/tutorial_6_2023.pdf))、期中与期末考题制作与监考等。
 
