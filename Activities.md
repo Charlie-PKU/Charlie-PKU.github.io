@@ -13,31 +13,31 @@ title: Activity
 
 - ⭐⭐⭐Sep. 2024 - Nov. 2024 (Expected): **清华大学“管理经济学”MBA课程助教**
 
-&#8194; &#8194; **授课院系**：经济管理学院
+&#8194; &#8194; **授课院系**：School of Economics and Management
 
 **课程教师**：[Mingzhi Li](https://www.sem.tsinghua.edu.cn/en/info/1215/7137.htm)
 
-**合作者**：林鹏昇、张娟
+**合作者**：Pengsheng Lin、Juan Zhang
 
-**主要工作**：待定
+**主要工作**：TBD
 
 <br>
 
 - ⭐⭐⭐Sep. 2024 - Jan. 2025 (Expected): **清华大学“中级微观经济学”本科生课程助教**
 
-&#8194; &#8194; **授课院系**：经济管理学院
+&#8194; &#8194; **授课院系**：School of Economics and Management
 
 **课程教师**：[Tianshi Mu](https://tianshimu.netlify.app/)
 
 **合作者**：袁帅、李嘉晟、魏文石
 
-**主要工作**：待定
+**主要工作**：TBD
 
 <br>
 
 - ⭐⭐⭐Feb. 2024 - Jun. 2024: **清华大学“经济学原理（宏观）”本科生小班讨论课助教**
 
-&#8194; &#8194; **授课院系**：经济管理学院
+&#8194; &#8194; **授课院系**：School of Economics and Management
 
 **课程教师**：[Feng Dong](https://fengdongecon.weebly.com/)
 
@@ -47,10 +47,10 @@ title: Activity
 
 - 组织小班讨论课（每个班20余人，每周2小时），批改Memo，与全体助教进行集体备课，选择案例引导学生讨论
   - 例如：
-    - [物流地产还是一桩好生意吗？](https://charlie-pku.github.io/file/discussion_logistics_2024.pdf)
-    - [非洲亚吉铁路：中外合作新样本](https://charlie-pku.github.io/file/discussion_rail_2024.pdf)
-    - [美元疯涨冲击波](https://charlie-pku.github.io/file/discussion_dollar_2024.pdf)
-    - [“四万亿”启示录：宏观调控究竟要怎么“调”？](https://charlie-pku.github.io/file/discussion_four_trillion_2024.pdf)……
+    - [物流地产还是一桩好生意吗？](https://charlie-pku.github.io/file/2024/discussion_logistics_2024.pdf)
+    - [非洲亚吉铁路：中外合作新样本](https://charlie-pku.github.io/file/2024/discussion_rail_2024.pdf)
+    - [美元疯涨冲击波](https://charlie-pku.github.io/file/2024/discussion_dollar_2024.pdf)
+    - [“四万亿”启示录：宏观调控究竟要怎么“调”？](https://charlie-pku.github.io/file/2024/discussion_four_trillion_2024.pdf)……
 - 参与期末监考
 
 <br>
@@ -61,7 +61,7 @@ title: Activity
 
 - ⭐⭐⭐Sep. 2023 - Jan. 2024: **清华大学“经济学原理（微观）”本科生小班讨论课助教**
 
-&#8194; &#8194; **授课院系**：经济管理学院
+&#8194; &#8194; **授课院系**：School of Economics and Management
 
 **课程教师**：[Xiaohan Zhong](https://www.sem.tsinghua.edu.cn/info/1206/31922.htm)、[Yingyi Qian](https://www.sem.tsinghua.edu.cn/info/1206/31907.htm)
 
@@ -71,8 +71,8 @@ title: Activity
 
 - 组织小班讨论课（每个班20余人，每周2小时），批改Memo，与全体助教进行集体备课，选择案例引导学生讨论
   - 例如：
-    - [房地产市场的出清与重生](https://charlie-pku.github.io/file/discussion_house_2023.pdf) 
-    - [在线音乐变局](https://charlie-pku.github.io/file/discussion_music_2023.pdf)……
+    - [房地产市场的出清与重生](https://charlie-pku.github.io/file/2023/discussion_house_2023.pdf) 
+    - [在线音乐变局](https://charlie-pku.github.io/file/2023/discussion_music_2023.pdf)……
 - 参与期中与期末监考
 
 [采访推送](https://mp.weixin.qq.com/s/mHbSoyQ9NqxKwGm_-If5rw)
@@ -82,13 +82,13 @@ title: Activity
 
 - ⭐Feb. 2023 - Jun. 2023：**北京大学“中级微观经济学”本科生课程助教**
 
-&#8194; &#8194; **授课院系**：国家发展研究院
+&#8194; &#8194; **授课院系**：National School of Development
 
 **课程教师**：[Huayu Xu](https://sites.google.com/umich.edu/huayu)
 
 **合作者**：Xinyi Fan
 
-**主要工作**：组织课程、跟堂听课、批改作业、讲授习题课 (Tutorial [2](https://charlie-pku.github.io/file/tutorial_2_2023.pdf), [4](https://charlie-pku.github.io/file/tutorial_4_2023.pdf), [6](https://charlie-pku.github.io/file/tutorial_6_2023.pdf))、期中与期末考题制作与监考等。
+**主要工作**：组织课程、跟堂听课、批改作业、讲授习题课 (Tutorial [2](https://charlie-pku.github.io/file/tutorial_2_2023.pdf), [4](https://charlie-pku.github.io/file/tutorial_4_2023.pdf), [6](https://charlie-pku.github.io/file/tutorial_6_2023.pdf))、期中与期末考题制作与监考等
 
 <br>
 
@@ -123,7 +123,7 @@ title: Activity
 
 **微信推文** 嵩阳诗剧 [Day1](https://mp.weixin.qq.com/s/x6r4_ylvgpd9Rkv9M2hjNw) [Day2](https://mp.weixin.qq.com/s/gp0BTo-RYdf--YtzkzYVYg) [Day3-4](https://mp.weixin.qq.com/s/hTfqbXjUUTDBjMRHvfbyRA) [Day5-6](https://mp.weixin.qq.com/s/b48WpkYIaJYUYn2QFvk3hA) [Day7](https://mp.weixin.qq.com/s/laeye-krRb-JJ5yi92d7cg)
 
-**[总结视频](https://www.bilibili.com/video/BV1hQ4y1n76R/?spm_id_from=333.999.0.0)** **[碎片](https://mp.weixin.qq.com/s/wnVhtnuy-Mo2_eqJX53tsQ)**
+**[总结视频](https://www.bilibili.com/video/BV1hQ4y1n76R/?spm_id_from=333.999.0.0)** **[登封碎片](https://mp.weixin.qq.com/s/wnVhtnuy-Mo2_eqJX53tsQ)**
 
 <br>
 
@@ -139,7 +139,7 @@ title: Activity
 
 - ⭐⭐Oct. 2021 - Jan. 2022: **北京大学与思克莱德大学（University of Strathclyde）等高校线上交流项目（主题：全球气候变化与行动）**
 
-*制作[交流PPT](https://charlie-pku.github.io/file/communication_2021.pptx)，拍摄视频并参与线上Zoom会议*
+*制作[交流PPT](https://charlie-pku.github.io/file/2021/communication_2021.pdf)，拍摄视频并参与线上Zoom会议*
 
 <br>
 
@@ -163,7 +163,7 @@ title: Activity
 
 **微信推文** 上海之行 [起航&amp;第一天](https://mp.weixin.qq.com/s/4etRaM7z9YXztdDjUaarNw) [第二天](https://mp.weixin.qq.com/s/K13EMd903p2PcZoO9LphsA) [第三天](https://mp.weixin.qq.com/s/n5Gz2qAsMpT20FCKygyicA) [第四天](https://mp.weixin.qq.com/s/wGW5SNwqxSFxuF2WgKAjNQ) [第五天](https://mp.weixin.qq.com/s/qkKk9mVZMycOYyMRbg887Q)
 
-[个人实习日志](https://charlie-pku.github.io/file/journal_shanghai_2021.pdf) [个人实习报告](https://charlie-pku.github.io/file/report_shanghai_2021.pdf) [小组汇报展示](https://charlie-pku.github.io/file/pre_shanghai_2021.pdf)
+[个人实习日志](https://charlie-pku.github.io/file/2021/journal_shanghai_2021.pdf) [个人实习报告](https://charlie-pku.github.io/file/2021/report_shanghai_2021.pdf) [小组汇报展示](https://charlie-pku.github.io/file/2021/pre_shanghai_2021.pdf)
 
 <br>
 
@@ -175,7 +175,7 @@ title: Activity
 
 **微信推文** 坝上实习 [起航&amp;第一天](https://mp.weixin.qq.com/s/VuEZ3o7QhPoFxRM6UflbkQ) [第二天](https://mp.weixin.qq.com/s/dvn-yPrm-cUck0DY_9QPog) [第三天](https://mp.weixin.qq.com/s/c9JzlbXvP-cL5xl1gi6ZEQ) [第四天](https://mp.weixin.qq.com/s/dCsov_dpVoFRQutVhT-q-g) [第五天](https://mp.weixin.qq.com/s/gJmLbUpBZMKDczjWyr00dg)
 
-[个人实习日志](https://charlie-pku.github.io/file/journal_saihanba_2021.pdf) [小组汇报展示](https://charlie-pku.github.io/file/pre_saihanba_2021.pdf) [小组海报展示](https://charlie-pku.github.io/file/poster_saihanba_2021.pdf)
+[个人实习日志](https://charlie-pku.github.io/file/2021/journal_saihanba_2021.pdf) [小组汇报展示](https://charlie-pku.github.io/file/2021/pre_saihanba_2021.pdf) [小组海报展示](https://charlie-pku.github.io/file/2021/poster_saihanba_2021.pdf)
 
 <br>
 
@@ -356,7 +356,7 @@ title: Activity
 
 - ⭐⭐Jul. 2021: **北京大学暑期学校课程主持人（课程名：Environmental Challenge and Sustainable Development in China）**
 
-*制作[PPT](https://charlie-pku.github.io/file/Marine_Plastic_Pollution_2021.pptx)，在线上与同学们分享海洋塑料污染的有关知识*
+*制作[PPT](https://charlie-pku.github.io/file/2021/Marine_Plastic_Pollution_2021.pdf)，在线上与同学们分享海洋塑料污染的有关知识*
 
 <br>
 
@@ -390,7 +390,7 @@ title: Activity
 
 - Jan. 2020: **北京大学“领航新燕”2020年返乡社会实践活动志愿者**
 
-*前往高中母校面向高中生进行[招生宣讲](https://charlie-pku.github.io/file/PKU_2022.pdf)与学习经验分享*
+*前往高中母校面向高中生进行[招生宣讲](https://charlie-pku.github.io/file/2020/PKU_2020.pdf)与学习经验分享*
 
 <br>
 
