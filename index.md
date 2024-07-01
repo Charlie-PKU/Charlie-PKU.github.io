@@ -95,18 +95,19 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 
 - **Hobbies**
-  - 🏊 **Sports** (Swimming, Badminton, Jogging...)
-  - 📺 **Watching** ([*Doraemon*](https://dora-world.com/), Quiz Shows, Movies, TV Series, Reality Shows)
-  - 📖 **Reading** (Classical Poetry, Contemporary Novel and Prose)
-  - 🎧 **Listening** (mainly piano and soft music) 
+  - 🏊 **Sports**: Swimming (*PKU Amateur Athletic Level Certificate*), Badminton, Jogging
+  - 📺 **Watching**: [*Doraemon*](https://dora-world.com/), Quiz Shows (e.g. [Quizknock](https://www.portal.quizknock.com/)), Movies, TV Series, Reality Shows, Bilibili
+  - 📖 **Reading**: Contemporary Novel, Prose and other Literature
+  - 🎧 **Listening**: New Age (e.g. [Bandari](https://music.apple.com/cn/artist/bandari/274081002)), Lofi (e.g. [Kainbeats](https://kainbeats.com/)), Indie-folk (e.g. the landlord's cat), piano and classical
   
   <br>
   
-  - 🔗 Welcome to my [Douban](https://www.douban.com/people/llvintagell/?_i=7918178VKIvn7g) and [NetEase Music](https://music.163.com/#/user/home?id=315155365) homepage!!
+  - 🔗 Welcome to my [Douban](https://www.douban.com/people/llvintagell/?_i=7918178VKIvn7g) and [NetEase Music](https://music.163.com/#/user/home?id=315155365) homepage for more information about my interests!!
 
 <br>
 
-- **Birthday**🎂: 20th September, 2001
+- **Gender**: ♂️
+- **Birthday**🎂: 20th September, 2001 (Virgo♍)
 - **Hometown**🏡: Jiangyou County, Mianyang City, Sichuan province (四川省绵阳市江油市)
 - **MBTI**ℹ️: INFJ (2020) ➡️ ISFJ (2022) ➡️ ❔(2024)
 
@@ -123,6 +124,12 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 - **Feb. 2024:** Very excited that our research have been accepted for presentation during the [27th Annual Conference on Global Economic Analysis](https://www.gtap.agecon.purdue.edu/events/Conferences/2024/index.aspx), see you in Fort Collins! 😁
 
+
+<details>
+  <summary>Earlier News 🔽 </summary>
+
+<br>
+
 - **Oct. 2023:** Fantastic Holiday in [Vladivostok and Harbin](https://mp.weixin.qq.com/s/J1xEEw_rVxnN3jOz3XRklA)! 🌞
 
 - **Sep. 2023:** Hi! THU! 🏫
@@ -134,6 +141,11 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 - **Aug. 2023:** Very honored to be featured in this [interview](https://mp.weixin.qq.com/s/nwJ-w7q_wHt3VQYaUwvdfw) from CESE, PKU!!! 
 
 - **Jul. 2023:** Goodbye! PKU! 🏫
+
+
+</details>
+
+
 
 <br>
 
