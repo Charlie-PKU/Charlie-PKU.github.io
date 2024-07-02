@@ -117,7 +117,7 @@ title: Activity
 
 **相关报道** [华隆酸菜](https://mp.weixin.qq.com/s/II6ONH89bMcXSlv-xVyeqg) [岳阳人才集团](https://mp.weixin.qq.com/s/Vgn0tF_1COH0TJYGeSCAIQ)
 
-**[调研报告](https://charlie-pku.github.io/file/yueyang_report_2024.pdf) [Slides](https://charlie-pku.github.io/file/yueyang_report_slides_2024.pdf)**
+**[调研报告](https://charlie-pku.github.io/file/2024/yueyang_report_2024.pdf) [Slides](https://charlie-pku.github.io/file/2024/yueyang_report_slides_2024.pdf)**
 
 <br>
 
