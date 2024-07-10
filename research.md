@@ -314,9 +314,11 @@ Make publication passages on official accounts (WeChat Account: LEEEP_Forum)
 
 <br>
 
-### **Other Selected Small Research** 💡
+---
 
-- Literature Reading articles on Econometrics Circle
+## **Other Selected Small Research** 💡
+
+- ✨✨✨Literature Reading articles on *Econometrics Circle*
 
 &#8194; &#8194; (2024) [世界计量会士: 中国官员背景对他们政治偏好和行为的影响, PSM-DID, 内生性处理](https://mp.weixin.qq.com/s?__biz=MjM5OTMwODM1Mw==&mid=2448116534&idx=1&sn=a237fbcdf82849b2cd92e80042ed1a0d&chksm=b21142e9b8d71a63485f1a99845838f6484ddebb8e3de19080f416a88cbb28fe4ccca48ae491&scene=0&xtrack=1&subscene=7&clicktime=1710778149&ascene=1&devicetype=iOS17.2.1&version=18002f2c&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&session_us=gh_865387a4190a&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQPcn2LZxCgJVv27xf9KpfExLqAQIE97dBBAEAAAAAANUqF5OsZ4gAAAAOpnltbLcz9gKNyK89dVj0S92k6QZSqg7Ev5IBgHH4RZtRMg%2BAbDExNbtITSLcucco1qg3wad%2BQpDgKUNcuZohsxJZgXf784Ng5KgNytuBDeY49Mx69fp27cfynYB4y72tvcH7WScaO5wfHFYIaZus1hnDC0BhYzZs7SAdLzFFU%2FwUsFlz83v6rFBn7xFs6iVcQf4AGprl9jYY5O4WBrmIiMgQUF65SOSyFo%2FerZ1ry0MZOoU8yFjva52ZmXXbnUYZoWlYnY9Mqlk7vklAV9LJ8%2BYVVA%3D%3D&pass_ticket=WWaEnMlRt07tJ3M7FCYSpkh3xeBlcFisnhwk8MLfWPTm4jGcsuKhhnysVaMf%2F0HSTNaSSarDbe5h1BrcSQJ%2Fgw%3D%3D&wx_header=3)
 
