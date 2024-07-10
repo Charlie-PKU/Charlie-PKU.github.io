@@ -47,8 +47,8 @@ links:
     url: /research/
   - title: Teaching
     url: /teaching/
-  # - title: Publication
-  #   url: /publications/
+  - title: Publication
+    url: /publications/
   - title: Activity
     url: /activities/
   # - title: Hobbies
