@@ -8,7 +8,6 @@ title: Activity
 <!--   [中文版本 (Chinese Version)](https://charlie-pku.github.io/file/awards-zh/) -->
 
 
-
 ## Fieldwork 🚋
 
 ### **2024**
