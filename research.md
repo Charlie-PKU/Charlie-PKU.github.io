@@ -4,7 +4,7 @@ permalink: /research/index.html
 title: Research
 lang: french
 ---
-> Lastest Update: June 28th, 2024
+> Lastest Update: July 10th, 2024
 
 <!-- [中文版本 (Chinese Version)](https://charlie-pku.github.io/file/publications-zh/) -->
 
@@ -66,9 +66,9 @@ joint with Tingyu Cui and Yushuai Zhang
 
 <br>
 
----
+<!-- ---
 
-## Permanent Working Paper 😂
+## Permanent Working Paper 😂 -->
 
 - **"Trade Ban and Environmental Pollution: A Policy Evaluation on Trade Ban of Foreign Garbage"**
 
