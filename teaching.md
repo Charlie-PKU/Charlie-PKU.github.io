@@ -3,13 +3,11 @@ layout: page
 permalink: /teaching/index.html
 title: Teaching
 ---
-> Lastest Update:  Jun 28th, 2024 (English Version is working in progress)
+> Lastest Update:  July 10th, 2024 (English Version is working in progress)
 
 <!--   [中文版本 (Chinese Version)](https://charlie-pku.github.io/file/awards-zh/) -->
 
-## Teaching Assistant ✒️
-
-### **2024**
+## **2024** ✒️
 
 - ⭐⭐⭐Sep. 2024 - Nov. 2024 (Expected): **清华大学“管理经济学”MBA课程助教**
 
@@ -57,7 +55,7 @@ title: Teaching
 
 <br>
 
-### **2023**
+## **2023**🖍️
 
 - ⭐⭐⭐Sep. 2023 - Jan. 2024: **清华大学“经济学原理（微观）”本科生小班讨论课助教**
 
@@ -89,7 +87,3 @@ title: Teaching
 **合作者**：Xinyi Fan
 
 **主要工作**：组织课程、跟堂听课、批改作业、讲授习题课 (Tutorial [2](https://charlie-pku.github.io/file/tutorial_2_2023.pdf), [4](https://charlie-pku.github.io/file/tutorial_4_2023.pdf), [6](https://charlie-pku.github.io/file/tutorial_6_2023.pdf))、期中与期末考题制作与监考等
-
-<br>
-
----
