@@ -23,9 +23,6 @@ lang: french
 - ✨ [“控规模”还是“促集聚”？ ——关于城市病的政治经济学思考](https://charlie-pku.github.io/file/2024/advanced_politics_2024.pdf)
   - This is the Final Thesis with *Advanced Political Economy* taught by [Jiming Cai](https://www.tioe.tsinghua.edu.cn/info/1179/1306.htm)
 
-
-<br>
-
 ### 2023
 
 - [行政决策模式的参与式转型——以公众参与制度为综述对象](https://charlie-pku.github.io/file/2023/Engagement_2023.pdf) 
@@ -44,8 +41,6 @@ lang: french
   - This is the Final Project with Xiaotian Ma on *International Finance* taught by [Noam Gruber](https://www.linkedin.com/in/noam-gruber-%E8%91%9B%E8%AF%BA%E5%B2%B8/?originalSubdomain=sg)
 
 
-<br>
-
 ### 2022
 
 - ✨ 中国经济专题作业：[国有企业改革](https://charlie-pku.github.io/file/2022/SOE_reform_2022.pdf), [价格双轨制的影响](https://charlie-pku.github.io/file/2022/dual_track_2022.pdf) 
@@ -59,7 +54,6 @@ lang: french
 
 - [光影长廊中的美学散步——试论电影的美学意义](https://charlie-pku.github.io/file/2022/midterm_cinema_2022.pdf) 
   - This is the Midterm Thesis of *History of World Cinema* taught by [Shaoyang Lu](http://sjc.pku.edu.cn/info/1130/11662.htm)
-
 
 
 - ✨✨✨ [Evaluating Behaviorally Motivated Policy Experimental Evidence from the Lightbulb Market](https://charlie-pku.github.io/file/2022/Bulb_2022.pdf) 
@@ -81,7 +75,6 @@ lang: french
 - [黄河下游水沙关系的协调治理——以简单线性规划模型为研究工具](https://charlie-pku.github.io/file/2022/yellow_river_2022.pdf) 
   - This is the Final Thesis of *Environmental System Analysis* taught by [Zhenshan Li](http://scholar.pku.edu.cn/lzs)
 
-<br>
 
 ### 2021
 
@@ -120,7 +113,6 @@ lang: french
 - ✨ [从修辞视角分析B站年度弹幕对“信息茧房”构建的影响](https://charlie-pku.github.io/file/2021/bilibili_2021.pdf) 
   - This is the Course Thesis on *Rhetoric in Chinese* taught by [Rudong Chen](http://sjc.pku.edu.cn/info/1130/11663.htm)
 
-<br>
 
 - [烹饪中的有机化学原理](https://charlie-pku.github.io/file/2020/organic_chemistry_2020.pdf) 
   - This is a Group Presentation with Tingyu Cui, Qiyue Nie and Hanzhe Wang on *Organic Chemistry (B)* taught by [Jie Zhang](https://www.chem.pku.edu.cn/szll/zzjs/gfzhxyjs/55863.htm)
@@ -167,9 +159,7 @@ lang: french
 
 (2022) [控制变量! 控制变量! 控制变量!](https://mp.weixin.qq.com/s?__biz=MjM5OTMwODM1Mw==&mid=2448102689&idx=1&sn=45b0a87c1560d8b314c63b171f99f109&chksm=b322c80f845541191e92af800afd9f8e80beb8f9c9f5988c3a6821b3d0526be99ef8f7cd3afc&scene=21#wechat_redirect)
 
-
 <br>
-
 
 ---
 
