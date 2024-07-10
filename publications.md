@@ -1,14 +1,14 @@
 ---
 layout: page
-permalink: /teaching/index.html
-title: Teaching
+permalink: /publications/index.html
+title: Publication
 ---
 > Lastest Update:  July 10th
 
 <!--   [中文版本 (Chinese Version)](https://charlie-pku.github.io/file/awards-zh/) -->
 
 
-## 2023 📑
+## 2023 🎯
 
 &#8194;&#8194; [1] "[Negative emission technology is key to decarbonizing China&#39;s cement industry](https://doi.org/10.1016/j.apenergy.2022.120254)" with Ming Ren, Teng Ma, Xiaorui Liu, Chaoyi Guo, Silu Zhang, Ziqiao Zhou, Yanlei Zhu, [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai/home) and Chen Huang. *Applied Energy* (2023), 329, 120254.
 
