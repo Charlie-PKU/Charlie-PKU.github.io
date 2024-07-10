@@ -10,7 +10,7 @@ title: Publication
 
 ## 2023 🎯
 
-&#8194;&#8194; [1] "[Negative emission technology is key to decarbonizing China&#39;s cement industry](https://doi.org/10.1016/j.apenergy.2022.120254)" with Ming Ren, Teng Ma, Xiaorui Liu, Chaoyi Guo, Silu Zhang, Ziqiao Zhou, Yanlei Zhu, [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai/home) and Chen Huang. *Applied Energy* (2023), 329, 120254.
+&#8194;&#8194; **[1]** "[Negative emission technology is key to decarbonizing China&#39;s cement industry](https://doi.org/10.1016/j.apenergy.2022.120254)" with Ming Ren, Teng Ma, Xiaorui Liu, Chaoyi Guo, Silu Zhang, Ziqiao Zhou, Yanlei Zhu, [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai/home) and Chen Huang. *Applied Energy* (2023), 329, 120254.
 
 [Published Version](https://charlie-pku.github.io/mypaper/Published_Thesis/cement_2023.pdf)
 
@@ -25,7 +25,7 @@ title: Publication
 
 <br>
 
-[2] "[Global land-use and sustainability implications of enhanced bioenergy import of China](https://doi.org/10.1016/j.apenergy.2023.120769)"  with Yazhen Wu, Andre Deppermann, Petr Havlík, Stefan Frank, Ming Ren, Hao Zhao, Lin Ma, Qi Chen, [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai/home). *Applied Energy* (2023), 336, 120769.
+**[2]** "[Global land-use and sustainability implications of enhanced bioenergy import of China](https://doi.org/10.1016/j.apenergy.2023.120769)"  with Yazhen Wu, Andre Deppermann, Petr Havlík, Stefan Frank, Ming Ren, Hao Zhao, Lin Ma, Qi Chen, [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai/home). *Applied Energy* (2023), 336, 120769.
 
 [Published Version](https://charlie-pku.github.io/mypaper/Published_Thesis/bioenergy_2023.pdf)
 
@@ -40,7 +40,7 @@ title: Publication
 
 <br>
 
-[3] "[Enhanced food system efficiency is the key to China&#39;s 2060 carbon neutrality target](https://doi.org/10.1038/s43016-023-00790-1)" with Ming Ren, Chen Huang, Yazhen Wu, Andre Deppermann, Stefan Frank, Petr Havlík, Yuyao Zhu, Xiaotian Ma, Yong Liu, Hao Zhao, Jinfeng Chang, Lin Ma, Zhaohai Bai, Shasha Xu and [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai/home). *Nature Food* (2023), 1-13.
+**[3]** "[Enhanced food system efficiency is the key to China&#39;s 2060 carbon neutrality target](https://doi.org/10.1038/s43016-023-00790-1)" with Ming Ren, Chen Huang, Yazhen Wu, Andre Deppermann, Stefan Frank, Petr Havlík, Yuyao Zhu, Xiaotian Ma, Yong Liu, Hao Zhao, Jinfeng Chang, Lin Ma, Zhaohai Bai, Shasha Xu and [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai/home). *Nature Food* (2023), 1-13.
 
 [Published Version](https://charlie-pku.github.io/mypaper/Published_Thesis/food_2023.pdf)
 
