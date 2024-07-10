@@ -9,7 +9,7 @@ layout: page
 
 Hello! Here is **Chen Fang (Charlie, 房晨)**.
 
-I am a PhD student majoring in **Applied Economics** at Tsinghua University, advised by [Prof. Jing Cao](https://chinaproject.harvard.edu/people/jing-cao).
+I am a Ph.D. student majoring in **Applied Economics** at Tsinghua University, advised by [Prof. Jing Cao](https://chinaproject.harvard.edu/people/jing-cao).
 
 I am curious and passionate about public policy and global economic governance, especially climate change, sustainable development, and economic resilience. I hope to work for an international organization such as the [World Bank](https://www.worldbank.org/en/home) or [RFF](https://www.rff.org/) to conduct valuable research.
 
