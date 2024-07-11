@@ -86,4 +86,4 @@ title: Teaching
 
 **合作者**：Xinyi Fan
 
-**主要工作**：组织课程、跟堂听课、批改作业、讲授习题课 (Tutorial [2](https://charlie-pku.github.io/file/tutorial_2_2023.pdf), [4](https://charlie-pku.github.io/file/tutorial_4_2023.pdf), [6](https://charlie-pku.github.io/file/tutorial_6_2023.pdf))、期中与期末考题制作与监考等
+**主要工作**：组织课程、跟堂听课、批改作业、讲授习题课 (Tutorial [2](https://charlie-pku.github.io/file/2023/tutorial_2_2023.pdf), [4](https://charlie-pku.github.io/file/2023/tutorial_4_2023.pdf), [6](https://charlie-pku.github.io/file/2023/tutorial_6_2023.pdf))、期中与期末考题制作与监考等
