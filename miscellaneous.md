@@ -176,7 +176,7 @@ lang: french
 <br>
 
 - 🔗 Welcome to my [Douban](https://www.douban.com/people/llvintagell/?_i=7918178VKIvn7g) and [NetEase Music](https://music.163.com/#/user/home?id=315155365) homepage for more information about my interests!!
-  
+  - e.g. My favorite [movies](https://www.douban.com/doulist/135258138/), [books](https://www.douban.com/doulist/135262061/), [music](https://www.douban.com/doulist/135262093/) and [games](https://www.douban.com/doulist/135956231/).
 
 <br>
 
