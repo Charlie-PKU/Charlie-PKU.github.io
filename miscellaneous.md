@@ -8,6 +8,26 @@ lang: french
 
 <!-- [中文版本 (Chinese Version)](https://charlie-pku.github.io/file/publications-zh/) -->
 
+
+## Hobbies 🍭
+
+- 🏊 **Sports**: Swimming (with *PKU Amateur Athletic Level Certificate*), Badminton, Jogging
+
+- 📺 **Watching**: [*Doraemon*](https://dora-world.com/), Quiz Shows (e.g. [Quizknock](https://www.portal.quizknock.com/)), Movies, TV Series, Reality Shows, Bilibili
+
+- 📖 **Reading**: Contemporary Novel, Prose and other Literature
+
+- 🎧 **Listening**: New Age (e.g. [Bandari](https://music.apple.com/cn/artist/bandari/274081002)), Lofi (e.g. [Kainbeats](https://kainbeats.com/)), Indie-folk (e.g. the landlord's cat), piano and classical
+
+<br>
+
+- 🔗 Welcome to my [Douban](https://www.douban.com/people/llvintagell/?_i=7918178VKIvn7g) and [NetEase Music](https://music.163.com/#/user/home?id=315155365) homepage for more information about my interests!!
+  - e.g. My favorite [movies](https://www.douban.com/doulist/135258138/), [books](https://www.douban.com/doulist/135262061/), [music](https://www.douban.com/doulist/135262093/) and [games](https://www.douban.com/doulist/135956231/).
+
+<br>
+
+---
+
 ## **Selected Articles** 💡
 
 ### 2024
@@ -158,25 +178,6 @@ lang: french
 (2023) [扯掉了最后一块遮羞布, 最新大作“学术研究的政治学”研究](https://mp.weixin.qq.com/s?__biz=MjM5OTMwODM1Mw==&mid=2448109706&idx=1&sn=8c6e8d37b3177ade2ee0e67308b3f009&chksm=b322eda4845564b26f7a495e335945473e4ca3b8bfc37b1950e5b38c1d431d762f94322df392&scene=21#wechat_redirect)
 
 (2022) [控制变量! 控制变量! 控制变量!](https://mp.weixin.qq.com/s?__biz=MjM5OTMwODM1Mw==&mid=2448102689&idx=1&sn=45b0a87c1560d8b314c63b171f99f109&chksm=b322c80f845541191e92af800afd9f8e80beb8f9c9f5988c3a6821b3d0526be99ef8f7cd3afc&scene=21#wechat_redirect)
-
-<br>
-
----
-
-## Hobbies 🍭
-
-- 🏊 **Sports**: Swimming (with *PKU Amateur Athletic Level Certificate*), Badminton, Jogging
-
-- 📺 **Watching**: [*Doraemon*](https://dora-world.com/), Quiz Shows (e.g. [Quizknock](https://www.portal.quizknock.com/)), Movies, TV Series, Reality Shows, Bilibili
-
-- 📖 **Reading**: Contemporary Novel, Prose and other Literature
-
-- 🎧 **Listening**: New Age (e.g. [Bandari](https://music.apple.com/cn/artist/bandari/274081002)), Lofi (e.g. [Kainbeats](https://kainbeats.com/)), Indie-folk (e.g. the landlord's cat), piano and classical
-
-<br>
-
-- 🔗 Welcome to my [Douban](https://www.douban.com/people/llvintagell/?_i=7918178VKIvn7g) and [NetEase Music](https://music.163.com/#/user/home?id=315155365) homepage for more information about my interests!!
-  - e.g. My favorite [movies](https://www.douban.com/doulist/135258138/), [books](https://www.douban.com/doulist/135262061/), [music](https://www.douban.com/doulist/135262093/) and [games](https://www.douban.com/doulist/135956231/).
 
 <br>
 
