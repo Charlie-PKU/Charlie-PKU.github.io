@@ -26,7 +26,10 @@ lang: french
 
 <br>
 
-<script type="text/javascript" src="https://www.douban.com/service/badge/llvintagell/?selection=latest&amp;picsize=small&amp;show=collection&amp;n=9&amp;cat=drama%7Cmovie%7Cbook%7Cmusic&amp;columns=3"></script>
+<h2>我的豆瓣秀</h2>
+<div><script type="text/javascript" src="https://www.douban.com/service/badge/llvintagell/?selection=latest&amp;picsize=small&amp;show=collection&amp;n=9&amp;cat=drama%7Cmovie%7Cbook%7Cmusic&amp;columns=3"></script></div>
+
+
 
 <br>
 
