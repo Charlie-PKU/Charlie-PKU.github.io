@@ -25,13 +25,9 @@ lang: french
   - e.g. My favorite [movies](https://www.douban.com/doulist/135258138/), [books](https://www.douban.com/doulist/135262061/), [music](https://www.douban.com/doulist/135262093/) and [games](https://www.douban.com/doulist/135956231/).
 
 <br>
-<!-- 
-<h2>我的豆瓣秀</h2>
-<div><script type="text/javascript" src="https://www.douban.com/service/badge/llvintagell/?selection=latest&amp;picsize=small&amp;show=collection&amp;n=9&amp;cat=drama%7Cmovie%7Cbook%7Cmusic&amp;columns=3"></script></div>
 
-
-
-<br> -->
+<!-- <h2>我的豆瓣秀</h2>
+<div><script type="text/javascript" src="https://www.douban.com/service/badge/llvintagell/?selection=latest&amp;picsize=small&amp;show=collection&amp;n=9&amp;cat=drama%7Cmovie%7Cbook%7Cmusic&amp;columns=3"></script></div> -->
 
 ---
 
