@@ -12,16 +12,22 @@ title: Activity
 
 ### **2024**
 
-- ⭐⭐⭐ Jul. 2024 (Expected): **“同心黔行”清华大学金融-环境学院赴贵州铜仁实践**
+- ⭐⭐⭐ Jul. 2024 (Expected): **“同心黔行”清华大学金融-环境学院赴贵州铜仁实践活动**
 
-*前往贵州省铜仁市进行为期十天的实践活动*
+*前往贵州省铜仁市思南县、江口县等进行为期十天的实践活动（清华大学乡村振兴工作站）*
+
+**实践日志** 
+
+**媒体报道** [清华大学—中国社会科学院大学联合实践团来思开展社会实践活动并举行签约仪式](https://mp.weixin.qq.com/s/j3N_7r1Yj9icLwwgDDkI_g)
+
+**调研报告**
 
 <br>
 
 <br>
 
 
-- ⭐⭐⭐ Jan. 2024: **清华大学经济管理学院“巴陵研行”湖南岳阳实践活动**
+- ⭐⭐⭐ Jan. 2024: **“巴陵研行”清华大学经济管理学院赴湖南岳阳实践活动**
 
 *前往湖南省岳阳市进行为期一周的实践活动*
 
@@ -29,7 +35,7 @@ title: Activity
 
 **推文&Vlog** [行前动员会](https://mp.weixin.qq.com/s/tT27Vci8gsGOF7dqpCmCrQ) [中学宣讲](https://mp.weixin.qq.com/s/vqJSLKUi_rdmJ-KA5nIU9Q) [华容县](https://mp.weixin.qq.com/s/0p3gMHnMKS1YhG5YX94KMw) [何长工纪念馆](https://mp.weixin.qq.com/s/QDDgiH_tm2YvmhMOBPbb4w) [城陵矶新港区](https://mp.weixin.qq.com/s/ALT3fANhOLzos1NpLPq-CQ) [经开区](https://mp.weixin.qq.com/s/jJdF8buY36z-_sb0mWzoaQ) [华龙码头](https://mp.weixin.qq.com/s/XWEZb1zjCMoNem8tHRW5_Q)
 
-**相关报道** [华隆酸菜](https://mp.weixin.qq.com/s/II6ONH89bMcXSlv-xVyeqg) [岳阳人才集团](https://mp.weixin.qq.com/s/Vgn0tF_1COH0TJYGeSCAIQ)
+**媒体报道** [华隆酸菜](https://mp.weixin.qq.com/s/II6ONH89bMcXSlv-xVyeqg) [岳阳人才集团](https://mp.weixin.qq.com/s/Vgn0tF_1COH0TJYGeSCAIQ)
 
 **[调研报告](https://charlie-pku.github.io/file/2024/yueyang_report_2024.pdf) [Slides](https://charlie-pku.github.io/file/2024/yueyang_report_slides_2024.pdf)**
 
