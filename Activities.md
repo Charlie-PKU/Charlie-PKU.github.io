@@ -78,6 +78,8 @@ title: Activity
 
 **合作者**：李美欣（RUC），姜敬泽（RUC），赵艺隆（THU）
 
+<br>
+
 **主要工作**：代表小岛屿国家联盟（Alliance of Small Island States, AOSIS）中的伯利兹（Belize）参与气候谈判
 
 **主要产出**：合作撰写position paper, 撰写closing statement, 协助修改opening statement
