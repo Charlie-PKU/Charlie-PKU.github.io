@@ -14,13 +14,13 @@ title: Activity
 
 - ⭐⭐⭐ Jul. 2024: **“同心黔行”清华大学金融-环境学院赴贵州铜仁实践活动**
 
-*前往贵州省铜仁市思南县、江口县等进行为期十天的实践活动（清华大学乡村振兴工作站）*
+*前往贵州省铜仁市思南县、江口县等进行为期十天的实践活动（清华大学乡村振兴工作站，与中国社会科学院大学合办）*
 
 <br>
 
 **实践日志** 
 
-**媒体报道** [清华大学—中国社会科学院大学联合实践团来思开展社会实践活动并举行签约仪式](https://mp.weixin.qq.com/s/j3N_7r1Yj9icLwwgDDkI_g), [清华大学—中国社会科学院大学联合实践团来思社会实践成果交流会召开](https://mp.weixin.qq.com/s/Z0710PJYkcinJKq-bGik0w)
+**媒体报道** [签约仪式](https://mp.weixin.qq.com/s/j3N_7r1Yj9icLwwgDDkI_g), [实践成果交流会](https://mp.weixin.qq.com/s/Z0710PJYkcinJKq-bGik0w)
 
 **调研报告**
 
