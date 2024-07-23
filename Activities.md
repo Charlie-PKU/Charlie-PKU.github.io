@@ -20,9 +20,9 @@ title: Activity
 
 **实践日志** 
 
-**媒体报道** [签约仪式](https://mp.weixin.qq.com/s/j3N_7r1Yj9icLwwgDDkI_g), [实践成果交流会](https://mp.weixin.qq.com/s/Z0710PJYkcinJKq-bGik0w)
+**媒体报道** [签约仪式](https://mp.weixin.qq.com/s/j3N_7r1Yj9icLwwgDDkI_g) [实践成果交流会](https://mp.weixin.qq.com/s/Z0710PJYkcinJKq-bGik0w)
 
-**调研报告**
+**调研报告 [Slides](https://charlie-pku.github.io/file/2024/tongren_slides_2024.pdf)**
 
 
 
