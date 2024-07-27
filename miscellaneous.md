@@ -4,7 +4,7 @@ permalink: /miscellaneous/index.html
 title: Miscellaneous
 lang: french
 ---
-> Lastest Update: July 10th, 2024
+> Lastest Update: July 27th, 2024
 
 <!-- [中文版本 (Chinese Version)](https://charlie-pku.github.io/file/publications-zh/) -->
 
@@ -202,8 +202,9 @@ lang: french
 
 ## Seminars and Lectures 🏗️
 
-<iframe width="1093" height="615" src="https://www.youtube.com/embed/lE18ffeu49s" title="Environment &amp; Energy - NBER Summer Institute" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br>
 
+<iframe width="1093" height="615" src="https://www.youtube.com/embed/lE18ffeu49s" title="Environment &amp; Energy - NBER Summer Institute" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <br>
