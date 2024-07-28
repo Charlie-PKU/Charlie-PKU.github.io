@@ -48,8 +48,12 @@ lang: french
 
 ### 2023
 
+- [中外医保政策对比分析与探讨](https://charlie-pku.github.io/file/2023/politics_pre_2023.pdf) 
+  - This is the course presentation with Fangrui Zhang on *Advanced Political Economy* taught by [Jiming Cai](https://www.tioe.tsinghua.edu.cn/info/1179/1306.htm)
+
+
 - [行政决策模式的参与式转型——以公众参与制度为综述对象](https://charlie-pku.github.io/file/2023/Engagement_2023.pdf) 
-  - This is the Midterm Thesis with *Administrative Law and Administrative Litigation Law* taught by [Qi Yu](https://baike.baidu.com/item/%E4%BF%9E%E7%A5%BA/23327778?fr=ge_ala)
+  - This is the Midterm Thesis on *Administrative Law and Administrative Litigation Law* taught by [Qi Yu](https://baike.baidu.com/item/%E4%BF%9E%E7%A5%BA/23327778?fr=ge_ala)
 
 
 - ✨✨✨ LARF IN CASUAL INFERENCETHEORETICAL ANALYSIS AND EMPIRICAL APPLICATION [poster](https://charlie-pku.github.io/file/2023/LARF_poster_2023.pdf) [slides](https://charlie-pku.github.io/file/LARF_2023.pdf) 
