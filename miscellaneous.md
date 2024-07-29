@@ -220,4 +220,6 @@ lang: french
 
 - **VoxTalks Economics**
 
-<iframe width="100%" height="95" src="https://embeds.audioboom.com/posts/8521498/embed?v=202301" style="background-color: transparent; display: block; padding: 0; width: 100%" frameborder="0" allowtransparency="allowtransparency" scrolling="no" title="Audioboom player" allow="autoplay" sandbox="allow-downloads allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0sa3EQzx3BzPa9FnUXEaI4?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
