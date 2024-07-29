@@ -204,13 +204,19 @@ lang: french
 
 ---
 
-## Seminars and Lectures 🏗️
+## Seminars and Podcasts 🏗️
 
-<br>
+- **NBER**
 
 <iframe width="1093" height="615" src="https://www.youtube.com/embed/lE18ffeu49s" title="Environment &amp; Energy - NBER Summer Institute" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<br>
+
+- **Resources Radio**
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1879015584&color=ff5500"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/resourcesradio" title="Resources Radio" target="_blank" style="color: #cccccc; text-decoration: none;">Resources Radio</a> · <a href="https://soundcloud.com/resourcesradio/four-dam-removals-on-the-klamath-river-with-amy-bowers-cordalis" title="Four Dam Removals on the Klamath River, with Amy Bowers Cordalis" target="_blank" style="color: #cccccc; text-decoration: none;">Four Dam Removals on the Klamath River, with Amy Bowers Cordalis</a></div>
 
 <br>
+
 
 
