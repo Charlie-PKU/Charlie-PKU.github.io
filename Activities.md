@@ -50,7 +50,7 @@ title: Activity
 
 <br>
 
-**微信推文** 嵩阳诗剧 [Day1](https://mp.weixin.qq.com/s/x6r4_ylvgpd9Rkv9M2hjNw) [Day2](https://mp.weixin.qq.com/s/gp0BTo-RYdf--YtzkzYVYg) [Day3-4](https://mp.weixin.qq.com/s/hTfqbXjUUTDBjMRHvfbyRA) [Day5-6](https://mp.weixin.qq.com/s/b48WpkYIaJYUYn2QFvk3hA) [Day7](https://mp.weixin.qq.com/s/laeye-krRb-JJ5yi92d7cg)
+**微信推文** 嵩阳诗剧 [Day1 风光月霁，如期而遇](https://mp.weixin.qq.com/s/x6r4_ylvgpd9Rkv9M2hjNw) [Day2 度身而衣，粮草先行](https://mp.weixin.qq.com/s/gp0BTo-RYdf--YtzkzYVYg) [Day3-4 旧迹重寻，凝视谛听](https://mp.weixin.qq.com/s/hTfqbXjUUTDBjMRHvfbyRA) [Day5-6 坐看云起，为霞满天](https://mp.weixin.qq.com/s/b48WpkYIaJYUYn2QFvk3hA) [Day7 思念化星，照我前行](https://mp.weixin.qq.com/s/laeye-krRb-JJ5yi92d7cg)
 
 **[总结视频](https://www.bilibili.com/video/BV1hQ4y1n76R/?spm_id_from=333.999.0.0)** **[登封碎片](https://mp.weixin.qq.com/s/wnVhtnuy-Mo2_eqJX53tsQ)**
 
