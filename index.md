@@ -106,7 +106,7 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 ## News and Updates 📨
 
-- **<font color='red'>[Highlight] </font> Jul. 2024:** Expect to open a nice journey in Sinan County and Jiangkou County in [Tongren City, Guizhou Province](https://mp.weixin.qq.com/s/oTnPJp2SgLY9szQybwspmA) with classmates from [Tsinghua PBC School of Finance](https://www.pbcsf.tsinghua.edu.cn/)! 🍉
+- **<font color='red'>[Highlight] </font> Jul. 2024:** A nice journey in Sinan County and Jiangkou County in [Tongren City, Guizhou Province](https://mp.weixin.qq.com/s/oTnPJp2SgLY9szQybwspmA) with classmates from [Tsinghua PBC School of Finance](https://www.pbcsf.tsinghua.edu.cn/)! 🍉
 
 - **Mar. 2024:** Very thrilled that our research have been accepted for presentation during the [the 3rd Annual Conference of CAERE](http://www.caere.org/), happy days in [Hang Zhou](https://mp.weixin.qq.com/s/R1SMwQkPnT1vl2RaqjoN0w)! 🌏
 
