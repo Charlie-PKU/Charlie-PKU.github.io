@@ -106,7 +106,7 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 ## News and Updates 📨
 
-- **<font color='red'>[Highlight] </font>** Struggling for Qualificatoin Examination in September. Wish me LUCK!
+- **<font color='red'>[Highlight] </font> Aug. 2024** Struggling for Qualificatoin Examination in September. Wish me LUCK! 🐾
 
 - **Jul. 2024:** A nice journey in Sinan County and Jiangkou County in [Tongren City, Guizhou Province](https://mp.weixin.qq.com/s/oTnPJp2SgLY9szQybwspmA) with classmates from [Tsinghua PBC School of Finance](https://www.pbcsf.tsinghua.edu.cn/)! 🍉
 
@@ -119,9 +119,7 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 - **Sep. 2023:** Hi! THU! 🏫
 
-- **Jul. 2023:** Enriched Journey in [Qinghai and Gansu](https://mp.weixin.qq.com/s/jHh41LKx_3fV7STTZdbfFw)! 🐪
-
-- **Jul. 2023:** Nice Days in [Hangzhou](https://mp.weixin.qq.com/s/nCI595vR34eP4ZCwd1JF_w)! 🐾
+- **Jul. 2023:** Enriched Journey in [Qinghai and Gansu](https://mp.weixin.qq.com/s/jHh41LKx_3fV7STTZdbfFw) and [Hangzhou](https://mp.weixin.qq.com/s/nCI595vR34eP4ZCwd1JF_w)! 🐪
 
 - **Aug. 2023:** Very honored to be featured in this [interview](https://mp.weixin.qq.com/s/nwJ-w7q_wHt3VQYaUwvdfw) from CESE, PKU!!! 
 
