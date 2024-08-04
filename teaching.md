@@ -9,7 +9,7 @@ title: Teaching
 
 ## **2024** ✒️
 
-- ⭐⭐⭐Sep. 2024 - Nov. 2024 (Expected): **清华大学“管理经济学”MBA课程助教**
+- ⭐⭐⭐Aug. 2024 - Nov. 2024 (Expected): **清华大学“管理经济学”MBA课程助教**
 
 &#8194; &#8194; **授课院系**：School of Economics and Management
 
@@ -27,7 +27,7 @@ title: Teaching
 
 **课程教师**：[Tianshi Mu](https://tianshimu.netlify.app/)
 
-**合作者**：袁帅、李嘉晟、魏文石
+**合作者**：Shuai Yuan, Jiasheng Li, Wenshi Wei
 
 **主要工作**：TBD
 
