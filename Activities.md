@@ -18,7 +18,7 @@ title: Activity
 
 <br>
 
-**实践日志** [实践纪实](https://mp.weixin.qq.com/s/tSzOQKRI_xghU3A8RdA8pA)
+**实践日志** [1：体验乌江文化，座谈人才培养](https://mp.weixin.qq.com/s/Vzo6dliOp21m1UiBVcEruw) [2：调研社区治理，传播“清”年声音](https://mp.weixin.qq.com/s/ZwEn-EwDkxKfYNhuWL21Iw) [3：调研生态经济，座谈金融服务](https://mp.weixin.qq.com/s/tM6BwMCoavIZIrI1DLv_fg) [4](https://mp.weixin.qq.com/s/Y9dd4sxcfjvEmtNZ5thc5w) [5](https://mp.weixin.qq.com/s/Y9dd4sxcfjvEmtNZ5thc5w) [6：乡贤返乡助振兴，青年交流强认同](https://mp.weixin.qq.com/s/cVzk04D1ZnMwakr5CiqBtw) [7：参访村镇龙头企业，探索产业富农之道](https://mp.weixin.qq.com/s/Y9dd4sxcfjvEmtNZ5thc5w) [总结推送](https://mp.weixin.qq.com/s/tSzOQKRI_xghU3A8RdA8pA)
 
 **媒体报道** [签约仪式](https://mp.weixin.qq.com/s/j3N_7r1Yj9icLwwgDDkI_g) [实践成果交流会](https://mp.weixin.qq.com/s/Z0710PJYkcinJKq-bGik0w)
 
