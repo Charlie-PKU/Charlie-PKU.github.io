@@ -18,7 +18,7 @@ title: Activity
 
 <br>
 
-**实践日志** 
+**实践日志** [实践纪实](https://mp.weixin.qq.com/s/tSzOQKRI_xghU3A8RdA8pA)
 
 **媒体报道** [签约仪式](https://mp.weixin.qq.com/s/j3N_7r1Yj9icLwwgDDkI_g) [实践成果交流会](https://mp.weixin.qq.com/s/Z0710PJYkcinJKq-bGik0w)
 
