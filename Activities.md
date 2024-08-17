@@ -29,9 +29,7 @@ title: Activity
 - [7：参访村镇龙头企业，探索产业富农之道](https://mp.weixin.qq.com/s/Y9dd4sxcfjvEmtNZ5thc5w) 
 - [总结推送](https://mp.weixin.qq.com/s/tSzOQKRI_xghU3A8RdA8pA)
 
-**媒体报道** [签约仪式](https://mp.weixin.qq.com/s/j3N_7r1Yj9icLwwgDDkI_g) [实践成果交流会](https://mp.weixin.qq.com/s/Z0710PJYkcinJKq-bGik0w)
-
-**[调研手记](https://mp.weixin.qq.com/s/KqsR-4A2Lw7sVKWsCuCZjg) [Slides](https://charlie-pku.github.io/file/2024/tongren_slides_2024.pdf)**
+**媒体报道** [签约仪式](https://mp.weixin.qq.com/s/j3N_7r1Yj9icLwwgDDkI_g) [实践成果交流会](https://mp.weixin.qq.com/s/Z0710PJYkcinJKq-bGik0w) **[调研手记](https://mp.weixin.qq.com/s/KqsR-4A2Lw7sVKWsCuCZjg) [Slides](https://charlie-pku.github.io/file/2024/tongren_slides_2024.pdf)**
 
 <br>
 
