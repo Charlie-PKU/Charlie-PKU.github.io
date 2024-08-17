@@ -18,7 +18,16 @@ title: Activity
 
 <br>
 
-**实践日志** [1：体验乌江文化，座谈人才培养](https://mp.weixin.qq.com/s/Vzo6dliOp21m1UiBVcEruw) [2：调研社区治理，传播“清”年声音](https://mp.weixin.qq.com/s/ZwEn-EwDkxKfYNhuWL21Iw) [3：调研生态经济，座谈金融服务](https://mp.weixin.qq.com/s/tM6BwMCoavIZIrI1DLv_fg) [4](https://mp.weixin.qq.com/s/Y9dd4sxcfjvEmtNZ5thc5w) [5](https://mp.weixin.qq.com/s/Y9dd4sxcfjvEmtNZ5thc5w) [6：乡贤返乡助振兴，青年交流强认同](https://mp.weixin.qq.com/s/cVzk04D1ZnMwakr5CiqBtw) [7：参访村镇龙头企业，探索产业富农之道](https://mp.weixin.qq.com/s/Y9dd4sxcfjvEmtNZ5thc5w) [总结推送](https://mp.weixin.qq.com/s/tSzOQKRI_xghU3A8RdA8pA)
+**实践日志**
+
+- [1：体验乌江文化，座谈人才培养](https://mp.weixin.qq.com/s/Vzo6dliOp21m1UiBVcEruw) 
+- [2：调研社区治理，传播“清”年声音](https://mp.weixin.qq.com/s/ZwEn-EwDkxKfYNhuWL21Iw) 
+- [3：调研生态经济，座谈金融服务](https://mp.weixin.qq.com/s/tM6BwMCoavIZIrI1DLv_fg) 
+- [4：调研乡村治理，感受非遗文化](https://mp.weixin.qq.com/s/kzhPVfz5oB6df6pl0fQjgQ) 
+- [5：推进生态治理，建设美丽乡村](https://mp.weixin.qq.com/s/DuOFv8BKiMdymGRIF3cxSA) 
+- [6：乡贤返乡助振兴，青年交流强认同](https://mp.weixin.qq.com/s/cVzk04D1ZnMwakr5CiqBtw) 
+- [7：参访村镇龙头企业，探索产业富农之道](https://mp.weixin.qq.com/s/Y9dd4sxcfjvEmtNZ5thc5w) 
+- [总结推送](https://mp.weixin.qq.com/s/tSzOQKRI_xghU3A8RdA8pA)
 
 **媒体报道** [签约仪式](https://mp.weixin.qq.com/s/j3N_7r1Yj9icLwwgDDkI_g) [实践成果交流会](https://mp.weixin.qq.com/s/Z0710PJYkcinJKq-bGik0w)
 
@@ -43,14 +52,19 @@ title: Activity
 
 ### **2023**
 
-- ⭐⭐⭐Jul. 2023: **TECC（Technology & Education: Connecting
-  Cultures）河南登封暑期支教项目**
+- ⭐⭐⭐Jul. 2023: **TECC（Technology & Education: Connecting Cultures）河南登封暑期支教项目**
 
 *同北京大学、中国人民大学的同学们作为志愿者前往河南省郑州市登封市的[嵩阳高中](https://mp.weixin.qq.com/s?__biz=MzI0Mjc0NzgzMw==&mid=2247527099&idx=1&sn=a6f513b05bf7e61fdfd3fc8742c1a340&chksm=e975ba6dde02337bd1ffc294911f07279b64a6d4d8c4ef7c1f8d077e0bd863196abd753cc9c4&scene=126&sessionid=1690979056#rd)开展为期一周的支教项目，主要指导高中生们进行项目制学习与社会调研*
 
 <br>
 
-**微信推文** 嵩阳诗剧 [Day1 风光月霁，如期而遇](https://mp.weixin.qq.com/s/x6r4_ylvgpd9Rkv9M2hjNw) [Day2 度身而衣，粮草先行](https://mp.weixin.qq.com/s/gp0BTo-RYdf--YtzkzYVYg) [Day3-4 旧迹重寻，凝视谛听](https://mp.weixin.qq.com/s/hTfqbXjUUTDBjMRHvfbyRA) [Day5-6 坐看云起，为霞满天](https://mp.weixin.qq.com/s/b48WpkYIaJYUYn2QFvk3hA) [Day7 思念化星，照我前行](https://mp.weixin.qq.com/s/laeye-krRb-JJ5yi92d7cg)
+**微信推文** 嵩阳诗剧
+
+- [Day1 风光月霁，如期而遇](https://mp.weixin.qq.com/s/x6r4_ylvgpd9Rkv9M2hjNw) 
+- [Day2 度身而衣，粮草先行](https://mp.weixin.qq.com/s/gp0BTo-RYdf--YtzkzYVYg) 
+- [Day3-4 旧迹重寻，凝视谛听](https://mp.weixin.qq.com/s/hTfqbXjUUTDBjMRHvfbyRA) 
+- [Day5-6 坐看云起，为霞满天](https://mp.weixin.qq.com/s/b48WpkYIaJYUYn2QFvk3hA) 
+- [Day7 思念化星，照我前行](https://mp.weixin.qq.com/s/laeye-krRb-JJ5yi92d7cg)
 
 **[总结视频](https://www.bilibili.com/video/BV1hQ4y1n76R/?spm_id_from=333.999.0.0)** **[登封碎片](https://mp.weixin.qq.com/s/wnVhtnuy-Mo2_eqJX53tsQ)**
 
