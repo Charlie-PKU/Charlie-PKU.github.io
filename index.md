@@ -100,14 +100,14 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 - **Hometown**🏡: Jiangyou County, Mianyang City, Sichuan province (四川省绵阳市江油市)
 - **MBTI**ℹ️: INFJ (2020) ➡️ ISFJ (2022) ➡️ ❔(2024)
 
-<iframe
+<!-- <iframe
   width="450"
   height="250"
   frameborder="0" style="border:0"
   referrerpolicy="no-referrer-when-downgrade"
   src="https://www.google.com/maps/embed/v1/place?key=AIzaSyA6qA54BQ7UbMfz8YK4Yx5iNRky6KONEjM&q=Tsinghua University, Beijing China"
   allowfullscreen>
-</iframe>
+</iframe> -->
 
 <br>
 
