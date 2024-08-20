@@ -105,9 +105,7 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
   height="250"
   frameborder="0" style="border:0"
   referrerpolicy="no-referrer-when-downgrade"
-  src="https://www.google.com/maps/embed/v1/place
-  ?key=AIzaSyA6qA54BQ7UbMfz8YK4Yx5iNRky6KONEjM
-  &q=Tsinghua University, Beijing China"
+  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyA6qA54BQ7UbMfz8YK4Yx5iNRky6KONEjM&q=Tsinghua University, Beijing China"
   allowfullscreen>
 </iframe>
 
