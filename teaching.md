@@ -46,6 +46,7 @@ title: Teaching
 - 组织小班讨论课（每个班20余人，每周2小时），批改Memo，与全体助教进行集体备课，选择案例引导学生讨论
   - 例如：
     - [物流地产还是一桩好生意吗？](https://charlie-pku.github.io/file/2024/discussion_logistics_2024.pdf)（对应内容：生产要素市场）
+    - [起跑线](https://charlie-pku.github.io/file/2024/discussion_RCT_2024.pdf)（对应内容：微观经济学前沿）
     - [非洲亚吉铁路：中外合作新样本](https://charlie-pku.github.io/file/2024/discussion_rail_2024.pdf)（对应内容：生产与增长 & 储蓄、投资和金融体系）
     - [美元疯涨冲击波](https://charlie-pku.github.io/file/2024/discussion_dollar_2024.pdf)（对应内容：开放经济的宏观经济理论）
     - [“四万亿”启示录：宏观调控究竟要怎么“调”？](https://charlie-pku.github.io/file/2024/discussion_four_trillion_2024.pdf)（对应内容：货币和财政政策对总需求的影响；通货膨胀与失业之间的短期权衡取舍；宏观经济政策的六个争论问题）……
