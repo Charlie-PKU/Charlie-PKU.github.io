@@ -232,4 +232,4 @@ lang: french
 
 <br>
 
-<iframe marginwidth='0' marginheight='0' frameborder='0' scrolling='No' width='180px'height='350px' src='http://digitalarchives.tw/Theme/TDtemple/tdkblog.swf'></iframe>
+<a href="http://digitalarchives.tw/Theme/TDtemple/"><img src="http://digitalarchives.tw/Theme/TDtemple/images/TDK234x60.jpg" width="234" height="60" alt="天地宮" /></a>
