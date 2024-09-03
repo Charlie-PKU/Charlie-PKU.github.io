@@ -17,7 +17,7 @@ lang: french
 
 - 📖 **Reading**: Contemporary Novel, Prose and other Literature
 
-- 🎧 **Listening**: New Age (e.g. [Bandari](https://music.apple.com/cn/artist/bandari/274081002)), Lofi (e.g. [Kainbeats](https://kainbeats.com/)), Indie-folk (e.g. the landlord's cat), piano and classical
+- 🎧 **Music**: New Age (e.g. [Bandari](https://music.apple.com/cn/artist/bandari/274081002)), Lofi (e.g. [Kainbeats](https://kainbeats.com/)), Indie-folk (e.g. the landlord's cat), piano and classical. I love [singing](https://static-play.kg.qq.com/node/personal_v2?uid=649b98842d2d35&shareUid=649b98842d2d35&chain_share_id=MbGIREJ3UgbJCCnK0VWIbi_VU1B_B_y40pLufOML-W0&pageId=homepage_me), too. 
 
 <br>
 
