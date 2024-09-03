@@ -231,5 +231,5 @@ lang: french
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0sa3EQzx3BzPa9FnUXEaI4?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <br>
-
-<a href="http://digitalarchives.tw/Theme/TDtemple/"><img src="http://digitalarchives.tw/Theme/TDtemple/images/TDK234x60.jpg" width="234" height="60" alt="天地宮" /></a>
+<!-- 
+<a href="http://digitalarchives.tw/Theme/TDtemple/"><img src="http://digitalarchives.tw/Theme/TDtemple/images/TDK234x60.jpg" width="234" height="60" alt="天地宮" /></a> -->
