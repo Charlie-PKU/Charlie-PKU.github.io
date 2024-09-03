@@ -7,7 +7,7 @@ layout: page
 
 <br>
 
-Hello! Here is **Chen Fang (Charlie, 房晨)**.
+Hello! Here is **Chen FANG (Charlie, 房晨)**.
 
 I am a Ph.D. student majoring in **Applied Economics** at Tsinghua University, advised by [Prof. Jing Cao](https://chinaproject.harvard.edu/people/jing-cao).
 
