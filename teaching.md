@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/index.html
 title: Teaching
 ---
-> Lastest Update:  July 10th, 2024
+> Lastest Update:  September 4th, 2024
 
 <!--   [中文版本 (Chinese Version)](https://charlie-pku.github.io/file/awards-zh/) -->
 
