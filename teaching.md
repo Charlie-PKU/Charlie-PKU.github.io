@@ -15,7 +15,7 @@ title: Teaching
 
 **课程教师**：[Mingzhi Li](https://www.sem.tsinghua.edu.cn/en/info/1215/7137.htm)
 
-**合作者**：Pengsheng Lin、Juan Zhang
+**合作者**：Pengsheng Lin, Lide Su, Kailiang Yu, Juan Zhang
 
 **主要工作**：TBD
 
