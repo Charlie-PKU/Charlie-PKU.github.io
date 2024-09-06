@@ -7,7 +7,6 @@ title: Activity
 
 <!--   [中文版本 (Chinese Version)](https://charlie-pku.github.io/file/awards-zh/) -->
 
-
 ## Fieldwork 🚋
 
 ### **2024**
@@ -20,19 +19,18 @@ title: Activity
 
 **实践日志**
 
-- [1：体验乌江文化，座谈人才培养](https://mp.weixin.qq.com/s/Vzo6dliOp21m1UiBVcEruw) 
-- [2：调研社区治理，传播“清”年声音](https://mp.weixin.qq.com/s/ZwEn-EwDkxKfYNhuWL21Iw) 
-- [3：调研生态经济，座谈金融服务](https://mp.weixin.qq.com/s/tM6BwMCoavIZIrI1DLv_fg) 
-- [4：调研乡村治理，感受非遗文化](https://mp.weixin.qq.com/s/kzhPVfz5oB6df6pl0fQjgQ) 
-- [5：推进生态治理，建设美丽乡村](https://mp.weixin.qq.com/s/DuOFv8BKiMdymGRIF3cxSA) 
-- [6：乡贤返乡助振兴，青年交流强认同](https://mp.weixin.qq.com/s/cVzk04D1ZnMwakr5CiqBtw) 
-- [7：参访村镇龙头企业，探索产业富农之道](https://mp.weixin.qq.com/s/Y9dd4sxcfjvEmtNZ5thc5w) 
+- [1：体验乌江文化，座谈人才培养](https://mp.weixin.qq.com/s/Vzo6dliOp21m1UiBVcEruw)
+- [2：调研社区治理，传播“清”年声音](https://mp.weixin.qq.com/s/ZwEn-EwDkxKfYNhuWL21Iw)
+- [3：调研生态经济，座谈金融服务](https://mp.weixin.qq.com/s/tM6BwMCoavIZIrI1DLv_fg)
+- [4：调研乡村治理，感受非遗文化](https://mp.weixin.qq.com/s/kzhPVfz5oB6df6pl0fQjgQ)
+- [5：推进生态治理，建设美丽乡村](https://mp.weixin.qq.com/s/DuOFv8BKiMdymGRIF3cxSA)
+- [6：乡贤返乡助振兴，青年交流强认同](https://mp.weixin.qq.com/s/cVzk04D1ZnMwakr5CiqBtw)
+- [7：参访村镇龙头企业，探索产业富农之道](https://mp.weixin.qq.com/s/Y9dd4sxcfjvEmtNZ5thc5w)
 - [总结推送](https://mp.weixin.qq.com/s/tSzOQKRI_xghU3A8RdA8pA)
 
 **媒体报道** [签约仪式](https://mp.weixin.qq.com/s/j3N_7r1Yj9icLwwgDDkI_g) [实践成果交流会](https://mp.weixin.qq.com/s/Z0710PJYkcinJKq-bGik0w) **[调研手记](https://mp.weixin.qq.com/s/KqsR-4A2Lw7sVKWsCuCZjg) [Slides](https://charlie-pku.github.io/file/2024/tongren_slides_2024.pdf)**
 
 <br>
-
 
 - ⭐⭐⭐ Jan. 2024: **“巴陵研行”清华大学经济管理学院赴湖南岳阳实践活动**
 
@@ -58,10 +56,10 @@ title: Activity
 
 **微信推文** 嵩阳诗剧
 
-- [Day1 风光月霁，如期而遇](https://mp.weixin.qq.com/s/x6r4_ylvgpd9Rkv9M2hjNw) 
-- [Day2 度身而衣，粮草先行](https://mp.weixin.qq.com/s/gp0BTo-RYdf--YtzkzYVYg) 
-- [Day3-4 旧迹重寻，凝视谛听](https://mp.weixin.qq.com/s/hTfqbXjUUTDBjMRHvfbyRA) 
-- [Day5-6 坐看云起，为霞满天](https://mp.weixin.qq.com/s/b48WpkYIaJYUYn2QFvk3hA) 
+- [Day1 风光月霁，如期而遇](https://mp.weixin.qq.com/s/x6r4_ylvgpd9Rkv9M2hjNw)
+- [Day2 度身而衣，粮草先行](https://mp.weixin.qq.com/s/gp0BTo-RYdf--YtzkzYVYg)
+- [Day3-4 旧迹重寻，凝视谛听](https://mp.weixin.qq.com/s/hTfqbXjUUTDBjMRHvfbyRA)
+- [Day5-6 坐看云起，为霞满天](https://mp.weixin.qq.com/s/b48WpkYIaJYUYn2QFvk3hA)
 - [Day7 思念化星，照我前行](https://mp.weixin.qq.com/s/laeye-krRb-JJ5yi92d7cg)
 
 **[总结视频](https://www.bilibili.com/video/BV1hQ4y1n76R/?spm_id_from=333.999.0.0)** **[登封碎片](https://mp.weixin.qq.com/s/wnVhtnuy-Mo2_eqJX53tsQ)**
@@ -150,7 +148,7 @@ title: Activity
 
 ## Students' Organizations  💼
 
-- ⭐Sep. 2023 - now: **清华大学经济管理学院研究生会国际交流部**（部员）
+- ⭐Sep. 2023 - Jun. 2024: **清华大学经济管理学院研究生会国际交流部**（部员）
 
 **主要工作**：
 
@@ -222,7 +220,6 @@ title: Activity
 ### **2024**
 
 - Jun. 2024: 清华大学经济管理学院本科学位服发放（一学位&辅修学位）
-
 - May. 2024: 清华经济管理学院经济系2025级博士研究生招生-面试秘书
 
 *负责全程录像、撰写面试记录*
