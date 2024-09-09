@@ -98,7 +98,7 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 - **Gender**: ♂️
 - **Birthday**🎂: 20th September, 2001 (Virgo♍)
 - **Hometown**🏡: Jiangyou County, Mianyang City, Sichuan province (四川省绵阳市江油市)
-- **MBTI**ℹ️: INFJ (2020) ➡️ ISFJ (2022) ➡️ ❔(2024)
+- **MBTI**: ESFJ-A (Consul, just like the Monica in *Friends*!) **Former**: INFJ (2020), ISFJ-A (2022)
 
 <!-- <iframe
   width="450"
@@ -115,7 +115,9 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 ## News and Updates 📨
 
-- **<font color='red'>[Highlight] </font> Aug. 2024** Struggling for Qualificatoin Examination in September. Wish me LUCK! 🐾
+- **<font color='red'>[Highlight] </font> Sep. 2024** A fantastic week with students from [Technical University of Munich](https://www.tum.de/en/) in Tsinghua Climate Change Summer Camp!! 🇩🇪
+
+- **Aug. 2024** Struggling for Qualificatoin Examination in September. Wish me LUCK! 🐾
 
 - **Jul. 2024:** A nice journey in Sinan County and Jiangkou County in [Tongren City, Guizhou Province](https://mp.weixin.qq.com/s/oTnPJp2SgLY9szQybwspmA) with classmates from [Tsinghua PBC School of Finance](https://www.pbcsf.tsinghua.edu.cn/)! 🍉
 
