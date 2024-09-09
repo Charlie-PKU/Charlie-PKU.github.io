@@ -98,7 +98,7 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 - **Gender**: ♂️
 - **Birthday**🎂: 20th September, 2001 (Virgo♍)
 - **Hometown**🏡: Jiangyou County, Mianyang City, Sichuan province (四川省绵阳市江油市)
-- **MBTI**: ESFJ-A (Consul, just like the Monica in *Friends*!) 
+- **MBTI**: [ESFJ-A](https://www.16personalities.com/profiles/fee67db1fa686) (Consul, just like the Monica in *Friends*!) 
   - **Former**: INFJ (2020), ISFJ-A (2022)
 
 <!-- <iframe
