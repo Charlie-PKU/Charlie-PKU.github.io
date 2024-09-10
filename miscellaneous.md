@@ -208,11 +208,11 @@ lang: french
 
 ## Seminars and Podcasts 🏗️
 
-- **NBER**
+<!-- - **NBER**
 
 <iframe width="1093" height="615" src="https://www.youtube.com/embed/lE18ffeu49s" title="Environment &amp; Energy - NBER Summer Institute" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<br>
+<br> -->
 
 - **Mixtape with Scott**
 
