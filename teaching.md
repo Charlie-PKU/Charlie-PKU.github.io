@@ -9,17 +9,7 @@ title: Teaching
 
 ## **2024** ✒️
 
-- ⭐⭐⭐Aug. 2024 - Nov. 2024 (Expected): **清华大学“管理经济学”MBA课程助教**
 
-&#8194; &#8194; **授课院系**：School of Economics and Management
-
-**课程教师**：[Mingzhi Li](https://www.sem.tsinghua.edu.cn/en/info/1215/7137.htm)
-
-**合作者**：Pengsheng Lin, Lide Su, Kailiang Yu, Juan Zhang
-
-**主要工作**：TBD
-
-<br>
 
 - ⭐⭐⭐Sep. 2024 - Jan. 2025 (Expected): **清华大学“中级微观经济学”本科生课程助教**
 
@@ -27,7 +17,19 @@ title: Teaching
 
 **课程教师**：[Tianshi Mu](https://tianshimu.netlify.app/)
 
-**合作者**：Shuai Yuan, Jiasheng Li, Wenshi Wei
+**合作者**：Shuai Yuan, Jiasheng Li, Wenshi Wei, Jiawei Wu
+
+**主要工作**：TBD
+
+<br>
+
+- ⭐⭐⭐Aug. 2024 - Nov. 2024 (Expected): **清华大学“管理经济学”MBA课程助教**
+
+&#8194; &#8194; **授课院系**：School of Economics and Management
+
+**课程教师**：[Mingzhi Li](https://www.sem.tsinghua.edu.cn/en/info/1215/7137.htm)
+
+**合作者**：Pengsheng Lin, Lide Su, Kailiang Yu, Juan Zhang
 
 **主要工作**：TBD
 
