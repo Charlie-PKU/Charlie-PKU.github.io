@@ -11,9 +11,9 @@ title: Teaching
 
 
 
-- ⭐⭐⭐Sep. 2024 - Jan. 2025 (Expected): **清华大学“中级微观经济学”本科生课程助教**
+- ⭐⭐⭐Sep. 2024 - Jan. 2025 (Expected): **[Undergraduate] Intermediate Economics (taught in English)**
 
-&#8194; &#8194; **授课院系**：School of Economics and Management
+&#8194; &#8194; **授课院系**：School of Economics and Management, Tsinghua
 
 **课程教师**：[Tianshi Mu](https://tianshimu.netlify.app/)
 
@@ -23,9 +23,9 @@ title: Teaching
 
 <br>
 
-- ⭐⭐⭐Aug. 2024 - Nov. 2024 (Expected): **清华大学“管理经济学”MBA课程助教**
+- ⭐⭐⭐Aug. 2024 - Nov. 2024 (Expected): **[MBA] Managerial Economics**
 
-&#8194; &#8194; **授课院系**：School of Economics and Management
+&#8194; &#8194; **授课院系**：School of Economics and Management, Tsinghua
 
 **课程教师**：[Mingzhi Li](https://www.sem.tsinghua.edu.cn/en/info/1215/7137.htm)
 
@@ -35,9 +35,9 @@ title: Teaching
 
 <br>
 
-- ⭐⭐⭐Feb. 2024 - Jun. 2024: **清华大学“经济学原理（宏观）”本科生小班讨论课助教**
+- ⭐⭐⭐Feb. 2024 - Jun. 2024: **[Undergraduate] Principles of Economics (2, Macro Part): Seminar**
 
-&#8194; &#8194; **授课院系**：School of Economics and Management
+&#8194; &#8194; **授课院系**：School of Economics and Management, Tsinghua
 
 **课程教师**：[Feng Dong](https://fengdongecon.weebly.com/)
 
@@ -60,13 +60,13 @@ title: Teaching
 
 ## **2023**🖍️
 
-- ⭐⭐⭐Sep. 2023 - Jan. 2024: **清华大学“经济学原理（微观）”本科生小班讨论课助教**
+- ⭐⭐⭐Sep. 2023 - Jan. 2024: **[Undergraduate] Principles of Economics (1, Micro Part): Seminar**
 
-&#8194; &#8194; **授课院系**：School of Economics and Management
+&#8194; &#8194; **授课院系**：School of Economics and Management, Tsinghua
 
 **课程教师**：[Xiaohan Zhong](https://www.sem.tsinghua.edu.cn/info/1206/31922.htm)、[Yingyi Qian](https://www.sem.tsinghua.edu.cn/info/1206/31907.htm)
 
-**合作者**：宗晶莹、何禹桥、黄嘉伦
+**合作者**：Jingying Zong, Jialun Huang, Yuqiao He
 
 **主要工作**：
 
@@ -83,9 +83,9 @@ title: Teaching
 <br>
 
 
-- ⭐Feb. 2023 - Jun. 2023：**北京大学“中级微观经济学”本科生课程助教**
+- ⭐Feb. 2023 - Jun. 2023：**[Undergraduate] Intermediate Economics**
 
-&#8194; &#8194; **授课院系**：National School of Development
+&#8194; &#8194; **授课院系**：National School of Development, Peking University
 
 **课程教师**：[Huayu Xu](https://sites.google.com/umich.edu/huayu)
 
