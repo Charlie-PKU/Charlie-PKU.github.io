@@ -15,12 +15,13 @@ title: Activity
 
 *与来自德国、日本、英国、美国及多所[GAUC(Global Alliance of Universities on Climate)](https://gauc.net/)成员校的学生参与学术讲座、可持续参访、小组项目、青年零碳峰会等活动*
 
+<br>
 
-[Sign-up Link](https://mp.weixin.qq.com/s/xw0jcL0ZNO_FApYC1buPAw)
+- [Sign-up Link](https://mp.weixin.qq.com/s/xw0jcL0ZNO_FApYC1buPAw)
 
-[Global Youth Summit on Net-Zero Future 2024](https://mp.weixin.qq.com/s/qwqNeT01axM24gCVBx3OlQ)
+- [Global Youth Summit on Net-Zero Future 2024](https://mp.weixin.qq.com/s/qwqNeT01axM24gCVBx3OlQ)
 
-[Final Presentation: Biodiversity Net Gain](https://charlie-pku.github.io/file/2024/BNG_2024.pdf)
+- [Final Presentation: Biodiversity Net Gain](https://charlie-pku.github.io/file/2024/BNG_2024.pdf)
 
 
 
