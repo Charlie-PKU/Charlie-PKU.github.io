@@ -3,7 +3,7 @@ layout: page
 permalink: /activities/index.html
 title: Activity
 ---
-> Lastest Update:  July 24th, 2024
+> Lastest Update:  September 4th, 2024
 
 <!--   [中文版本 (Chinese Version)](https://charlie-pku.github.io/file/awards-zh/) -->
 
@@ -14,6 +14,7 @@ title: Activity
 - ⭐⭐⭐ Sep. 2024: **中德气候合作暑校项目暨世界大学气候变化联盟 “气候变化协同”暑期学校（‘Climate x’ Summer School）**
 
 *与来自德国、日本、英国及多所[GAUC](https://gauc.net/)成员校的学生参与学术讲座、可持续参访、小组项目、青年零碳峰会等活动*
+
 
 [报名链接](https://mp.weixin.qq.com/s/xw0jcL0ZNO_FApYC1buPAw)
 
