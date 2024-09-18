@@ -18,12 +18,10 @@ title: Activity
 <br>
 
 - [Sign-up Link](https://mp.weixin.qq.com/s/xw0jcL0ZNO_FApYC1buPAw)
-
 - [Global Youth Summit on Net-Zero Future 2024](https://mp.weixin.qq.com/s/qwqNeT01axM24gCVBx3OlQ)
-
 - [Final Presentation: Biodiversity Net Gain](https://charlie-pku.github.io/file/2024/BNG_2024.pdf)
 
-
+<br>
 
 - ⭐⭐⭐ Jul. 2024: **“同心黔行”清华大学金融-环境学院赴贵州铜仁实践活动**
 
