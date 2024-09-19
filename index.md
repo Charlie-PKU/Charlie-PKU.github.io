@@ -115,9 +115,11 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 ## News and Updates 📨
 
-- **<font color='red'>[Highlight] </font> Sep. 2024:** A fantastic week with students from [Technical University of Munich](https://www.tum.de/en/) in Tsinghua Climate Change Summer Camp!! 🇩🇪
+- **<font color='red'>[Highlight] </font> Sep. 2024:** Successfully pass the QE! 🏮
 
-- **Aug. 2024:** Struggling for Qualificatoin Examination in September. Wish me LUCK! 🐾
+- **Sep. 2024:** A couple of fantastic weeks with students from [Technical University of Munich](https://www.tum.de/en/) and other universities in 2024 Sino-German Climate Study Camp!! 🇩🇪
+
+- **Aug. 2024:** Struggling for Qualificatoin Examination (QE) in September. Wish me LUCK! 🐾
 
 - **Jul. 2024:** A nice journey in Sinan County and Jiangkou County in [Tongren City, Guizhou Province](https://mp.weixin.qq.com/s/oTnPJp2SgLY9szQybwspmA) with classmates from [Tsinghua PBC School of Finance](https://www.pbcsf.tsinghua.edu.cn/)! 🍉
 
