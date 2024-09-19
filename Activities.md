@@ -11,7 +11,7 @@ title: Activity
 
 ### **2024**
 
-- ⭐⭐⭐ Sep. 2024: **中德气候合作暑校项目暨世界大学气候变化联盟 “气候变化协同”暑期学校（‘Climate x’ Summer School）**
+- ⭐⭐⭐ Sep. 2024: **the First Sino-German Climate Study Camp (‘Climate x’ Summer School)**
 
 *与来自德国、日本、英国、美国及多所[GAUC(Global Alliance of Universities on Climate)](https://gauc.net/)成员校的学生参与学术讲座、可持续参访、小组项目、青年零碳峰会等活动*
 
