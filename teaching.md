@@ -19,7 +19,11 @@ title: Teaching
 
 **合作者**：Shuai Yuan, Jiasheng Li, Wenshi Wei, Jiawei Wu
 
-**主要工作**：TBD
+**主要工作**：
+
+- 负责第五部分（博弈论）的作业与答案
+
+- 负责每周TA Office Hour
 
 <br>
 
@@ -31,7 +35,11 @@ title: Teaching
 
 **合作者**：Pengsheng Lin, Lide Su, Kailiang Yu, Juan Zhang
 
-**主要工作**：TBD
+**主要工作**：
+
+- **在线部分**：负责第三章作业（消费者行为与需求）[题目与答案](https://charlie-pku.github.io/file/2024/managerial_2024.pdf)的设计
+
+- **线下部分**：随堂听课与签到
 
 <br>
 
