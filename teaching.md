@@ -15,11 +15,11 @@ title: Teaching
 
 &#8194; &#8194; **授课院系**：School of Economics and Management, Tsinghua
 
-**课程教师**：[Tianshi Mu](https://tianshimu.netlify.app/)
+**Instructor**: [Tianshi Mu](https://tianshimu.netlify.app/)
 
-**合作者**：Shuai Yuan, Jiasheng Li, Wenshi Wei, Jiawei Wu
+**Collaborator**: Shuai Yuan, Jiasheng Li, Wenshi Wei, Jiawei Wu
 
-**主要工作**：
+**Main Tasks**:
 
 - 负责第五部分（博弈论）作业的答案编写与评分
 - 参与期中、期末习题答案的编写，并参与监考与评分
@@ -31,11 +31,11 @@ title: Teaching
 
 &#8194; &#8194; **授课院系**：School of Economics and Management, Tsinghua
 
-**课程教师**：[Mingzhi Li](https://www.sem.tsinghua.edu.cn/en/info/1215/7137.htm)
+**Instructor**: [Mingzhi Li](https://www.sem.tsinghua.edu.cn/en/info/1215/7137.htm)
 
-**合作者**：Pengsheng Lin, Lide Su, Kailiang Yu, Juan Zhang
+**Collaborator**: Pengsheng Lin, Lide Su, Kailiang Yu, Juan Zhang
 
-**主要工作**：
+**Main Tasks**:
 
 - **在线部分**：负责第三章作业（消费者行为与需求）[题目与答案](https://charlie-pku.github.io/file/2024/managerial_2024.pdf)的设计，参与监考工作
 - **线下部分**：随堂听课与签到
@@ -46,11 +46,11 @@ title: Teaching
 
 &#8194; &#8194; **授课院系**：School of Economics and Management, Tsinghua
 
-**课程教师**：[Feng Dong](https://fengdongecon.weebly.com/)
+**Instructor**: [Feng Dong](https://fengdongecon.weebly.com/)
 
-**合作者**：孙昕知、耿域新、程莘毓、杜翔宇、何禹桥
+**Collaborator**: 孙昕知、耿域新、程莘毓、杜翔宇、何禹桥
 
-**主要工作**：
+**Main Tasks**:
 
 - 组织小班讨论课（每个班20余人，每周2小时），批改Memo，与全体助教进行集体备课，选择案例引导学生讨论
   - 例如：
@@ -71,11 +71,11 @@ title: Teaching
 
 &#8194; &#8194; **授课院系**：School of Economics and Management, Tsinghua
 
-**课程教师**：[Xiaohan Zhong](https://www.sem.tsinghua.edu.cn/info/1206/31922.htm)、[Yingyi Qian](https://www.sem.tsinghua.edu.cn/info/1206/31907.htm)
+**Instructor**: [Xiaohan Zhong](https://www.sem.tsinghua.edu.cn/info/1206/31922.htm)、[Yingyi Qian](https://www.sem.tsinghua.edu.cn/info/1206/31907.htm)
 
-**合作者**：Jingying Zong, Jialun Huang, Yuqiao He
+**Collaborator**: Jingying Zong, Jialun Huang, Yuqiao He
 
-**主要工作**：
+**Main Tasks**:
 
 - 组织小班讨论课（每个班20余人，每周2小时），批改Memo，与全体助教进行集体备课，选择案例引导学生讨论
   - 例如：
@@ -94,8 +94,8 @@ title: Teaching
 
 &#8194; &#8194; **授课院系**：National School of Development, Peking University
 
-**课程教师**：[Huayu Xu](https://sites.google.com/umich.edu/huayu)
+**Instructor**: [Huayu Xu](https://sites.google.com/umich.edu/huayu)
 
-**合作者**：Xinyi Fan
+**Collaborator**: Xinyi Fan
 
-**主要工作**：组织课程、跟堂听课、批改作业、讲授习题课 (Tutorial [2](https://charlie-pku.github.io/file/2023/tutorial_2_2023.pdf), [4](https://charlie-pku.github.io/file/2023/tutorial_4_2023.pdf), [6](https://charlie-pku.github.io/file/2023/tutorial_6_2023.pdf))、期中与期末考题制作与监考等
+**Main Tasks**: 组织课程、跟堂听课、批改作业、讲授习题课 (Tutorial [2](https://charlie-pku.github.io/file/2023/tutorial_2_2023.pdf), [4](https://charlie-pku.github.io/file/2023/tutorial_4_2023.pdf), [6](https://charlie-pku.github.io/file/2023/tutorial_6_2023.pdf))、期中与期末考题制作与监考等
