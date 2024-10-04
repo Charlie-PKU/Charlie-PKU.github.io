@@ -13,11 +13,11 @@ title: Teaching
 
 - Sep. 2024 - Jan. 2025 (Expected): **<font color='blue'>[Undergraduate] </font> Intermediate Economics (taught in English)**
 
-&#8194; &#8194; **授课院系**：School of Economics and Management, Tsinghua
+&#8194; &#8194; **Department**：School of Economics and Management, Tsinghua
 
 **Instructor**: [Tianshi Mu](https://tianshimu.netlify.app/)
 
-**Collaborator**: Shuai Yuan, Jiasheng Li, Wenshi Wei, Jiawei Wu
+**Collaborators**: Shuai Yuan, Jiasheng Li, Wenshi Wei, Jiawei Wu
 
 **Main Tasks**:
 
@@ -29,11 +29,11 @@ title: Teaching
 
 - Aug. 2024 - Nov. 2024 (Expected): **<font color='blue'>[MBA] </font> Managerial Economics**
 
-&#8194; &#8194; **授课院系**：School of Economics and Management, Tsinghua
+&#8194; &#8194; **Department**：School of Economics and Management, Tsinghua
 
 **Instructor**: [Mingzhi Li](https://www.sem.tsinghua.edu.cn/en/info/1215/7137.htm)
 
-**Collaborator**: Pengsheng Lin, Lide Su, Kailiang Yu, Juan Zhang
+**Collaborators**: Pengsheng Lin, Lide Su, Kailiang Yu, Juan Zhang
 
 **Main Tasks**:
 
@@ -44,11 +44,11 @@ title: Teaching
 
 - Feb. 2024 - Jun. 2024: **<font color='blue'>[Undergraduate] </font> Principles of Economics (2, Macro Part): Seminar**
 
-&#8194; &#8194; **授课院系**：School of Economics and Management, Tsinghua
+&#8194; &#8194; **Department**：School of Economics and Management, Tsinghua
 
 **Instructor**: [Feng Dong](https://fengdongecon.weebly.com/)
 
-**Collaborator**: 孙昕知、耿域新、程莘毓、杜翔宇、何禹桥
+**Collaborators**: 孙昕知、耿域新、程莘毓、杜翔宇、何禹桥
 
 **Main Tasks**:
 
@@ -69,11 +69,11 @@ title: Teaching
 
 - Sep. 2023 - Jan. 2024: **<font color='blue'>[Undergraduate] </font> Principles of Economics (1, Micro Part): Seminar**
 
-&#8194; &#8194; **授课院系**：School of Economics and Management, Tsinghua
+&#8194; &#8194; **Department**：School of Economics and Management, Tsinghua
 
 **Instructor**: [Xiaohan Zhong](https://www.sem.tsinghua.edu.cn/info/1206/31922.htm)、[Yingyi Qian](https://www.sem.tsinghua.edu.cn/info/1206/31907.htm)
 
-**Collaborator**: Jingying Zong, Jialun Huang, Yuqiao He
+**Collaborators**: Jingying Zong, Jialun Huang, Yuqiao He
 
 **Main Tasks**:
 
@@ -92,7 +92,7 @@ title: Teaching
 
 - Feb. 2023 - Jun. 2023：**<font color='blue'>[Undergraduate] </font> Intermediate Economics**
 
-&#8194; &#8194; **授课院系**：National School of Development, Peking University
+&#8194; &#8194; **Department**：National School of Development, Peking University
 
 **Instructor**: [Huayu Xu](https://sites.google.com/umich.edu/huayu)
 
