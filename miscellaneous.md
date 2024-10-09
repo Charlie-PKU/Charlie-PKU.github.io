@@ -31,6 +31,18 @@ lang: french
 
 ### 2024
 
+- ✨✨✨ Estimating Equilibrium in Health Insurance Exchanges: Price Competition and Subsidy Design under the ACA (forthcoming)
+  
+  - This is the course Presentation with Jiayi Zhu on *Analysis of Economic Policies in China* taught by [Chenyuan Liu](https://chenyuanliu.github.io/)
+
+<!-- - ✨✨✨ ? (forthcoming)
+  
+  - This is the course Presentation with Jingying Zong on *International Economics I; Trade theory* taught by [Yi Lu](https://ylu6.weebly.com/) -->
+
+- ✨✨✨ Understanding Tax Policy: How do People Reason? (forthcoming)
+  
+  - This is the Personal Presentation on *Public Economics (1)* taught by [Binzhen Wu](https://www.sem.tsinghua.edu.cn/info/1206/33199.htm)
+
 - ✨ [学术成果定量化的背景与影响——以高校经济学科教师为分析对象](https://charlie-pku.github.io/file/2024/young_scholars_2024.pdf)
 
   - This is the Final Thesis on *Introduction of Dialectics of Nature* taught by [Guangling Xiao](https://www.smarx.tsinghua.edu.cn/info/1139/3243.htm)
