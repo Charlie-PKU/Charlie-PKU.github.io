@@ -13,7 +13,7 @@ lang: french
 - 🏊 **Sports**: Swimming (with *PKU Amateur Athletic Level Certificate*), Badminton, Jogging
 - 📺 **Watching**: [*Doraemon*](https://dora-world.com/), Quiz Shows (e.g. [Quizknock](https://www.portal.quizknock.com/)), Movies, TV Series, Reality Shows, Bilibili
 - 📖 **Reading**: Contemporary Novel, Prose and other Literature
-- 🎧 **Music**: New Age (e.g. [Bandari](https://music.apple.com/cn/artist/bandari/274081002)), Lofi (e.g. [Kainbeats](https://kainbeats.com/)), Soothing Relaxation (e.g. [Peder B. Helland](https://www.pederbhelland.com/en)), Indie-folk (e.g. 房东的猫，昨夜派对L.N Party), piano-rock (e.g. [SHE&#39;S](http://she-s.info/) and [藤井 風](https://fujiikaze.com/)), piano and classical. I love [singing](https://static-play.kg.qq.com/node/personal_v2?uid=649b98842d2d35&shareUid=649b98842d2d35&chain_share_id=MbGIREJ3UgbJCCnK0VWIbi_VU1B_B_y40pLufOML-W0&pageId=homepage_me), too.
+- 🎧 **Music**: New Age (e.g. [Bandari](https://music.apple.com/cn/artist/bandari/274081002)), Lofi (e.g. [Kainbeats](https://kainbeats.com/)), Soothing Relaxation (e.g. [Peder B. Helland](https://www.pederbhelland.com/en)), Indie-folk (e.g. 房东的猫，昨夜派对L.N Party), piano-rock (e.g. [SHE](http://she-s.info/) and [藤井 風](https://fujiikaze.com/)), classical (e.g. [Libera](https://libera.org.uk/)). I love [singing](https://static-play.kg.qq.com/node/personal_v2?uid=649b98842d2d35&shareUid=649b98842d2d35&chain_share_id=MbGIREJ3UgbJCCnK0VWIbi_VU1B_B_y40pLufOML-W0&pageId=homepage_me), too.
 
 <br>
 
