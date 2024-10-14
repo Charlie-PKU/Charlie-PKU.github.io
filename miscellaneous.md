@@ -35,9 +35,9 @@ lang: french
   
   - This is the course Presentation with Jiayi Zhu on *Analysis of Economic Policies in China* taught by [Chenyuan Liu](https://chenyuanliu.github.io/)
 
-<!-- - ✨✨✨ ? (forthcoming)
+- ✨✨✨ The Geography of Development (forthcoming)
   
-  - This is the course Presentation with Jingying Zong on *International Economics I; Trade theory* taught by [Yi Lu](https://ylu6.weebly.com/) -->
+  - This is the course Presentation with Jingying Zong on *International Economics I; Trade theory* taught by [Yi Lu](https://ylu6.weebly.com/)
 
 - ✨✨✨ Understanding Tax Policy: How do People Reason? (forthcoming)
   
