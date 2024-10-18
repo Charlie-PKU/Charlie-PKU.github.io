@@ -3,7 +3,7 @@ layout: page
 permalink: /activities/index.html
 title: Activity
 ---
-> Lastest Update:  September 4th, 2024
+> Lastest Update:  October 4th, 2024
 
 <!--   [中文版本 (Chinese Version)](https://charlie-pku.github.io/file/awards-zh/) -->
 
@@ -236,7 +236,6 @@ title: Activity
 *负责前期联系专家以及现场会务接待等工作*
 
 - Jun. 2024: 清华大学经济管理学院本科学位服发放（一学位&辅修学位）
-
 - May. 2024: 清华经济管理学院经济系2025级博士研究生招生-面试秘书
 
 *负责全程录像、撰写面试记录*
