@@ -4,10 +4,9 @@ permalink: /research/index.html
 title: Research
 lang: french
 ---
-> Lastest Update: September 4th, 2024
+> Lastest Update: October 4th, 2024
 
 <!-- [中文版本 (Chinese Version)](https://charlie-pku.github.io/file/publications-zh/) -->
-
 
 ## Work in Progress 🚀
 
@@ -59,10 +58,9 @@ joint with Tingyu Cui and Yushuai Zhang
 
 - **"Research on Transnational Mobility of Researchers based on Multi-Agent Modeling: A case study of Artificial Intelligence"**
 
-<!-- &#8194;&#8194;  [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/Mobility_2023.pdf) -->
+<!--     [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/Mobility_2023.pdf) -->
 
 &#8194;&#8194; joint with Wenjie Chen and [Chao Min](https://min-chao.github.io/)
-
 
 <br>
 
@@ -113,9 +111,9 @@ joint with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
 <br>
 
-  <font color='grey'>(1) Data collection and processing. According to the US input-output table to integrate the added value of the sector and import and export data; collect the production volume of high-energy-consuming products such as steel and non-ferrous metals in China and the world, calculate the proportion, and the proportion of the industrial structure when the carbon peak of each developed country reaches the peak.</font>
-  <br>
-  <font color='grey'>(2) Literature survey. Collecting the changes and characteristics of low-carbon transition policies in developed countries.</font>
+  `<font color='grey'>`(1) Data collection and processing. According to the US input-output table to integrate the added value of the sector and import and export data; collect the production volume of high-energy-consuming products such as steel and non-ferrous metals in China and the world, calculate the proportion, and the proportion of the industrial structure when the carbon peak of each developed country reaches the peak.`</font>`
+  `<br>`
+  `<font color='grey'>`(2) Literature survey. Collecting the changes and characteristics of low-carbon transition policies in developed countries.`</font>`
 
 </details>
 
@@ -126,9 +124,9 @@ joint with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
 <br>
 
-  <font color='grey'>(1) Collect the power generation data of different provinces and technologies in China, and calculate the data of "kWh of coal consumption" for coal, electricity, and electricity.</font>
-  <br>
-  <font color='grey'>(2) Use the national "degree of thermal coal consumption" data to convert coal power and gas power generation.</font>
+  `<font color='grey'>`(1) Collect the power generation data of different provinces and technologies in China, and calculate the data of "kWh of coal consumption" for coal, electricity, and electricity.`</font>`
+  `<br>`
+  `<font color='grey'>`(2) Use the national "degree of thermal coal consumption" data to convert coal power and gas power generation.`</font>`
 
 </details>
 
@@ -139,11 +137,11 @@ joint with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
 <br>
 
-  <font color='grey'>(1) Using ARIMA (Integrated Moving Average Autoregressive Model) time series method to predict the future GDP growth rate of different provinces in China.</font>
+  `<font color='grey'>`(1) Using ARIMA (Integrated Moving Average Autoregressive Model) time series method to predict the future GDP growth rate of different provinces in China.`</font>`
 
-  <br>
+<br>
 
-  <font color='grey'>(2) The part of health benefit evaluation in GAMS file of CGE model was updated to new concentration-response function of PM2.5, the GEMM (Global Exposure Mortality Model) evaluation method of epidemiology.</font>
+  `<font color='grey'>`(2) The part of health benefit evaluation in GAMS file of CGE model was updated to new concentration-response function of PM2.5, the GEMM (Global Exposure Mortality Model) evaluation method of epidemiology.`</font>`
 
 </details>
 
@@ -154,9 +152,9 @@ joint with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
 <br>
 
-  <font color='grey'>(1) Organize and batch download the global high-resolution CMIP6 dataset (NEX-GDDP-CMIP6) provided by NASA.</font>
-  <br>
-  <font color='grey'>(2) Projections of future labor productivity loss and energy demand in various Chinese provinces and sectors under different global climate scenarios and climate models.</font>
+  `<font color='grey'>`(1) Organize and batch download the global high-resolution CMIP6 dataset (NEX-GDDP-CMIP6) provided by NASA.`</font>`
+  `<br>`
+  `<font color='grey'>`(2) Projections of future labor productivity loss and energy demand in various Chinese provinces and sectors under different global climate scenarios and climate models.`</font>`
 
 </details>
 
@@ -214,9 +212,9 @@ joint with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
 <br>
 
-  <font color='grey'>This report is a working paper published by the Committee for Development Policy (CDP) of the United Nations in 2017. Its main contribution is to apply the Growth Identification and Facilitation Framework (GIFF) of New Structural Economics to Nepal.</font>
- <br>
-  <font color='grey'>This update needs to update the latest situation of Nepal's economic and social development in combination with factors such as Nepal's graduation from Least Development Country (LDC) and the impact of the epidemic.</font>
+  `<font color='grey'>`This report is a working paper published by the Committee for Development Policy (CDP) of the United Nations in 2017. Its main contribution is to apply the Growth Identification and Facilitation Framework (GIFF) of New Structural Economics to Nepal.`</font>`
+ `<br>`
+  `<font color='grey'>`This update needs to update the latest situation of Nepal's economic and social development in combination with factors such as Nepal's graduation from Least Development Country (LDC) and the impact of the epidemic.`</font>`
 
 </details>
 
@@ -276,7 +274,7 @@ Completed quantitative assessment of health risks and calculation of energy cost
 
 <br>
 
-  <font color='grey'>This study quantitatively simulated the global biomass production cost under different demand and sustainable development constraint scenarios, plotted the biomass supply curve, and quantitatively analyzed the trade-off relationship between biomass production and sustainable development goals (SDGs) such as land management, food security and greenhouse gas emissions.</font>
+  `<font color='grey'>`This study quantitatively simulated the global biomass production cost under different demand and sustainable development constraint scenarios, plotted the biomass supply curve, and quantitatively analyzed the trade-off relationship between biomass production and sustainable development goals (SDGs) such as land management, food security and greenhouse gas emissions.`</font>`
 
 </details>
 
