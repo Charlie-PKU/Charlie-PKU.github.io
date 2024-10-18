@@ -4,7 +4,7 @@ permalink: /miscellaneous/index.html
 title: Miscellaneous
 lang: french
 ---
-> Lastest Update: September 4th, 2024
+> Lastest Update: October 4th, 2024
 
 <!-- [中文版本 (Chinese Version)](https://charlie-pku.github.io/file/publications-zh/) -->
 
@@ -13,7 +13,7 @@ lang: french
 - 🏊 **Sports**: Swimming (with *PKU Amateur Athletic Level Certificate*), Badminton, Jogging
 - 📺 **Watching**: [*Doraemon*](https://dora-world.com/), Quiz Shows (e.g. [Quizknock](https://www.portal.quizknock.com/)), Movies, TV Series, Reality Shows, Bilibili
 - 📖 **Reading**: Contemporary Novel, Prose and other Literature
-- 🎧 **Music**: New Age ([Bandari](https://music.apple.com/cn/artist/bandari/274081002)), Lofi ([Kainbeats](https://kainbeats.com/)), Soothing Relaxation ([Peder B. Helland](https://www.pederbhelland.com/en)), Indie-folk (房东的猫，昨夜派对L.N Party), piano-rock (e.g. [SHE'S](http://she-s.info/) and [藤井 風](https://fujiikaze.com/)), classical ([Libera](https://libera.org.uk/)). I love [singing](https://static-play.kg.qq.com/node/personal_v2?uid=649b98842d2d35&shareUid=649b98842d2d35&chain_share_id=MbGIREJ3UgbJCCnK0VWIbi_VU1B_B_y40pLufOML-W0&pageId=homepage_me), too.
+- 🎧 **Music**: New Age ([Bandari](https://music.apple.com/cn/artist/bandari/274081002)), Lofi ([Kainbeats](https://kainbeats.com/)), Soothing Relaxation ([Peder B. Helland](https://www.pederbhelland.com/en)), Indie-folk (房东的猫，昨夜派对L.N Party), piano-rock (e.g. [SHE&#39;S](http://she-s.info/) and [藤井 風](https://fujiikaze.com/)), classical ([Libera](https://libera.org.uk/)). I love [singing](https://static-play.kg.qq.com/node/personal_v2?uid=649b98842d2d35&shareUid=649b98842d2d35&chain_share_id=MbGIREJ3UgbJCCnK0VWIbi_VU1B_B_y40pLufOML-W0&pageId=homepage_me), too.
 
 <br>
 
@@ -32,17 +32,14 @@ lang: french
 ### 2024
 
 - ✨✨✨ The Geography of Development (forthcoming)
-  
+
   - This is the course Presentation with Jingying Zong on *International Economics I; Trade theory* taught by [Yi Lu](https://ylu6.weebly.com/)
-
 - ✨✨✨ Estimating Equilibrium in Health Insurance Exchanges: Price Competition and Subsidy Design under the ACA (forthcoming)
-  
+
   - This is the course Presentation with Jiayi Zhu on *Analysis of Economic Policies in China* taught by [Chenyuan Liu](https://chenyuanliu.github.io/)
-
 - ✨✨✨ [Understanding Tax Policy: How do People Reason?](https://charlie-pku.github.io/file/2024/Tax_2024.pdf)
-  
-  - This is the Personal Presentation on *Public Economics (1)* taught by [Binzhen Wu](https://www.sem.tsinghua.edu.cn/info/1206/33199.htm)
 
+  - This is the Personal Presentation on *Public Economics (1)* taught by [Binzhen Wu](https://www.sem.tsinghua.edu.cn/info/1206/33199.htm)
 - ✨ [学术成果定量化的背景与影响——以高校经济学科教师为分析对象](https://charlie-pku.github.io/file/2024/young_scholars_2024.pdf)
 
   - This is the Final Thesis on *Introduction of Dialectics of Nature* taught by [Guangling Xiao](https://www.smarx.tsinghua.edu.cn/info/1139/3243.htm)
