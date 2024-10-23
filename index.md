@@ -139,3 +139,42 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 - **Aug. 2023:** Very honored to be featured in this [interview](https://mp.weixin.qq.com/s/nwJ-w7q_wHt3VQYaUwvdfw) from CESE, PKU!!! 
 
 - **Jul. 2023:** Goodbye! PKU! 🏫
+
+
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<span id="sitetime"></span> <!--显示建站时间的地方放置此代码 可以加上其他代HTML代码加粗颜色等-->
+<script language=javascript>
+function siteTime(){
+    window.setTimeout("siteTime()", 1000);
+    var seconds = 1000;
+    var minutes = seconds * 60;
+    var hours = minutes * 60;
+    var days = hours * 24;
+    var years = days * 365;
+    var today = new Date();
+    var todayYear = today.getFullYear();
+    var todayMonth = today.getMonth()+1;
+    var todayDate = today.getDate();
+    var todayHour = today.getHours();
+    var todayMinute = today.getMinutes();
+    var todaySecond = today.getSeconds();
+    var t1 = Date.UTC(2024,2,1,00,00,00);  //此处填写建站时间 依次为 年,月,日,时,分,秒注意格式 半角,
+    var t2 = Date.UTC(todayYear,todayMonth,todayDate,todayHour,todayMinute,todaySecond);
+    var diff = t2-t1;
+    var diffYears = Math.floor(diff/years);
+    var diffDays = Math.floor((diff/days)-diffYears*365);
+    var diffHours = Math.floor((diff-(diffYears*365+diffDays)*days)/hours);
+    var diffMinutes = Math.floor((diff-(diffYears*365+diffDays)*days-diffHours*hours)/minutes);
+    var diffSeconds = Math.floor((diff-(diffYears*365+diffDays)*days-diffHours*hours-diffMinutes*minutes)/seconds);
+    document.getElementById("sitetime").innerHTML="🕓Charlie's Blog already run "+diffYears+" years "+diffDays+" days "+diffHours+" hours "+diffMinutes+" mins "+diffSeconds+" s";
+    }
+    siteTime();
+</script>
+<br />
+<span id="busuanzi_container_site_uv">
+👤Total Visitors <span id="busuanzi_value_site_uv"></span> |
+</span>
+<span id="busuanzi_container_site_pv">
+👁️Total Views <span id="busuanzi_value_site_pv"></span>
+</span>
