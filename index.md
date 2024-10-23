@@ -91,7 +91,7 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 - **Techniques**
   - LaTeX, Python, STATA, R, QGIS, MATLAB😥, SPSS😥 
   - Adobe illustrator, *Jianying*
-  - MS Officie, *Xiumi*
+  - MS Office Suite, *Xiumi*
 
 <br>
 
