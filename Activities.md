@@ -7,7 +7,7 @@ title: Activity
 
 <!--   [中文版本 (Chinese Version)](https://charlie-pku.github.io/file/awards-zh/) -->
 
-## Fieldwork 🚋
+## Field Study 🚋
 
 ### **2024**
 
@@ -243,13 +243,11 @@ title: Activity
 
 ***活动后期**：撰写Summary文件与感谢信*
 
-
 - Sep. 2024: 清华大学经济管理学院经济学学位授权点评估志愿者
 
 *负责前期联系专家以及现场会务接待等工作*
 
 - Jun. 2024: 清华大学经济管理学院本科学位服发放（一学位&辅修学位）
-
 - May. 2024: 清华经济管理学院经济系2025级博士研究生招生-面试秘书
 
 *负责全程录像、撰写面试记录*
