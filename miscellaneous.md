@@ -60,7 +60,7 @@ lang: french
 - [行政决策模式的参与式转型——以公众参与制度为综述对象](https://charlie-pku.github.io/file/2023/Engagement_2023.pdf)
 
   - This is the Midterm Thesis on *Administrative Law and Administrative Litigation Law* taught by [Qi Yu](https://baike.baidu.com/item/%E4%BF%9E%E7%A5%BA/23327778?fr=ge_ala)
-- ✨✨✨ LARF IN CASUAL INFERENCETHEORETICAL ANALYSIS AND EMPIRICAL APPLICATION [poster](https://charlie-pku.github.io/file/2023/LARF_poster_2023.pdf) [slides](https://charlie-pku.github.io/file/LARF_2023.pdf)
+- ✨✨✨ LARF IN CASUAL INFERENCETHEORETICAL ANALYSIS AND EMPIRICAL APPLICATION [poster](https://charlie-pku.github.io/file/2023/LARF_poster_2023.pdf) [slides](https://charlie-pku.github.io/file/2023/LARF_2023.pdf)
 
   - This is the Group Presentation with Yi Chai on *Advanced Research Seminar* taught by [Shiyao Liu](https://cnisscad.pku.edu.cn/szll/skjs/l/525746.htm)
 - ✨✨✨ [The Health Effect of Commuting: Evidence from Metro Opening in China](https://charlie-pku.github.io/file/2023/subway_2023.pdf)
