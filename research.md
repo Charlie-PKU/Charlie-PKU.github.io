@@ -223,7 +223,6 @@ joint with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
   - Combining the original report with the existing data to get the task list corresponding to the updated report.
   - Redraw the charts in the research report and update the data and text.
 
-<br>
 
 - **Research Publication:**
 
