@@ -225,6 +225,11 @@ joint with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
 <br>
 
+- **Research Publication:**
+
+  - The updated Report: [Applying the Growth Identification and Facilitation Framework to Nepal: 2023 update](https://www.unescap.org/kp/2024/applying-growth-identification-and-facilitation-framework-nepal-2023-update) (United Nations ESCAP working paper series,  Section  on  Sustainable Development  and  Countries  in  Special  Situations, November 2023. Bangkok.)
+
+
 ---
 
 ## Other Research Experience 🌈
