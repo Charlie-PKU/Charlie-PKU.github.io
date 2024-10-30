@@ -374,7 +374,7 @@ title: Activity
 
 ## Awards 💯
 
-- **2023 - 2024** &nbsp; &nbsp; “清华大学研究生教学能力提升项目”**初级水平证书** (Certificate of Elemetary Level)
+- **2023 - 2024** &nbsp; &nbsp; “清华大学研究生教学能力提升项目”**初级水平证书** (Certificate of Elementary Level)
 
 <br>
 
