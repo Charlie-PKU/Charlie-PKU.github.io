@@ -117,7 +117,7 @@ joint with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
 </details>
 
-- **Main Progress 2 (Mar. 2022 - Jun. 2022):** complete the separation of China's 2017 and 2019 annual power data.
+- **Main Progress 2 (Mar. 2022 - Jun. 2022):** Complete the separation of China's 2017 and 2019 annual power data.
 
 <details>
   <summary>Contribution ⚓ </summary>
@@ -130,7 +130,7 @@ joint with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 
 </details>
 
-- **Main Progress 3 (Jul. 2022 - Dec. 2022):** Calculate the original input data and update health evaluation part of CGE model.
+- **Main Progress 3 (Jul. 2022 - Dec. 2022):** Calculate the data of exposure to air pollution and update the health evaluation part of the CGE model.
 
 <details>
   <summary>Contribution ⚓ </summary>
@@ -219,15 +219,13 @@ joint with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
 </details>
 
 - **Main Contribution:**
+
   - Read Lin, Justin Yifu’s World Bank [working paper](http://hdl.handle.net/10986/3798) to learn the basic framework of New Structural Economics and GIFF's two-track six-step method.
   - Combining the original report with the existing data to get the task list corresponding to the updated report.
   - Redraw the charts in the research report and update the data and text.
-
-
 - **Research Publication:**
 
   - The updated Report: [Applying the Growth Identification and Facilitation Framework to Nepal: 2023 update](https://www.unescap.org/kp/2024/applying-growth-identification-and-facilitation-framework-nepal-2023-update) (United Nations ESCAP working paper series,  Section  on  Sustainable Development  and  Countries  in  Special  Situations, November 2023. Bangkok.)
-
 
 ---
 
