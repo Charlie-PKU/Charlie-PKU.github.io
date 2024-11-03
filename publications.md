@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/index.html
 title: Publication
 ---
-> Lastest Update: October 4th, 2024
+> Lastest Update: November 4th, 2024
 
 <!--   [中文版本 (Chinese Version)](https://charlie-pku.github.io/file/awards-zh/) -->
 
