@@ -4,7 +4,7 @@ permalink: /miscellaneous/index.html
 title: Miscellaneous
 lang: french
 ---
-> Lastest Update: October 4th, 2024
+> Lastest Update: November 4th, 2024
 
 <!-- [中文版本 (Chinese Version)](https://charlie-pku.github.io/file/publications-zh/) -->
 
@@ -34,11 +34,9 @@ lang: french
 - ✨✨✨ The Geography of Development (forthcoming)
 
   - This is the course Presentation with Jingying Zong on *International Economics I; Trade theory* taught by [Yi Lu](https://ylu6.weebly.com/)
-  
 - ✨✨✨ [Estimating Equilibrium in Health Insurance Exchanges: Price Competition and Subsidy Design under the ACA](https://charlie-pku.github.io/file/2024/ACA_2024.pdf)
 
   - This is the course Presentation with Jiayi Zhu on *Analysis of Economic Policies in China* taught by [Chenyuan Liu](https://chenyuanliu.github.io/)
-
 - ✨✨✨ [Understanding Tax Policy: How do People Reason?](https://charlie-pku.github.io/file/2024/Tax_2024.pdf)
 
   - This is the Personal Presentation on *Public Economics (1)* taught by [Binzhen Wu](https://www.sem.tsinghua.edu.cn/info/1206/33199.htm)
