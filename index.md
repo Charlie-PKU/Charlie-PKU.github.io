@@ -117,7 +117,7 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 ## News and Updates 📨
 
-- **<font color='red'>[Highlight] </font> Sep. 2024:** I am actively seeking an internship position for 2025 Spring. If you have any information, please contact me!  🌐
+- **<font color='red'>[Highlight] </font> Nov. 2024:** I am actively seeking an internship position for 2025 Spring. If you have any information, please contact me!  🌐
 
 - **Sep. 2024:** Successfully pass the QE! 🏮
 
