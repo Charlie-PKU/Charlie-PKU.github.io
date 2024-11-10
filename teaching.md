@@ -9,9 +9,7 @@ title: Teaching
 
 ## **2024** ✒️
 
-
-
-- Sep. 2024 - Jan. 2025 (Expected): **<font color='blue'>[Undergraduate] </font> Intermediate Economics (taught in English)**
+- Sep. 2024 - Jan. 2025: **`<font color='blue'>`[Undergraduate] `</font>` Intermediate Economics (taught in English)**
 
 &#8194; &#8194; **Department**：School of Economics and Management, Tsinghua
 
@@ -27,7 +25,7 @@ title: Teaching
 
 <br>
 
-- Aug. 2024 - Nov. 2024 (Expected): **<font color='blue'>[MBA] </font> Managerial Economics**
+- Aug. 2024 - Nov. 2024: **`<font color='blue'>`[MBA] `</font>` Managerial Economics**
 
 &#8194; &#8194; **Department**：School of Economics and Management, Tsinghua
 
@@ -42,7 +40,7 @@ title: Teaching
 
 <br>
 
-- Feb. 2024 - Jun. 2024: **<font color='blue'>[Undergraduate] </font> Principles of Economics (2, Macro Part): Seminar**
+- Feb. 2024 - Jun. 2024: **`<font color='blue'>`[Undergraduate] `</font>` Principles of Economics (2, Macro Part): Seminar**
 
 &#8194; &#8194; **Department**：School of Economics and Management, Tsinghua
 
@@ -67,7 +65,7 @@ title: Teaching
 
 ## **2023**🖍️
 
-- Sep. 2023 - Jan. 2024: **<font color='blue'>[Undergraduate] </font> Principles of Economics (1, Micro Part): Seminar**
+- Sep. 2023 - Jan. 2024: **`<font color='blue'>`[Undergraduate] `</font>` Principles of Economics (1, Micro Part): Seminar**
 
 &#8194; &#8194; **Department**：School of Economics and Management, Tsinghua
 
@@ -89,8 +87,7 @@ title: Teaching
 
 <br>
 
-
-- Feb. 2023 - Jun. 2023：**<font color='blue'>[Undergraduate] </font> Intermediate Economics**
+- Feb. 2023 - Jun. 2023：**`<font color='blue'>`[Undergraduate] `</font>` Intermediate Economics**
 
 &#8194; &#8194; **Department**：National School of Development, Peking University
 

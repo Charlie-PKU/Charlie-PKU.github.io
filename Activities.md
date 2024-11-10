@@ -243,6 +243,8 @@ title: Activity
 
 ***活动后期**：撰写Summary文件与感谢信*
 
+活动链接：[麦肯齐：推动能源转型的技术｜顾问委员进课堂](https://mp.weixin.qq.com/s?__biz=MzA5NTA0NjIxNg==&mid=2662086121&idx=1&sn=c12ee19705159e4eb014a9d070d7dd47&chksm=8aa8f1c94d24268e12086a78db9cf39170ed1b03aaf564806fcd3d746a82afcc2bb9ba3428bb&mpshare=1&scene=2&srcid=1106CrendThzQWKBEIjshjXB&sharer_shareinfo=6d7fa41acc468899feab373b34185503&sharer_shareinfo_first=6d7fa41acc468899feab373b34185503#rd)
+
 - Sep. 2024: 清华大学经济管理学院经济学学位授权点评估志愿者
 
 *负责前期联系专家以及现场会务接待等工作*
