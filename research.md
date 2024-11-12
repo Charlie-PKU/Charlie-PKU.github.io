@@ -10,15 +10,15 @@ lang: french
 
 ## Work in Progress 🚀
 
-- **"The Effect of Key Pollutant Discharge Firms on Local Second-hand Housing Prices in Guangdong Province"**
+- **"The Effect of Waste Water Treatment Plants (WWTPs) on Local Second-hand Housing Prices in Guangdong Province"**
 
-&#8194;&#8194; (*Undergraduate Thesis of PKU, Oct. 2022 - Jun. 2023*)
+&#8194;&#8194; (*Based on the Undergraduate Thesis of PKU, Oct. 2022 - Jun. 2023*)
 
 <!-- [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/perception_slides_2023.pdf) -->
 
 (Draft is available upon request)
 
-joint with [Yana Jin](http://scholar.pku.edu.cn/yjin)
+joint with Tingwei Gao and [Yana Jin](http://scholar.pku.edu.cn/yjin)
 
 <!-- <img src="https://charlie-pku.github.io/images/research/perception_2023.jpg"> -->
 
