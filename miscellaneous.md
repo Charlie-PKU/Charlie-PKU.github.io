@@ -31,7 +31,7 @@ lang: french
 
 ### 2024
 
-- ✨✨✨ The Geography of Development (forthcoming)
+- ✨✨✨ [The Geography of Development](https://charlie-pku.github.io/file/2024/Spatial_2024.pdf)
 
   - This is the course Presentation with Jingying Zong on *International Economics I; Trade theory* taught by [Yi Lu](https://ylu6.weebly.com/)
 - ✨✨✨ [Estimating Equilibrium in Health Insurance Exchanges: Price Competition and Subsidy Design under the ACA](https://charlie-pku.github.io/file/2024/ACA_2024.pdf)
