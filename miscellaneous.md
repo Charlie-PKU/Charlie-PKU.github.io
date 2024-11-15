@@ -31,19 +31,19 @@ lang: french
 
 ### 2024
 
-- ✨✨✨ [The Geography of Development](https://charlie-pku.github.io/file/2024/Spatial_2024.pdf)
+- ✨✨✨ [The Geography of Development](https://charlie-pku.github.io/file/2024/Spatial_2024.pdf) (JPE, 2018)
 
-  - This is the course Presentation with Jingying Zong on *International Economics I; Trade theory* taught by [Yi Lu](https://ylu6.weebly.com/)
-- ✨✨✨ [Estimating Equilibrium in Health Insurance Exchanges: Price Competition and Subsidy Design under the ACA](https://charlie-pku.github.io/file/2024/ACA_2024.pdf)
+  - This is the course Presentation with Jingying Zong on *International Economics I: Trade theory* taught by [Yi Lu](https://ylu6.weebly.com/)
+- ✨✨✨ [Estimating Equilibrium in Health Insurance Exchanges: Price Competition and Subsidy Design under the ACA](https://charlie-pku.github.io/file/2024/ACA_2024.pdf) (RES, 2024)
 
   - This is the course Presentation with Jiayi Zhu on *Analysis of Economic Policies in China* taught by [Chenyuan Liu](https://chenyuanliu.github.io/)
-- ✨✨✨ [Understanding Tax Policy: How do People Reason?](https://charlie-pku.github.io/file/2024/Tax_2024.pdf)
+- ✨✨✨ [Understanding Tax Policy: How do People Reason?](https://charlie-pku.github.io/file/2024/Tax_2024.pdf) (QJE, 2021)
 
   - This is the Personal Presentation on *Public Economics (1)* taught by [Binzhen Wu](https://www.sem.tsinghua.edu.cn/info/1206/33199.htm)
 - ✨ [学术成果定量化的背景与影响——以高校经济学科教师为分析对象](https://charlie-pku.github.io/file/2024/young_scholars_2024.pdf)
 
   - This is the Final Thesis on *Introduction of Dialectics of Nature* taught by [Guangling Xiao](https://www.smarx.tsinghua.edu.cn/info/1139/3243.htm)
-- ✨✨✨ [Causal effects of Renewable Portfolio Standards on renewable investments and generation](https://charlie-pku.github.io/file/2024/RPS_2024.pdf)
+- ✨✨✨ [Causal effects of Renewable Portfolio Standards on renewable investments and generation](https://charlie-pku.github.io/file/2024/RPS_2024.pdf) (REE, 2023)
 
   - This is the Personal Presentation on *Energy and Environmental Economics* taught by [Jing Cao](https://chinaproject.harvard.edu/people/jing-cao)
 - ✨ [“控规模”还是“促集聚”？ ——关于城市病的政治经济学思考](https://charlie-pku.github.io/file/2024/advanced_politics_2024.pdf)
@@ -79,7 +79,7 @@ lang: french
 - [光影长廊中的美学散步——试论电影的美学意义](https://charlie-pku.github.io/file/2022/midterm_cinema_2022.pdf)
 
   - This is the Midterm Thesis of *History of World Cinema* taught by [Shaoyang Lu](http://sjc.pku.edu.cn/info/1130/11662.htm)
-- ✨✨✨ [Evaluating Behaviorally Motivated Policy Experimental Evidence from the Lightbulb Market](https://charlie-pku.github.io/file/2022/Bulb_2022.pdf)
+- ✨✨✨ [Evaluating Behaviorally Motivated Policy Experimental Evidence from the Lightbulb Market](https://charlie-pku.github.io/file/2022/Bulb_2022.pdf) (AER, 2015)
 
   - This is the Group Presentation with Qiansong Xia and Zhizhi Zhu on *Environmental Resources Economics* taught by [Yuanning Liang](https://www.yuanning-liang.com/)
 - ✨ [集中式光伏分析报告](https://charlie-pku.github.io/file/2022/solar_panel_2022.pdf)
