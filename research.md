@@ -76,7 +76,7 @@ joint with Tingyu Cui and Yushuai Zhang
 
 [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/garbage_slides_2022.pdf)
 
-joint with [Wenhui Yang](https://www.sg.pku.edu.cn/szdw/zzjs/ggzcx1/1347304.htm)
+joint with [Wenhui Yang](https://wenhuiyang.weebly.com/)
 
 <br>
 
