@@ -13,7 +13,7 @@ I am a Ph.D. student majoring in **Applied Economics** at Tsinghua University, a
 
 I am curious and passionate about public policy and global economic governance, especially climate change, sustainable development, and economic resilience. I hope to work for an international organization such as the [World Bank](https://www.worldbank.org/en/home) or [Resources for the Future](https://www.rff.org/) to conduct valuable research.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at: 
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at:
 
 *fangc23[at]mails[dot]tsinghua[dot]edu[dot]cn*.📍
 
@@ -37,8 +37,7 @@ Click [here](https://charlie-pku.github.io/file/CV/CV_Chen.pdf) for my full CV.
 
 <br>
 
-
-**Sep. 2019 - Jun. 2023:** [Peking University (PKU)](https://www.pku.edu.cn/) 
+**Sep. 2019 - Jun. 2023:** [Peking University (PKU)](https://www.pku.edu.cn/)
 
 - **Major**		[College of Environmental Sciences and Engineering (CESE)](https://cese.pku.edu.cn/)
 
@@ -85,11 +84,12 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 ## Skills 🚩
 
 - **Language**
+
   - English (CET-4: 650; CET-6: 621)
   - Chinese (mother tongue)
-
 - **Techniques**
-  - LaTeX, Python, STATA, R, QGIS, MATLAB😥, SPSS😥 
+
+  - LaTeX, Python, STATA, R, QGIS, MATLAB😥, SPSS😥
   - Adobe illustrator, *Jianying*
   - MS Office Suite, *Xiumi*
 
@@ -98,7 +98,7 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 - **Gender**: 🚹
 - **Birthday**🎂: 20th September, 2001 (Virgo♍)
 - **Hometown**🏡: Jiangyou County, Mianyang City, Sichuan province (四川省绵阳市江油市)
-- **MBTI**: [ESFJ-A](https://www.16personalities.com/profiles/fee67db1fa686) (Consul, just like the Monica in *Friends*!) 
+- **MBTI**: [ESFJ-A](https://www.16personalities.com/profiles/fee67db1fa686) (Consul, just like the Monica in *Friends*!)
   - **Former**: INFJ (2020), ISFJ-A (2022)
 
 <!-- <iframe
@@ -112,33 +112,19 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 <br>
 
-
 ---
 
 ## News and Updates 📨
 
-- **<font color='red'>[Highlight] </font> Nov. 2024:** I am actively seeking an internship position for 2025 Spring. If you have any information, please contact me!  🌐
-
+- **`<font color='red'>`[Highlight] `</font>` Nov. 2024:** I am actively seeking an internship position for 2025 Spring. If you have any information, please contact me!  🌐
 - **Sep. 2024:** Successfully pass the QE! 🏮
-
 - **Sep. 2024:** A couple of fantastic weeks with students from [Technical University of Munich](https://www.tum.de/en/) and other universities in 2024 Sino-German Climate Study Camp!! 🇩🇪
-
 - **Aug. 2024:** Struggling for Qualificatoin Examination (QE) in September. Wish me LUCK! 🐾
-
 - **Jul. 2024:** A nice journey in Sinan County and Jiangkou County in [Tongren City, Guizhou Province](https://mp.weixin.qq.com/s/oTnPJp2SgLY9szQybwspmA) with classmates from [Tsinghua PBC School of Finance](https://www.pbcsf.tsinghua.edu.cn/)! 🍉
-
 - **Mar. 2024:** Very thrilled that our research have been accepted for presentation during the [the 3rd Annual Conference of CAERE](http://www.caere.org/), happy days in [Hang Zhou](https://mp.weixin.qq.com/s/R1SMwQkPnT1vl2RaqjoN0w)! 🌏
-
 - **Feb. 2024:** Very excited that our research have been accepted for presentation during the [27th Annual Conference on Global Economic Analysis](https://www.gtap.agecon.purdue.edu/events/Conferences/2024/index.aspx), see you in Fort Collins! 😁
-
-
 - **Oct. 2023:** Fantastic Holiday in [Vladivostok and Harbin](https://mp.weixin.qq.com/s/J1xEEw_rVxnN3jOz3XRklA)! 🌞
-
 - **Sep. 2023:** Hi! THU! 🏫
-
 - **Jul. 2023:** Enriched Journey in [Qinghai and Gansu](https://mp.weixin.qq.com/s/jHh41LKx_3fV7STTZdbfFw) and [Hangzhou](https://mp.weixin.qq.com/s/nCI595vR34eP4ZCwd1JF_w)! 🐪
-
-- **Aug. 2023:** Very honored to be featured in this [interview](https://mp.weixin.qq.com/s/nwJ-w7q_wHt3VQYaUwvdfw) from CESE, PKU!!! 
-
+- **Aug. 2023:** Very honored to be featured in this [interview](https://mp.weixin.qq.com/s/nwJ-w7q_wHt3VQYaUwvdfw) from CESE, PKU!!!
 - **Jul. 2023:** Goodbye! PKU! 🏫
-
