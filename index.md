@@ -11,7 +11,15 @@ Hello! Here is **Chen FANG (Charlie, 房晨)**.
 
 I am a Ph.D. student majoring in **Applied Economics** at Tsinghua University, advised by [Prof. Jing Cao](https://chinaproject.harvard.edu/people/jing-cao).
 
-I am curious and passionate about public policy and global economic governance, especially climate change, sustainable development, and economic resilience. I hope to work for an international organization such as the [World Bank](https://www.worldbank.org/en/home) or [Resources for the Future](https://www.rff.org/) to conduct valuable research.
+I am curious and passionate about public policy and global economic governance, especially climate change, sustainable development, and resilience. I hope to work for an international organization such as the [World Bank](https://www.worldbank.org/en/home) or [Resources for the Future](https://www.rff.org/) to conduct valuable research.
+
+<br>
+
+A question motivates my research is:
+
+*How can economists use economic and statistical tools to assess welfare changes during the green transition, particularly for vulnerable groups?*
+
+<br>
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at:
 
@@ -116,9 +124,9 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 ## News and Updates 📨
 
-- **<font color='purple'> [Highlight] </font> Jan. 2025 (forthcoming):**  Looking forward to leading the academic research efforts of our group during a field study in Xiangxiang County, Hunan Province! 🥟
-- **<font color='orange'> [Highlight] </font> Dec. 2024:** I am deeply honored to participate in the [podcast](https://open.spotify.com/show/7smuDIYVBlaPUjeIPeyVz4) discussion on the future roles of China and the US in climate governance, thanks for Bowen, Laurin and Moritz! 📢
-- **<font color='red'> [Highlight] </font> Nov. 2024:** I am actively seeking an internship position in international organizations for 2025 Spring. If you have any information, please contact me!  🌐
+- **`<font color='purple'>` [Highlight] `</font>` Jan. 2025 (forthcoming):**  Looking forward to leading the academic research efforts of our group during a field study in Xiangxiang County, Hunan Province! 🥟
+- **`<font color='orange'>` [Highlight] `</font>` Dec. 2024:** I am deeply honored to participate in the [podcast](https://open.spotify.com/show/7smuDIYVBlaPUjeIPeyVz4) discussion on the future roles of China and the US in climate governance, thanks for Bowen, Laurin and Moritz! 📢
+- **`<font color='red'>` [Highlight] `</font>` Nov. 2024:** I am actively seeking an internship position in international organizations for 2025 Spring. If you have any information, please contact me!  🌐
 - **Sep. 2024:** Successfully pass the QE! 🏮
 - **Sep. 2024:** A couple of fantastic weeks with students from [Technical University of Munich](https://www.tum.de/en/) and other universities in 2024 Sino-German Climate Study Camp!! 🇩🇪
 - **Aug. 2024:** Struggling for Qualificatoin Examination (QE) in September. Wish me LUCK! 🐾
