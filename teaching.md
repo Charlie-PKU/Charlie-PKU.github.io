@@ -15,7 +15,7 @@ title: Teaching
 
 **Instructor**: [Tianshi Mu](https://tianshimu.netlify.app/)
 
-**Collaborators**: Shuai Yuan, Jiasheng Li, Wenshi Wei, Jiawei Wu
+**Collaborators**: Shuai Yuan, [Jiasheng Li](https://jiashengli.weebly.com/), [Wenshi Wei](https://sites.google.com/view/wenshiwei/home), Jiawei Wu
 
 **Main Tasks**:
 
