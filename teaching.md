@@ -19,8 +19,9 @@ title: Teaching
 
 **Main Tasks**:
 
-- 负责第五部分（博弈论）作业的答案编写与评分
+- 负责第五部分（博弈论）作业的答案编写、评分与[习题课讲解](https://meeting.tencent.com/cw/l66QABQ9de)
 - 参与期中、期末习题答案的编写，并参与监考与评分
+- 负责期末[复习课讲解](https://meeting.tencent.com/cw/KzE14VDZd0)，[讲义](https://charlie-pku.github.io/file/2024/TA_final_2024.pdf)
 - 负责每周TA Office Hour答疑
 
 <br>
