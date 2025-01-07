@@ -31,7 +31,7 @@ lang: french
 
 ### 2025
 
-- ✨ The Effects of Environment Regulation on Small Low-profit Enterprises: Evidence from the “Air Pollution Prevention and Control Action Plan” [slides](https://charlie-pku.github.io/file/2024/SLE_pre_2024.pdf) [thesis](https://charlie-pku.github.io/file/2024/SLE_thesis_2025.pdf)
+- ✨ The Effects of Environment Regulation on Small Low-profit Enterprises: Evidence from the “Air Pollution Prevention and Control Action Plan” [slides](https://charlie-pku.github.io/file/2024/SLE_pre_2024.pdf) [thesis](https://charlie-pku.github.io/file/2025/SLE_thesis_2025.pdf)
 
   - This is the assignment of the course *Public Economics (1)* taught by [Binzhen Wu](https://www.sem.tsinghua.edu.cn/info/1206/33199.htm)
 
