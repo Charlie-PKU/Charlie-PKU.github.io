@@ -11,7 +11,7 @@ title: Teaching
 
 - Sep. 2024 - Jan. 2025: **<font color='blue'>[Undergraduate] </font> Intermediate Economics (taught in English)**
 
-&#8194; &#8194; **Department**：School of Economics and Management, Tsinghua
+&#8194; &#8194; **Department**: School of Economics and Management, Tsinghua
 
 **Instructor**: [Tianshi Mu](https://tianshimu.netlify.app/)
 
@@ -19,8 +19,8 @@ title: Teaching
 
 **Main Tasks**:
 
-- 负责第五部分（博弈论）作业的答案编写、评分与[习题课讲解](https://meeting.tencent.com/cw/l66QABQ9de)
-- 参与期中、期末习题答案的编写，并参与监考与评分
+- 负责第五部分（博弈论）作业的[答案编写](https://charlie-pku.github.io/file/2024/PS5_Sol_2025.pdf)、评分与[习题课讲解](https://meeting.tencent.com/cw/l66QABQ9de)
+- 参与期中、期末试题答案的编写，并参与监考与评分
 - 负责期末[复习课讲解](https://meeting.tencent.com/cw/KzE14VDZd0)，[讲义](https://charlie-pku.github.io/file/2024/TA_final_2024.pdf)
 - 负责每周TA Office Hour答疑
 
@@ -28,7 +28,7 @@ title: Teaching
 
 - Aug. 2024 - Nov. 2024: **<font color='blue'>[MBA] </font> Managerial Economics**
 
-&#8194; &#8194; **Department**：School of Economics and Management, Tsinghua
+&#8194; &#8194; **Department**: School of Economics and Management, Tsinghua
 
 **Instructor**: [Mingzhi Li](https://www.sem.tsinghua.edu.cn/en/info/1215/7137.htm)
 
@@ -43,7 +43,7 @@ title: Teaching
 
 - Feb. 2024 - Jun. 2024: **<font color='blue'>[Undergraduate] </font> Principles of Economics (2, Macro Part): Seminar**
 
-&#8194; &#8194; **Department**：School of Economics and Management, Tsinghua
+&#8194; &#8194; **Department**: School of Economics and Management, Tsinghua
 
 **Instructor**: [Feng Dong](https://fengdongecon.weebly.com/)
 
@@ -68,7 +68,7 @@ title: Teaching
 
 - Sep. 2023 - Jan. 2024: **<font color='blue'>[Undergraduate] </font> Principles of Economics (1, Micro Part): Seminar**
 
-&#8194; &#8194; **Department**：School of Economics and Management, Tsinghua
+&#8194; &#8194; **Department**: School of Economics and Management, Tsinghua
 
 **Instructor**: [Xiaohan Zhong](https://www.sem.tsinghua.edu.cn/info/1206/31922.htm)、[Yingyi Qian](https://www.sem.tsinghua.edu.cn/info/1206/31907.htm)
 
@@ -90,7 +90,7 @@ title: Teaching
 
 - Feb. 2023 - Jun. 2023：**<font color='blue'>[Undergraduate] </font> Intermediate Economics**
 
-&#8194; &#8194; **Department**：National School of Development, Peking University
+&#8194; &#8194; **Department**: National School of Development, Peking University
 
 **Instructor**: [Huayu Xu](https://sites.google.com/umich.edu/huayu)
 
