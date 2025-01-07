@@ -38,6 +38,10 @@ lang: french
 
 ### 2024
 
+- ✨✨✨ [Gone with the Wind: Renewable Energy Infrastructure, Welfare, and Redistribution](https://charlie-pku.github.io/file/2024/Wind_2024.pdf) (JMP, updated version in 2023)
+
+  - This is the course Presentation on *International Economics I: Trade theory* taught by [Yi Lu](https://ylu6.weebly.com/)
+
 - ✨✨✨ [The Geography of Development](https://charlie-pku.github.io/file/2024/Spatial_2024.pdf) (JPE, 2018)
 
   - This is the course Presentation with Jingying Zong on *International Economics I: Trade theory* taught by [Yi Lu](https://ylu6.weebly.com/)
