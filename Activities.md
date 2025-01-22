@@ -23,25 +23,19 @@ title: Activity
 
 [Day1~3](https://mp.weixin.qq.com/s?__biz=Mzg2OTg5NjAwNg==&mid=2247485749&idx=1&sn=f8338763779afba6420693fc2dbddf22&chksm=cf58c96e3b75196f9ac068a614b7023b2cd5273e843ad582a2be87be6e448f0d9d5ef5d3f824&scene=126&sessionid=1737558368#rd) [Day4~6](https://mp.weixin.qq.com/s/ys4TAwS0-VpEhTtLwv9MgQ)
 
-
-
 **自媒体账号**
 
-- 微信公众号：湘茶小筑
-[湘心乡映，非遗焕新——2025湘乡新春文化市集热闹开市！](https://mp.weixin.qq.com/s?__biz=Mzg2OTg5NjAwNg==&mid=2247485764&idx=1&sn=922267253317a0586c85ed7b3dd337d8&chksm=cfed4c0b805bb10c8053ece03c12bf6961258f756ba7d7b6dcceadd607b1c2c17bd94f583c15&scene=126&sessionid=1737558368#rd)
-
-- 小红书：心心湘印
-[湘乡游园奖品和攻略来袭！！](https://www.xiaohongshu.com/discovery/item/678b06670000000016020441?source=webshare&xhsshare=pc_web&xsec_token=ABqW5kRkb2NYGEZDyZoY1YgzBfaxlOJEt7kVvivlObmIc=&xsec_source=pc_share)
-
-
-- 抖音：心心湘印
-[大桔大利](https://www.douyin.com/user/MS4wLjABAAAAS0yoffM3E_Q84LjnRdszZ56aC5VcNNOIzUStjKktqn1vpyM81iAujJbe2jXyAK1a?from_tab_name=main&modal_id=7460798647458958626&vid=7461066109165292857)
+- 微信公众号：湘茶小筑 （推送：[湘心乡映，非遗焕新——2025湘乡新春文化市集热闹开市！](https://mp.weixin.qq.com/s?__biz=Mzg2OTg5NjAwNg==&mid=2247485764&idx=1&sn=922267253317a0586c85ed7b3dd337d8&chksm=cfed4c0b805bb10c8053ece03c12bf6961258f756ba7d7b6dcceadd607b1c2c17bd94f583c15&scene=126&sessionid=1737558368#rd)）
+- 小红书：心心湘印 （推文：[湘乡游园奖品和攻略来袭！！](https://www.xiaohongshu.com/discovery/item/678b06670000000016020441?source=webshare&xhsshare=pc_web&xsec_token=ABqW5kRkb2NYGEZDyZoY1YgzBfaxlOJEt7kVvivlObmIc=&xsec_source=pc_share)）
+- 抖音：心心湘印 （短视频：[大桔大利](https://www.douyin.com/user/MS4wLjABAAAAS0yoffM3E_Q84LjnRdszZ56aC5VcNNOIzUStjKktqn1vpyM81iAujJbe2jXyAK1a?from_tab_name=main&modal_id=7460798647458958626&vid=7461066109165292857)）
 
 **相关报道** 
 
 - 青春湘乡：["湘心乡映，非遗焕新"2025湘乡新春文化市集](https://mp.weixin.qq.com/s/oR8Wjx8hi01Nqr2PBMk-2A)
-- 新湘潭：[湘乡新春文化市集热闹开市](https://app.xtol.cn/share/#/news_detail?contentType=5&contentId=104536&cId=0&tencentShare=1)
+- 新湘潭：[清华大学乡村振兴工作站团队考察调研湘乡虞唐高跷](https://app.xtol.cn/share/#/news_detail?contentType=5&contentId=104341&cId=0&tencentShare=1) [湘乡新春文化市集热闹开市](https://app.xtol.cn/share/#/news_detail?contentType=5&contentId=104536&cId=0&tencentShare=1) 
 - 湘乡视界：[可玩可赏可尝！湘乡这个“新春文化市集”等你来！](https://mp.weixin.qq.com/s/YTCiyaMsIIFZJ85YR9NPLg)
+- 湘乡组工：[清华大学乡村振兴工作站将在湘乡开展为期10天的社会实践](https://mp.weixin.qq.com/s/C_sQwOoRh9mNttQJcyv88w)
+
 
 
 
