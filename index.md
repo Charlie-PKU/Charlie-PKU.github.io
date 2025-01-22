@@ -124,7 +124,7 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 ## News and Updates 📨
 
-- **`<font color='red'>` [Highlight] `</font>`** I am absolutely thrilled to have been offered the Economist Intern position with the Development Unit of [UNHCR in Jordan](https://www.unhcr.org/jo/) from Feb. 2025!! See you in Amman!! 🌐
+- **<font color='red'> [Highlight] </font>** I am absolutely thrilled to have been offered the Economist Intern position with the Development Unit of [UNHCR in Jordan](https://www.unhcr.org/jo/) from Feb. 2025!! See you in Amman!! 🌐
 
 <br>
 
