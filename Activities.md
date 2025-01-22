@@ -26,7 +26,7 @@ title: Activity
 
 - 微信公众号：湘茶小筑
 
-[活动纪实|湘心乡映，非遗焕新——2025湘乡新春文化市集热闹开市！](https://mp.weixin.qq.com/s?__biz=Mzg2OTg5NjAwNg==&mid=2247485764&idx=1&sn=922267253317a0586c85ed7b3dd337d8&chksm=cfed4c0b805bb10c8053ece03c12bf6961258f756ba7d7b6dcceadd607b1c2c17bd94f583c15&scene=126&sessionid=1737558368#rd)
+[湘心乡映，非遗焕新——2025湘乡新春文化市集热闹开市！](https://mp.weixin.qq.com/s?__biz=Mzg2OTg5NjAwNg==&mid=2247485764&idx=1&sn=922267253317a0586c85ed7b3dd337d8&chksm=cfed4c0b805bb10c8053ece03c12bf6961258f756ba7d7b6dcceadd607b1c2c17bd94f583c15&scene=126&sessionid=1737558368#rd)
 
 - 小红书：心心湘印
 
