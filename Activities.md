@@ -17,9 +17,9 @@ title: Activity
 
 <br>
 
-**实践日志**：[Day1~3](https://mp.weixin.qq.com/s?__biz=Mzg2OTg5NjAwNg==&mid=2247485749&idx=1&sn=f8338763779afba6420693fc2dbddf22&chksm=cf58c96e3b75196f9ac068a614b7023b2cd5273e843ad582a2be87be6e448f0d9d5ef5d3f824&scene=126&sessionid=1737558368#rd) [Day4~6](https://mp.weixin.qq.com/s/ys4TAwS0-VpEhTtLwv9MgQ)
+**实践日志**：[Day1~3](https://mp.weixin.qq.com/s?__biz=Mzg2OTg5NjAwNg==&mid=2247485749&idx=1&sn=f8338763779afba6420693fc2dbddf22&chksm=cf58c96e3b75196f9ac068a614b7023b2cd5273e843ad582a2be87be6e448f0d9d5ef5d3f824&scene=126&sessionid=1737558368#rd) [Day4~6](https://mp.weixin.qq.com/s/ys4TAwS0-VpEhTtLwv9MgQ) [**总结汇报（学术组部分）**](https://charlie-pku.github.io/file/2025/xiangxiang_2025.pdf) [**实践手记**](https://charlie-pku.github.io/file/2025/xiangxiang_2025.pdf)
 
-
+<br>
 
 **自媒体账号**
 
@@ -31,7 +31,7 @@ title: Activity
 **相关报道** 
 
 - 青春湘乡：["湘心乡映，非遗焕新"2025湘乡新春文化市集](https://mp.weixin.qq.com/s/oR8Wjx8hi01Nqr2PBMk-2A)
-- 新湘潭：[清华大学乡村振兴工作站团队考察调研湘乡虞唐高跷](https://app.xtol.cn/share/#/news_detail?contentType=5&contentId=104341&cId=0&tencentShare=1) [湘乡新春文化市集热闹开市](https://app.xtol.cn/share/#/news_detail?contentType=5&contentId=104536&cId=0&tencentShare=1) 
+- 新湘潭：[清华大学乡村振兴工作站团队考察调研湘乡虞唐高跷](https://app.xtol.cn/share/#/news_detail?contentType=5&contentId=104341&cId=0&tencentShare=1)、[湘乡新春文化市集热闹开市](https://app.xtol.cn/share/#/news_detail?contentType=5&contentId=104536&cId=0&tencentShare=1) 
 - 湘乡视界：[可玩可赏可尝！湘乡这个“新春文化市集”等你来！](https://mp.weixin.qq.com/s/YTCiyaMsIIFZJ85YR9NPLg)
 - 湘乡组工：[清华大学乡村振兴工作站将在湘乡开展为期10天的社会实践](https://mp.weixin.qq.com/s/C_sQwOoRh9mNttQJcyv88w)
 
