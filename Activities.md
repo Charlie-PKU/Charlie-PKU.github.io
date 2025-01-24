@@ -17,7 +17,7 @@ title: Activity
 
 <br>
 
-**实践日志**：[Day1~3](https://mp.weixin.qq.com/s?__biz=Mzg2OTg5NjAwNg==&mid=2247485749&idx=1&sn=f8338763779afba6420693fc2dbddf22&chksm=cf58c96e3b75196f9ac068a614b7023b2cd5273e843ad582a2be87be6e448f0d9d5ef5d3f824&scene=126&sessionid=1737558368#rd) [Day4~6](https://mp.weixin.qq.com/s/ys4TAwS0-VpEhTtLwv9MgQ) [**总结汇报（学术组部分）**](https://charlie-pku.github.io/file/2025/xiangxiang_2025.pdf) [**实践手记**](https://charlie-pku.github.io/file/2025/xiangxiang_2025.pdf)
+**实践日志**：[Day1~3](https://mp.weixin.qq.com/s?__biz=Mzg2OTg5NjAwNg==&mid=2247485749&idx=1&sn=f8338763779afba6420693fc2dbddf22&chksm=cf58c96e3b75196f9ac068a614b7023b2cd5273e843ad582a2be87be6e448f0d9d5ef5d3f824&scene=126&sessionid=1737558368#rd) [Day4~6](https://mp.weixin.qq.com/s/ys4TAwS0-VpEhTtLwv9MgQ) [**总结汇报（学术组部分）**](https://charlie-pku.github.io/file/2025/xiangxiang_2025.pdf) [**实践手记**](https://mp.weixin.qq.com/s/vWr8czHRLzHb5UgQbDJDHA?token=56114858&lang=zh_CN)
 
 <br>
 
@@ -27,6 +27,7 @@ title: Activity
 - 小红书：心心湘印 （推文：[湘乡游园奖品和攻略来袭！！](https://www.xiaohongshu.com/discovery/item/678b06670000000016020441?source=webshare&xhsshare=pc_web&xsec_token=ABqW5kRkb2NYGEZDyZoY1YgzBfaxlOJEt7kVvivlObmIc=&xsec_source=pc_share)）
 - 抖音：心心湘印 （短视频：[大桔大利](https://www.douyin.com/user/MS4wLjABAAAAS0yoffM3E_Q84LjnRdszZ56aC5VcNNOIzUStjKktqn1vpyM81iAujJbe2jXyAK1a?from_tab_name=main&modal_id=7460798647458958626&vid=7461066109165292857)）
 
+<br>
 
 **相关报道** 
 
