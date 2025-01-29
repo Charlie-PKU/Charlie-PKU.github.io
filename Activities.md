@@ -35,7 +35,7 @@ title: Activity
 - 新湘潭：[清华大学乡村振兴工作站团队考察调研湘乡虞唐高跷](https://app.xtol.cn/share/#/news_detail?contentType=5&contentId=104341&cId=0&tencentShare=1)、[湘乡新春文化市集热闹开市](https://app.xtol.cn/share/#/news_detail?contentType=5&contentId=104536&cId=0&tencentShare=1) 
 - 湘乡视界：[可玩可赏可尝！湘乡这个“新春文化市集”等你来！](https://mp.weixin.qq.com/s/YTCiyaMsIIFZJ85YR9NPLg)
 - 湘乡组工：[清华大学乡村振兴工作站将在湘乡开展为期10天的社会实践](https://mp.weixin.qq.com/s/C_sQwOoRh9mNttQJcyv88w)
-
+- 清小农：[湖南湘乡：新春文化闯关挑战，传统与创意一起嗨！](https://mp.weixin.qq.com/s?__biz=Mzk0MzM5MTk2NQ==&mid=2247511440&idx=4&sn=142c11555c708c661b67794fee038b0e&chksm=c2d1f8ff6178d76b8b0471670e61e22c70d89d752f116ac329cfcf5bde460ea3819927e39c99&mpshare=1&scene=1&srcid=0128SUgMfAtc8qL0obW0VNQ6&sharer_shareinfo=e5736985d6676b4a73c9fef2bf783092&sharer_shareinfo_first=b576d41da8a1c62c2db8b8ee25f370c7&from=groupmessage&isappinstalled=0&clicktime=1738138353&enterid=1738138353&ascene=1&devicetype=iOS18.1.1&version=1800382c&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&countrycode=CN&fontScale=115&exportkey=n_ChQIAhIQjojwRj%2FNBJYSwaJ15ckFsBL2AQIE97dBBAEAAAAAAK3BII7ZCIUAAAAOpnltbLcz9gKNyK89dVj02XVm0zc1bblrAWcwPu38U2%2Bd5j2wUsR%2BPZ%2BnX8OkEPGRfBq2e6k0JMO%2Fk1dcv7OWZh46CRgTZLBvJei2IDuRha9Ahz8zc2F%2BPhxdDsKgIsvfGiP0HxNrZpKBeXSyJw93AgvTQY7QT6NJPzEUwkgEhjOk8KYVosysKnugg8GbHpv0%2BX1vg%2BpGuVm%2B9C5CuJ4HzVHLYckK14ngfEfq253jDMKEXZEV7lwBzpSOEfXeC9GWE6oFiXTkJ293f1WoJFtKDoR1hSrGxa2%2FpdICwvzqsQ%3D%3D&pass_ticket=eIL1S0xcXUTceoVTYWCJwgVDE7FduP%2F41NybMSmeporFO7UfVrIJXgY%2FN%2FKTwv%2Ba&wx_header=3)
 
 <br>
 
