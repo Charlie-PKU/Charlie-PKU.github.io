@@ -124,7 +124,7 @@ joint with [Wenhui Yang](https://wenhuiyang.weebly.com/)
 
 <br>
 
-  `<font color='grey'>`(1) Collect the power generation data of different provinces and technologies in China, and calculate the data of "kWh of coal consumption" for coal, electricity, and electricity.`</font>`
+  `<font color='grey'>`(1) Collect the power generation data of different provinces and technologies in China, and calculate the data of "kWh of coal consumption".`</font>`
   `<br>`
   `<font color='grey'>`(2) Use the national "degree of thermal coal consumption" data to convert coal power and gas power generation.`</font>`
 
