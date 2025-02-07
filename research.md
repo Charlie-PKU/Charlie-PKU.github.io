@@ -160,6 +160,22 @@ joint with [Wenhui Yang](https://wenhuiyang.weebly.com/)
 
 <br>
 
+🌟🌟🌟 Economist Intern at Development Unit, [UNHCR in Jordan](https://www.unhcr.org/jo/) (Amman, Jordan)
+
+<div style="text-align:right;">
+    Mar. 2025 - Aug. 2025
+</div>
+
+- **Instructors:**
+
+  - [Marguerite Duponchel](https://www.linkedin.com/in/marguerite-duponchel-5149a23/), Lara Karat, [Abdellatif Ghatasheh](https://www.linkedin.com/in/aceabd/)
+
+- **Main Contribution:**
+
+  - 
+
+<br>
+
 🌟 **[National School of Development](http://nsd.pku.edu.cn/) (NSD), Peking University**
 
 <div style="text-align:right;">
@@ -179,7 +195,7 @@ joint with [Wenhui Yang](https://wenhuiyang.weebly.com/)
 
 <br>
 
-🌟 **[Institute of Finance and Sustainability](https://en.ifs.net.cn/) (IFS)** (Remotely Internship 💻)
+🌟 Green Finance Intern at **[Institute of Finance and Sustainability](https://en.ifs.net.cn/) (IFS)** (Remotely 💻)
 
 <div style="text-align:right;">
     Jun. 2022 - Oct. 2022
