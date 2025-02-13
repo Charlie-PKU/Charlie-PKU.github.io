@@ -8,75 +8,44 @@ lang: french
 
 <!-- [中文版本 (Chinese Version)](https://charlie-pku.github.io/file/publications-zh/) -->
 
-## Work in Progress 🚀
+## Internship 📇
 
-- **"The Effect of Waste Water Treatment Plants (WWTPs) on Local Second-hand Housing Prices in Guangdong Province"**
+&#8194;&#8194; 🌟🌟🌟 Economist Intern at Development Unit, **[UNHCR Jordan](https://www.unhcr.org/jo/)** (Amman, Jordan 🇯🇴)
 
-&#8194;&#8194; (*Based on the Undergraduate Thesis of PKU, Oct. 2022 - Jun. 2023*)
+<div style="text-align:right;">
+    Mar. 2025 - Sep. 2025 (Expected)
+</div>
 
-<!-- [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/perception_slides_2023.pdf) -->
+- **Supervisors**
 
-(Draft is available upon request)
+  - [Marguerite Duponchel](https://www.linkedin.com/in/marguerite-duponchel-5149a23/)
+  - Lara Karat
+  - [Abdellatif Ghatasheh](https://www.linkedin.com/in/aceabd/)
 
-joint with Tingwei Gao and [Yana Jin](http://scholar.pku.edu.cn/yjin)
+- **Main Contribution**
 
-<!-- <img src="https://charlie-pku.github.io/images/research/perception_2023.jpg"> -->
-
-<br>
-
-- **"An Integrated Assessment of Provincial Economic Damages from Climate Change in China"**
-
-&#8194;&#8194; (*RA program in [3E Institute](http://www.3e.tsinghua.edu.cn/cn), THU, Feb. 2023 - now*)
-
-<!-- [Extended Abstract](https://charlie-pku.github.io/mypaper/Working_Papers/IAM_2024.pdf) (for EAERE 2024 Annual Meeting) -->
-
-(Draft available upon request)
-
-joint with Hantang Peng, [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/article/311), [Da Zhang](http://www.energyda.cn/) and [Xiliang Zhang](http://www.3e.tsinghua.edu.cn/cn/article/slug/news-member-teacher-zsl)
-
-**Oral Presentation**: [27th GTAP](https://www.gtap.agecon.purdue.edu/events/Conferences/2024/index.aspx), [3rd CAERE](http://www.caere.org/)
+  - TBD.
 
 <br>
 
-- **"Forest Autonomy and Forest Carbon Sink Potential: Evidence from Northeast China"**
+🌟 Green Finance Intern, **[Institute of Finance and Sustainability](https://en.ifs.net.cn/) (IFS)** (Remotely 💻)
 
-&#8194;&#8194; (*30th Challenge Cup Program of PKU, Oct. 2021 - Jun. 2022*)
+<div style="text-align:right;">
+    Jun. 2022 - Oct. 2022
+</div>
 
-(Draft available upon request)
+- **Instructor:** Jiayin Zhao
 
-<!-- [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/forest_2022.pdf) -->
+- **Main Contribution:**
 
-<!-- [Extended Abstract](https://charlie-pku.github.io/file/CAERE_forest.pdf) (for CAERE 2024 Annual Meeting)
+  - Daily work such as manuscript translation
+  - Collate and summarize the relevant information on the low-carbon development of institutional investors "Collaborative Engagement" enterprises in ESG field and participate in the report writing of relevant parts
+  - Drawing up an outline of an interview with the head of the United Nations Principles for Responsible Investment (UN PRI) in China
+  - Take part in the related work of meeting (writing outlines and press release)
 
-[Updated Slides](https://charlie-pku.github.io/file/forest_Charlie_slides_16_9.pdf) (for CAERE 2024 Annual Meeting) -->
+- **Research Publication:**
 
-joint with Tingyu Cui and Yushuai Zhang
-
-**Oral Presentation**: [3rd CAERE](http://www.caere.org/)
-
-<br>
-
-- **"Research on Transnational Mobility of Researchers based on Multi-Agent Modeling: A case study of Artificial Intelligence"**
-
-<!--     [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/Mobility_2023.pdf) -->
-
-&#8194;&#8194; joint with Wenjie Chen and [Chao Min](https://min-chao.github.io/)
-
-<br>
-
-<!-- ---
-
-## Permanent Working Paper 😂 -->
-
-- **"Trade Ban and Environmental Pollution: A Policy Evaluation on Trade Ban of Foreign Garbage"**
-
-&#8194;&#8194; (*Course Thesis of **Public Policy Evaluation** in PKU, Mar. 2022 - Jul. 2022*)
-
-[Manuscript (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/garbage_2023.pdf)
-
-[Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/garbage_slides_2022.pdf)
-
-joint with [Wenhui Yang](https://wenhuiyang.weebly.com/)
+  - A Report for the UK-China Green Finance Centre (in Chinese) [《加速气候行动：机构投资者参与支持企业低碳转型》](http://webadmin.ifs.net.cn/storage/uploads/file/2023/03/28/%E3%80%8A%E5%8A%A0%E9%80%9F%E6%B0%94%E5%80%99%E8%A1%8C%E5%8A%A8%EF%BC%9A%E6%9C%BA%E6%9E%84%E6%8A%95%E8%B5%84%E8%80%85%E5%8F%82%E4%B8%8E%E6%94%AF%E6%8C%81%E4%BC%81%E4%B8%9A%E4%BD%8E%E7%A2%B3%E8%BD%AC%E5%9E%8B%E3%80%8B%E6%8A%A5%E5%91%8A.pdf)
 
 <br>
 
@@ -90,24 +59,26 @@ joint with [Wenhui Yang](https://wenhuiyang.weebly.com/)
     Aug. 2021 - now
 </div>
 
-- **Instructor:**
+- **Instructors**
 
   - [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/article/311)
   - [Da Zhang](www.energyda.cn)
   - [Xiliang Zhang](http://www.3e.tsinghua.edu.cn/cn/article/slug/news-member-teacher-zsl)
 
 
-- **Topic:**
+- **Topic**
 
   - The Economic Impact of Carbon Peak and Neutrality in China
   - China's Green and Low-carbon Transition
 
 
-- **Responsibility:**
+- **Responsibility**
 
   - Collecting and processing energy economic data
   - Collecting policy information and literature
   - Participating in writing research reports, etc.
+
+
 - **Main Progress 1 (Aug. 2021 - Dec. 2021):** Assist in completing the project "The Characteristics and Enlightenment of major economies to achieve carbon peaking".
 
 <details>
@@ -164,23 +135,7 @@ joint with [Wenhui Yang](https://wenhuiyang.weebly.com/)
 
 <br>
 
-🌟🌟🌟 **Economist Intern at Development Unit, [UNHCR in Jordan](https://www.unhcr.org/jo/) (Amman, Jordan)**
 
-<div style="text-align:right;">
-    Mar. 2025 - Aug. 2025
-</div>
-
-- **Instructors**
-
-  - [Marguerite Duponchel](https://www.linkedin.com/in/marguerite-duponchel-5149a23/)
-  - Lara Karat
-  - [Abdellatif Ghatasheh](https://www.linkedin.com/in/aceabd/)
-
-- **Main Contribution**
-
-  - 
-
-<br>
 
 🌟 **[National School of Development](http://nsd.pku.edu.cn/) (NSD), Peking University**
 
@@ -205,26 +160,6 @@ joint with [Wenhui Yang](https://wenhuiyang.weebly.com/)
 
 <br>
 
-🌟 Green Finance Intern at **[Institute of Finance and Sustainability](https://en.ifs.net.cn/) (IFS)** (Remotely 💻)
-
-<div style="text-align:right;">
-    Jun. 2022 - Oct. 2022
-</div>
-
-- **Instructor:** Jiayin Zhao
-
-- **Main Contribution:**
-
-  - Daily work such as manuscript translation
-  - Collate and summarize the relevant information on the low-carbon development of institutional investors "Collaborative Engagement" enterprises in ESG field and participate in the report writing of relevant parts
-  - Drawing up an outline of an interview with the head of the United Nations Principles for Responsible Investment (UN PRI) in China
-  - Take part in the related work of meeting (writing outlines and press release)
-
-- **Research Publication:**
-
-  - A Report for the UK-China Green Finance Centre (in Chinese) [《加速气候行动：机构投资者参与支持企业低碳转型》](http://webadmin.ifs.net.cn/storage/uploads/file/2023/03/28/%E3%80%8A%E5%8A%A0%E9%80%9F%E6%B0%94%E5%80%99%E8%A1%8C%E5%8A%A8%EF%BC%9A%E6%9C%BA%E6%9E%84%E6%8A%95%E8%B5%84%E8%80%85%E5%8F%82%E4%B8%8E%E6%94%AF%E6%8C%81%E4%BC%81%E4%B8%9A%E4%BD%8E%E7%A2%B3%E8%BD%AC%E5%9E%8B%E3%80%8B%E6%8A%A5%E5%91%8A.pdf)
-
-<br>
 
 🌟 **[Institute of New Structural Economics](https://www.nse.pku.edu.cn/) (INSE), Peking University**
 
