@@ -14,7 +14,10 @@ lang: french
 
 <div style="text-align:right;">
     Mar. 2025 - Sep. 2025 (Expected)
-    Base: Amman, Jordan 🇯🇴
+</div>
+
+<div style="text-align:right;">
+Base: Amman, Jordan 🇯🇴
 </div>
 
 - **Supervisors**
@@ -33,6 +36,9 @@ lang: french
 
 <div style="text-align:right;">
     Jun. 2022 - Oct. 2022
+</div>
+
+<div style="text-align:right;">
     Base: Beijing, China 🇨🇳
 </div>
 
