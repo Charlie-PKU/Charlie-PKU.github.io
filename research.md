@@ -10,10 +10,11 @@ lang: french
 
 ## Internship 📇
 
-&#8194;&#8194; 🌟🌟🌟 Economist Intern at Development Unit, **[UNHCR Jordan](https://www.unhcr.org/jo/)** (Amman, Jordan 🇯🇴)
+&#8194;&#8194; 🌟🌟🌟 Economist Intern at Development Unit, **[UNHCR Jordan](https://www.unhcr.org/jo/)**
 
 <div style="text-align:right;">
     Mar. 2025 - Sep. 2025 (Expected)
+    Base: Amman, Jordan 🇯🇴
 </div>
 
 - **Supervisors**
@@ -28,10 +29,11 @@ lang: french
 
 <br>
 
-🌟 Green Finance Intern, **[Institute of Finance and Sustainability](https://en.ifs.net.cn/) (IFS)** (Hybrid 💻)
+🌟 Green Finance Intern, **[Institute of Finance and Sustainability](https://en.ifs.net.cn/) (IFS)**
 
 <div style="text-align:right;">
     Jun. 2022 - Oct. 2022
+    Base: Beijing, China 🇨🇳
 </div>
 
 - **Supervisor:** [Phoebe (Jiayin) Zhao](https://www.linkedin.com/in/phoebe-zhao-546088116/)
