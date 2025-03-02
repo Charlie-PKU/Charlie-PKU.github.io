@@ -3,7 +3,7 @@ layout: page
 permalink: /activities/index.html
 title: Activity
 ---
-> Lastest Update: February 4th, 2025
+<!-- > Lastest Update: February 4th, 2025 -->
 
 <!--   [中文版本 (Chinese Version)](https://charlie-pku.github.io/file/awards-zh/) -->
 
@@ -18,6 +18,8 @@ title: Activity
 <br>
 
 **实践日志**：[Day1~3](https://mp.weixin.qq.com/s?__biz=Mzg2OTg5NjAwNg==&mid=2247485749&idx=1&sn=f8338763779afba6420693fc2dbddf22&chksm=cf58c96e3b75196f9ac068a614b7023b2cd5273e843ad582a2be87be6e448f0d9d5ef5d3f824&scene=126&sessionid=1737558368#rd) [Day4~6](https://mp.weixin.qq.com/s/ys4TAwS0-VpEhTtLwv9MgQ) [**总结汇报（学术组部分）**](https://charlie-pku.github.io/file/2025/xiangxiang_2025.pdf) [**实践手记**](https://mp.weixin.qq.com/s/vWr8czHRLzHb5UgQbDJDHA?token=56114858&lang=zh_CN)
+
+[(**总结推送**) 湖南湘乡：在湖湘大地上，建一座联结人才的桥梁](https://mp.weixin.qq.com/s/23Q41Bx7XE4maUsL5skDmA)
 
 <br>
 
