@@ -26,9 +26,18 @@ Base: Amman, Jordan 🇯🇴
   - Lara Karat
   - [Abdellatif Ghatasheh](https://www.linkedin.com/in/aceabd/)
 
+- **Skills**
+
+- STATA, R, MS Offices (Word, Excel, PowerPoint, PowerBI, Publishers, ...)
+
 - **Main Contribution**
 
-  - TBD.
+  - **March**: (i) Write the summary about the Jordan pledges in 2024 Global Refugee Forum; (ii) Update the Syrian-Skill-Mapping codes (the t-test big table). 
+  - **April**: (i) Finish the Zaatari Informal Market Assessment Report; (ii) Update the infographic in construction sector; (iii) Generate the SWIFT 2025 t-test big table.
+  - **May**: (i)
+  - **June**: (i)
+  - **July**: (i)
+  - **August**: (i)
 
 <br>
 
