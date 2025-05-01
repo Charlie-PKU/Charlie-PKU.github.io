@@ -25,19 +25,19 @@ Base: Amman, Jordan 🇯🇴
   - [Marguerite Duponchel](https://www.linkedin.com/in/marguerite-duponchel-5149a23/)
   - Lara Karat
   - [Abdellatif Ghatasheh](https://www.linkedin.com/in/aceabd/)
+  - [Erwin Knippenberg](https://erwin-knippenberg.squarespace.com/) (World Bank)
 
 - **Skills**
 
-- STATA, R, MS Offices (Word, Excel, PowerPoint, PowerBI, Publishers, ...)
+Data processing and economics analysis using STATA, R, GIS...
 
 - **Main Contribution**
 
-  - **March**: (i) Write the summary about the Jordan pledges in 2024 Global Refugee Forum; (ii) Update the Syrian-Skill-Mapping codes (the t-test big table). 
-  - **April**: (i) Finish the Zaatari Informal Market Assessment Report; (ii) Update the infographic in construction sector; (iii) Generate the SWIFT 2025 t-test big table.
-  - **May**: (i)
-  - **June**: (i)
-  - **July**: (i)
-  - **August**: (i)
+  - **Syrian-Skill-Mapping**: Update t-test codes, write up analytics, infographic in construction sector
+  - **Livelihoods and Economic Inclusion**: Finish the Zaatari Informal Market Assessment Report, the polishment of home-based business report
+  - **Poverty Monitoring** (collaborated with [World Bank](https://www.worldbank.org/ext/en/home)): Generate the weighting for SWIFT 2025 data to correct the non-response bias
+  - **Climate related**: update of the methodology of the construction of Climate Vulnerability Index for VAF 2025
+  - **Miscellaneous**: Finish the summary about the Jordan pledges in 2024 Global Refugee Forum
 
 <br>
 
