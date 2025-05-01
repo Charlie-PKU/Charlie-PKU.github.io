@@ -124,17 +124,18 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 ## News and Updates 📨
 
-- **<font color='red'> [Highlight] </font>** I am absolutely thrilled to have been offered the Economist Intern position with the Development Unit of [UNHCR in Jordan](https://www.unhcr.org/jo/) from Mar. 2025!! See you in Amman!! 🌐
+- **<font color='red'> [Highlight] </font>** Surprised that our research have been accepted for presentation during the [AERE 2025 Summer Conference](https://www.aere.org/summer-conference#program) and [the 4th Annual Conference of CAERE](http://www.caere.org/)! 🌏
 
 <br>
 
+- **Feb. 2025:** I am absolutely thrilled to have been offered the Economist Intern position with the Development Unit of [UNHCR in Jordan](https://www.unhcr.org/jo/) from Mar. 2025!! See you in Amman!! 🌐
 - **Jan. 2025:** Happy to leading the academic research efforts of our group during a field study in Xiangxiang County, Hunan Province! 🥟
 - **Dec. 2024:** I am deeply honored to participate in the [podcast](https://open.spotify.com/show/7smuDIYVBlaPUjeIPeyVz4) discussion on the future roles of China and the US in climate governance, thanks for Bowen, Laurin and Moritz! 📢
 - **Sep. 2024:** Successfully pass the QE! 🏮
 - **Sep. 2024:** A couple of fantastic weeks with students from [Technical University of Munich](https://www.tum.de/en/) and other universities in 2024 Sino-German Climate Study Camp!! 🇩🇪
 - **Aug. 2024:** Struggling for Qualificatoin Examination (QE) in September. Wish me LUCK! 🐾
 - **Jul. 2024:** A nice journey in Sinan County and Jiangkou County in [Tongren City, Guizhou Province](https://mp.weixin.qq.com/s/oTnPJp2SgLY9szQybwspmA) with classmates from [Tsinghua PBC School of Finance](https://www.pbcsf.tsinghua.edu.cn/)! 🍉
-- **Mar. 2024:** Very thrilled that our research have been accepted for presentation during the [the 3rd Annual Conference of CAERE](http://www.caere.org/), happy days in [Hang Zhou](https://mp.weixin.qq.com/s/R1SMwQkPnT1vl2RaqjoN0w)! 🌏
+- **Mar. 2024:** Very thrilled that our research have been accepted for presentation during [the 3rd Annual Conference of CAERE](http://www.caere.org/), happy days in [Hang Zhou](https://mp.weixin.qq.com/s/R1SMwQkPnT1vl2RaqjoN0w)! 🌏
 - **Feb. 2024:** Very excited that our research have been accepted for presentation during the [27th Annual Conference on Global Economic Analysis](https://www.gtap.agecon.purdue.edu/events/Conferences/2024/index.aspx), see you in Fort Collins! 😁
 - **Oct. 2023:** Fantastic Holiday in [Vladivostok and Harbin](https://mp.weixin.qq.com/s/J1xEEw_rVxnN3jOz3XRklA)! 🌞
 - **Sep. 2023:** Hi! THU! 🏫
