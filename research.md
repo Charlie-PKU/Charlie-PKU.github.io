@@ -29,7 +29,7 @@ Base: Amman, Jordan 🇯🇴
 
 - **Skills**
 
-Data processing and economics analysis using STATA, R, GIS...
+  - Data processing and economics analysis using STATA, R, GIS...
 
 - **Main Contribution**
 
