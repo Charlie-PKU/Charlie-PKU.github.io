@@ -33,10 +33,10 @@ Base: Amman, Jordan 🇯🇴
 
 - **Main Contribution**
 
-  - **Syrian-Skill-Mapping**: Update t-test codes, write up analytics, infographic in construction sector
-  - **Livelihoods and Economic Inclusion**: Finish the Zaatari Informal Market Assessment Report, the polishment of home-based business report
-  - **Poverty Monitoring** (collaborated with [World Bank](https://www.worldbank.org/ext/en/home)): Generate the weighting for SWIFT 2025 data to correct the non-response bias
-  - **Climate related**: update of the methodology of the construction of Climate Vulnerability Index for VAF 2025
+  - **Skill-Mapping**: Update t-test codes, write up analytics, infographic in construction sector
+  - **Livelihoods**: Finish the Zaatari Informal Market Assessment Report, the polishment of home-based business report
+  - **Poverty** (collaborated with [World Bank](https://www.worldbank.org/ext/en/home)): Generate the weighting for SWIFT 2025 data to correct the non-response bias
+  - **Climate**: update of the methodology of the construction of Climate Vulnerability Index for VAF 2025
   - **Miscellaneous**: Finish the summary about the Jordan pledges in 2024 Global Refugee Forum
 
 <br>
