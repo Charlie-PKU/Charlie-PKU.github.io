@@ -59,15 +59,17 @@ title: Publication
 
 ## Work in Progress 🚀
 
-- **"The Effect of Waste Water Treatment Plants (WWTPs) on Local Second-hand Housing Prices in Guangdong Province"**
+- **"Down the Drain? The Impact of Wastewater Treatment Plants on Residential Property Values"**
 
-&#8194;&#8194; (*Based on the Undergraduate Thesis of PKU, Oct. 2022 - Jun. 2023*)
+<!-- (*Based on the Undergraduate Thesis of PKU, Oct. 2022 - Jun. 2023*) -->
 
 <!-- [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/perception_slides_2023.pdf) -->
 
-(Draft is available upon request)
+&#8194;&#8194;  (Draft is available upon request)
 
 joint with Tingwei Gao and [Yana Jin](http://scholar.pku.edu.cn/yjin)
+
+**Oral Presentation**: [AERE 2025 Summer Conference](https://www.aere.org/summer-conference#program), [2nd XMU-UM Joint Workshop on Environmental and Behavioral/Experimental Economics](https://mp.weixin.qq.com/s/syaZDG76k4LZV7AMVzyE1A)
 
 <!-- <img src="https://charlie-pku.github.io/images/research/perception_2023.jpg"> -->
 
@@ -75,11 +77,11 @@ joint with Tingwei Gao and [Yana Jin](http://scholar.pku.edu.cn/yjin)
 
 - **"An Integrated Assessment of Provincial Economic Damages from Climate Change in China"**
 
-&#8194;&#8194; (*RA program in [3E Institute](http://www.3e.tsinghua.edu.cn/cn), THU, Feb. 2023 - now*)
+<!-- (*RA program in [3E Institute](http://www.3e.tsinghua.edu.cn/cn), THU, Feb. 2023 - now*) -->
 
 <!-- [Extended Abstract](https://charlie-pku.github.io/mypaper/Working_Papers/IAM_2024.pdf) (for EAERE 2024 Annual Meeting) -->
 
-(Draft available upon request)
+&#8194;&#8194;  (Draft available upon request)
 
 joint with Hantang Peng, [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/article/311), [Da Zhang](http://www.energyda.cn/) and [Xiliang Zhang](http://www.3e.tsinghua.edu.cn/cn/article/slug/news-member-teacher-zsl)
 
@@ -87,11 +89,13 @@ joint with Hantang Peng, [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/articl
 
 <br>
 
-- **"Forest Autonomy and Forest Carbon Sink Potential: Evidence from Northeast China"**
+- **"From Flameout to Reignition: How Policy Retractions Breed Hesitation and Hinder Revival"**
 
-&#8194;&#8194; (*30th Challenge Cup Program of PKU, Oct. 2021 - Jun. 2022*)
+former circulated with the title of *Forest Autonomy and Forest Carbon Sink Potential: Evidence from Northeast China*.
 
-(Draft available upon request)
+<!-- (*30th Challenge Cup Program of PKU, Oct. 2021 - Jun. 2022*) -->
+
+&#8194;&#8194; (Draft available upon request)
 
 <!-- [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/forest_2022.pdf) -->
 
@@ -101,7 +105,7 @@ joint with Hantang Peng, [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/articl
 
 joint with Tingyu Cui and Yushuai Zhang
 
-**Oral Presentation**: [3rd CAERE](http://www.caere.org/)
+**Oral Presentation**: [3rd CAERE](http://www.caere.org/), [4th CAERE](http://www.caere.org/), 9th CCER SI
 
 <br>
 
@@ -119,7 +123,7 @@ joint with Tingyu Cui and Yushuai Zhang
 
 - **"Trade Ban and Environmental Pollution: A Policy Evaluation on Trade Ban of Foreign Garbage"**
 
-&#8194;&#8194; (*Course Thesis of **Public Policy Evaluation** in PKU, Mar. 2022 - Jul. 2022*)
+&#8194;&#8194; (*My Course Thesis of **Public Policy Evaluation** in PKU, Mar. 2022 - Jul. 2022*)
 
 [Manuscript (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/garbage_2023.pdf)
 
