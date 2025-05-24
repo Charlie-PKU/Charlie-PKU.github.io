@@ -23,8 +23,6 @@ Base: Amman, Jordan 🇯🇴
 - **Supervisors**
 
   - [Marguerite Duponchel](https://www.linkedin.com/in/marguerite-duponchel-5149a23/)
-  - Lara Karat
-  - [Abdellatif Ghatasheh](https://www.linkedin.com/in/aceabd/)
   - [Erwin Knippenberg](https://erwin-knippenberg.squarespace.com/) (World Bank)
 
 - **Skills**
@@ -33,11 +31,11 @@ Base: Amman, Jordan 🇯🇴
 
 - **Main Contribution**
 
-  - **Skill-Mapping**: Update t-test codes, write up analytics, infographic in construction sector
-  - **Livelihoods**: Finish the Zaatari Informal Market Assessment Report, the polishment of home-based business report
-  - **Poverty** (collaborated with [World Bank](https://www.worldbank.org/ext/en/home)): Generate the weighting for SWIFT 2025 data to correct the non-response bias
+  - **Syrian Returnees**: update t-test codes of skills mapping, write up analytics, infographic in construction sector; analyze the determinants of return
+  - **Livelihoods**: finish the Zaatari Informal Market Assessment Report and disseminate in brown bag session of office, the polishment of home-based business report
+  - **Poverty** (collaborated with [World Bank](https://www.worldbank.org/ext/en/home)): reweighting for SWIFT 2025 data to correct the non-response bias (relative to VAF 2023)
   - **Climate**: update of the methodology of the construction of Climate Vulnerability Index for VAF 2025
-  - **Miscellaneous**: Finish the summary about the Jordan pledges in 2024 Global Refugee Forum
+  - **Miscellaneous**: Finish the summary about the Jordan pledges in 2024 Global Refugee Forum...
 
 <br>
 
