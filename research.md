@@ -37,6 +37,12 @@ Base: Amman, Jordan 🇯🇴
   - **Climate**: update of the methodology of the construction of Climate Vulnerability Index for VAF 2025
   - **Miscellaneous**: Finish the summary about the Jordan pledges in 2024 Global Refugee Forum...
 
+**Output**
+
+- [Construction Sector Skills Mapping Data Analysis — Publication April 2025](https://data.unhcr.org/en/documents/details/116530)
+
+
+
 <br>
 
 🌟 Green Finance Intern, **[Institute of Finance and Sustainability](https://en.ifs.net.cn/) (IFS)**
