@@ -124,10 +124,12 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 ## News and Updates 📨
 
-- **<font color='red'> [Highlight] </font>** Surprised that our research have been accepted for presentation during the [AERE 2025 Summer Conference](https://www.aere.org/summer-conference#program) and [the 4th Annual Conference of CAERE](http://www.caere.org/)! 🌏
 
-<br>
+- **<font color='red'> [Highlight] </font>** Happy that our research have been accepted for presentation during the [CCER Summer Institute](https://mp.weixin.qq.com/s/PMLyRyhTLcGedmHtDu5Q9w)! 🐎
 
+- **May. 2025:** Unforgettable days in Antalya, Turkey! 🇹🇷
+- **Apr. 2025:** Happy that our research have been accepted for presentation during the [the 4th Annual Conference of CAERE](http://www.caere.org/)! See you in Shanghai! 🐇
+- **Mar. 2025:** Surprised that our research have been accepted for presentation during the [AERE 2025 Summer Conference](https://www.aere.org/summer-conference#program)! 🌏
 - **Feb. 2025:** I am absolutely thrilled to have been offered the Economist Intern position with the Development Unit of [UNHCR in Jordan](https://www.unhcr.org/jo/) from Mar. 2025!! See you in Amman!! 🌐
 - **Jan. 2025:** Happy to leading the academic research efforts of our group during a field study in Xiangxiang County, Hunan Province! 🥟
 - **Dec. 2024:** I am deeply honored to participate in the [podcast](https://open.spotify.com/show/7smuDIYVBlaPUjeIPeyVz4) discussion on the future roles of China and the US in climate governance, thanks for Bowen, Laurin and Moritz! 📢
