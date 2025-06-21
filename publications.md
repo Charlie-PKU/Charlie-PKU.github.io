@@ -69,7 +69,7 @@ title: Publication
 
 joint with Tingwei Gao and [Yana Jin](http://scholar.pku.edu.cn/yjin)
 
-**Conference Presentation**: [AERE 2025 Summer Conference](https://www.aere.org/summer-conference#program), [2nd XMU-UM Joint Workshop on Environmental and Behavioral/Experimental Economics](https://mp.weixin.qq.com/s/syaZDG76k4LZV7AMVzyE1A)
+**Conference Presentation**: [AERE 2025 Summer Conference](https://www.aere.org/summer-conference#program), [2nd XMU-UM Joint Workshop on Environmental and Behavioral/Experimental Economics](https://mp.weixin.qq.com/s/syaZDG76k4LZV7AMVzyE1A), [30th Annual Conference of EAERE](https://www.conftool.pro/eaere2025/index.php?page=browseSessions&form_session=328)
 
 <!-- <img src="https://charlie-pku.github.io/images/research/perception_2023.jpg"> -->
 
@@ -105,7 +105,7 @@ former circulated with the title of *Forest Autonomy and Forest Carbon Sink Pote
 
 joint with Tingyu Cui and Yushuai Zhang
 
-**Conference Presentation**: [3rd CAERE](http://www.caere.org/), [4th CAERE](http://www.caere.org/), 9th CCER SI
+**Conference Presentation**: [3rd CAERE](http://www.caere.org/), [4th CAERE](http://www.caere.org/), [9th CCER SI](https://mp.weixin.qq.com/s/MvKLkn2_G5Y1ARbkDpsEcA)
 
 <br>
 
