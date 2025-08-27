@@ -59,6 +59,18 @@ title: Publication
 
 ## Work in Progress 🚀
 
+- **"Determinants of Syrian Refugees' Return"**
+
+<!-- (*Based on the Undergraduate Thesis of PKU, Oct. 2022 - Jun. 2023*) -->
+
+<!-- [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/perception_slides_2023.pdf) -->
+
+&#8194;&#8194;  (Draft is available upon request)
+
+joint with [Marguerite Duponchel](https://www.linkedin.com/in/marguerite-duponchel-5149a23/) (UNHCR), [Erwin Knippenberg](https://erwin-knippenberg.squarespace.com/) (World Bank) and Daniel Kryger (World Bank)
+
+<br>
+
 - **"Down the Drain? The Impact of Wastewater Treatment Plants on Residential Property Values"**
 
 <!-- (*Based on the Undergraduate Thesis of PKU, Oct. 2022 - Jun. 2023*) -->
@@ -86,6 +98,14 @@ joint with Tingwei Gao and [Yana Jin](http://scholar.pku.edu.cn/yjin)
 joint with Hantang Peng, [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/article/311), [Da Zhang](http://www.energyda.cn/) and [Xiliang Zhang](http://www.3e.tsinghua.edu.cn/cn/article/slug/news-member-teacher-zsl)
 
 **Conference Presentation**: [27th GTAP](https://www.gtap.agecon.purdue.edu/events/Conferences/2024/index.aspx), [3rd CAERE](http://www.caere.org/)
+
+<br>
+
+- Chapter 4 of the UNDP report **"Artificial Intelligence and Human Development in Asia and the Pacific: A New Era of Inequality?"**
+
+&#8194;&#8194;  (Draft is available upon request)
+
+joint work with [Xian Hu](https://www.linkedin.com/in/xian-hu-093b59236), [Jian Zhang](https://www.adu.ac.ae/conferences-competitions/international-conference-on-advancing-sustainable-futures/the-3rd-international-conference-on-advancing-sustainable-futures/prof-jian-zhang).
 
 <br>
 
