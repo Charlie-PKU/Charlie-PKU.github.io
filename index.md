@@ -125,8 +125,9 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 ## News and Updates 📨
 
 
-- **<font color='red'> [Highlight] </font>** Happy that our research have been accepted for presentation during the [CCER Summer Institute](https://mp.weixin.qq.com/s/PMLyRyhTLcGedmHtDu5Q9w)! 🐎
+<!-- - **<font color='red'> [Highlight] </font>** -->
 
+- **Jun. 2025:** Happy that our research have been accepted for presentation during the [CCER Summer Institute](https://mp.weixin.qq.com/s/PMLyRyhTLcGedmHtDu5Q9w)! 🐎
 - **May. 2025:** Unforgettable days in Antalya, Turkey! 🇹🇷
 - **Apr. 2025:** Happy that our research have been accepted for presentation during the [the 4th Annual Conference of CAERE](http://www.caere.org/)! See you in Shanghai! 🐇
 - **Mar. 2025:** Surprised that our research have been accepted for presentation during the [AERE 2025 Summer Conference](https://www.aere.org/summer-conference#program)! 🌏
