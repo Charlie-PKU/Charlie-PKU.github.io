@@ -13,7 +13,7 @@ lang: french
 - 🏊 **Sports**: Swimming (with *PKU Amateur Athletic Level Certificate*), Badminton, Jogging
 - 📺 **Watching**: [*Doraemon*](https://dora-world.com/), Quiz Shows (e.g. [Quizknock](https://www.portal.quizknock.com/)), Movies, TV Series, Reality Shows, Bilibili
 - 📖 **Reading**: Contemporary Novel, Prose and other Literature
-- 🎧 **Music**: New Age ([Bandari](https://music.apple.com/cn/artist/bandari/274081002)), Lofi ([Kainbeats](https://kainbeats.com/)), Soothing Relaxation ([Peder B. Helland](https://www.pederbhelland.com/en)), Indie-folk (房东的猫，昨夜派对L.N Party), piano-rock (e.g. [SHE&#39;S](http://she-s.info/) and [藤井 風](https://fujiikaze.com/)), classical ([Libera](https://libera.org.uk/)). I love [singing](https://static-play.kg.qq.com/node/personal_v2?uid=649b98842d2d35&shareUid=649b98842d2d35&chain_share_id=MbGIREJ3UgbJCCnK0VWIbi_VU1B_B_y40pLufOML-W0&pageId=homepage_me), too.
+- 🎧 **Music**: New Age ([Bandari](https://music.apple.com/cn/artist/bandari/274081002)), Lofi ([Kainbeats](https://kainbeats.com/)), Soothing Relaxation ([Peder B. Helland](https://www.pederbhelland.com/en)), Indie-folk (房东的猫), piano-rock (e.g. [SHE&#39;S](http://she-s.info/)), classical ([Libera](https://libera.org.uk/)). I love [singing](https://static-play.kg.qq.com/node/personal_v2?uid=649b98842d2d35&shareUid=649b98842d2d35&chain_share_id=MbGIREJ3UgbJCCnK0VWIbi_VU1B_B_y40pLufOML-W0&pageId=homepage_me), too.
 
 <br>
 
@@ -30,6 +30,11 @@ lang: french
 ## **Selected Articles** 💡
 
 ### 2025
+
+- ✨ Revisit the Poverty and Decision Making: Insights from the UNHCR survey [mini-paper](https://charlie-pku.github.io/file/2025/DM_2025.pdf)
+
+  - This is the mini-paper of the mini-lecture course *The Situated Decision Maker* taught by [Chew Soo Hong](https://ccbef.swufe.edu.cn/info/1221/1961.htm)
+
 
 - ✨ The Effects of Environment Regulation on Small Low-profit Enterprises: Evidence from the “Air Pollution Prevention and Control Action Plan” [slides](https://charlie-pku.github.io/file/2024/SLE_pre_2024.pdf) [thesis](https://charlie-pku.github.io/file/2025/SLE_thesis_2025.pdf)
 
