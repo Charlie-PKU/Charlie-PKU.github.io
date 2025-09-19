@@ -24,18 +24,15 @@ Base: Amman, Jordan 🇯🇴
 
   - [Marguerite Duponchel](https://www.linkedin.com/in/marguerite-duponchel-5149a23/)
   - [Erwin Knippenberg](https://erwin-knippenberg.squarespace.com/) (World Bank)
-
 - **Zaatari Camp Informal Market (with Jordanian Government)**: (1) Visit Zaatari Refugee Camp to understand the operation of the shops; (2) Qualitative and quantitative analysis using survey data; (3) Project the geographic coordinates of shops to present the spatial distribution. (*Software: GIS*)
 - **Syrian Skills Mapping (with WFP)**: (1) Update the relevant codes provided by the World Bank team; (2) Monthly Update the t-test Big Table (by different categories of refugees) (*Software: STATA, PowerBI, Publisher*)
-- **Poverty Analysis of SWIFT Dataty (with World Bank)**: (1)Following Zhang et al. (2023) WB working paper, reweighting the data to correct the non-response bias (2) Analyze the indebtment situation and intention to return of refugees (t-test Big Table incorporating weights); (3)Incorporate the poverty estimate provided by WB into SWIFT analysis (*Software: R, STATA*)
+- **Poverty Analysis of SWIFT Data (with World Bank)**: (1)Following Zhang et al. (2023) WB working paper, reweighting the data to correct the non-response bias (2) Analyze the indebtment situation and intention to return of refugees (t-test Big Table incorporating weights); (3)Incorporate the poverty estimate provided by WB into SWIFT analysis (*Software: R, STATA*)
 - **Determinants of Refugee Return (with WFP and World Bank)**: (1) Literature review about the potential driving forces of refugees’ return; (2) Merge several datasets to present a full picture of Syrian refugee return; (3) Detect potential non-response bias in Skills Mapping Survey; (4) Establish the statistical model (survival analysis) and the econometric model (Probit/DiD Model) (*Software: R*)
 - **Miscellaneous**: (1) Participate in the polishing and dissemination of the Home-Based Business report; (2) Write the summary about the Jordan pledges in the 2024 Global Refugee Forum; (3) Assist in the filming of the Chinese documentary On the Road; (4) Participate in the update UNHCR health access policy note; (5) Assist in updating the Mid Year Analysis on Returns to Syria from Jordan (Jan - Jun. 2025); (6) Present at the Launch of the “Giving Back Campaign” (Jordan Higher Education Alliance); (7) Participate in the discussion of the update of the methodology of the Climate Vulnerability Index (CVI) (the climate module in VAF 2025)
 
 **Output**
 
 - [Construction Sector Skills Mapping Data Analysis — Publication April 2025](https://data.unhcr.org/en/documents/details/116530)
-
-
 
 <br>
 
@@ -50,13 +47,11 @@ Base: Amman, Jordan 🇯🇴
 </div>
 
 - **Supervisor:** [Phoebe (Jiayin) Zhao](https://www.linkedin.com/in/phoebe-zhao-546088116/)
-
 - **Main Contribution**
 
   - Daily work such as manuscript translation, writing meeting outlines and press release
   - Collate and summarize the relevant information on the low-carbon development of institutional investors "Collaborative Engagement" enterprises in ESG field and participate in the report writing of relevant parts
   - Drawing up an outline of an interview with the head of the United Nations Principles for Responsible Investment (UN PRI) in China
-
 - **Research Publication**
 
   - A Report for the UK-China Green Finance Centre (in Chinese) [《加速气候行动：机构投资者参与支持企业低碳转型》](http://webadmin.ifs.net.cn/storage/uploads/file/2023/03/28/%E3%80%8A%E5%8A%A0%E9%80%9F%E6%B0%94%E5%80%99%E8%A1%8C%E5%8A%A8%EF%BC%9A%E6%9C%BA%E6%9E%84%E6%8A%95%E8%B5%84%E8%80%85%E5%8F%82%E4%B8%8E%E6%94%AF%E6%8C%81%E4%BC%81%E4%B8%9A%E4%BD%8E%E7%A2%B3%E8%BD%AC%E5%9E%8B%E3%80%8B%E6%8A%A5%E5%91%8A.pdf)
@@ -78,21 +73,15 @@ Base: Amman, Jordan 🇯🇴
   - [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/article/311)
   - [Da Zhang](www.energyda.cn)
   - [Xiliang Zhang](http://www.3e.tsinghua.edu.cn/cn/article/slug/news-member-teacher-zsl)
-
-
 - **Topic**
 
   - The Economic Impact of Carbon Peak and Neutrality in China
   - China's Green and Low-carbon Transition
-
-
 - **Responsibility**
 
   - Collecting and processing energy economic data
   - Collecting policy information and literature
   - Participating in writing research reports, etc.
-
-
 - **Main Progress 1 (Aug. 2021 - Dec. 2021):** Assist in completing the project "The Characteristics and Enlightenment of major economies to achieve carbon peaking".
 
 <details>
@@ -149,8 +138,6 @@ Base: Amman, Jordan 🇯🇴
 
 <br>
 
-
-
 🌟 **[National School of Development](http://nsd.pku.edu.cn/) (NSD), Peking University**
 
 <div style="text-align:right;">
@@ -162,18 +149,13 @@ Base: Amman, Jordan 🇯🇴
   - [Cong Peng](https://www.congpeng.org/)
   - [Xianling Long](https://nsd.pku.edu.cn/szdw/qzjs/l/524411.htm)
   - [Shilei Liu](https://envi.ruc.edu.cn/jszy/lsl/e6702d56c8774887b2f83b60f2387636.htm)
-
-
 - **Topic:** The Economics Analysis of Verified Carbon Standard (VCS)
-
-
 - **Main Contribution**
 
   - Complement the missing digital to get the accurate coordinates according to the provided encrypted raw forest coordinate point information.
   - Use GIS to correct and re-project the coordinate points of forest land census data.
 
 <br>
-
 
 🌟 **[Institute of New Structural Economics](https://www.nse.pku.edu.cn/) (INSE), Peking University**
 
@@ -182,7 +164,6 @@ Base: Amman, Jordan 🇯🇴
 </div>
 
 - **Instructor:** [Jiajun Xu](https://www.nse.pku.edu.cn/en/people/professor/245727.htm)
-
 - **Topic:** Update the policy report entitled *Applying the Growth Identification and Facilitation Framework to Nepal* (or [UN CDP Background Paper No. 35](https://www.un.org/development/desa/dpad/publication/background-paper-35-applying-the-growth-identification-and-facilitation-framework-to-nepal/))
 
 <details>
@@ -201,7 +182,6 @@ Base: Amman, Jordan 🇯🇴
   - Read Lin, Justin Yifu’s World Bank [working paper](http://hdl.handle.net/10986/3798) to learn the basic framework of New Structural Economics and GIFF's two-track six-step method.
   - Combining the original report with the existing data to get the task list corresponding to the updated report.
   - Redraw the charts in the research report and update the data and text.
-
 - **Research Publication:**
 
   - The updated Report: [Applying the Growth Identification and Facilitation Framework to Nepal: 2023 update](https://www.unescap.org/kp/2024/applying-growth-identification-and-facilitation-framework-nepal-2023-update) (United Nations ESCAP working paper series,  Section  on  Sustainable Development  and  Countries  in  Special  Situations, November 2023. Bangkok.)
