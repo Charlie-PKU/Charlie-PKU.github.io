@@ -127,7 +127,7 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 <!-- - **<font color='red'> [Highlight] </font>** -->
 - **Nov. 2025:** Struggling for the research presentation in December. 😩
-- **Oct. 2025:** Glad to share my internship experience at [PKU](https://mp.weixin.qq.com/s/Ms6FIfYNa9IZt0uni0NoVw), [DKU](https://mp.weixin.qq.com/s/82jjpPiax2f-sAQmUImPLA) and [THU](https://mp.weixin.qq.com/s/8693abNEwxtbRG_97M8oXA)! 😳
+- **Oct. 2025:** Very honored to share my internship experience at [PKU](https://mp.weixin.qq.com/s/Ms6FIfYNa9IZt0uni0NoVw), [DKU](https://mp.weixin.qq.com/s/82jjpPiax2f-sAQmUImPLA) and [THU](https://mp.weixin.qq.com/s/8693abNEwxtbRG_97M8oXA)! 😳
 - **Jun. 2025:** Happy that our research have been accepted for presentation during the [CCER Summer Institute](https://mp.weixin.qq.com/s/PMLyRyhTLcGedmHtDu5Q9w)! 🐎
 - **May. 2025:** Unforgettable days in Antalya, Turkey! 🇹🇷
 - **Apr. 2025:** Happy that our research have been accepted for presentation during the [the 4th Annual Conference of CAERE](http://www.caere.org/)! See you in Shanghai! 🐇
