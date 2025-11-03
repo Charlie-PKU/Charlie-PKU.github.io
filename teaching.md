@@ -7,6 +7,22 @@ title: Teaching
 
 <!--   [中文版本 (Chinese Version)](https://charlie-pku.github.io/file/awards-zh/) -->
 
+## **2025** ✒️
+
+- Sep. 2025 - Jan. 2026: **<font color='blue'>[Undergraduate] </font> Environmental and Resources Economics (taught in English)**
+
+&#8194; &#8194; **Department**: School of Economics and Management, Tsinghua
+
+**Instructor**: [Jing Cao](https://www.sem.tsinghua.edu.cn/info/1206/33179.htm)
+
+**Collaborators**: Xiangyu Du
+
+**Main Tasks**:
+
+- 负责每周跟堂、作业批改、签到、答疑等相关事宜
+
+<br>
+
 ## **2024** ✒️
 
 - Sep. 2024 - Jan. 2025: **<font color='blue'>[Undergraduate] </font> Intermediate Economics (taught in English)**
