@@ -13,7 +13,7 @@ lang: french
 &#8194;&#8194; 🌟🌟🌟 Economist Intern at Development Unit, **[UNHCR Jordan](https://www.unhcr.org/jo/)**
 
 <div style="text-align:right;">
-    Mar. 2025 - Sep. 2025 (Expected)
+    Mar. 2025 - Oct. 2025
 </div>
 
 <div style="text-align:right;">
