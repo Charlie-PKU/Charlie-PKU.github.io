@@ -101,7 +101,7 @@ joint with Hantang Peng, [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/articl
 
 <br>
 
-- Chapter 4 of the UNDP report **"Artificial Intelligence and Human Development in Asia and the Pacific: A New Era of Inequality?"**
+- One Chapter (AI and Climate) of the UNDP report **"Artificial Intelligence and Human Development in Asia and the Pacific: A New Era of Inequality?"**
 
 &#8194;&#8194;  (Draft is available upon request)
 
