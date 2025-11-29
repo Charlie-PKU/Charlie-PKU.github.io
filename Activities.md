@@ -21,7 +21,13 @@ title: Activity
 
 **调研专题**：聚焦海丝枢纽建设，解码临港经济活力；探秘科创生态，洞察数字经济新动能；深挖闽南文化根脉，传承海洋文明基因；践行生态优先理念，感知绿色发展实践
 
-[**招募推送**](https://mp.weixin.qq.com/s/SYqBwQ_jsin307e1LyMcAQ), [**相关报道**](https://mp.weixin.qq.com/s/QzbelFNYsv93VfG5WouQCw)
+**招募推送**
+
+- 清华大学小研在路上：[全球胜任力实践｜2025年秋季学期 “洞察中国”实践招募！](https://mp.weixin.qq.com/s/SYqBwQ_jsin307e1LyMcAQ)
+
+**相关报道**
+
+- 清风内厝：[共话乡村振兴 | 清华大学“洞察中国”实践团走进翔安内厝开展实践调研](https://mp.weixin.qq.com/s/QzbelFNYsv93VfG5WouQCw)
 
 <br>
 
