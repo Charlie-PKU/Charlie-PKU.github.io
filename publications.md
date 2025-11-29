@@ -101,7 +101,7 @@ joint with Hantang Peng, [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/articl
 
 <br>
 
-- On Chapter of UNDP report **The Next Great Divergence: Why AI may widen inequality between countries** (Topic: AI and Climate)
+- One Chapter of UNDP report **The Next Great Divergence: Why AI may widen inequality between countries** (Topic: AI and Climate)
 
 joint work with [Xian Hu](https://www.linkedin.com/in/xian-hu-093b59236), [Jian Zhang](https://www.adu.ac.ae/conferences-competitions/international-conference-on-advancing-sustainable-futures/the-3rd-international-conference-on-advancing-sustainable-futures/prof-jian-zhang).
 
