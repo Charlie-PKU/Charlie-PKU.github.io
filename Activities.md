@@ -23,7 +23,7 @@ title: Activity
 
 **招募推送**
 
-- 清华大学小研在路上：[全球胜任力实践｜2025年秋季学期 “洞察中国”实践招募！](https://mp.weixin.qq.com/s/SYqBwQ_jsin307e1LyMcAQ)
+- 清华大学小研在路上：[全球胜任力实践｜2025年秋季学期“洞察中国”实践招募！](https://mp.weixin.qq.com/s/SYqBwQ_jsin307e1LyMcAQ)
 
 **相关报道**
 
