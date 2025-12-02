@@ -10,7 +10,7 @@ title: Publication
 ## 2025 🎏
 
 
-- Chapter 3 of **UNDP** report **The Next Great Divergence: Why AI may widen inequality between countries** (Topic: AI and Climate Crisis)
+- Chapter 3 of **UNDP** flagship report **The Next Great Divergence: Why AI may widen inequality between countries** (Topic: AI and Climate Crisis)
 
 joint work with [Xian Hu](https://www.linkedin.com/in/xian-hu-093b59236), [Jian Zhang](https://www.adu.ac.ae/conferences-competitions/international-conference-on-advancing-sustainable-futures/the-3rd-international-conference-on-advancing-sustainable-futures/prof-jian-zhang)
 
