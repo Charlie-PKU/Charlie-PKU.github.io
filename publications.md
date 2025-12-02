@@ -20,10 +20,17 @@ joint work with [Xian Hu](https://www.linkedin.com/in/xian-hu-093b59236), [Jian 
 
 [Blog: Racing Ahead or Left Behind: Asia-Pacific’s AI Moment](https://www.undp.org/asia-pacific/blog/racing-ahead-or-left-behind-asia-pacifics-ai-moment)
 
+<details>
+  <summary>Abstract ⚓ </summary>
+
+<br>
+
+  `<font color='grey'>`Powering AI will require huge quantities of natural resources, from energy to water to minerals. This chapter assesses the potential opportunities and challenges of AI deployment to support countries’ Nationally Determined Contributions. It considers AI's dual role as both an enabler of climate action and a contributor to resource depletion. It also addresses the implications of uneven AI readiness across countries, showing how disparities in technological capacities can may exacerbate existing inequalities in climate mitigation and adaptation capability. Through case studies, the chapter zooms in on climate change areas that have a high priority across Asia and the Pacific: net-zero transitions, climate adaptation, and risk reduction.`</font>`
+
+</details>
+
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7400148328975609858?collapsed=1" height="594" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
-
 
 ## 2023 🎯
 
