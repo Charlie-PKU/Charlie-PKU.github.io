@@ -23,7 +23,7 @@ title: Teaching
 
 <br>
 
-- Sep. 2025: **<font color='blue'>[Graduate] </font> Summer Mini-lecture Series: The Situated Decision Maker taught (in English)**
+- Sep. 2025: **<font color='blue'>[Graduate] </font> Summer Mini-lecture Series: The Situated Decision Maker (in English)**
 
 &#8194; &#8194; **Department**: School of Economics and Management, Tsinghua
 
