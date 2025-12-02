@@ -7,6 +7,20 @@ title: Publication
 
 <!--   [中文版本 (Chinese Version)](https://charlie-pku.github.io/file/awards-zh/) -->
 
+## 2025 🎏
+
+
+- Chapter 3 of **UNDP** report **The Next Great Divergence: Why AI may widen inequality between countries** (Topic: AI and Climate Crisis)
+
+joint work with [Xian Hu](https://www.linkedin.com/in/xian-hu-093b59236), [Jian Zhang](https://www.adu.ac.ae/conferences-competitions/international-conference-on-advancing-sustainable-futures/the-3rd-international-conference-on-advancing-sustainable-futures/prof-jian-zhang).
+
+[Main page for this Report](https://www.undp.org/asia-pacific/publications/next-great-divergence) [Published Version](https://www.undp.org/sites/g/files/zskgke326/files/2025-12/undp-rbap-the-next-great-divergence-background-papers.pdf) [Blog: Racing Ahead or Left Behind: Asia-Pacific’s AI Moment](https://www.undp.org/asia-pacific/blog/racing-ahead-or-left-behind-asia-pacifics-ai-moment)
+
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7400148328975609858?collapsed=1" height="594" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+
+
 ## 2023 🎯
 
 &#8194;&#8194; **[1]** "[Negative emission technology is key to decarbonizing China&#39;s cement industry](https://doi.org/10.1016/j.apenergy.2022.120254)" with Ming Ren, Teng Ma, Xiaorui Liu, Chaoyi Guo, Silu Zhang, Ziqiao Zhou, Yanlei Zhu, [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai/home) and Chen Huang. *Applied Energy* (2023), 329, 120254.
@@ -99,13 +113,6 @@ joint with Hantang Peng, [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/articl
 
 **Conference Presentation**: [27th GTAP](https://www.gtap.agecon.purdue.edu/events/Conferences/2024/index.aspx), [3rd CAERE](http://www.caere.org/)
 
-<br>
-
-- One Chapter of UNDP report **The Next Great Divergence: Why AI may widen inequality between countries** (Topic: AI and Climate)
-
-joint work with [Xian Hu](https://www.linkedin.com/in/xian-hu-093b59236), [Jian Zhang](https://www.adu.ac.ae/conferences-competitions/international-conference-on-advancing-sustainable-futures/the-3rd-international-conference-on-advancing-sustainable-futures/prof-jian-zhang).
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7400148328975609858?collapsed=1" height="594" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 <br>
 
