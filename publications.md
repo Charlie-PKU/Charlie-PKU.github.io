@@ -12,9 +12,13 @@ title: Publication
 
 - Chapter 3 of **UNDP** report **The Next Great Divergence: Why AI may widen inequality between countries** (Topic: AI and Climate Crisis)
 
-joint work with [Xian Hu](https://www.linkedin.com/in/xian-hu-093b59236), [Jian Zhang](https://www.adu.ac.ae/conferences-competitions/international-conference-on-advancing-sustainable-futures/the-3rd-international-conference-on-advancing-sustainable-futures/prof-jian-zhang).
+joint work with [Xian Hu](https://www.linkedin.com/in/xian-hu-093b59236), [Jian Zhang](https://www.adu.ac.ae/conferences-competitions/international-conference-on-advancing-sustainable-futures/the-3rd-international-conference-on-advancing-sustainable-futures/prof-jian-zhang)
 
-[Main page for this Report](https://www.undp.org/asia-pacific/publications/next-great-divergence) [Published Version](https://www.undp.org/sites/g/files/zskgke326/files/2025-12/undp-rbap-the-next-great-divergence-background-papers.pdf) [Blog: Racing Ahead or Left Behind: Asia-Pacific’s AI Moment](https://www.undp.org/asia-pacific/blog/racing-ahead-or-left-behind-asia-pacifics-ai-moment)
+[Main page for this Report](https://www.undp.org/asia-pacific/publications/next-great-divergence) 
+
+[Published Version](https://www.undp.org/sites/g/files/zskgke326/files/2025-12/undp-rbap-the-next-great-divergence-background-papers.pdf) 
+
+[Blog: Racing Ahead or Left Behind: Asia-Pacific’s AI Moment](https://www.undp.org/asia-pacific/blog/racing-ahead-or-left-behind-asia-pacifics-ai-moment)
 
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7400148328975609858?collapsed=1" height="594" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
