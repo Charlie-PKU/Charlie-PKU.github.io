@@ -32,6 +32,8 @@ joint work with [Xian Hu](https://www.linkedin.com/in/xian-hu-093b59236), [Jian 
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7400148328975609858?collapsed=1" height="594" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
+<br>
+
 ## 2023 🎯
 
 &#8194;&#8194; **[1]** "[Negative emission technology is key to decarbonizing China&#39;s cement industry](https://doi.org/10.1016/j.apenergy.2022.120254)" with Ming Ren, Teng Ma, Xiaorui Liu, Chaoyi Guo, Silu Zhang, Ziqiao Zhou, Yanlei Zhu, [Hancheng Dai](http://scholar.pku.edu.cn/hanchengdai/home) and Chen Huang. *Applied Energy* (2023), 329, 120254.
