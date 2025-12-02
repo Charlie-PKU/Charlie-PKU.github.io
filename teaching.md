@@ -9,7 +9,7 @@ title: Teaching
 
 ## **2025** ✒️
 
-- Sep. 2025 - Jan. 2026: **<font color='blue'>[Undergraduate] </font> Environmental and Resources Economics (taught in English)**
+- Sep. 2025 - Jan. 2026: **<font color='blue'>[Undergraduate] </font> Environmental and Resources Economics (in English)**
 
 &#8194; &#8194; **Department**: School of Economics and Management, Tsinghua
 
@@ -23,9 +23,21 @@ title: Teaching
 
 <br>
 
+- Sep. 2025: **<font color='blue'>[Graduate] </font> Summer Mini-lecture Series: The Situated Decision Maker taught (in English)**
+
+&#8194; &#8194; **Department**: School of Economics and Management, Tsinghua
+
+**Instructor**: [Chew Soo Hong](https://ccbef.swufe.edu.cn/info/1221/1961.htm)
+
+**Main Tasks**:
+
+- 跟堂、答疑等相关事宜
+
+<br>
+
 ## **2024** ✒️
 
-- Sep. 2024 - Jan. 2025: **<font color='blue'>[Undergraduate] </font> Intermediate Economics (taught in English)**
+- Sep. 2024 - Jan. 2025: **<font color='blue'>[Undergraduate] </font> Intermediate Economics (in English)**
 
 &#8194; &#8194; **Department**: School of Economics and Management, Tsinghua
 
