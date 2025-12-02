@@ -126,9 +126,10 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 
 <!-- - **<font color='red'> [Highlight] </font>** -->
-- **Dec. 2025:** Struggling for the research presentation in December. 😩
+- **Now** Struggling for the research presentation in December. 😩
+- **Dec. 2025:** Thrilled to see the collaborated work as one chapter in UNDP report with Xian Hu and Jian Zhang has been published! 😁 
 - **Nov. 2025:** Amazing days in Xiamen! 😋
-- **Oct. 2025:** Very honored to share my internship experience at [PKU](https://mp.weixin.qq.com/s/Ms6FIfYNa9IZt0uni0NoVw), [DKU](https://mp.weixin.qq.com/s/82jjpPiax2f-sAQmUImPLA) and [THU](https://mp.weixin.qq.com/s/8693abNEwxtbRG_97M8oXA)! 😳
+- **Oct. 2025:** Very honored to share my internship experience at [PKU](https://mp.weixin.qq.com/s/Ms6FIfYNa9IZt0uni0NoVw), [DKU](https://mp.weixin.qq.com/s/82jjpPiax2f-sAQmUImPLA), [THU-SEM](https://mp.weixin.qq.com/s/8693abNEwxtbRG_97M8oXA) and [THU-CDC](https://mp.weixin.qq.com/s/Jz3OnMqQHME_QvryTN_Bww?scene=1)! 😳
 - **Jun. 2025:** Happy that our research have been accepted for presentation during the [CCER Summer Institute](https://mp.weixin.qq.com/s/PMLyRyhTLcGedmHtDu5Q9w)! 🐎
 - **May. 2025:** Unforgettable days in Antalya, Turkey! 🇹🇷
 - **Apr. 2025:** Happy that our research have been accepted for presentation during the [the 4th Annual Conference of CAERE](http://www.caere.org/)! See you in Shanghai! 🐇
