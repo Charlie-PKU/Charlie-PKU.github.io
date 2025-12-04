@@ -20,6 +20,10 @@ joint work with [Xian Hu](https://www.linkedin.com/in/xian-hu-093b59236), [Jian 
 
 [Blog: Racing Ahead or Left Behind: Asia-Pacific’s AI Moment](https://www.undp.org/asia-pacific/blog/racing-ahead-or-left-behind-asia-pacifics-ai-moment)
 
+**Media Coverage**
+
+- 联合国：[最新报告 | 人工智能或将加剧国家间发展差距，引发新一轮大分化](https://mp.weixin.qq.com/s/e9IuaN73pkKmqct4Te8Q1g)
+
 <details>
   <summary>Abstract ⚓ </summary>
 
