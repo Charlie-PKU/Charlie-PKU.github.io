@@ -13,12 +13,15 @@ title: Publication
 &#8194;&#8194; **[1]** Chapter 3 of **UNDP** flagship report **The Next Great Divergence: Why AI may widen inequality between countries** (Topic: AI and Climate Crisis)
 
 joint work with [Xian Hu](https://www.linkedin.com/in/xian-hu-093b59236), [Jian Zhang](https://www.adu.ac.ae/conferences-competitions/international-conference-on-advancing-sustainable-futures/the-3rd-international-conference-on-advancing-sustainable-futures/prof-jian-zhang)
+ 
 
-[Main page for this Report](https://www.undp.org/asia-pacific/publications/next-great-divergence) 
+[Landing page](https://www.undp.org/asia-pacific/next-great-divergence)
+
+[Report Access](https://www.undp.org/asia-pacific/publications/next-great-divergence) 
 
 [Published Version](https://www.undp.org/sites/g/files/zskgke326/files/2025-12/undp-rbap-the-next-great-divergence-background-papers.pdf) 
 
-[Blog: Racing Ahead or Left Behind: Asia-Pacific’s AI Moment](https://www.undp.org/asia-pacific/blog/racing-ahead-or-left-behind-asia-pacifics-ai-moment)
+[Blog: Racing Ahead or Left Behind: Asia-Pacific's AI Moment](https://www.undp.org/asia-pacific/blog/racing-ahead-or-left-behind-asia-pacifics-ai-moment)
 
 
 <details>
@@ -33,9 +36,25 @@ joint work with [Xian Hu](https://www.linkedin.com/in/xian-hu-093b59236), [Jian 
 <br>
 
 **Media Coverage**
+- [The Washington Post](https://www.washingtonpost.com/business/2025/12/02/ai-intelligence-technology-inequality-un/4bb76850-cf41-11f0-92cb-561ee4e6a771_story.html)
+- [Al Jazeera](https://www.aljazeera.com/news/2025/12/2/ai-threatens-to-widen-inequality-among-states-un)
+- [Reuters](https://www.reuters.com/technology/ai-could-increase-divide-between-rich-poor-states-un-report-warns-2025-12-02/)
+- [Associated Press (AP News)](https://apnews.com/article/ai-intelligence-technology-inequality-un-1653316fa5582f7e927dd06f7fe90284)
+- [Fortune](https://fortune.com/2025/12/02/united-nations-ai-great-divergence-industrial-revolution-rich-poor-countries/)
+- [Euronews](https://www.euronews.com/next/2025/12/02/ai-race-is-faster-than-countries-can-adapt-threatening-greater-global-inequality-un-report)
+- [CNA (Channel News Asia)](https://www.channelnewsasia.com/asia/ai-artificial-intelligence-asia-risk-widen-inequality-automation-5527671)
+- [Straits Times](https://www.straitstimes.com/world/ai-could-increase-divide-between-rich-and-poor-states-un-report-warns)
+- [Xinhua](https://english.news.cn/20251203/785438a5ba724154a00780d639aba8a3/c.html)
+- [UNDP China](https://www.undp.org/china/press-releases/ai-risks-sparking-new-era-divergence-development-gaps-between-countries-widen-undp-report-finds)
+- [Hindustan Times](https://www.hindustantimes.com/education/news/ais-impact-could-worsen-gaps-between-world-s-rich-and-poor-a-un-report-says-101764654029113.html)
+- [Devdiscourse](https://www.devdiscourse.com/article/technology/3164565-undp-warns-ai-could-trigger-next-great-divergence-in-global-development)
+- [Economic Times (India)](https://economictimes.indiatimes.com/tech/technology/uns-stark-warning-ai-may-spark-new-era-of-global-inequality-asia-pacific-in-spotlight/articleshow/11601234567.cms)
+- [ANI News](https://www.aninews.in/news/world/asia/un-report-flags-ais-potential-to-widen-global-inequality-urges-policy-action20251202151207/)
+- [Yahoo News](https://www.yahoo.com/news/articles/ai-could-increase-divide-between-104347802.html)
 
 - 联合国：[最新报告｜人工智能或将加剧国家间发展差距，引发新一轮大分化](https://mp.weixin.qq.com/s/e9IuaN73pkKmqct4Te8Q1g)
 
+- [Press release](https://www.undp.org/asia-pacific/press-releases/ai-risks-sparking-new-era-divergence-development-gaps-between-countries-widen-undp-report-finds)
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7400148328975609858?collapsed=1" height="594" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
