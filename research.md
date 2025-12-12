@@ -8,6 +8,21 @@ lang: french
 
 <!-- [中文版本 (Chinese Version)](https://charlie-pku.github.io/file/publications-zh/) -->
 
+## Professional Experience 🎅
+
+&#8194;&#8194; 🌟🌟🌟 Statistics Assistant at Development Unit, **[UNHCR Jordan](https://www.unhcr.org/jo/)**
+
+<div style="text-align:right;">
+    Dec. 2025 - Now
+</div>
+
+<div style="text-align:right;">
+Base: Amman, Jordan 🇯🇴
+</div>
+
+
+
+
 ## Internship 📇
 
 &#8194;&#8194; 🌟🌟🌟 Economist Intern at Development Unit, **[UNHCR Jordan](https://www.unhcr.org/jo/)**
