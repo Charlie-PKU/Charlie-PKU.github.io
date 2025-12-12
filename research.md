@@ -20,7 +20,9 @@ lang: french
 Base: Amman, Jordan 🇯🇴
 </div>
 
+<br>
 
+---
 
 
 ## Internship 📇
