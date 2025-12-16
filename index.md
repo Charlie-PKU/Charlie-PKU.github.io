@@ -127,7 +127,7 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 
 <!-- - **<font color='red'> [Highlight] </font>** -->
-- **Now** Struggling for the research presentation in December. 😩
+- **Now** Started the new journey in UNHCR as a statistics assistant! ✍️
 - **Dec. 2025:** Quite honored to have the opportunity to attend the dialogue between our dean Chong-en Bai and the President of the World Bank Group, Ajay Banga in Tsinghua SEM! 😝
 - **Dec. 2025:** Thrilled to see the collaborated work as one chapter in UNDP report with Xian Hu and Jian Zhang has been published! 😁 
 - **Nov. 2025:** Amazing days in Xiamen! 😋
