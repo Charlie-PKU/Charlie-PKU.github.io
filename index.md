@@ -9,7 +9,7 @@ layout: page
 
 Hello! Here is **Chen FANG (Charlie, 房晨)**.
 
-I am a Ph.D. student majoring in **Applied Economics** at Tsinghua University, advised by [Prof. Jing Cao](https://chinaproject.harvard.edu/people/jing-cao).
+I am a Ph.D. student majoring in **Applied Economics** at Tsinghua University, advised by [Prof. Jing Cao](https://chinaproject.harvard.edu/people/jing-cao). I currently work as a Statistics Assistant (individual contractor) with UNHCR Jordan.
 
 I am curious and passionate about public policy and global economic governance, especially climate change, sustainable development, and resilience. I hope to work for an international organization such as the [World Bank](https://www.worldbank.org/en/home) or [Resources for the Future](https://www.rff.org/) to conduct valuable research.
 
@@ -128,7 +128,7 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 <!-- - **<font color='red'> [Highlight] </font>** -->
 - **Now** Started the new journey in UNHCR as a statistics assistant! ✍️
-- **Dec. 2025:** Quite honored to have the opportunity to attend the dialogue between our dean Chong-en Bai and the President of the World Bank Group, Ajay Banga in Tsinghua SEM! 😝
+- **Dec. 2025:** Quite honored to have the opportunity to attend the [dialogue](https://mp.weixin.qq.com/s/lPQJ-lEsUsUE-3tulyS1_g) between our dean Chong-en Bai and the President of the World Bank Group, Ajay Banga in Tsinghua SEM! 😝
 - **Dec. 2025:** Thrilled to see the collaborated work as one chapter in UNDP report with Xian Hu and Jian Zhang has been published! 😁 
 - **Nov. 2025:** Amazing days in Xiamen! 😋
 - **Oct. 2025:** Very honored to share my internship experience at [PKU](https://mp.weixin.qq.com/s/Ms6FIfYNa9IZt0uni0NoVw), [DKU](https://mp.weixin.qq.com/s/82jjpPiax2f-sAQmUImPLA), [THU-SEM](https://mp.weixin.qq.com/s/8693abNEwxtbRG_97M8oXA) and [THU-CDC](https://mp.weixin.qq.com/s/Jz3OnMqQHME_QvryTN_Bww?scene=1)! 😳
