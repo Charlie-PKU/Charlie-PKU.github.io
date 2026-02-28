@@ -126,8 +126,9 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 ## News and Updates 📨
 
 
-<!-- - **<font color='red'> [Highlight] </font>** -->
-- **Now** Started the new journey in UNHCR as a statistics assistant! ✍️
+- **<font color='red'> [Highlight] Struggling for Ph.D. research proposal defense in May. Wish me LUCK! 🤴 </font>**
+- **Feb. 2025:** Our paper has been accepted by the 29th GTAP annual conference, see you in Kyoto! 🤟
+- **Jan. 2025:** Started the new journey in UNHCR as a statistics assistant! ✍️
 - **Dec. 2025:** Quite honored to have the opportunity to attend the [dialogue](https://mp.weixin.qq.com/s/lPQJ-lEsUsUE-3tulyS1_g) between our dean Chong-en Bai and the President of the World Bank Group, Ajay Banga in Tsinghua SEM! 😝
 - **Dec. 2025:** Thrilled to see the collaborated work as one chapter in UNDP report with Xian Hu and Jian Zhang has been published! 😁 
 - **Nov. 2025:** Amazing days in Xiamen! 😋
