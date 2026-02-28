@@ -7,6 +7,21 @@ title: Teaching
 
 <!--   [中文版本 (Chinese Version)](https://charlie-pku.github.io/file/awards-zh/) -->
 
+## **2026** 🎍
+
+- Feb. 2026 - Apr. 2026: **<font color='blue'>[Undergraduate] </font> Seminar for Freshmen**
+
+&#8194; &#8194; **Department**: School of Economics and Management, Tsinghua
+
+**Instructor**: [Jing Cao](https://www.sem.tsinghua.edu.cn/info/1206/33179.htm)
+
+**Main Tasks**:
+
+- 负责每周跟堂、组织课堂活动与课后作业
+
+<br>
+
+
 ## **2025** ✒️
 
 - Sep. 2025 - Jan. 2026: **<font color='blue'>[Undergraduate] </font> Environmental and Resources Economics (in English)**
@@ -19,7 +34,7 @@ title: Teaching
 
 **Main Tasks**:
 
-- 负责每周跟堂、作业批改、签到、答疑等相关事宜
+- 负责每周跟堂、作业与考试试卷批改、签到、答疑等相关事宜
 
 <br>
 
