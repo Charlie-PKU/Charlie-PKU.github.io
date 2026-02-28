@@ -58,6 +58,9 @@ joint work with [Xian Hu](https://www.linkedin.com/in/xian-hu-093b59236), [Jian 
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7400148328975609858?collapsed=1" height="594" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
+
+<br>
+
 <br>
 
 ## 2023 🎯
@@ -130,7 +133,7 @@ joint with [Marguerite Duponchel](https://www.linkedin.com/in/marguerite-duponch
 
 <!-- [Preliminary Slides (in Chinese)](https://charlie-pku.github.io/mypaper/Working_Papers/perception_slides_2023.pdf) -->
 
-&#8194;&#8194;  (Draft is available upon request)
+&#8194;&#8194;  *Submitted* (Draft is available upon request)
 
 joint with Tingwei Gao and [Yana Jin](http://scholar.pku.edu.cn/yjin)
 
@@ -146,7 +149,7 @@ joint with Tingwei Gao and [Yana Jin](http://scholar.pku.edu.cn/yjin)
 
 <!-- [Extended Abstract](https://charlie-pku.github.io/mypaper/Working_Papers/IAM_2024.pdf) (for EAERE 2024 Annual Meeting) -->
 
-&#8194;&#8194;  (Draft available upon request)
+&#8194;&#8194;  *Submitted* (Draft available upon request)
 
 joint with Hantang Peng, [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/article/311), [Da Zhang](http://www.energyda.cn/) and [Xiliang Zhang](http://www.3e.tsinghua.edu.cn/cn/article/slug/news-member-teacher-zsl)
 
