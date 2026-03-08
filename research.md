@@ -17,26 +17,24 @@ lang: french
 </div>
 
 <div style="text-align:right;">
-Base: Amman, Jordan 🇯🇴
+Hydrid
 </div>
 
 - **Supervisor**
 
   - [Marguerite Duponchel](https://www.linkedin.com/in/marguerite-duponchel-5149a23/)
 
-- Scaling-Up AI-powered Digital Solutions to Expand Access to Mental Health Services for Displaced Populations  (with University of Gothenburg & World Bank)
 
-  - Use the VAF dataset to analyze the distribution of mental health severity
-  - Develop statistical models to identify its potential drivers.
+<br>
 
-- Dissemination of our findings about Determinants of Refugee Return (with WFP & World Bank)
+- **Scaling-Up AI-powered Digital Solutions to Expand Access to Mental Health Services for Displaced Populations (with University of Gothenburg & World Bank)**：1) Use the VAF dataset to analyze the distribution of mental health severity; 2) Develop statistical models to identify its potential drivers
 
-  - presented at the World Bank Brown Bag Lunch Seminar (Dec 4, 2025)
-  - the JoSH Conference (Jan 13, 2026)
-  - UNHCR the Sustainable Response Learning Series Webinar (Mar 3, 2026)
+- **Dissemination of our findings about Determinants of Refugee Return (with WFP & World Bank)**: 1) presented at the World Bank Brown Bag Lunch Seminar (Dec 4, 2025); 2) the JoSH Conference (Jan 13, 2026); 3) UNHCR the Sustainable Response Learning Series Webinar (Mar 3, 2026)
 
-- Phase II of the returee paper (with WFP & World Bank)
-  - (Still in progress)
+- **Phase II of the returee paper (with WFP & World Bank)**: Still in progress
+
+- **Refugee Indebtedness Situation Analysis using VAF dataset (with World Bank)**: Still in progress
+
 
 <br>
 
@@ -58,6 +56,9 @@ Base: Amman, Jordan 🇯🇴
 - **Supervisors**
 
   - [Marguerite Duponchel](https://www.linkedin.com/in/marguerite-duponchel-5149a23/)
+
+
+<br>
 
 - **Zaatari Camp Informal Market (with Jordanian Government)**: (1) Visit Zaatari Refugee Camp to understand the operation of the shops; (2) Qualitative and quantitative analysis using survey data; (3) Project the geographic coordinates of shops to present the spatial distribution. (*Software: GIS*)
 
