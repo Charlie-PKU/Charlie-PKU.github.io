@@ -20,6 +20,24 @@ lang: french
 Base: Amman, Jordan 🇯🇴
 </div>
 
+- **Supervisor**
+
+  - [Marguerite Duponchel](https://www.linkedin.com/in/marguerite-duponchel-5149a23/)
+
+- Scaling-Up AI-powered Digital Solutions to Expand Access to Mental Health Services for Displaced Populations  (with University of Gothenburg & World Bank)
+
+  - Use the VAF dataset to analyze the distribution of mental health severity
+  - Develop statistical models to identify its potential drivers.
+
+- Dissemination of our findings about Determinants of Refugee Return (with WFP & World Bank)
+
+  - presented at the World Bank Brown Bag Lunch Seminar (Dec 4, 2025)
+  - the JoSH Conference (Jan 13, 2026)
+  - UNHCR the Sustainable Response Learning Series Webinar (Mar 3, 2026)
+
+- Phase II of the returee paper (with WFP & World Bank)
+  - (Still in progress)
+
 <br>
 
 ---
@@ -40,11 +58,13 @@ Base: Amman, Jordan 🇯🇴
 - **Supervisors**
 
   - [Marguerite Duponchel](https://www.linkedin.com/in/marguerite-duponchel-5149a23/)
-  - [Erwin Knippenberg](https://erwin-knippenberg.squarespace.com/) (World Bank)
+
 - **Zaatari Camp Informal Market (with Jordanian Government)**: (1) Visit Zaatari Refugee Camp to understand the operation of the shops; (2) Qualitative and quantitative analysis using survey data; (3) Project the geographic coordinates of shops to present the spatial distribution. (*Software: GIS*)
+
 - **Syrian Skills Mapping (with WFP)**: (1) Update the relevant codes provided by the World Bank team; (2) Monthly Update the t-test Big Table (by different categories of refugees) (*Software: STATA, PowerBI, Publisher*)
+
 - **Poverty Analysis of SWIFT Data (with World Bank)**: (1)Following Zhang et al. (2023) WB working paper, reweighting the data to correct the non-response bias (2) Analyze the indebtment situation and intention to return of refugees (t-test Big Table incorporating weights); (3)Incorporate the poverty estimate provided by WB into SWIFT analysis (*Software: R, STATA*)
-- **Determinants of Refugee Return (with WFP and World Bank)**: (1) Literature review about the potential driving forces of refugees’ return; (2) Merge several datasets to present a full picture of Syrian refugee return; (3) Detect potential non-response bias in Skills Mapping Survey; (4) Establish the statistical model (survival analysis) and the econometric model (Probit/DiD Model) (*Software: R*)
+
 - **Miscellaneous**: (1) Participate in the polishing and dissemination of the Home-Based Business report; (2) Write the summary about the Jordan pledges in the 2024 Global Refugee Forum; (3) Assist in the filming of the Chinese documentary On the Road; (4) Participate in the update UNHCR health access policy note; (5) Assist in updating the Mid Year Analysis on Returns to Syria from Jordan (Jan - Jun. 2025); (6) Present at the Launch of the “Giving Back Campaign” (Jordan Higher Education Alliance); (7) Participate in the discussion of the update of the methodology of the Climate Vulnerability Index (CVI) (the climate module in VAF 2025)
 
 **Output**
