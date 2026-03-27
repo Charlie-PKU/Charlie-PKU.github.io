@@ -1900,3 +1900,71 @@ $(document).ready(function() {
     mainClass: 'mfp-fade'
   });
 });
+
+// Theme toggle
+$(function() {
+  var storageKey = 'theme';
+  var root = document.documentElement;
+  var toggle = document.querySelector('.theme-toggle');
+
+  if (!toggle) {
+    return;
+  }
+
+  var icon = toggle.querySelector('.theme-toggle-icon');
+  var text = toggle.querySelector('.theme-toggle-text');
+
+  function getPreferredTheme() {
+    var storedTheme = null;
+
+    try {
+      storedTheme = localStorage.getItem(storageKey);
+    } catch (error) {
+      storedTheme = null;
+    }
+
+    if (storedTheme === 'dark' || storedTheme === 'light') {
+      return storedTheme;
+    }
+
+    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      return 'dark';
+    }
+
+    return 'light';
+  }
+
+  function updateToggle(theme) {
+    var isDark = theme === 'dark';
+
+    root.setAttribute('data-theme', theme);
+    toggle.setAttribute('aria-pressed', isDark ? 'true' : 'false');
+    toggle.setAttribute('aria-label', isDark ? 'Switch to light mode' : 'Switch to dark mode');
+    toggle.setAttribute('title', isDark ? 'Switch to light mode' : 'Switch to dark mode');
+
+    if (icon) {
+      icon.innerHTML = isDark ? '&#9790;' : '&#9728;';
+    }
+
+    if (text) {
+      text.textContent = isDark ? 'Dark' : 'Light';
+    }
+  }
+
+  function persistTheme(theme) {
+    try {
+      localStorage.setItem(storageKey, theme);
+    } catch (error) {
+      return;
+    }
+  }
+
+  var currentTheme = root.getAttribute('data-theme') || getPreferredTheme();
+  updateToggle(currentTheme);
+
+  toggle.addEventListener('click', function() {
+    currentTheme = currentTheme === 'dark' ? 'light' : 'dark';
+    updateToggle(currentTheme);
+    persistTheme(currentTheme);
+  });
+});
