@@ -1,6 +1,6 @@
 (function () {
   var root = document.documentElement;
-  var storageKey = "privateViewUnlocked";
+  var storageKey = "privateViewUnlockedV2";
   var privateViewHash = "3324dab86f4dcdf48ba8ed6d736dcf050f09a23bf617c7d3579224548269ba1f";
 
   function persist(value) {
