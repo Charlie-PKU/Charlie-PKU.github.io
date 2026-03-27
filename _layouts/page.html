@@ -46,7 +46,25 @@
     </div><!--/ .headline-wrap -->
   {% endcomment %}
     <div class="article-wrap" itemprop="text">
-      {{ content }}
+      {% if page.url == '/' or page.url == '/index.html' %}
+      <div class="public-only private-view-teaser">
+        <p>This public view keeps the page intentionally concise.</p>
+        <p>I focus on climate change economics, development, and policy evaluation. A more detailed profile is available only in my local private view.</p>
+      </div>
+      <div class="private-only">
+        {{ content }}
+      </div>
+      {% elsif page.url == '/miscellaneous/' or page.url == '/miscellaneous/index.html' %}
+      <div class="public-only private-view-teaser">
+        <p>This page is intentionally lightweight in public view.</p>
+        <p>Outside research, I enjoy sports, films, music, literature, and long-form conversations. The more personal lists, embeds, and archives are reserved for my private view.</p>
+      </div>
+      <div class="private-only">
+        {{ content }}
+      </div>
+      {% else %}
+        {{ content }}
+      {% endif %}
     </div><!-- /.article-wrap -->
   </article>
 </div><!-- /#index -->
