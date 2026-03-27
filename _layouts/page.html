@@ -47,17 +47,121 @@
   {% endcomment %}
     <div class="article-wrap" itemprop="text">
       {% if page.url == '/' or page.url == '/index.html' %}
-      <div class="public-only private-view-teaser">
-        <p>This public view keeps the page intentionally concise.</p>
-        <p>I focus on climate change economics, development, and policy evaluation. A more detailed profile is available only in my local private view.</p>
+      <div class="public-only public-summary">
+        <div class="private-view-teaser">
+          <p>This public view keeps the page intentionally concise.</p>
+          <p>I am a Ph.D. student in Applied Economics at Tsinghua University, working on climate change economics, development, and policy evaluation.</p>
+        </div>
+        <div class="public-summary-grid">
+          <section class="public-summary-card">
+            <h2>Current Focus</h2>
+            <p>Climate change economics, sustainability, resilience, and applied policy analysis.</p>
+          </section>
+          <section class="public-summary-card">
+            <h2>Affiliation</h2>
+            <p>Tsinghua University and research work related to international development.</p>
+          </section>
+          <section class="public-summary-card">
+            <h2>Public Links</h2>
+            <p>Please use the CV, Publications, and Research pages for the public overview.</p>
+          </section>
+        </div>
+      </div>
+      <div class="private-only">
+        {{ content }}
+      </div>
+      {% elsif page.url == '/research/' or page.url == '/research/index.html' %}
+      <div class="public-only public-summary">
+        <div class="private-view-teaser">
+          <p>This page shows a streamlined public version.</p>
+          <p>My research centers on climate change economics, environmental policy, development, and quantitative welfare analysis.</p>
+        </div>
+        <div class="public-summary-grid">
+          <section class="public-summary-card">
+            <h2>Main Areas</h2>
+            <p>Climate policy, sustainable development, environmental and resource economics, and urban or spatial questions.</p>
+          </section>
+          <section class="public-summary-card">
+            <h2>Current Work</h2>
+            <p>Research and data analysis related to international development, refugee welfare, and climate-economy interactions.</p>
+          </section>
+          <section class="public-summary-card">
+            <h2>Detailed Record</h2>
+            <p>Specific project histories, supervisors, and internal notes are reserved for private view.</p>
+          </section>
+        </div>
+      </div>
+      <div class="private-only">
+        {{ content }}
+      </div>
+      {% elsif page.url == '/teaching/' or page.url == '/teaching/index.html' %}
+      <div class="public-only public-summary">
+        <div class="private-view-teaser">
+          <p>This page shows a streamlined public version.</p>
+          <p>I have supported teaching in economics-related courses at Tsinghua University and previously at Peking University.</p>
+        </div>
+        <div class="public-summary-grid">
+          <section class="public-summary-card">
+            <h2>Teaching Scope</h2>
+            <p>Seminars, undergraduate economics, MBA teaching support, and quantitative coursework.</p>
+          </section>
+          <section class="public-summary-card">
+            <h2>Typical Work</h2>
+            <p>Tutorial support, discussion facilitation, grading, office hours, and class coordination.</p>
+          </section>
+          <section class="public-summary-card">
+            <h2>Detailed Materials</h2>
+            <p>Course-by-course notes, collaborator details, and teaching materials are reserved for private view.</p>
+          </section>
+        </div>
+      </div>
+      <div class="private-only">
+        {{ content }}
+      </div>
+      {% elsif page.url == '/activities/' or page.url == '/activities/index.html' %}
+      <div class="public-only public-summary">
+        <div class="private-view-teaser">
+          <p>This page shows a streamlined public version.</p>
+          <p>I regularly participate in field studies, climate-related exchange programs, and academic or public-interest activities.</p>
+        </div>
+        <div class="public-summary-grid">
+          <section class="public-summary-card">
+            <h2>Activity Types</h2>
+            <p>Field visits, study camps, interdisciplinary exchange, and research-linked public engagement.</p>
+          </section>
+          <section class="public-summary-card">
+            <h2>Public Emphasis</h2>
+            <p>The public view highlights the broad themes rather than detailed itineraries or internal records.</p>
+          </section>
+          <section class="public-summary-card">
+            <h2>Private Details</h2>
+            <p>Detailed logs, media links, and more personal records are reserved for private view.</p>
+          </section>
+        </div>
       </div>
       <div class="private-only">
         {{ content }}
       </div>
       {% elsif page.url == '/miscellaneous/' or page.url == '/miscellaneous/index.html' %}
-      <div class="public-only private-view-teaser">
-        <p>This page is intentionally lightweight in public view.</p>
-        <p>Outside research, I enjoy sports, films, music, literature, and long-form conversations. The more personal lists, embeds, and archives are reserved for my private view.</p>
+      <div class="public-only public-summary">
+        <div class="private-view-teaser">
+          <p>This page is intentionally lightweight in public view.</p>
+          <p>Outside research, I enjoy sports, films, music, literature, and long-form conversations.</p>
+        </div>
+        <div class="public-summary-grid">
+          <section class="public-summary-card">
+            <h2>Interests</h2>
+            <p>Sports, film, music, reading, and a broad range of cultural topics.</p>
+          </section>
+          <section class="public-summary-card">
+            <h2>Why It Is Shorter</h2>
+            <p>The public version keeps this page simple and leaves more personal lists and archives in private view.</p>
+          </section>
+          <section class="public-summary-card">
+            <h2>Private Details</h2>
+            <p>Social embeds, extended favorites, and more personal records are reserved for private view.</p>
+          </section>
+        </div>
       </div>
       <div class="private-only">
         {{ content }}
