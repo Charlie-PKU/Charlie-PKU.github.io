@@ -39,6 +39,22 @@
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+<script>
+  (function () {
+    var storedTheme = null;
+
+    try {
+      storedTheme = localStorage.getItem("theme");
+    } catch (error) {
+      storedTheme = null;
+    }
+
+    if (storedTheme === "dark" || storedTheme === "light") {
+      document.documentElement.setAttribute("data-theme", storedTheme);
+    }
+  })();
+</script>
+
 
 <!-- Google Webfonts -->
 <link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
