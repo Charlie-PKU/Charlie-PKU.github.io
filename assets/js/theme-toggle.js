@@ -49,10 +49,6 @@
     if (icon) {
       icon.innerHTML = isDark ? "&#9790;" : "&#9728;";
     }
-
-    if (text) {
-      text.textContent = isDark ? "Night" : "Day";
-    }
   }
 
   function bindToggle() {
