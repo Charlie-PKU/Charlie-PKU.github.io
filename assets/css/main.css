@@ -436,6 +436,11 @@ html[data-private-view="enabled"] .public-only{display:none;}
 .public-summary-card{padding:1.15rem 1.2rem;background:var(--surface-color);border:1px solid var(--border-color);border-radius:16px;box-shadow:0 12px 28px var(--shadow-color);}
 .public-summary-card h2{font-size:1.15rem;line-height:1.15;margin-bottom:0.65rem;}
 .public-summary-card p{margin-bottom:0;color:var(--muted-text);}
+.public-summary-card ul{margin:0.85rem 0 0;padding-left:1.15rem;}
+.public-summary-card li{margin-bottom:0.45rem;color:var(--text-color);}
+.public-summary-card li:last-child{margin-bottom:0;}
+.public-summary-card a{border-bottom:1px dotted var(--border-color);}
+.public-summary-card a:hover{border-bottom:1px solid var(--link-hover);}
 #main article,#index article,.article-author-top,.article-author-bottom .bio-photo,.toc,.well{background-color:transparent;}
 .article-author-top p,.article-author-bottom p,.byline,.help-block,.help-inline{color:var(--muted-text);}
 .toc header{background:var(--heading-color);}
