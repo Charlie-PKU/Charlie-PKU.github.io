@@ -42,15 +42,22 @@
 <script>
   (function () {
     var storedTheme = null;
+    var privateView = null;
 
     try {
       storedTheme = localStorage.getItem("theme");
+      privateView = localStorage.getItem("privateViewUnlocked");
     } catch (error) {
       storedTheme = null;
+      privateView = null;
     }
 
     if (storedTheme === "dark" || storedTheme === "light") {
       document.documentElement.setAttribute("data-theme", storedTheme);
+    }
+
+    if (privateView === "true") {
+      document.documentElement.setAttribute("data-private-view", "enabled");
     }
   })();
 </script>
