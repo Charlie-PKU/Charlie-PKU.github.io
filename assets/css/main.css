@@ -410,10 +410,10 @@ html .navigation-wrapper,.site-name a,.top-navigation a,.article-wrap,.article-a
 .navigation-wrapper{position:relative;}
 .site-name a,.top-navigation li a,.top-navigation li a:visited{color:var(--heading-color);}
 .top-navigation-current{text-decoration:overline;color:var(--link-hover) !important;}
-.theme-toggle{position:absolute;top:2rem;right:8.333333333333334%;display:inline-flex;align-items:center;gap:0.55rem;padding:0.55rem 0.9rem;border:1px solid var(--button-border);border-radius:999px;background:var(--button-bg);color:var(--heading-color);font-family:'PT Sans Narrow',sans-serif;font-size:0.9rem;font-weight:700;letter-spacing:0.04em;text-transform:uppercase;box-shadow:0 10px 30px var(--shadow-color);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);transition:background-color 0.25s ease,border-color 0.25s ease,color 0.25s ease,transform 0.25s ease,box-shadow 0.25s ease;z-index:10;}
+.theme-toggle{position:fixed;top:22px;right:24px;display:inline-flex;align-items:center;gap:0.55rem;padding:0.7rem 1rem;border:1px solid var(--button-border);border-radius:999px;background:var(--button-bg);color:var(--heading-color);font-family:'PT Sans Narrow',sans-serif;font-size:0.88rem;font-weight:700;letter-spacing:0.05em;text-transform:uppercase;box-shadow:0 10px 30px var(--shadow-color);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);transition:background-color 0.25s ease,border-color 0.25s ease,color 0.25s ease,transform 0.25s ease,box-shadow 0.25s ease;z-index:999;}
 .theme-toggle:hover,.theme-toggle:focus{background:var(--button-hover);border-color:var(--link-hover);color:var(--heading-color);transform:translateY(-1px);}
 .theme-toggle:focus{outline:2px solid var(--link-hover);outline-offset:3px;}
-.theme-toggle-icon{font-size:1rem;line-height:1;}
+.theme-toggle-icon{font-size:1rem;line-height:1;display:inline-flex;align-items:center;justify-content:center;width:1rem;}
 .theme-toggle-text{line-height:1;}
 #main article,#index article,.article-author-top,.article-author-bottom .bio-photo,.toc,.well{background-color:transparent;}
 .article-author-top p,.article-author-bottom p,.byline,.help-block,.help-inline{color:var(--muted-text);}
@@ -433,4 +433,4 @@ blockquote{border-left-color:var(--border-color);}
 .footer-wrap{background-color:var(--footer-bg);}
 .footer-wrap a,.footer-wrap a:active,.footer-wrap a:visited,.footer-wrap p,.footer-wrap h4,.footer-wrap h5,.footer-wrap h6{color:var(--footer-text);}
 .footer-wrap a:hover{color:var(--footer-link);}
-@media only screen and (max-width:37.49em){.navigation-wrapper{padding-top:5.5em;}.theme-toggle{top:1rem;right:8.333333333333334%;}}
+@media only screen and (max-width:37.49em){.theme-toggle{top:14px;right:14px;padding:0.65rem 0.9rem;font-size:0.8rem;}}
