@@ -125,12 +125,13 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 ## News and Updates 📨
 
-
-- **<font color='red'> [Highlight] Struggling for Ph.D. research proposal defense in May. Wish me LUCK! 🤴 </font>**
-- **Feb. 2025:** Our paper has been accepted by the 29th GTAP annual conference, see you in Kyoto! 🤟
-- **Jan. 2025:** Started the new journey in UNHCR as a statistics assistant! ✍️
+- **`<font color='red'>` [Highlight] Struggling for Ph.D. research proposal defense in May. Wish me LUCK! 🤴 `</font>`**
+- **Apr. 2026:** Our paper has been accepted by the [4th JDC Research Conference on Forced Displacement](https://www.jointdatacenter.org/news-and-events/4th-research-conference-on-forced-displacement/), see you in Bangkok! 😍
+- **Mar. 2026:** Our paper has been accepted by the [7th WCERE](https://wcere2026.org/), see you in Carcavelos, Portugal! 👙
+- **Feb. 2026:** Our paper has been accepted by the [29th GTAP annual conference](https://www.gtap.agecon.purdue.edu/events/Conferences/2026/index.aspx), see you in Kyoto! 🤟
+- **Jan. 2026:** Started the new journey in UNHCR as a statistics assistant! ✍️
 - **Dec. 2025:** Quite honored to have the opportunity to attend the [dialogue](https://mp.weixin.qq.com/s/lPQJ-lEsUsUE-3tulyS1_g) between our dean Chong-en Bai and the President of the World Bank Group, Ajay Banga in Tsinghua SEM! 😝
-- **Dec. 2025:** Thrilled to see the collaborated work as one chapter in UNDP report with Xian Hu and Jian Zhang has been published! 😁 
+- **Dec. 2025:** Thrilled to see the collaborated work as one chapter in UNDP report with Xian Hu and Jian Zhang has been published! 😁
 - **Nov. 2025:** Amazing days in Xiamen! 😋
 - **Oct. 2025:** Very honored to share my internship experience at [PKU](https://mp.weixin.qq.com/s/Ms6FIfYNa9IZt0uni0NoVw), [DKU](https://mp.weixin.qq.com/s/82jjpPiax2f-sAQmUImPLA), [THU-SEM](https://mp.weixin.qq.com/s/8693abNEwxtbRG_97M8oXA) and [THU-CDC](https://mp.weixin.qq.com/s/Jz3OnMqQHME_QvryTN_Bww?scene=1)! 😳
 - **Jun. 2025:** Happy that our research have been accepted for presentation during the [CCER Summer Institute](https://mp.weixin.qq.com/s/PMLyRyhTLcGedmHtDu5Q9w)! 🐎
