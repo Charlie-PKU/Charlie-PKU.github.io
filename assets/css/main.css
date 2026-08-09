@@ -458,9 +458,9 @@ html[data-private-view="enabled"] .top-navigation .private-nav{display:block;}
 .academic-hero{display:block;padding:0 0 2.35rem;border-bottom:1px solid var(--border-color);}
 .academic-kicker{margin:0 0 0.65rem;font-family:'PT Sans Narrow',sans-serif;font-size:0.9rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:var(--muted-text);}
 .academic-hero h1{margin:0 0 0.65rem;font-size:3rem;line-height:1.02;}
-.academic-subtitle,.academic-summary{font-size:1.08rem;line-height:1.88;}
-.academic-subtitle{margin:0 0 1.05rem;color:var(--text-color);}
-.academic-summary{margin:0;max-width:none;color:var(--muted-text);}
+.academic-subtitle,.academic-summary{font-size:1.08rem;line-height:1.88;color:var(--text-color);}
+.academic-subtitle{margin:0 0 1.05rem;}
+.academic-summary{margin:0;max-width:none;}
 .academic-detail-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.6rem 2rem;margin-top:1.6rem;}
 .academic-detail-block h3{margin:0 0 0.6rem;font-size:1.15rem;font-weight:700;color:var(--heading-color);}
 .academic-detail-block ul{margin:0;padding-left:1.15rem;}
