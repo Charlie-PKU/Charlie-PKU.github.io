@@ -455,7 +455,7 @@ html[data-private-view="enabled"] .top-navigation .private-nav{display:block;}
 .misc-embed-card a{border-bottom:1px dotted var(--border-color);}
 .misc-embed-card a:hover{border-bottom:1px solid var(--link-hover);}
 .academic-home{padding-top:0.5rem;}
-.academic-hero{display:grid;grid-template-columns:minmax(0,1.7fr) minmax(220px,0.95fr);gap:2.25rem;align-items:start;padding:0 0 2.5rem;border-bottom:1px solid var(--border-color);}
+.academic-hero{display:block;padding:0 0 2.35rem;border-bottom:1px solid var(--border-color);}
 .academic-kicker{margin:0 0 0.65rem;font-family:'PT Sans Narrow',sans-serif;font-size:0.9rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:var(--muted-text);}
 .academic-hero h1{margin:0 0 0.65rem;font-size:3rem;line-height:1.02;}
 .academic-subtitle{margin:0 0 0.9rem;font-size:1.28rem;line-height:1.6;color:var(--text-color);}
@@ -473,10 +473,12 @@ html[data-private-view="enabled"] .top-navigation .private-nav{display:block;}
 .academic-card ul{margin:0;padding-left:1.1rem;}
 .academic-card li{margin-bottom:0.5rem;}
 .academic-card li:last-child{margin-bottom:0;}
-.paper-list{display:grid;gap:1rem;}
-.paper-item{padding:1.15rem 1.2rem;background:var(--surface-color);border:1px solid var(--border-color);border-radius:18px;box-shadow:0 12px 28px var(--shadow-color);}
-.paper-item h3{margin:0 0 0.4rem;font-size:1.1rem;line-height:1.35;}
-.paper-item p{margin:0;color:var(--muted-text);}
+.paper-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.9rem 2.2rem;align-items:start;}
+.paper-entry{padding:0;border:0;background:transparent;box-shadow:none;}
+.paper-entry h3{margin:0 0 0.55rem;font-size:1.02rem;line-height:1.24;font-family:'PT Sans Narrow',sans-serif;font-weight:700;letter-spacing:0.01em;}
+.paper-entry p{margin:0;color:var(--muted-text);line-height:1.62;}
+.paper-entry em{font-style:italic;color:var(--text-color);}
+.paper-entry--link{padding-top:0.35rem;}
 .academic-public-note{margin:1.5rem 0 0;padding:1.35rem 1.4rem;background:var(--surface-color);border:1px solid var(--border-color);border-radius:18px;box-shadow:0 12px 28px var(--shadow-color);}
 .academic-public-note__label{margin:0 0 0.35rem;font-family:'PT Sans Narrow',sans-serif;font-size:0.84rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:var(--muted-text);}
 .academic-public-note h2{margin:0 0 0.7rem;font-size:1.45rem;line-height:1.2;}
@@ -495,7 +497,6 @@ html[data-theme="dark"] .org-pill--thu{background:#452425;color:#ffd7d7;}
 html[data-theme="dark"] .org-pill--pku{background:#41262e;color:#ffd8df;}
 html[data-theme="dark"] .org-pill--yazhou{background:#1f3427;color:#d8f2dc;}
 html[data-theme="dark"] .org-pill--harvard{background:#42252e;color:#ffd9e1;}
-@media only screen and (max-width:56em){.academic-hero{grid-template-columns:1fr;gap:1.4rem;}.academic-hero__media{max-width:420px;}}
 #main article,#index article,.article-author-top,.article-author-bottom .bio-photo,.toc,.well{background-color:transparent;}
 .article-author-top p,.article-author-bottom p,.byline,.help-block,.help-inline{color:var(--muted-text);}
 .toc header{background:var(--heading-color);}
@@ -514,4 +515,5 @@ blockquote{border-left-color:var(--border-color);}
 .footer-wrap{background-color:var(--footer-bg);}
 .footer-wrap a,.footer-wrap a:active,.footer-wrap a:visited,.footer-wrap p,.footer-wrap h4,.footer-wrap h5,.footer-wrap h6{color:var(--footer-text);}
 .footer-wrap a:hover{color:var(--footer-link);}
-@media only screen and (max-width:37.49em){.theme-toggle{top:14px;right:14px;padding:0.62rem 0.82rem;font-size:0.76rem;}.private-view-toggle{top:60px;right:14px;padding:0.62rem 0.82rem;font-size:0.76rem;}.academic-hero h1{font-size:2.35rem;}.academic-subtitle{font-size:1.08rem;}.academic-summary{font-size:0.98rem;line-height:1.75;}.academic-card-grid{grid-template-columns:1fr;}}
+@media only screen and (max-width:56em){.paper-grid{grid-template-columns:1fr;gap:1.35rem;}}
+@media only screen and (max-width:37.49em){.theme-toggle{top:14px;right:14px;padding:0.62rem 0.82rem;font-size:0.76rem;}.private-view-toggle{top:60px;right:14px;padding:0.62rem 0.82rem;font-size:0.76rem;}.academic-hero h1{font-size:2.35rem;}.academic-subtitle{font-size:1.08rem;}.academic-summary{font-size:0.98rem;line-height:1.75;}.academic-card-grid{grid-template-columns:1fr;}.paper-grid{grid-template-columns:1fr;}}
