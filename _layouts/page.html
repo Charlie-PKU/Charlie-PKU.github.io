@@ -47,271 +47,124 @@
   {% endcomment %}
     <div class="article-wrap" itemprop="text">
       {% if page.url == '/' or page.url == '/index.html' %}
-      <div class="public-only public-summary">
-        <div class="private-view-teaser">
-          <p>🌿 I am Chen Fang (Charlie), a Ph.D. student in Applied Economics at Tsinghua University.</p>
-          <p>📊 I currently work with UNHCR as a Statistics Assistant (individual contractor). My work focuses on climate change economics, development, refugee-related policy questions, and applied welfare analysis.</p>
-        </div>
-        <div class="public-summary-grid">
-          <section class="public-summary-card">
-            <h2>🌍 Profile</h2>
-            <p>Advised by Jing Cao and co-supervised by Mun Ho, I work on climate policy, welfare analysis, sustainable development, and quantitative public policy. At UNHCR, I am supervised by Marguerite Duponchel. I hope to contribute to research and policy work in international organizations.</p>
-          </section>
-          <section class="public-summary-card">
-            <h2>🎓 Academic Background</h2>
-            <ul>
-              <li>THU, Ph.D. in Applied Economics</li>
-              <li>PKU, B.S. in Environmental Sciences and Engineering</li>
-              <li>PKU, B.Econ. in Economics</li>
-            </ul>
-          </section>
-          <section class="public-summary-card">
-            <h2>📰 Latest Updates</h2>
-            <ul>
-              <li>Apr. 2026: <a href="https://www.jointdatacenter.org/news-and-events/4th-research-conference-on-forced-displacement/" target="_blank" rel="noopener noreferrer">JDC conference</a> acceptance, see you in Bangkok! 😍</li>
-              <li>Mar. 2026: <a href="https://www.wcere2026.org/" target="_blank" rel="noopener noreferrer">7th WCERE</a> acceptance, see you in Portugal! 🥳</li>
-            </ul>
-          </section>
-          <section class="public-summary-card">
-            <h2>✨ Public Highlights</h2>
-            <ul>
-              <li><a href="{{ site.url }}/research/">Research overview</a></li>
-              <li><a href="{{ site.url }}/publications/">Selected publications</a></li>
-              <li><a href="{{ site.url }}/file/CV/CV_Chen.pdf">Curriculum vitae</a></li>
-            </ul>
-          </section>
-        </div>
-      </div>
-      <div class="private-only">
-        {{ content }}
-      </div>
-      {% elsif page.url == '/research/' or page.url == '/research/index.html' %}
-      <div class="public-only public-summary">
-        <div class="private-view-teaser">
-          <p>🔬 This page shows a streamlined public version.</p>
-          <p>My research centers on climate change economics, environmental policy, development, and quantitative welfare analysis. My refugee-related work is mainly conducted through my role at UNHCR.</p>
-        </div>
-        <div class="public-summary-grid">
-          <section class="public-summary-card">
-            <h2>🌱 Main Areas</h2>
-            <ul>
-              <li>Climate change economics and green transition</li>
-              <li>Environmental and resource economics</li>
-              <li>Development, resilience, and policy evaluation</li>
-            </ul>
-          </section>
-          <section class="public-summary-card">
-            <h2>🏕️ UNHCR-Related Work</h2>
-            <ul>
-              <li>Determinants of Syrian refugees' return</li>
-              <li>Mental health analysis (with World Bank)</li>
-              <li>Refugee indebtedness and welfare analysis</li>
-              <li>Data work on refugee vulnerability and return intentions</li>
-            </ul>
-          </section>
-          <section class="public-summary-card">
-            <h2>📘 Selected Academic Work</h2>
-            <ul>
-              <li>Provincial economic damages from climate change in China</li>
-              <li>Policy, uncertainty, and revival in forest transition research</li>
-              <li><a href="{{ site.url }}/publications/">Published papers and reports</a></li>
-            </ul>
-          </section>
-          <section class="public-summary-card">
-            <h2>🗂️ Public View</h2>
-            <p>This page highlights broad themes and selected work. More detailed project histories, supervisors, and internal notes stay in private view.</p>
-          </section>
-        </div>
-      </div>
-      <div class="private-only">
-        {{ content }}
-      </div>
-      {% elsif page.url == '/teaching/' or page.url == '/teaching/index.html' %}
-      <div class="public-only public-summary">
-        <div class="private-view-teaser">
-          <p>📚 This page shows a streamlined public version.</p>
-          <p>I have supported teaching in economics-related courses at Tsinghua University and previously at Peking University.</p>
-        </div>
-        <div class="public-summary-grid">
-          <section class="public-summary-card">
-            <h2>📝 Selected Course</h2>
-            <p><strong>Intermediate Economics</strong>, THU</p>
-            <ul>
-              <li>Problem-set solutions, review sessions, and office hours</li>
-              <li><a href="{{ site.url }}/file/2024/PS5_Sol_2025.pdf">Sample problem-set solution</a></li>
-              <li><a href="{{ site.url }}/file/2024/TA_final_2024.pdf">Final review notes</a></li>
-            </ul>
-          </section>
-          <section class="public-summary-card">
-            <h2>💬 Selected Course</h2>
-            <p><strong>Principles of Economics Seminar</strong>, THU</p>
-            <ul>
-              <li>Discussion-based teaching and memo feedback</li>
-              <li><a href="{{ site.url }}/file/2024/discussion_logistics_2024.pdf">Example discussion case</a></li>
-              <li><a href="{{ site.url }}/file/2024/discussion_RCT_2024.pdf">Another discussion case</a></li>
-            </ul>
-          </section>
-          <section class="public-summary-card">
-            <h2>📈 Selected Course</h2>
-            <p><strong>Managerial Economics</strong>, THU</p>
-            <ul>
-              <li>MBA teaching support and assignment-related work</li>
-              <li><a href="{{ site.url }}/file/2024/managerial_2024.pdf">Course material</a></li>
-            </ul>
-          </section>
-          <section class="public-summary-card">
-            <h2>🎓 Teaching Profile</h2>
-            <p>My teaching work usually includes tutorials, grading, review sessions, office hours, and student discussion facilitation.</p>
-          </section>
-        </div>
-      </div>
-      <div class="private-only">
-        {{ content }}
-      </div>
-      {% elsif page.url == '/activities/' or page.url == '/activities/index.html' %}
-      <div class="public-only public-summary">
-        <div class="private-view-teaser">
-          <p>🚩 This page shows a streamlined public version.</p>
-          <p>I regularly participate in field studies, climate-related exchange programs, and public-interest academic activities.</p>
-        </div>
-        <div class="public-summary-grid">
-          <section class="public-summary-card">
-            <h2>🌊 Xiamen, 2025</h2>
-            <p>Field study on regional development, digital economy, and ecological governance.</p>
-            <ul>
-              <li><a href="https://mp.weixin.qq.com/s/QzbelFNYsv93VfG5WouQCw">Related report</a></li>
-            </ul>
-          </section>
-          <section class="public-summary-card">
-            <h2>🌾 Xiangxiang, 2025</h2>
-            <p>Rural revitalization field study in Hunan with research and public engagement components.</p>
-            <ul>
-              <li><a href="{{ site.url }}/file/2025/xiangxiang_2025.pdf">Summary report</a></li>
-            </ul>
-          </section>
-          <section class="public-summary-card">
-            <h2>⛰️ Tongren &amp; Sinan, 2024</h2>
-            <p>Fieldwork and exchange activities in Guizhou.</p>
-            <ul>
-              <li><a href="https://mp.weixin.qq.com/s/tSzOQKRI_xghU3A8RdA8pA">Summary post</a></li>
-            </ul>
-          </section>
-          <section class="public-summary-card">
-            <h2>🎥 Dengfeng, 2023</h2>
-            <p>Summer teaching and community engagement project in Dengfeng.</p>
-            <ul>
-              <li><a href="https://www.bilibili.com/video/BV1hQ4y1n76R/?spm_id_from=333.999.0.0">Bilibili video</a></li>
-            </ul>
-          </section>
-        </div>
-      </div>
-      <div class="private-only">
-        {{ content }}
-      </div>
-      {% elsif page.url == '/publications/' or page.url == '/publications/index.html' %}
-      <div class="public-only public-summary">
-        <div class="private-view-teaser">
-          <p>📄 This page shows a streamlined public version.</p>
-          <p>Below are selected publications and research outputs that best represent my current work.</p>
-        </div>
-        <div class="public-summary-grid">
-          <section class="public-summary-card">
-            <h2>🌐 Selected Publication</h2>
-            <p><strong>UNDP flagship report chapter</strong><br>The Next Great Divergence: Why AI may widen inequality between countries</p>
-            <ul>
-              <li><a href="https://www.undp.org/asia-pacific/publications/next-great-divergence">Report access</a></li>
-              <li><a href="https://www.undp.org/sites/g/files/zskgke326/files/2025-12/undp-rbap-the-next-great-divergence-background-papers.pdf">Published version</a></li>
-            </ul>
-          </section>
-          <section class="public-summary-card">
-            <h2>🏭 Journal Article</h2>
-            <p><strong>Negative emission technology is key to decarbonizing China's cement industry</strong><br><em>Applied Energy</em> (2023)</p>
-            <ul>
-              <li><a href="{{ site.url }}/mypaper/Published_Thesis/cement_2023.pdf">Published PDF</a></li>
-            </ul>
-          </section>
-          <section class="public-summary-card">
-            <h2>🌾 Journal Article</h2>
-            <p><strong>Enhanced food system efficiency is the key to China's 2060 carbon neutrality target</strong><br><em>Nature Food</em> (2023)</p>
-            <ul>
-              <li><a href="{{ site.url }}/mypaper/Published_Thesis/food_2023.pdf">Published PDF</a></li>
-            </ul>
-          </section>
-          <section class="public-summary-card">
-            <h2>🧪 Work in Progress</h2>
-            <p>Current work includes refugee return, climate damages, and policy evaluation projects.</p>
-            <ul>
-              <li><a href="{{ site.url }}/research/">Research overview</a></li>
-            </ul>
-          </section>
-        </div>
-      </div>
-      <div class="private-only">
-        {{ content }}
-      </div>
-      {% elsif page.url == '/miscellaneous/' or page.url == '/miscellaneous/index.html' %}
-      <div class="public-only public-summary">
-        <div class="private-view-teaser">
-          <p>🎈 This page is intentionally lightweight in public view.</p>
-          <p>Outside research, I enjoy sports, films, music, literature, and long-form conversations, along with a broad range of cultural topics.</p>
-        </div>
-        <div class="public-summary-grid">
-          <section class="public-summary-card">
-            <h2>📖 ECON Reading</h2>
-            <p><strong>Understanding Tax Policy: How do People Reason?</strong> (QJE, 2021)</p>
-            <ul>
-              <li><a href="{{ site.url }}/file/2024/Tax_2024.pdf">Open file</a></li>
-            </ul>
-          </section>
-          <section class="public-summary-card">
-            <h2>🌬️ ECON Reading</h2>
-            <p><strong>Gone with the Wind: Renewable Energy Infrastructure, Welfare, and Redistribution</strong></p>
-            <ul>
-              <li><a href="{{ site.url }}/file/2024/Wind_2024.pdf">Open file</a></li>
-            </ul>
-          </section>
-          <section class="public-summary-card">
-            <h2>🔒 Private View</h2>
-            <p>The public version keeps this page simple and leaves more personal lists, embeds, and archives in private view.</p>
-          </section>
-        </div>
-      </div>
-      <div class="private-only">
-        {{ content }}
-      </div>
-      <section class="misc-embed-showcase">
-        <div class="private-view-teaser">
-          <p>🎞️ A few side projects that reflect the books, films, music, and images I keep returning to.</p>
-        </div>
-        <div class="misc-embed-grid">
-          <section class="misc-embed-card">
-            <h2>📚 My Library</h2>
-            <p>A small library site for books, films, music, and other things I like to revisit.</p>
-            <div class="misc-embed-frame">
-              <iframe
-                src="https://mylibrary-eta.vercel.app/#top"
-                title="Chen Fang's library"
-                loading="lazy"
-                referrerpolicy="strict-origin-when-cross-origin"></iframe>
+      <div class="public-only academic-home">
+        <section class="academic-hero" id="academic-profile">
+          <div class="academic-hero__copy">
+            <p class="academic-kicker">Applied Economics • Tsinghua University</p>
+            <h1>Chen Fang</h1>
+            <p class="academic-subtitle">Ph.D. student in Applied Economics at <span class="org-lockup">Tsinghua University<span class="org-pill org-pill--thu">THU</span></span>, advised by Jing Cao and co-supervised by Mun Ho.</p>
+            <p class="academic-summary">I work on climate change economics, development, and quantitative welfare analysis. I also work with <span class="org-lockup">UNHCR Jordan<span class="org-pill org-pill--unhcr">UNHCR</span></span> as a Statistics Assistant (individual contractor), focusing on refugee-related policy questions and data-driven analysis.</p>
+            <div class="academic-meta">
+              <a href="mailto:fangc23@mails.tsinghua.edu.cn">fangc23@mails.tsinghua.edu.cn</a>
+              <span>Beijing / Jordan</span>
+              <a href="{{ site.url }}/file/CV/CV_Chen.pdf">Curriculum vitae</a>
             </div>
-            <p><a href="https://mylibrary-eta.vercel.app/#top" target="_blank" rel="noopener noreferrer">Open in a new tab</a></p>
-          </section>
-          <section class="misc-embed-card">
-            <h2>📷 Photo Library</h2>
-            <p>A visual archive with some of the images and moments that sit around the edges of research life.</p>
-            <div class="misc-embed-frame">
-              <iframe
-                src="https://myphotolibrary.vercel.app/"
-                title="Chen Fang's photo library"
-                loading="lazy"
-                referrerpolicy="strict-origin-when-cross-origin"></iframe>
-            </div>
-            <p><a href="https://myphotolibrary.vercel.app/" target="_blank" rel="noopener noreferrer">Open in a new tab</a></p>
-          </section>
-        </div>
-      </section>
+          </div>
+          <div class="academic-hero__media">
+            <img src="{{ site.url }}/trip_2023.jpg" alt="Chen Fang portrait">
+          </div>
+        </section>
+
+        <section class="academic-section" id="selected-research">
+          <div class="academic-section__intro">
+            <p class="academic-section__label">Research</p>
+            <h2>Current areas and ongoing work</h2>
+          </div>
+          <div class="academic-card-grid">
+            <section class="academic-card">
+              <h3>Research Areas</h3>
+              <ul>
+                <li>Climate change economics and green transition</li>
+                <li>Environmental and resource economics</li>
+                <li>Development, resilience, and welfare analysis</li>
+              </ul>
+            </section>
+            <section class="academic-card">
+              <h3>Current Projects</h3>
+              <ul>
+                <li>Provincial economic damages from climate change in China</li>
+                <li>Determinants of refugee return</li>
+                <li>Mental health and displacement-related welfare analysis</li>
+              </ul>
+            </section>
+          </div>
+        </section>
+
+        <section class="academic-section" id="selected-papers">
+          <div class="academic-section__intro">
+            <p class="academic-section__label">Selected Papers</p>
+            <h2>Recent publications and working papers</h2>
+          </div>
+          <div class="paper-list">
+            <article class="paper-item">
+              <h3><a href="https://www.undp.org/asia-pacific/publications/next-great-divergence">The Next Great Divergence: Why AI may widen inequality between countries</a></h3>
+              <p>Chapter 3 of the UNDP flagship report, joint with Xian Hu and Jian Zhang.</p>
+            </article>
+            <article class="paper-item">
+              <h3><a href="{{ site.url }}/mypaper/Published_Thesis/cement_2023.pdf">Negative emission technology is key to decarbonizing China's cement industry</a></h3>
+              <p><em>Applied Energy</em> (2023)</p>
+            </article>
+            <article class="paper-item">
+              <h3><a href="{{ site.url }}/publications/">An Integrated Assessment of Provincial Economic Damages from Climate Change in China</a></h3>
+              <p><em>Journal of Environment Management</em> (forthcoming)</p>
+            </article>
+            <article class="paper-item">
+              <h3><a href="{{ site.url }}/publications/">View full publication list</a></h3>
+              <p>Selected reports, published papers, and ongoing research projects.</p>
+            </article>
+          </div>
+        </section>
+      </div>
+      <div class="private-only">
+        {{ content }}
+      </div>
       {% else %}
+      <div class="public-only academic-public-note">
+        <p class="academic-public-note__label">Public academic homepage</p>
+        <h2>This public version is now consolidated into a single homepage.</h2>
+        <p>For a concise academic overview, please return to the homepage sections below.</p>
+        <ul>
+          <li><a href="{{ site.url }}/#academic-profile">Profile</a></li>
+          <li><a href="{{ site.url }}/#selected-research">Research</a></li>
+          <li><a href="{{ site.url }}/#selected-papers">Selected papers</a></li>
+        </ul>
+      </div>
+      <div class="private-only">
         {{ content }}
+        {% if page.url == '/miscellaneous/' or page.url == '/miscellaneous/index.html' %}
+        <section class="misc-embed-showcase">
+          <div class="private-view-teaser">
+            <p>🎞️ A few side projects that reflect the books, films, music, and images I keep returning to.</p>
+          </div>
+          <div class="misc-embed-grid">
+            <section class="misc-embed-card">
+              <h2>📚 My Library</h2>
+              <p>A small library site for books, films, music, and other things I like to revisit.</p>
+              <div class="misc-embed-frame">
+                <iframe
+                  src="https://mylibrary-eta.vercel.app/#top"
+                  title="Chen Fang's library"
+                  loading="lazy"
+                  referrerpolicy="strict-origin-when-cross-origin"></iframe>
+              </div>
+              <p><a href="https://mylibrary-eta.vercel.app/#top" target="_blank" rel="noopener noreferrer">Open in a new tab</a></p>
+            </section>
+            <section class="misc-embed-card">
+              <h2>📷 Photo Library</h2>
+              <p>A visual archive with some of the images and moments that sit around the edges of research life.</p>
+              <div class="misc-embed-frame">
+                <iframe
+                  src="https://myphotolibrary.vercel.app/"
+                  title="Chen Fang's photo library"
+                  loading="lazy"
+                  referrerpolicy="strict-origin-when-cross-origin"></iframe>
+              </div>
+              <p><a href="https://myphotolibrary.vercel.app/" target="_blank" rel="noopener noreferrer">Open in a new tab</a></p>
+            </section>
+          </div>
+        </section>
+        {% endif %}
+      </div>
       {% endif %}
     </div><!-- /.article-wrap -->
   </article>
