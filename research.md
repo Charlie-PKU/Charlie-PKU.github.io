@@ -10,14 +10,14 @@ lang: french
 
 ## Professional Experience 🎅
 
-&#8194;&#8194; 🌟🌟🌟 Statistics Assistant at Development Unit, **[UNHCR Jordan](https://www.unhcr.org/jo/)**
+&#8194;&#8194; 🌟🌟🌟 Statistics Assistant (individual contractor) at Development Unit, **[UNHCR Jordan](https://www.unhcr.org/jo/)** <span class="org-pill org-pill--unhcr">UNHCR</span>
 
 <div style="text-align:right;">
     Dec. 2025 - Now
 </div>
 
 <div style="text-align:right;">
-Hydrid
+Hybrid
 </div>
 
 - **Supervisor**
@@ -27,13 +27,13 @@ Hydrid
 
 <br>
 
-- **Scaling-Up AI-powered Digital Solutions to Expand Access to Mental Health Services for Displaced Populations (with University of Gothenburg & World Bank)**：1) Use the VAF dataset to analyze the distribution of mental health severity; 2) Develop statistical models to identify its potential drivers
+- **Determinants of Refugee Return (with WFP & World Bank)**: Conducted applied research on the determinants of Syrian refugee return, including literature review, integration of multiple administrative and survey datasets, non-response bias assessment in the Skills Mapping Survey, and statistical and econometric modeling. Findings have been presented at the World Bank Brown Bag Lunch Seminar (Dec. 4, 2025), the JoSH Conference (Jan. 13, 2026), the Sustainable Response Learning Series Webinar (Mar. 3, 2026), the Durable Solution Working Group (Apr. 20, 2026), and the 4th JDC Research Conference on Forced Displacement (Jun. 4, 2026).
 
-- **Dissemination of our findings about Determinants of Refugee Return (with WFP & World Bank)**: 1) presented at the World Bank Brown Bag Lunch Seminar (Dec 4, 2025); 2) the JoSH Conference (Jan 13, 2026); 3) UNHCR the Sustainable Response Learning Series Webinar (Mar 3, 2026)
+- **Mental Health of Refugee Women and the Role of AI-enabled Tools (with University of Gothenburg & World Bank)**: Use the VAF dataset to analyze the distribution of mental health severity and develop statistical models to identify its potential drivers under the BRIDGE-MH project.
 
-- **Phase II of the returee paper (with WFP & World Bank)**: Still in progress
+- **Refugee Population Forecasting and Profile Analysis (advised by World Bank)**: Developed a machine learning-based forecasting framework to project the demographic and socioeconomic profiles of Syrian refugees expected to return during Summer 2026 and those likely to remain in Jordan, with a policy note to support operational planning.
 
-- **Refugee Indebtedness Situation Analysis using VAF dataset (with World Bank)**: Still in progress
+- **Other ongoing work**: Projects also include the impact of UNHCR assistance on return decisions, climate shocks and refugee resilience, and dynamic assessment of Zaatari informal markets.
 
 
 <br>
@@ -43,7 +43,25 @@ Hydrid
 
 ## Internship 📇
 
-&#8194;&#8194; 🌟🌟🌟 Economist Intern at Development Unit, **[UNHCR Jordan](https://www.unhcr.org/jo/)**
+&#8194;&#8194; 🌟 Policy Research Intern, **Yazhou Bay Science and Technology City, Sanya, Hainan FTP** <span class="org-pill org-pill--yazhou">YBZSTC</span>
+
+<div style="text-align:right;">
+    Jul. 2026 - Aug. 2026
+</div>
+
+<div style="text-align:right;">
+Sanya, Hainan, China
+</div>
+
+- Authored a longitudinal case study on the integrated development of education, science and technology, and talent in Yazhou Bay Science and Technology City, developing a mission-oriented public resource orchestration framework.
+
+- Synthesized policy documents, administrative materials, statistics, public reports, and student questionnaires into a management research manuscript of approximately 15,000 Chinese characters.
+
+- Translated and proofread Chinese-English exhibition panels, supporting the science and technology city's external communication and public presentation.
+
+<br>
+
+&#8194;&#8194; 🌟🌟🌟 Economist Intern at Development Unit, **[UNHCR Jordan](https://www.unhcr.org/jo/)** <span class="org-pill org-pill--unhcr">UNHCR</span>
 
 <div style="text-align:right;">
     Mar. 2025 - Oct. 2025
