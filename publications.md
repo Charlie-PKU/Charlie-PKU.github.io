@@ -7,6 +7,18 @@ title: Publication
 
 <!--   [中文版本 (Chinese Version)](https://charlie-pku.github.io/file/awards-zh/) -->
 
+## 2026 🎏
+
+&#8194;&#8194; **[1]** **"An Integrated Assessment of Provincial Economic Damages from Climate Change in China"**
+
+*Journal of Environment Management* (forthcoming)
+
+joint with Hantang Peng, [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/article/311), [Da Zhang](http://www.energyda.cn/) and [Xiliang Zhang](http://www.3e.tsinghua.edu.cn/cn/article/slug/news-member-teacher-zsl)
+
+**Conference Presentation**: [27th GTAP](https://www.gtap.agecon.purdue.edu/events/Conferences/2024/index.aspx), [3rd CAERE](http://www.caere.org/)
+
+<br>
+
 ## 2025 🎏
 
 
@@ -140,21 +152,6 @@ joint with Tingwei Gao and [Yana Jin](http://scholar.pku.edu.cn/yjin)
 **Conference Presentation**: [AERE 2025 Summer Conference](https://www.aere.org/summer-conference#program), [2nd XMU-UM Joint Workshop on Environmental and Behavioral/Experimental Economics](https://mp.weixin.qq.com/s/syaZDG76k4LZV7AMVzyE1A), [30th Annual Conference of EAERE](https://www.conftool.pro/eaere2025/index.php?page=browseSessions&form_session=328)
 
 <!-- <img src="https://charlie-pku.github.io/images/research/perception_2023.jpg"> -->
-
-<br>
-
-- **"An Integrated Assessment of Provincial Economic Damages from Climate Change in China"**
-
-<!-- (*RA program in [3E Institute](http://www.3e.tsinghua.edu.cn/cn), THU, Feb. 2023 - now*) -->
-
-<!-- [Extended Abstract](https://charlie-pku.github.io/mypaper/Working_Papers/IAM_2024.pdf) (for EAERE 2024 Annual Meeting) -->
-
-&#8194;&#8194;  *Submitted* (Draft available upon request)
-
-joint with Hantang Peng, [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/article/311), [Da Zhang](http://www.energyda.cn/) and [Xiliang Zhang](http://www.3e.tsinghua.edu.cn/cn/article/slug/news-member-teacher-zsl)
-
-**Conference Presentation**: [27th GTAP](https://www.gtap.agecon.purdue.edu/events/Conferences/2024/index.aspx), [3rd CAERE](http://www.caere.org/)
-
 
 <br>
 
