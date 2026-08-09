@@ -279,6 +279,37 @@
       <div class="private-only">
         {{ content }}
       </div>
+      <section class="misc-embed-showcase">
+        <div class="private-view-teaser">
+          <p>🎞️ A few side projects that reflect the books, films, music, and images I keep returning to.</p>
+        </div>
+        <div class="misc-embed-grid">
+          <section class="misc-embed-card">
+            <h2>📚 My Library</h2>
+            <p>A small library site for books, films, music, and other things I like to revisit.</p>
+            <div class="misc-embed-frame">
+              <iframe
+                src="https://mylibrary-eta.vercel.app/#top"
+                title="Chen Fang's library"
+                loading="lazy"
+                referrerpolicy="strict-origin-when-cross-origin"></iframe>
+            </div>
+            <p><a href="https://mylibrary-eta.vercel.app/#top" target="_blank" rel="noopener noreferrer">Open in a new tab</a></p>
+          </section>
+          <section class="misc-embed-card">
+            <h2>📷 Photo Library</h2>
+            <p>A visual archive with some of the images and moments that sit around the edges of research life.</p>
+            <div class="misc-embed-frame">
+              <iframe
+                src="https://myphotolibrary.vercel.app/"
+                title="Chen Fang's photo library"
+                loading="lazy"
+                referrerpolicy="strict-origin-when-cross-origin"></iframe>
+            </div>
+            <p><a href="https://myphotolibrary.vercel.app/" target="_blank" rel="noopener noreferrer">Open in a new tab</a></p>
+          </section>
+        </div>
+      </section>
       {% else %}
         {{ content }}
       {% endif %}
