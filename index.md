@@ -9,7 +9,7 @@ layout: page
 
 Hello! Here is **Chen FANG (Charlie, 房晨)**.
 
-I am a Ph.D. student majoring in **Applied Economics** at Tsinghua University, advised by [Prof. Jing Cao](https://chinaproject.harvard.edu/people/jing-cao). I currently work as a Statistics Assistant (individual contractor) with UNHCR Jordan.
+I am a Ph.D. student majoring in **Applied Economics** at Tsinghua University <span class="org-pill org-pill--thu">THU</span>, advised by [Prof. Jing Cao](https://chinaproject.harvard.edu/people/jing-cao). I currently work as a Statistics Assistant (individual contractor) with UNHCR Jordan <span class="org-pill org-pill--unhcr">UNHCR</span>.
 
 I am curious and passionate about public policy and global economic governance, especially climate change, sustainable development, and resilience. I hope to work for an international organization such as the [World Bank](https://www.worldbank.org/en/home) or [Resources for the Future](https://www.rff.org/) to conduct valuable research.
 
@@ -35,7 +35,7 @@ Click [here](https://charlie-pku.github.io/file/CV/CV_Chen.pdf) for my full CV.
 
 ## Academic Background 🎓
 
-&#8194; &#8194; **Sep. 2023 - Jun. 2028 (Expected):** [Tsinghua University (THU)](https://www.tsinghua.edu.cn/)
+&#8194; &#8194; **Sep. 2023 - Jun. 2028 (Expected):** [Tsinghua University (THU)](https://www.tsinghua.edu.cn/) <span class="org-pill org-pill--thu">THU</span>
 
 - [School of Economics and Management (SEM)](https://www.sem.tsinghua.edu.cn/)
 
@@ -46,7 +46,7 @@ Click [here](https://charlie-pku.github.io/file/CV/CV_Chen.pdf) for my full CV.
 
 <br>
 
-**Sep. 2019 - Jun. 2023:** [Peking University (PKU)](https://www.pku.edu.cn/)
+**Sep. 2019 - Jun. 2023:** [Peking University (PKU)](https://www.pku.edu.cn/) <span class="org-pill org-pill--pku">PKU</span>
 
 - **Major**		[College of Environmental Sciences and Engineering (CESE)](https://cese.pku.edu.cn/)
 
@@ -125,11 +125,11 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 ## News and Updates 📨
 
-- **May. 2026:** Passed the Ph.D. thesis proposal defense! 😜
-- **Apr. 2026:** Our paper has been accepted by the [4th JDC Research Conference on Forced Displacement](https://www.jointdatacenter.org/news-and-events/4th-research-conference-on-forced-displacement/), see you in Bangkok! 😍
-- **Mar. 2026:** Our paper has been accepted by the [7th WCERE](https://wcere2026.org/), see you in Carcavelos, Portugal! 👙
-- **Feb. 2026:** Our paper has been accepted by the [29th GTAP annual conference](https://www.gtap.agecon.purdue.edu/events/Conferences/2026/index.aspx), see you in Kyoto! 🤟
-- **Jan. 2026:** Started the new journey in UNHCR as a statistics assistant! ✍️
+- **<font color='red'>Aug. 2026:</font>** Praying for a smooth visit to Harvard! 🙏
+- **Jul. 2026:** Spent an unforgettable month in Hainan field practice, with coconut groves, sea breeze, and far too much delicious rice noodles in Wanning, Danzhou, and Sanya! 🌴
+- **Jul. 2026:** Very honored to present our paper at the [7th WCERE](https://wcere2026.org/) and meet so many brilliant environmental economists under the Portugal sun! ☀️
+- **Jun. 2026:** Unforgettable Bangkok days with my parents at the [4th JDC Research Conference on Forced Displacement](https://www.jointdatacenter.org/news-and-events/4th-research-conference-on-forced-displacement/), and so grateful to meet wonderful friends across the UN system, academia, and the World Bank! ✨
+- **May. 2026:** Passed my Ph.D. proposal defense, and yes, congratulations to myself! 🥳
 - **Dec. 2025:** Quite honored to have the opportunity to attend the [dialogue](https://mp.weixin.qq.com/s/lPQJ-lEsUsUE-3tulyS1_g) between our dean Chong-en Bai and the President of the World Bank Group, Ajay Banga in Tsinghua SEM! 😝
 - **Dec. 2025:** Thrilled to see the collaborated work as one chapter in UNDP report with Xian Hu and Jian Zhang has been published! 😁
 - **Nov. 2025:** Amazing days in Xiamen! 😋
