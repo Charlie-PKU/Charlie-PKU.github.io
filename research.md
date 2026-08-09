@@ -10,7 +10,7 @@ lang: french
 
 ## Professional Experience 🎅
 
-&#8194;&#8194; 🌟🌟🌟 Statistics Assistant (individual contractor) at Development Unit, **[UNHCR Jordan](https://www.unhcr.org/jo/)** <span class="org-pill org-pill--unhcr">UNHCR</span>
+&#8194;&#8194; 🌟🌟🌟 Statistics Assistant (individual contractor) at Development Unit, <span class="org-lockup">**[UNHCR Jordan](https://www.unhcr.org/jo/)**<span class="org-pill org-pill--unhcr">UNHCR</span></span>
 
 <div style="text-align:right;">
     Dec. 2025 - Now
@@ -43,7 +43,7 @@ Hybrid
 
 ## Internship 📇
 
-&#8194;&#8194; 🌟 Policy Research Intern, **Yazhou Bay Science and Technology City, Sanya, Hainan FTP** <span class="org-pill org-pill--yazhou">YBZSTC</span>
+&#8194;&#8194; 🌟 Policy Research Intern, <span class="org-lockup">**Yazhou Bay Science and Technology City, Sanya, Hainan FTP**<span class="org-pill org-pill--yazhou">YBZSTC</span></span>
 
 <div style="text-align:right;">
     Jul. 2026 - Aug. 2026
@@ -61,7 +61,7 @@ Sanya, Hainan, China
 
 <br>
 
-&#8194;&#8194; 🌟🌟🌟 Economist Intern at Development Unit, **[UNHCR Jordan](https://www.unhcr.org/jo/)** <span class="org-pill org-pill--unhcr">UNHCR</span>
+&#8194;&#8194; 🌟🌟🌟 Economist Intern at Development Unit, <span class="org-lockup">**[UNHCR Jordan](https://www.unhcr.org/jo/)**<span class="org-pill org-pill--unhcr">UNHCR</span></span>
 
 <div style="text-align:right;">
     Mar. 2025 - Oct. 2025
