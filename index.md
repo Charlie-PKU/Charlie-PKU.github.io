@@ -125,7 +125,7 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 ## News and Updates 📨
 
-- **`<font color='red'>` [Highlight] Struggling for Ph.D. research proposal defense in May. Wish me LUCK! 🤴 `</font>`**
+- **May. 2026:** Passed the Ph.D. thesis proposal defense! 😜
 - **Apr. 2026:** Our paper has been accepted by the [4th JDC Research Conference on Forced Displacement](https://www.jointdatacenter.org/news-and-events/4th-research-conference-on-forced-displacement/), see you in Bangkok! 😍
 - **Mar. 2026:** Our paper has been accepted by the [7th WCERE](https://wcere2026.org/), see you in Carcavelos, Portugal! 👙
 - **Feb. 2026:** Our paper has been accepted by the [29th GTAP annual conference](https://www.gtap.agecon.purdue.edu/events/Conferences/2026/index.aspx), see you in Kyoto! 🤟
