@@ -458,27 +458,21 @@ html[data-private-view="enabled"] .top-navigation .private-nav{display:block;}
 .academic-hero{display:block;padding:0 0 2.35rem;border-bottom:1px solid var(--border-color);}
 .academic-kicker{margin:0 0 0.65rem;font-family:'PT Sans Narrow',sans-serif;font-size:0.9rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:var(--muted-text);}
 .academic-hero h1{margin:0 0 0.65rem;font-size:3rem;line-height:1.02;}
-.academic-subtitle{margin:0 0 0.9rem;font-size:1.28rem;line-height:1.6;color:var(--text-color);}
-.academic-summary{margin:0;max-width:44rem;font-size:1.04rem;line-height:1.85;color:var(--muted-text);}
+.academic-biography-title{margin:0 0 1rem;font-size:1.45rem;line-height:1.15;font-weight:400;color:var(--muted-text);}
+.academic-subtitle{margin:0 0 0.9rem;font-size:1.22rem;line-height:1.72;color:var(--text-color);}
+.academic-summary{margin:0;max-width:44rem;font-size:1.02rem;line-height:1.9;color:var(--muted-text);}
 .academic-meta{display:flex;flex-wrap:wrap;gap:0.75rem 1rem;margin-top:1.25rem;font-size:0.98rem;color:var(--muted-text);}
 .academic-meta span,.academic-meta a{display:inline-flex;align-items:center;}
-.academic-hero__media img{display:block;width:100%;border-radius:24px;border:1px solid var(--border-color);box-shadow:0 18px 42px var(--shadow-color);}
 .academic-section{padding:2.25rem 0;border-bottom:1px solid var(--border-color);}
 .academic-section:last-child{border-bottom:0;padding-bottom:0.5rem;}
-.academic-section__label{margin:0 0 0.35rem;font-family:'PT Sans Narrow',sans-serif;font-size:0.84rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:var(--muted-text);}
-.academic-section__intro h2{margin:0 0 1.3rem;font-size:1.7rem;line-height:1.18;}
-.academic-card-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1.35rem;}
-.academic-card{padding:1.15rem 1.2rem;background:var(--surface-color);border:1px solid var(--border-color);border-radius:18px;box-shadow:0 12px 28px var(--shadow-color);}
-.academic-card h3{margin:0 0 0.75rem;font-size:1.08rem;}
-.academic-card ul{margin:0;padding-left:1.1rem;}
-.academic-card li{margin-bottom:0.5rem;}
-.academic-card li:last-child{margin-bottom:0;}
-.paper-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.9rem 2.2rem;align-items:start;}
-.paper-entry{padding:0;border:0;background:transparent;box-shadow:none;}
-.paper-entry h3{margin:0 0 0.55rem;font-size:1.02rem;line-height:1.24;font-family:'PT Sans Narrow',sans-serif;font-weight:700;letter-spacing:0.01em;}
-.paper-entry p{margin:0;color:var(--muted-text);line-height:1.62;}
-.paper-entry em{font-style:italic;color:var(--text-color);}
-.paper-entry--link{padding-top:0.35rem;}
+.academic-section__intro h2{margin:0 0 1.35rem;font-size:1.75rem;line-height:1.18;font-weight:400;color:var(--heading-color);}
+.paper-collection{display:grid;gap:1.55rem;}
+.paper-record{padding:0 0 1.45rem;border-bottom:1px solid var(--border-color);}
+.paper-record:last-child{border-bottom:0;padding-bottom:0;}
+.paper-record h3{margin:0 0 0.4rem;font-size:1.12rem;line-height:1.4;font-weight:700;}
+.paper-authors{margin:0 0 0.35rem;color:var(--text-color);line-height:1.65;}
+.paper-meta{margin:0;color:var(--muted-text);line-height:1.65;}
+.paper-meta em{font-style:italic;color:var(--text-color);}
 .academic-public-note{margin:1.5rem 0 0;padding:1.35rem 1.4rem;background:var(--surface-color);border:1px solid var(--border-color);border-radius:18px;box-shadow:0 12px 28px var(--shadow-color);}
 .academic-public-note__label{margin:0 0 0.35rem;font-family:'PT Sans Narrow',sans-serif;font-size:0.84rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:var(--muted-text);}
 .academic-public-note h2{margin:0 0 0.7rem;font-size:1.45rem;line-height:1.2;}
