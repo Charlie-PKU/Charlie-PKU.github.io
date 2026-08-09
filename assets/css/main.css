@@ -450,6 +450,18 @@ html[data-private-view="enabled"] .public-only{display:none;}
 .misc-embed-frame iframe{display:block;width:100%;min-height:420px;border:0;background:#fff;}
 .misc-embed-card a{border-bottom:1px dotted var(--border-color);}
 .misc-embed-card a:hover{border-bottom:1px solid var(--link-hover);}
+.org-pill{display:inline-block;margin-left:0.38rem;padding:0.14rem 0.52rem;border-radius:999px;border:1px solid var(--border-color);background:var(--surface-strong);color:var(--heading-color);font-family:'PT Sans Narrow',sans-serif;font-size:0.72em;font-weight:700;letter-spacing:0.06em;line-height:1.2;vertical-align:middle;text-transform:uppercase;}
+.org-pill--unhcr{background:#edf5ff;border-color:#b8d1ee;color:#15508f;}
+.org-pill--thu{background:#fff0f0;border-color:#efc3c3;color:#a13c3c;}
+.org-pill--pku{background:#fff3f3;border-color:#dfb5b5;color:#8b2f46;}
+.org-pill--yazhou{background:#eef8ef;border-color:#c6e0c8;color:#2c6c3f;}
+.org-pill--harvard{background:#fff3f6;border-color:#dfbcc8;color:#8a2841;}
+html[data-theme="dark"] .org-pill{background:#232b34;border-color:rgba(255,255,255,0.16);color:#f1f4f7;}
+html[data-theme="dark"] .org-pill--unhcr{background:#193149;color:#d4e8ff;}
+html[data-theme="dark"] .org-pill--thu{background:#452425;color:#ffd7d7;}
+html[data-theme="dark"] .org-pill--pku{background:#41262e;color:#ffd8df;}
+html[data-theme="dark"] .org-pill--yazhou{background:#1f3427;color:#d8f2dc;}
+html[data-theme="dark"] .org-pill--harvard{background:#42252e;color:#ffd9e1;}
 #main article,#index article,.article-author-top,.article-author-bottom .bio-photo,.toc,.well{background-color:transparent;}
 .article-author-top p,.article-author-bottom p,.byline,.help-block,.help-inline{color:var(--muted-text);}
 .toc header{background:var(--heading-color);}
