@@ -9,7 +9,7 @@ layout: page
 
 Hello! Here is **Chen FANG (Charlie, 房晨)**.
 
-I am a Ph.D. student majoring in **Applied Economics** at Tsinghua University <span class="org-pill org-pill--thu">THU</span>, advised by [Prof. Jing Cao](https://chinaproject.harvard.edu/people/jing-cao). I currently work as a Statistics Assistant (individual contractor) with UNHCR Jordan <span class="org-pill org-pill--unhcr">UNHCR</span>.
+I am a Ph.D. student majoring in **Applied Economics** at <span class="org-lockup">Tsinghua University<span class="org-pill org-pill--thu">THU</span></span>, advised by [Prof. Jing Cao](https://chinaproject.harvard.edu/people/jing-cao). I currently work as a Statistics Assistant (individual contractor) with <span class="org-lockup">UNHCR Jordan<span class="org-pill org-pill--unhcr">UNHCR</span></span>.
 
 I am curious and passionate about public policy and global economic governance, especially climate change, sustainable development, and resilience. I hope to work for an international organization such as the [World Bank](https://www.worldbank.org/en/home) or [Resources for the Future](https://www.rff.org/) to conduct valuable research.
 
@@ -35,7 +35,7 @@ Click [here](https://charlie-pku.github.io/file/CV/CV_Chen.pdf) for my full CV.
 
 ## Academic Background 🎓
 
-&#8194; &#8194; **Sep. 2023 - Jun. 2028 (Expected):** [Tsinghua University (THU)](https://www.tsinghua.edu.cn/) <span class="org-pill org-pill--thu">THU</span>
+&#8194; &#8194; **Sep. 2023 - Jun. 2028 (Expected):** <span class="org-lockup">[Tsinghua University (THU)](https://www.tsinghua.edu.cn/)<span class="org-pill org-pill--thu">THU</span></span>
 
 - [School of Economics and Management (SEM)](https://www.sem.tsinghua.edu.cn/)
 
@@ -46,7 +46,7 @@ Click [here](https://charlie-pku.github.io/file/CV/CV_Chen.pdf) for my full CV.
 
 <br>
 
-**Sep. 2019 - Jun. 2023:** [Peking University (PKU)](https://www.pku.edu.cn/) <span class="org-pill org-pill--pku">PKU</span>
+**Sep. 2019 - Jun. 2023:** <span class="org-lockup">[Peking University (PKU)](https://www.pku.edu.cn/)<span class="org-pill org-pill--pku">PKU</span></span>
 
 - **Major**		[College of Environmental Sciences and Engineering (CESE)](https://cese.pku.edu.cn/)
 
