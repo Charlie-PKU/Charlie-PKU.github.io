@@ -519,8 +519,8 @@ html:not([data-private-view="enabled"]) #main .article-author-top{display:block;
 html:not([data-private-view="enabled"]) #main article{display:block;width:auto;margin:0;float:none;grid-column:2;}
 html:not([data-private-view="enabled"]) #main .article-wrap{max-width:none;}
 html:not([data-private-view="enabled"]) #main .academic-section{margin-left:calc(-1 * (250px + 2.15rem));width:calc(100% + 250px + 2.15rem);}
-html:not([data-private-view="enabled"]) .footer-wrap footer{display:block !important;float:none !important;width:min(1160px,83vw) !important;max-width:none !important;margin:0 auto !important;padding:0 !important;box-sizing:border-box;position:relative;left:calc(-1 * (250px + 1rem));}
-html:not([data-private-view="enabled"]) .footer-wrap footer h6{display:block;width:100%;max-width:none;margin:0;padding:1.35rem 0 0;box-sizing:border-box;text-align:left;}
+html:not([data-private-view="enabled"]) .footer-wrap footer{display:block !important;float:none !important;width:100% !important;max-width:none !important;margin:0 !important;padding:0 !important;box-sizing:border-box;position:static;left:auto;}
+html:not([data-private-view="enabled"]) .footer-wrap footer h6{display:block;width:min(1160px,83vw);max-width:none;margin:0 auto;padding:1.35rem 0 0;box-sizing:border-box;text-align:left;}
 }
 .toc header{background:var(--heading-color);}
 .toc ul{background:var(--surface-strong);}
