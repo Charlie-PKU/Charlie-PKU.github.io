@@ -516,11 +516,17 @@ html:not([data-private-view="enabled"]) .article-author-top{padding-top:0.75rem;
 .academic-home .academic-detail-block li{list-style-type:none;}
 .academic-home .academic-section,.academic-home .academic-paper-list,.academic-home .academic-section__intro{font-family:"Helvetica Neue",Arial,sans-serif;}
 @media only screen and (min-width:62em){
+html[data-private-view="enabled"] #main{display:grid;grid-template-columns:220px minmax(0,1fr);column-gap:2.4rem;align-items:start;width:min(1160px,83vw);margin:1em auto 0;}
+html[data-private-view="enabled"] #main .article-author-top{display:block;width:auto;margin:0;float:none;grid-column:1;}
+html[data-private-view="enabled"] #main article{display:block;width:auto;margin:0;float:none;grid-column:2;}
+html[data-private-view="enabled"] #main .article-wrap{max-width:none;}
 html:not([data-private-view="enabled"]) #main{display:grid;grid-template-columns:250px minmax(0,1fr);column-gap:2.15rem;align-items:start;width:min(1160px,83vw);margin:1em auto 0;}
 html:not([data-private-view="enabled"]) #main .article-author-top{display:block;width:auto;margin:0;float:none;grid-column:1;}
 html:not([data-private-view="enabled"]) #main article{display:block;width:auto;margin:0;float:none;grid-column:2;}
 html:not([data-private-view="enabled"]) #main .article-wrap{max-width:none;}
 html:not([data-private-view="enabled"]) #main .academic-section{margin-left:calc(-1 * (250px + 2.15rem));width:calc(100% + 250px + 2.15rem);}
+html[data-private-view="enabled"] .footer-wrap footer{display:block !important;float:none !important;width:min(1160px,83vw) !important;max-width:none !important;margin:0 auto !important;padding:0 !important;box-sizing:border-box;}
+html[data-private-view="enabled"] .footer-wrap footer h6{display:block;width:100%;max-width:none;margin:0;padding:1.35rem 0 0;box-sizing:border-box;text-align:left;}
 html:not([data-private-view="enabled"]) .footer-wrap footer{display:block !important;float:none !important;width:100% !important;max-width:none !important;margin:0 !important;padding:0 !important;box-sizing:border-box;position:static;left:auto;}
 html:not([data-private-view="enabled"]) .footer-wrap footer h6{display:block;width:min(1160px,83vw);max-width:none;margin:0 auto;padding:1.35rem 0 0;box-sizing:border-box;text-align:left;}
 }
