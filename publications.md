@@ -9,11 +9,11 @@ title: Publication
 
 ## 2026 🎏
 
-&#8194;&#8194; **[1]** **"An Integrated Assessment of Provincial Economic Damages from Climate Change in China"**
+&#8194;&#8194; **[1]** **["An Integrated Assessment of Provincial Economic Damages from Climate Change in China"](https://doi.org/10.1016/j.jenvman.2026.130689)**
 
-*Journal of Environment Management* (forthcoming)
+***Journal of Environmental Management***, 415:130689, 2026
 
-joint with Hantang Peng, [Tianpeng Wang](http://www.3e.tsinghua.edu.cn/cn/article/311), [Da Zhang](http://www.energyda.cn/) and [Xiliang Zhang](http://www.3e.tsinghua.edu.cn/cn/article/slug/news-member-teacher-zsl)
+joint with Hantang Peng, Tianpeng Wang, Yixiong Lu, Yang Qu, Junling Huang, Da Zhang, Xiliang Zhang, and Xiaoye Zhang
 
 **Conference Presentation**: [27th GTAP](https://www.gtap.agecon.purdue.edu/events/Conferences/2024/index.aspx), [3rd CAERE](http://www.caere.org/)
 
