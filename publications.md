@@ -37,11 +37,11 @@ joint work with [Xian Hu](https://www.linkedin.com/in/xian-hu-093b59236), [Jian 
 
 <br>
 
-&#8194;&#8194; **[2]** **["Assessment of the Impact of the EU's Carbon Border Adjustment Mechanism on China in the Context of Global Climate Governance"](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=EugWJzkAAAAJ&citation_for_view=EugWJzkAAAAJ:qjMakFHDy7sC)**
+&#8194;&#8194; **[2]** **["Assessment of the Impact of the EU's Carbon Border Adjustment Mechanism on China in the Context of Global Climate Governance"](https://doi.org/10.1016/j.procs.2025.08.003)**
 
-***Procedia Computer Science***, 266:16-23, 2025 (EI indexed)
+***Procedia Computer Science***, 266:16-23, 2025
 
-joint with Jing Cao, Chen Fang, Bin Wang, Xian Hu, and Shixin Yan
+joint with Jing Cao, Bin Wang, Xian Hu, and Shixin Yan
 
 
 <details>
