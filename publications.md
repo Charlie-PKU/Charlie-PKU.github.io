@@ -35,6 +35,14 @@ joint work with [Xian Hu](https://www.linkedin.com/in/xian-hu-093b59236), [Jian 
 
 [Blog: Racing Ahead or Left Behind: Asia-Pacific's AI Moment](https://www.undp.org/asia-pacific/blog/racing-ahead-or-left-behind-asia-pacifics-ai-moment)
 
+<br>
+
+&#8194;&#8194; **[2]** **["Assessment of the Impact of the EU's Carbon Border Adjustment Mechanism on China in the Context of Global Climate Governance"](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=EugWJzkAAAAJ&citation_for_view=EugWJzkAAAAJ:qjMakFHDy7sC)**
+
+***Procedia Computer Science***, 266:16-23, 2025 (EI indexed)
+
+joint with Jing Cao, Chen Fang, Bin Wang, Xian Hu, and Shixin Yan
+
 
 <details>
   <summary>Abstract ⚓ </summary>
