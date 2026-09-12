@@ -460,9 +460,9 @@ html[data-private-view="enabled"] .top-navigation .private-nav{display:block;}
 .academic-kicker{display:none;}
 .academic-hero h1{margin:0 0 0.85rem;font-family:'PT Sans Narrow',sans-serif;font-size:3rem;line-height:1.02;}
 .academic-subtitle,.academic-summary{font-size:1.08rem;line-height:1.88;color:var(--text-color);text-align:justify;text-justify:inter-word;}
-.academic-subtitle{margin:0 0 1.05rem;}
+.academic-subtitle{margin:0 0 1.5rem;}
 .academic-summary{margin:0;max-width:none;}
-.academic-visit{margin-top:1.05rem;}
+.academic-visit{margin-top:1.5rem;}
 .academic-detail-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.6rem 2rem;margin-top:1.75rem;}
 .academic-detail-grid--single{grid-template-columns:minmax(0,1fr);max-width:none;}
 .academic-detail-block h3{margin:0 0 0.7rem;font-size:1.48rem;font-weight:700;color:var(--heading-color);}
