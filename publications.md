@@ -135,7 +135,7 @@ joint with Jing Cao, Bin Wang, Xian Hu, and Shixin Yan
 
 ## Work in Progress 🚀
 
-- **"Determinants of Syrian Refugees' Return"**
+- **"Who Returns and Who Remains? Economic Constraints, Humanitarian Assistance, and Refugee Return after Syria's Political Transition"**
 
 <!-- (*Based on the Undergraduate Thesis of PKU, Oct. 2022 - Jun. 2023*) -->
 
