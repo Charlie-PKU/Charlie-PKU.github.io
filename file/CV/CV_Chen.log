@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.28)  11 OCT 2026 21:41
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.28)  13 OCT 2026 22:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -639,9 +639,6 @@ Package hyperref Info: Link coloring OFF on input line 15.
 \openout3 = `CV_Chen.out'.
 
 
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -679,7 +676,7 @@ Package hyperref Warning: Rerun to get /PageLabels entry.
 [1
 
 ]
-Overfull \hbox (1.90263pt too wide) in paragraph at lines 100--101
+Overfull \hbox (1.90263pt too wide) in paragraph at lines 106--107
 []\T1/lmr/m/n/10.53937 Conduct vi-su-al-iza-tion and quan-ti-ta-tive anal-y-sis
  of model out-puts, in-clud-ing sec-toral re-lo-ca-tion pat-terns, GDP/emission
 
@@ -688,7 +685,7 @@ Overfull \hbox (1.90263pt too wide) in paragraph at lines 100--101
 [2]
 
 LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <10.53937> not available
-(Font)              size <10.95> substituted on input line 188.
+(Font)              size <10.95> substituted on input line 194.
 
 [3] [4] (./CV_Chen.aux)
  ***********
@@ -704,12 +701,12 @@ Package rerunfilecheck Info: File `CV_Chen.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 17234 strings out of 474761
- 372083 string characters out of 5761074
+ 17232 strings out of 474761
+ 372037 string characters out of 5761074
  1931148 words of memory out of 5000000
- 39180 multiletter control sequences out of 15000+600000
+ 39178 multiletter control sequences out of 15000+600000
  590372 words of font info for 70 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,14n,97p,608b,479s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,14n,97p,608b,481s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on CV_Chen.pdf (4 pages).
