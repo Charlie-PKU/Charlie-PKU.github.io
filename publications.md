@@ -41,7 +41,7 @@ joint work with [Xian Hu](https://www.linkedin.com/in/xian-hu-093b59236), [Jian 
 
 ***Procedia Computer Science***, 266:16-23, 2025
 
-joint with Jing Cao, Bin Wang, Xian Hu, and Shixin Yan
+joint with Jing Cao, Bin Wang, Xian Hu, and Shuxin Yan
 
 
 <details>
