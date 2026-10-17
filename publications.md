@@ -163,7 +163,7 @@ joint with Tingwei Gao and [Yana Jin](http://scholar.pku.edu.cn/yjin)
 
 <br>
 
-- **"From Flameout to Reignition: How Policy Retractions Breed Hesitation and Hinder Revival"**
+- **"Policy Reversals and the Response to Renewed Forest Tenure Reform"**
 
 former circulated with the title of *Forest Autonomy and Forest Carbon Sink Potential: Evidence from Northeast China*.
 
@@ -177,7 +177,7 @@ former circulated with the title of *Forest Autonomy and Forest Carbon Sink Pote
 
 [Updated Slides](https://charlie-pku.github.io/file/forest_Charlie_slides_16_9.pdf) (for CAERE 2024 Annual Meeting) -->
 
-joint with Tingyu Cui and Yushuai Zhang
+joint with Yushuai Zhang and Tingyu Cui
 
 **Conference Presentation**: [3rd CAERE](http://www.caere.org/), [4th CAERE](http://www.caere.org/), [9th CCER SI](https://mp.weixin.qq.com/s/MvKLkn2_G5Y1ARbkDpsEcA)
 
