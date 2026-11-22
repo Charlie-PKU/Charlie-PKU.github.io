@@ -497,6 +497,7 @@ html[data-private-view="enabled"] .top-navigation .private-nav{display:block;}
 .paper-entry__meta{margin:0.38rem 0 0;color:var(--muted-text);line-height:1.68;}
 .paper-venue{font-style:italic;font-weight:700;color:var(--heading-color);}
 .academic-subsection{margin-top:2.45rem;padding-top:1.55rem;border-top:1px solid var(--border-color);}
+.academic-subsection--first{margin-top:0;padding-top:0;border-top:0;}
 .academic-subsection h3{margin:0 0 0.45rem;font-family:'PT Sans Narrow',sans-serif;font-size:1.42rem;line-height:1.15;color:var(--heading-color);}
 .academic-subsection > p{margin:0 0 1.35rem;color:var(--muted-text);line-height:1.65;}
 .academic-experience-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem;}
