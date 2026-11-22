@@ -463,9 +463,9 @@ html[data-private-view="enabled"] .top-navigation .private-nav{display:block;}
 .academic-subtitle{margin:0 0 1.5rem;}
 .academic-summary{margin:0;max-width:none;}
 .academic-visit{margin-top:1.5rem;}
-.academic-fields{margin:1.35rem 0 0;color:var(--muted-text);font-size:1.05rem;line-height:1.7;}
+.academic-fields{margin:1.45rem 0 0;color:var(--muted-text);font-size:1.16rem;line-height:1.78;}
 .academic-fields p{margin:0;}
-.academic-fields p + p{margin-top:0.1rem;}
+.academic-fields p + p{margin-top:0.18rem;}
 .academic-fields span{font-weight:700;color:var(--heading-color);}
 .academic-detail-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.6rem 2rem;margin-top:1.75rem;}
 .academic-detail-grid--single{grid-template-columns:minmax(0,1fr);max-width:none;}
