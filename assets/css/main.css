@@ -441,9 +441,8 @@ html[data-private-view="enabled"] .top-navigation .private-nav{display:block;}
 .public-nav li a,.public-nav li a:visited{display:block;padding:0.34rem 0.78rem;border:1px solid transparent;border-radius:999px;color:var(--heading-color);font-family:'PT Sans Narrow',sans-serif;font-size:0.88rem;font-weight:700;letter-spacing:0.025em;text-decoration:none;}
 .public-nav li:nth-child(1) a{background:rgba(130,182,171,0.18);border-color:rgba(130,182,171,0.58);}
 .public-nav li:nth-child(2) a{background:rgba(231,175,152,0.18);border-color:rgba(231,175,152,0.62);}
-.public-nav li:nth-child(3) a{background:rgba(172,191,208,0.18);border-color:rgba(172,191,208,0.66);}
-.public-nav li:nth-child(4) a{background:rgba(181,102,79,0.12);border-color:rgba(181,102,79,0.5);}
-.public-nav li:nth-child(5) a{background:rgba(172,191,208,0.18);border-color:rgba(172,191,208,0.66);}
+.public-nav li:nth-child(3) a{background:rgba(181,102,79,0.12);border-color:rgba(181,102,79,0.5);}
+.public-nav li:nth-child(4) a{background:rgba(172,191,208,0.18);border-color:rgba(172,191,208,0.66);}
 .public-nav li a:hover,.public-nav li a:focus{border-color:var(--heading-color);color:var(--heading-color);transform:translateY(-1px);}
 .academic-home section[id]{scroll-margin-top:1rem;}
 .public-summary{padding-top:0.25rem;}
