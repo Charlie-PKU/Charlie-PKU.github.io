@@ -475,6 +475,7 @@ html[data-private-view="enabled"] .top-navigation .private-nav{display:block;}
 .academic-fields span{font-weight:700;color:var(--heading-color);}
 .academic-detail-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.6rem 2rem;margin-top:1.75rem;}
 .academic-detail-grid--single{grid-template-columns:minmax(0,1fr);max-width:none;}
+.academic-section--education .academic-detail-grid{margin-top:0;}
 .academic-detail-block h3{margin:0 0 0.7rem;font-size:1.48rem;font-weight:700;color:var(--heading-color);}
 .academic-detail-block ul{margin:0;padding-left:1.15rem;}
 .academic-detail-block li{margin-bottom:0.55rem;line-height:1.75;}
