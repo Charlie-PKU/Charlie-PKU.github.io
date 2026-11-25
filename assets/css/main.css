@@ -629,3 +629,11 @@ blockquote{border-left-color:var(--border-color);}
 @media only screen and (max-width:56em){.academic-detail-grid{grid-template-columns:1fr;}.academic-detail-grid--single .academic-detail-block li{display:block;margin-bottom:1rem;}.education-meta{width:100%;margin-top:0.15rem;text-align:left;}.education-meta > span:first-child{white-space:normal;}.education-period{text-align:right;}}
 @media only screen and (max-width:56em){.academic-experience-grid{grid-template-columns:1fr;}.academic-experience-card + .academic-experience-card{padding-left:0;border-left:0;}.academic-experience-list li{grid-template-columns:1fr;row-gap:0.35rem;}.academic-presentation-list li{display:block;}.academic-presentation-list span{display:block;margin-top:0.25rem;text-align:left;}}
 @media only screen and (max-width:37.49em){.theme-toggle{top:14px;right:14px;padding:0.62rem 0.82rem;font-size:0.76rem;}.private-view-toggle{top:14px;left:14px;right:auto;width:36px;height:36px;padding:0;font-size:0;}.public-nav ul{gap:0.35rem;}.public-nav li a,.public-nav li a:visited{padding:0.26rem 0.55rem;font-size:0.8rem;}.academic-hero h1{font-size:2.35rem;}.academic-subtitle,.academic-summary{font-size:1rem;line-height:1.76;}.paper-entry__title{font-size:1rem;}html:not([data-private-view="enabled"]) .article-author-top .bio-photo{width:170px;height:170px;max-width:170px;}}
+
+/* Quiet public navigation: spaced text links that blend into the page. */
+.public-nav ul{gap:1.35rem;}
+.public-nav li a,.public-nav li a:visited{padding:0.35rem 0.55rem;border-radius:5px;letter-spacing:0.04em;}
+.public-nav li:nth-child(n) a{background:transparent;border-color:transparent;box-shadow:none;}
+.public-nav li a:hover,.public-nav li a:focus{background:rgba(130,182,171,0.10);border-color:transparent;transform:none;}
+.public-nav li a:focus-visible{outline:2px solid var(--heading-color);outline-offset:3px;}
+@media only screen and (max-width:37.49em){.public-nav ul{gap:0.75rem;}.public-nav li a,.public-nav li a:visited{padding:0.3rem 0.4rem;}}
