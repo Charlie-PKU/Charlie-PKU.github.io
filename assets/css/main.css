@@ -540,10 +540,13 @@ html[data-private-view="enabled"] .top-navigation .private-nav{display:block;}
 .academic-policy-list{max-width:none;}
 #policy-data-experience{margin:0;padding:2.9rem 0;border:0;border-bottom:1px solid var(--border-color);border-radius:0;background:transparent;box-shadow:none;}
 #policy-data-experience .academic-section__intro h2::before{background:#b5664f;}
+#policy-data-experience .academic-section__intro > p{max-width:none;}
 #policy-data-experience .academic-experience-list li{padding-top:0.72rem;padding-bottom:0.72rem;border-bottom:0;}
 #policy-data-experience .academic-experience-list li::before{top:1.18rem;}
 #policy-data-experience .academic-experience-list li::before{width:0.32rem;height:0.32rem;border-radius:0;background:var(--text-color);}
 #policy-data-experience .academic-experience-list strong,#policy-data-experience .academic-experience-list span{color:var(--text-color);}
+#policy-data-experience .academic-policy-featured strong{font-size:1.06rem;}
+#policy-data-experience .academic-policy-featured strong a{color:#a95743;border-bottom:1px solid rgba(181,102,79,0.45);}
 #selected-papers .academic-section__intro h2::before{background:#acbfd0;}
 #working-papers .academic-section__intro h2::before{background:#e7af98;}
 #research-in-progress .academic-section__intro h2::before{background:#b2d0bf;}
