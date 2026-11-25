@@ -640,7 +640,7 @@ blockquote{border-left-color:var(--border-color);}
 .public-nav li:nth-child(n) a{background:transparent;border-color:transparent;box-shadow:none;}
 .public-nav li a:hover,.public-nav li a:focus{background:rgba(130,182,171,0.10);border-color:transparent;transform:none;}
 .public-nav li a:focus-visible{outline:2px solid var(--heading-color);outline-offset:3px;}
-html:not([data-private-view="enabled"]) .top-navigation{position:fixed;top:12px;left:50%;display:block;float:none;width:auto;margin:0;padding:0.12rem 0.3rem;background:rgba(252,250,246,0.92);transform:translateX(-50%);z-index:998;}
+html:not([data-private-view="enabled"]) .top-navigation{position:fixed;top:0;left:0;display:block;float:none;width:100%;margin:0;padding:0.58rem 0;background:var(--bg-color);transform:none;z-index:998;}
+html:not([data-private-view="enabled"]) .public-nav ul{justify-content:center;}
 .public-nav li a,.public-nav li a:visited{font-size:0.98rem;}
-html[data-theme="dark"]:not([data-private-view="enabled"]) .top-navigation{background:rgba(17,25,24,0.92);}
 @media only screen and (max-width:37.49em){.public-nav ul{gap:0.75rem;}.public-nav li a,.public-nav li a:visited{padding:0.3rem 0.4rem;}}
