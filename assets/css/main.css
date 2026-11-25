@@ -551,7 +551,7 @@ html[data-private-view="enabled"] .top-navigation .private-nav{display:block;}
 #selected-papers .academic-section__intro h2::before{background:#acbfd0;}
 #working-papers .academic-section__intro h2::before{background:#e7af98;}
 #research-in-progress .academic-section__intro h2::before{background:#b2d0bf;}
-#presentations{margin:0;padding:2.9rem 0;border:0;border-bottom:1px solid var(--border-color);border-radius:0;background:transparent;box-shadow:none;}
+#presentations{margin:0;padding:2.9rem 0;border:0;border-radius:0;background:transparent;box-shadow:none;}
 #presentations .academic-section__intro h2::before{background:#acbfd0;}
 html[data-theme="dark"] .academic-subsection--prephd{border-color:#4d514b;background:transparent;}
 html[data-theme="dark"] .academic-subsection--prephd h3,html[data-theme="dark"] .academic-subsection--prephd .paper-entry__title,html[data-theme="dark"] .academic-subsection--prephd .paper-venue{color:#c3c8c2;}
