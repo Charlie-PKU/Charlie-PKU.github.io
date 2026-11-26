@@ -585,7 +585,7 @@ html[data-private-view="enabled"] .org-pill{display:none !important;}
 html[data-private-view="enabled"] .org-lockup{display:inline !important;gap:0 !important;white-space:normal !important;}
 html:not([data-private-view="enabled"]) .article-author-top p{display:none;}
 html:not([data-private-view="enabled"]) .site-name{display:none;}
-html:not([data-private-view="enabled"]) .article-author-top .bio-photo{display:block;width:230px;height:230px;max-width:230px;margin:0 auto;border-radius:6px;object-fit:cover;}
+html:not([data-private-view="enabled"]) .article-author-top .bio-photo{display:block;width:230px;height:230px;max-width:230px;margin:0.75rem auto 0;border-radius:6px;object-fit:cover;}
 html:not([data-private-view="enabled"]) .article-author-top{padding-top:0.75rem;}
 #main article,#index article,.article-author-top,.article-author-bottom .bio-photo,.toc,.well{background-color:transparent;}
 .article-author-top p,.article-author-bottom p,.byline,.help-block,.help-inline{color:var(--muted-text);}
